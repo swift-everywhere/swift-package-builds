@@ -240,7 +240,7 @@ jobs:
           #- SwiftFiddle/swift-ast-explorer
           - RedMadRobot/input-mask-ios
           - yahoojapan/SwiftyXMLParser
-          - SwiftPackageIndex/SwiftPackageIndex-Server
+          #- SwiftPackageIndex/SwiftPackageIndex-Server
           - dankogai/swift-json
           - pointfreeco/swift-identified-collections
           - shibapm/Komondor
@@ -266,200 +266,200 @@ jobs:
           #- AvdLee/Poes
           - omaralbeik/UserDefaultsStore
           - cemolcay/MusicTheory
-          - vapor/leaf
-          - swhitty/SwiftDraw
-          - apple/swift-homomorphic-encryption
+          #- vapor/leaf
+          #- swhitty/SwiftDraw
+          #- apple/swift-homomorphic-encryption
           - sindresorhus/LaunchAtLogin-Modern
           - Matejkob/swift-spyable
-          - Kitura/Swift-Kuery
+          #- Kitura/Swift-Kuery
           - Carthage/Commandant
           - bignerdranch/Deferred
           - giginet/Crossroad
-          - JohnSundell/Require
-          - vapor-community/HTMLKit
+          #- JohnSundell/Require
+          #- vapor-community/HTMLKit
           - pointfreeco/swift-sharing
-          - apple/swift-nio-ssh
+          #- apple/swift-nio-ssh
           - pointfreeco/swift-issue-reporting
-          - swift-server/swift-service-lifecycle
-          - awslabs/aws-sdk-swift
+          #- swift-server/swift-service-lifecycle
+          #- awslabs/aws-sdk-swift
           - behrang/YamlSwift
-          - kylef/Spectre
-          - swiftlang/swift-tools-support-core
-          - KarthikRIyer/swiftplot
-          - nicklockwood/ShapeScript
-          - a2/swift-shortcuts
-          - SourceDocs/SourceDocs
+          #- kylef/Spectre
+          #- swiftlang/swift-tools-support-core
+          #- KarthikRIyer/swiftplot
+          #- nicklockwood/ShapeScript
+          #- a2/swift-shortcuts
+          #- SourceDocs/SourceDocs
           - jverkoey/BinaryCodable
-          - apple/swift-nio-ssl
+          #- apple/swift-nio-ssl
           - pointfreeco/swift-validated
           - freshOS/Arrow
           - nicklockwood/LRUCache
-          - jakeheis/Ice
-          - orlandos-nl/IkigaJSON
-          - tattn/MoreCodable
-          - devxoul/Pure
-          - rapierorg/telegram-bot-swift
+          #- jakeheis/Ice
+          #- orlandos-nl/IkigaJSON
+          #- tattn/MoreCodable
+          #- devxoul/Pure
+          #- rapierorg/telegram-bot-swift
           - karwa/swift-url
           - roberthein/Observable
-          - brokenhandsio/SteamPress
+          #- brokenhandsio/SteamPress
           - davecom/SwiftPriorityQueue
-          - TootSDK/TootSDK
-          - nicklockwood/VectorMath
-          - tayloraswift/swift-png
+          #- TootSDK/TootSDK
+          #- nicklockwood/VectorMath
+          #- tayloraswift/swift-png
           - pointfreeco/swift-concurrency-extras
-          - GettEngineering/Prism
-          - postmates/PMJSON
-          - pointfreeco/swift-url-routing
+          #- GettEngineering/Prism
+          #- postmates/PMJSON
+          #- pointfreeco/swift-url-routing
           - gonzalezreal/DefaultCodable
-          - apple/swift-collections-benchmark
-          - jkandzi/Progress.swift
+          #- apple/swift-collections-benchmark
+          #- jkandzi/Progress.swift
           - swift-extras/swift-extras-json
-          - apple/example-package-dealer
-          - mongodb/mongo-swift-driver
-          - kiliankoe/swift-outdated
-          - Raureif/WikipediaKit
-          - vapor/postgres-nio
+          #- apple/example-package-dealer
+          #- mongodb/mongo-swift-driver
+          #- kiliankoe/swift-outdated
+          #- Raureif/WikipediaKit
+          #- vapor/postgres-nio
           - ivanvorobei/SPPerspective
           - ChimeHQ/Neon
           - sindresorhus/Regex
-          - ordo-one/package-benchmark
+          #- ordo-one/package-benchmark
           - crossroadlabs/Regex
           - MarkCodable/MarkCodable
-          - vapor/jwt
+          #- vapor/jwt
           - swiftlang/swift-docc-plugin
           - mattmassicotte/Queue
           - apple/example-package-playingcard
-          - khanlou/Meridian
+          #- khanlou/Meridian
           - scottrhoyt/SwiftyTextTable
           - YusukeHosonuma/SwiftPrettyPrint
           - kean/Future
-          - Decybel07/L10n-swift
-          - stackotter/swift-bundler
+          #- Decybel07/L10n-swift
+          #- stackotter/swift-bundler
           - robb/Swim
-          - milend/hmap
+          #- milend/hmap
           - mxcl/Version
           - davidask/StateViewController
-          - parse-community/Parse-Swift
-          - tgrapperon/swift-dependencies-additions
+          #- parse-community/Parse-Swift
+          #- tgrapperon/swift-dependencies-additions
           - devxoul/UICollectionViewFlexLayout
-          - NozeIO/Noze.io
+          #- NozeIO/Noze.io
           - mtynior/ColorizeSwift
           - JohnSundell/Identity
           - raphaelmor/Polyline
-          - liuliu/dflat
-          - SwiftGen/StencilSwiftKit
+          #- liuliu/dflat
+          #- SwiftGen/StencilSwiftKit
           - mpangburn/FunctionKit
           - SwifQL/SwifQL
-          - joshuawright11/papyrus
-          - swift-server/swift-backtrace
+          #- joshuawright11/papyrus
+          #- swift-server/swift-backtrace
           - apple/swift-matter-examples
-          - apple/swift-nio-transport-services
+          #- apple/swift-nio-transport-services
           - SwiftDocOrg/GraphViz
-          - givip/Telegrammer
+          #- givip/Telegrammer
           - mattpolzin/OpenAPIKit
-          - lachlanbell/SwiftOTP
-          - apple/swift-llbuild2
+          #- lachlanbell/SwiftOTP
+          #- apple/swift-llbuild2
           - a2/MessagePack.swift
-          - vapor/websocket-kit
+          #- vapor/websocket-kit
           - dgrzeszczak/KeyedCodable
           - Kolos65/Mockable
           - pointfreeco/swift-gen
           - NSHipster/PasswordRules
-          - pointfreeco/swift-clocks
+          #- pointfreeco/swift-clocks
           - ChimeHQ/SwiftTreeSitter
           - swiftlang/swift-cmark
-          - pointfreeco/swift-macro-testing
-          - kylef/JSONSchema.swift
+          #- pointfreeco/swift-macro-testing
+          #- kylef/JSONSchema.swift
           - dreymonde/NiceNotifications
-          - Peter-Schorn/SpotifyAPI
+          #- Peter-Schorn/SpotifyAPI
           - sindresorhus/Percentage
           - vincentneo/CoreGPX
-          - bow-swift/nef
+          #- bow-swift/nef
           - vadymmarkov/When
-          - RxSwiftCommunity/RxNimble
-          - attaswift/SipHash
-          - amosavian/AMSMB2
-          - Kitura/Swift-SMTP
-          - nschum/SwiftHamcrest
+          #- RxSwiftCommunity/RxNimble
+          #- attaswift/SipHash
+          #- amosavian/AMSMB2
+          #- Kitura/Swift-SMTP
+          #- nschum/SwiftHamcrest
           - objcio/tiny-networking
           - BalestraPatrick/Stryng
-          - orlandos-nl/Citadel
+          #- orlandos-nl/Citadel
           - apple/swift-standard-library-preview
           - Swinject/SwinjectAutoregistration
-          - FluidGroup/JAYSON
-          #- stackotter/swift-macro-toolkit
-          #- Weebly/OrderedSet
-          #- ChimeHQ/ConcurrencyPlus
-          #- vapor/sql-kit
-          #- mkrd/Swift-BigInt
-          #- swiftwasm/WasmKit
-          #- nicklockwood/Tribute
-          #- chicio/ID3TagEditor
-          #- mapbox/turf-swift
-          #- tsolomko/SWCompression
-          #- apple/swift-certificates
-          #- apple/app-store-server-library-swift
-          #- open-telemetry/opentelemetry-swift
-          #- nicklockwood/Consumer
-          #- vapor/mysql-kit
-          #- davedufresne/SwiftParsec
-          #- apple/swift-distributed-tracing
-          #- NSHipster/HypertextLiteral
-          #- nixzhu/Baby
-          #- mxcl/Chalk
-          #- apple/swift-service-discovery
-          #- vapor/fluent-kit
-          #- typelift/Swiftx
-          #- RxSwiftCommunity/RxGRDB
-          #- nerzh/swift-telegram-sdk
-          #- kiliankoe/CLISpinner
-          #- apple/swift-mmio
-          #- SwiftFiddle/swiftfiddle-web
-          #- vapor/jwt-kit
-          #- Kitura/Swift-Kuery-ORM
-          #- Frugghi/SwiftLCS
-          #- ilyapuchka/URLFormat
-          #- apple/swift-nio-extras
-          #- apple/swift-cluster-membership
-          #- giginet/swift-testing-revolutionary
-          #- brightdigit/MistKit
-          #- uraimo/Bitter
-          #- launchdarkly/swift-eventsource
-          #- algolia/algoliasearch-client-swift
-          #- witekbobrowski/EPUBKit
-          #- lukaskubanek/OrderedDictionary
-          #- kylef/URITemplate.swift
-          #- Flight-School/MessagePack
-          #- jph00/BaseMath
-          #- namolnad/Finch
-          #- swift-server-community/mqtt-nio
-          #- mikeger/XcodeSelectiveTesting
-          #- yonaskolb/Genesis
-          #- taketo1024/swm-core
-          #- JohnSundell/Xgen
-          #- vapor/postgres-kit
-          #- kawoou/AnyDate
-          #- appcraftconsulting/buymeacoffee
-          #- Kitura/BlueCryptor
-          #- apple/swift-openapi-runtime
-          #- reddavis/Asynchrone
-          #- devxoul/Carte
-          #- apple/example-package-deckofplayingcards
-          #- mapbox/mapbox-directions-swift
-          #- LiarPrincess/Violet
-          #- sparrowcode/SafeSFSymbols
-          #- mxcl/LegibleError
-          #- envoy/Ambassador
-          #- batoulapps/adhan-swift
-          #- apple/example-package-fisheryates
-          #- PureSwift/Bluetooth
-          #- swiftlang/swift-sdk-generator
-          #- madmachineio/SwiftIO
-          #- sendyhalim/Swime
-          #- Kuniwak/MirrorDiffKit
-          #- swiftlang/swift-docc-symbolkit
-          #- mrackwitz/Version
-          #- Workable/swift-error-handler
+          #- FluidGroup/JAYSON
+          - stackotter/swift-macro-toolkit
+          - Weebly/OrderedSet
+          - ChimeHQ/ConcurrencyPlus
+          - vapor/sql-kit
+          - mkrd/Swift-BigInt
+          - swiftwasm/WasmKit
+          - nicklockwood/Tribute
+          - chicio/ID3TagEditor
+          - mapbox/turf-swift
+          - tsolomko/SWCompression
+          - apple/swift-certificates
+          - apple/app-store-server-library-swift
+          - open-telemetry/opentelemetry-swift
+          - nicklockwood/Consumer
+          - vapor/mysql-kit
+          - davedufresne/SwiftParsec
+          - apple/swift-distributed-tracing
+          - NSHipster/HypertextLiteral
+          - nixzhu/Baby
+          - mxcl/Chalk
+          - apple/swift-service-discovery
+          - vapor/fluent-kit
+          - typelift/Swiftx
+          - RxSwiftCommunity/RxGRDB
+          - nerzh/swift-telegram-sdk
+          - kiliankoe/CLISpinner
+          - apple/swift-mmio
+          - SwiftFiddle/swiftfiddle-web
+          - vapor/jwt-kit
+          - Kitura/Swift-Kuery-ORM
+          - Frugghi/SwiftLCS
+          - ilyapuchka/URLFormat
+          - apple/swift-nio-extras
+          - apple/swift-cluster-membership
+          - giginet/swift-testing-revolutionary
+          - brightdigit/MistKit
+          - uraimo/Bitter
+          - launchdarkly/swift-eventsource
+          - algolia/algoliasearch-client-swift
+          - witekbobrowski/EPUBKit
+          - lukaskubanek/OrderedDictionary
+          - kylef/URITemplate.swift
+          - Flight-School/MessagePack
+          - jph00/BaseMath
+          - namolnad/Finch
+          - swift-server-community/mqtt-nio
+          - mikeger/XcodeSelectiveTesting
+          - yonaskolb/Genesis
+          - taketo1024/swm-core
+          - JohnSundell/Xgen
+          - vapor/postgres-kit
+          - kawoou/AnyDate
+          - appcraftconsulting/buymeacoffee
+          - Kitura/BlueCryptor
+          - apple/swift-openapi-runtime
+          - reddavis/Asynchrone
+          - devxoul/Carte
+          - apple/example-package-deckofplayingcards
+          - mapbox/mapbox-directions-swift
+          - LiarPrincess/Violet
+          - sparrowcode/SafeSFSymbols
+          - mxcl/LegibleError
+          - envoy/Ambassador
+          - batoulapps/adhan-swift
+          - apple/example-package-fisheryates
+          - PureSwift/Bluetooth
+          - swiftlang/swift-sdk-generator
+          - madmachineio/SwiftIO
+          - sendyhalim/Swime
+          - Kuniwak/MirrorDiffKit
+          - swiftlang/swift-docc-symbolkit
+          - mrackwitz/Version
+          - Workable/swift-error-handler
           #- apple/FHIRModels
           #- tevelee/Eval
           #- dfed/swift-async-queue
