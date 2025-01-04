@@ -8,13 +8,23 @@ jobs:
       fail-fast: false
       matrix:
         repo:
-          - apple/swift-algorithms
+          - SwifterSwift/SwifterSwift
+          - mxcl/PromiseKit
+          - antlr/antlr4
+          - realm/SwiftLint
+          - tree-sitter/tree-sitter
+          - google/flatbuffers
+          - facebook/zstd
+          - ReactiveX/RxSwift
+          - vapor/vapor
+          - Alamofire/Alamofire
+
     steps:
       - name: Checkout ${{ matrix.repo }}
         uses: actions/checkout@v4
         with:
           repository: ${{ matrix.repo }}
-      - name: Test ${{ matrix.repo }}
+      - name: Build ${{ matrix.repo }}
         uses: marcprux/swift-android-action@main
         with:
           run-tests: false
