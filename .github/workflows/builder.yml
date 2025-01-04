@@ -1,0 +1,21 @@
+name: swift-android-action ci
+on:
+  workflow_dispatch:
+jobs:
+  demo:
+    runs-on: ubuntu-24.04
+    strategy:
+      fail-fast: false
+      matrix:
+        repo:
+          - apple/swift-algorithms
+    steps:
+      - name: Checkout ${{ matrix.repo }}
+        uses: actions/checkout@v4
+        with:
+          repository: ${{ matrix.repo }}
+      - name: Test ${{ matrix.repo }}
+        uses: marcprux/swift-android-action@main
+        with:
+          run-tests: false
+
