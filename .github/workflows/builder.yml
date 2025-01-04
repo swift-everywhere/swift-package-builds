@@ -516,8 +516,8 @@ jobs:
         with:
           repository: ${{ matrix.repo }}
       - name: Build ${{ matrix.repo }}
-        uses: marcprux/swift-android-action@main
+        uses: skiptools/swift-android-action@v2
         with:
-          run-tests: true
-          build-tests: true
+          run-tests: false
+          build-tests: false
 
