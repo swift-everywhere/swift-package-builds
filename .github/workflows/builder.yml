@@ -266,7 +266,8 @@ jobs:
           - Alamofire/Alamofire
 
     steps:
-      - name: Checkout https://github.com/${{ matrix.repo }}
+      - run: echo Building https://github.com/${{ matrix.repo }}
+      - name: Checkout ${{ matrix.repo }}
         uses: actions/checkout@v4
         with:
           repository: ${{ matrix.repo }}
@@ -274,4 +275,5 @@ jobs:
         uses: marcprux/swift-android-action@main
         with:
           run-tests: false
+          build-tests: false
 
