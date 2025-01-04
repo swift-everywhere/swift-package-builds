@@ -518,6 +518,6 @@ jobs:
       - name: Build ${{ matrix.repo }}
         uses: marcprux/swift-android-action@main
         with:
-          run-tests: false
-          build-tests: false
+          run-tests: true
+          build-tests: true
 
