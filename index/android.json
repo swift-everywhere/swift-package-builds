@@ -111,6 +111,14 @@
     "runid": 12636850547,
     "status": "success"
   },
+  "adam-fowler/swift-web": {
+    "created": "2025-01-06T17:35:02Z",
+    "duration": 21,
+    "modified": "2025-01-06T17:35:02Z",
+    "repo": "https://github.com/adam-fowler/swift-web.git",
+    "runid": 12637148220,
+    "status": "failure"
+  },
   "allegro/swiftbox": {
     "created": "2025-01-06T17:30:30Z",
     "duration": 15,
