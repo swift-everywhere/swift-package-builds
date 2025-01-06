@@ -415,6 +415,14 @@
     "runid": 12636850547,
     "status": "failure"
   },
+  "vapor-community/vapor-aws-lambda-runtime": {
+    "created": "2025-01-06T17:33:42Z",
+    "duration": 32,
+    "modified": "2025-01-06T17:33:42Z",
+    "repo": "https://github.com/vapor-community/vapor-aws-lambda-runtime.git",
+    "runid": 12637148220,
+    "status": "failure"
+  },
   "wolfmcnally/WolfStrings": {
     "created": "2025-01-06T17:30:47Z",
     "duration": 10,
