@@ -865,10 +865,11 @@
   },
   "Quick/swift-fakes": {
     "created": "2025-01-06T20:33:38Z",
-    "duration": 22,
-    "modified": "2025-01-06T20:33:38Z",
+    "duration": 23,
+    "modified": "2025-01-06T21:06:34Z",
     "repo": "https://github.com/Quick/swift-fakes.git",
-    "runid": 12638963153,
+    "runid": 12640312681,
+    "stars": 23,
     "status": "success"
   },
   "QuickBirdEng/XServiceLocator": {
