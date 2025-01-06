@@ -4270,6 +4270,15 @@
     "stars": 279,
     "status": "failure"
   },
+  "pointfreeco/swift-concurrency-extras": {
+    "created": "2025-01-06T22:08:23Z",
+    "duration": 12,
+    "modified": "2025-01-06T22:08:23Z",
+    "repo": "https://github.com/pointfreeco/swift-concurrency-extras.git",
+    "runid": 12640899049,
+    "stars": 365,
+    "status": "success"
+  },
   "pointfreeco/swift-dependencies": {
     "created": "2025-01-06T17:34:40Z",
     "duration": 26,
