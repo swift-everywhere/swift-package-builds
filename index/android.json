@@ -31,6 +31,14 @@
     "runid": 12635750109,
     "status": "failure"
   },
+  "CypherPoet/SwiftUITypographyUtils": {
+    "created": "2025-01-06T16:06:20Z",
+    "duration": 14,
+    "modified": "2025-01-06T16:06:21Z",
+    "repo": "https://github.com/CypherPoet/SwiftUITypographyUtils.git",
+    "runid": 12635750109,
+    "status": "failure"
+  },
   "Eisenhuth/Ospuze": {
     "created": "2025-01-06T15:54:38Z",
     "duration": 8,
