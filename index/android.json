@@ -519,6 +519,14 @@
     "runid": 12638963153,
     "status": "success"
   },
+  "LanfordCai/secp256k1.swift": {
+    "created": "2025-01-06T20:22:43Z",
+    "duration": 3,
+    "modified": "2025-01-06T20:22:43Z",
+    "repo": "https://github.com/LanfordCai/secp256k1.swift.git",
+    "runid": 12638963153,
+    "status": "failure"
+  },
   "LuizZak/JelloSwift": {
     "created": "2025-01-06T20:08:46Z",
     "duration": 8,
