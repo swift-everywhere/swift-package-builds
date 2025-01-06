@@ -2365,6 +2365,15 @@
     "runid": 12638963153,
     "status": "success"
   },
+  "google/flatbuffers": {
+    "created": "2025-01-06T21:34:54Z",
+    "duration": 7,
+    "modified": "2025-01-06T21:34:54Z",
+    "repo": "https://github.com/google/flatbuffers.git",
+    "runid": 12640552194,
+    "stars": 23583,
+    "status": "success"
+  },
   "gor-gyolchanyan-swift/introspection-kit": {
     "created": "2025-01-06T17:40:43Z",
     "duration": 3,
