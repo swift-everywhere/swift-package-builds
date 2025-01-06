@@ -623,6 +623,14 @@
     "runid": 12638963153,
     "status": "failure"
   },
+  "RiftValleySoftware/RVS_ParseXMLDuration": {
+    "created": "2025-01-06T20:20:12Z",
+    "duration": 6,
+    "modified": "2025-01-06T20:20:12Z",
+    "repo": "https://github.com/RiftValleySoftware/RVS_ParseXMLDuration.git",
+    "runid": 12638963153,
+    "status": "success"
+  },
   "SD10/GitDiffSwift": {
     "created": "2025-01-06T20:08:12Z",
     "duration": 6,
