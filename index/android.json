@@ -231,6 +231,14 @@
     "runid": 12635570877,
     "status": "failure"
   },
+  "oozoofrog/SwiftDemangle": {
+    "created": "2025-01-06T16:01:30Z",
+    "duration": 8,
+    "modified": "2025-01-06T16:01:30Z",
+    "repo": "https://github.com/oozoofrog/SwiftDemangle.git",
+    "runid": 12635750109,
+    "status": "failure"
+  },
   "palle-k/DL4S-Tensorboard": {
     "created": "2025-01-06T15:56:14Z",
     "duration": 20,
