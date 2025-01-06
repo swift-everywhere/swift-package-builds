@@ -487,6 +487,14 @@
     "runid": 12637148220,
     "status": "success"
   },
+  "mxcl/LegibleError": {
+    "created": "2025-01-06T17:42:07Z",
+    "duration": 5,
+    "modified": "2025-01-06T17:42:07Z",
+    "repo": "https://github.com/mxcl/LegibleError.git",
+    "runid": 12637148220,
+    "status": "failure"
+  },
   "mxcl/StreamReader": {
     "created": "2025-01-06T17:39:33Z",
     "duration": 7,
