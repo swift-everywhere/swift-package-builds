@@ -456,6 +456,15 @@
     "runid": 12638963153,
     "status": "success"
   },
+  "Frizlab/RecursiveSyncDispatch": {
+    "created": "2025-01-06T21:17:39Z",
+    "duration": 6,
+    "modified": "2025-01-06T21:17:39Z",
+    "repo": "https://github.com/Frizlab/RecursiveSyncDispatch.git",
+    "runid": 12640312681,
+    "stars": 1,
+    "status": "success"
+  },
   "Frizlab/RetryingOperation": {
     "created": "2025-01-06T19:58:39Z",
     "duration": 94,
