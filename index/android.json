@@ -4039,6 +4039,15 @@
     "stars": 12,
     "status": "failure"
   },
+  "google/GoogleAppMeasurement": {
+    "created": "2025-01-06T23:42:41Z",
+    "duration": 3,
+    "modified": "2025-01-06T23:42:41Z",
+    "repo": "https://github.com/google/GoogleAppMeasurement.git",
+    "runid": 12641986754,
+    "stars": 26,
+    "status": "success"
+  },
   "google/flatbuffers": {
     "created": "2025-01-06T21:34:54Z",
     "duration": 7,
