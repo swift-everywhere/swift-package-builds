@@ -1002,6 +1002,15 @@
     "stars": 190,
     "status": "failure"
   },
+  "Kitura/BlueSSLService": {
+    "created": "2025-01-06T22:49:25Z",
+    "duration": 8,
+    "modified": "2025-01-06T22:49:25Z",
+    "repo": "https://github.com/Kitura/BlueSSLService.git",
+    "runid": 12641431024,
+    "stars": 97,
+    "status": "failure"
+  },
   "Kitura/BlueSocket": {
     "created": "2025-01-06T21:19:13Z",
     "duration": 7,
