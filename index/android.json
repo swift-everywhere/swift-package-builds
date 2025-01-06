@@ -3055,6 +3055,15 @@
     "stars": 3,
     "status": "success"
   },
+  "happn-app/officectl-model": {
+    "created": "2025-01-06T22:16:07Z",
+    "duration": 11,
+    "modified": "2025-01-06T22:16:07Z",
+    "repo": "https://github.com/happn-app/officectl-model.git",
+    "runid": 12640899049,
+    "stars": 0,
+    "status": "failure"
+  },
   "hartbit/Yaap": {
     "created": "2025-01-06T20:47:49Z",
     "duration": 7,
