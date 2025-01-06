@@ -2576,6 +2576,15 @@
     "runid": 12637148220,
     "status": "failure"
   },
+  "jhonatn/SwiftTypeFamily": {
+    "created": "2025-01-06T21:28:40Z",
+    "duration": 99,
+    "modified": "2025-01-06T21:28:40Z",
+    "repo": "https://github.com/jhonatn/SwiftTypeFamily.git",
+    "runid": 12640552194,
+    "stars": 1,
+    "status": "success"
+  },
   "jkolb/Swiftish": {
     "created": "2025-01-06T21:14:55Z",
     "duration": 21,
