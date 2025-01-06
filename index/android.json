@@ -143,6 +143,14 @@
     "runid": 12637148220,
     "status": "success"
   },
+  "JuanjoArreola/ShallowPromises": {
+    "created": "2025-01-06T18:08:07Z",
+    "duration": 6,
+    "modified": "2025-01-06T18:08:07Z",
+    "repo": "https://github.com/JuanjoArreola/ShallowPromises.git",
+    "runid": 12637757100,
+    "status": "success"
+  },
   "KittyMac/flynn": {
     "created": "2025-01-06T17:23:49Z",
     "duration": 7,
