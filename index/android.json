@@ -2391,6 +2391,14 @@
     "runid": 12638963153,
     "status": "failure"
   },
+  "vapor/mysql-kit": {
+    "created": "2025-01-06T20:18:51Z",
+    "duration": 93,
+    "modified": "2025-01-06T20:18:52Z",
+    "repo": "https://github.com/vapor/mysql-kit.git",
+    "runid": 12638963153,
+    "status": "failure"
+  },
   "vapor/url-encoded-form": {
     "created": "2025-01-06T19:52:07Z",
     "duration": 5,
