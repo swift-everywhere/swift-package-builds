@@ -5500,6 +5500,15 @@
     "runid": 12637148220,
     "status": "success"
   },
+  "shibapm/PackageConfig": {
+    "created": "2025-01-06T23:04:54Z",
+    "duration": 15,
+    "modified": "2025-01-06T23:04:54Z",
+    "repo": "https://github.com/shibapm/PackageConfig.git",
+    "runid": 12641431024,
+    "stars": 118,
+    "status": "success"
+  },
   "shield-ai-technology/shieldcredit-spm": {
     "created": "2025-01-06T22:01:56Z",
     "duration": 2,
