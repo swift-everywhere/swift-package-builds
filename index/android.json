@@ -3019,6 +3019,15 @@
     "runid": 12638963153,
     "status": "success"
   },
+  "pointfreeco/swift-clocks": {
+    "created": "2025-01-06T21:12:04Z",
+    "duration": 18,
+    "modified": "2025-01-06T21:12:04Z",
+    "repo": "https://github.com/pointfreeco/swift-clocks.git",
+    "runid": 12640312681,
+    "stars": 279,
+    "status": "failure"
+  },
   "pointfreeco/swift-dependencies": {
     "created": "2025-01-06T17:34:40Z",
     "duration": 26,
