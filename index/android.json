@@ -1042,6 +1042,15 @@
     "stars": 9,
     "status": "success"
   },
+  "Kitura/swift-html-entities": {
+    "created": "2025-01-06T22:43:06Z",
+    "duration": 4,
+    "modified": "2025-01-06T22:43:06Z",
+    "repo": "https://github.com/Kitura/swift-html-entities.git",
+    "runid": 12641431024,
+    "stars": 168,
+    "status": "success"
+  },
   "Kolos65/Mockable": {
     "created": "2025-01-06T20:04:54Z",
     "duration": 71,
