@@ -119,6 +119,14 @@
     "runid": 12635750109,
     "status": "failure"
   },
+  "XCEssentials/APIClient": {
+    "created": "2025-01-06T16:03:16Z",
+    "duration": 6,
+    "modified": "2025-01-06T16:03:16Z",
+    "repo": "https://github.com/XCEssentials/APIClient.git",
+    "runid": 12635750109,
+    "status": "failure"
+  },
   "ajevans99/swift-json-schema": {
     "created": "2025-01-06T15:51:15Z",
     "duration": 23,
