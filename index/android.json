@@ -663,6 +663,14 @@
     "runid": 12638963153,
     "status": "success"
   },
+  "Maxim-Lanskoy/SRM": {
+    "created": "2025-01-06T20:45:08Z",
+    "duration": 12,
+    "modified": "2025-01-06T20:45:08Z",
+    "repo": "https://github.com/Maxim-Lanskoy/SRM.git",
+    "runid": 12638963153,
+    "status": "failure"
+  },
   "MihaelIsaev/Localizer": {
     "created": "2025-01-06T20:28:42Z",
     "duration": 7,
