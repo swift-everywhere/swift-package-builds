@@ -2974,6 +2974,15 @@
     "runid": 12638963153,
     "status": "failure"
   },
+  "loopwerk/Saga": {
+    "created": "2025-01-06T21:37:57Z",
+    "duration": 17,
+    "modified": "2025-01-06T21:37:57Z",
+    "repo": "https://github.com/loopwerk/Saga.git",
+    "runid": 12640552194,
+    "stars": 82,
+    "status": "failure"
+  },
   "loopwerk/SagaParsleyMarkdownReader": {
     "created": "2025-01-06T21:18:49Z",
     "duration": 14,
