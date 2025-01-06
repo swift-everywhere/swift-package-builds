@@ -223,6 +223,14 @@
     "runid": 12638963153,
     "status": "failure"
   },
+  "SlaunchaMan/IsNotEmpty": {
+    "created": "2025-01-06T19:35:22Z",
+    "duration": 6,
+    "modified": "2025-01-06T19:35:22Z",
+    "repo": "https://github.com/SlaunchaMan/IsNotEmpty.git",
+    "runid": 12638963153,
+    "status": "success"
+  },
   "SwiftPackageIndex/ReleaseNotes": {
     "created": "2025-01-06T17:12:00Z",
     "duration": 19,
