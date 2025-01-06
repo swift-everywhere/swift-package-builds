@@ -4849,6 +4849,15 @@
     "stars": 0,
     "status": "success"
   },
+  "smumriak/AppKid": {
+    "created": "2025-01-06T22:17:13Z",
+    "duration": 18,
+    "modified": "2025-01-06T22:17:13Z",
+    "repo": "https://github.com/smumriak/AppKid.git",
+    "runid": 12640899049,
+    "stars": 61,
+    "status": "failure"
+  },
   "soffes/HotKey": {
     "created": "2025-01-06T21:56:55Z",
     "duration": 4,
