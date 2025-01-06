@@ -1757,6 +1757,15 @@
     "stars": 14,
     "status": "failure"
   },
+  "PADL/ASN1Codable": {
+    "created": "2025-01-06T23:52:43Z",
+    "duration": 25,
+    "modified": "2025-01-06T23:52:43Z",
+    "repo": "https://github.com/PADL/ASN1Codable.git",
+    "runid": 12641986754,
+    "stars": 4,
+    "status": "success"
+  },
   "PerfectlySoft/Perfect-COpenSSL": {
     "created": "2025-01-06T17:23:41Z",
     "duration": 10,
