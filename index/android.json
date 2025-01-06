@@ -4804,6 +4804,15 @@
     "stars": 10,
     "status": "failure"
   },
+  "neothXT/ListableProperties": {
+    "created": "2025-01-06T23:14:02Z",
+    "duration": 90,
+    "modified": "2025-01-06T23:14:02Z",
+    "repo": "https://github.com/neothXT/ListableProperties.git",
+    "runid": 12641431024,
+    "stars": 0,
+    "status": "success"
+  },
   "nerdsupremacist/ContextKit": {
     "created": "2025-01-06T23:01:04Z",
     "duration": 6,
