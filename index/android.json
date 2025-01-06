@@ -351,6 +351,14 @@
     "runid": 12637148220,
     "status": "success"
   },
+  "duhnnie/SwiftRestClient": {
+    "created": "2025-01-06T17:45:46Z",
+    "duration": 6,
+    "modified": "2025-01-06T17:45:46Z",
+    "repo": "https://github.com/duhnnie/SwiftRestClient.git",
+    "runid": 12637148220,
+    "status": "success"
+  },
   "engali94/XCBuildKit": {
     "created": "2025-01-06T17:38:55Z",
     "duration": 15,
