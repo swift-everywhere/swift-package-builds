@@ -1911,6 +1911,14 @@
     "runid": 12638963153,
     "status": "success"
   },
+  "stackotter/swift-bundler": {
+    "created": "2025-01-06T20:08:04Z",
+    "duration": 52,
+    "modified": "2025-01-06T20:08:04Z",
+    "repo": "https://github.com/stackotter/swift-bundler.git",
+    "runid": 12638963153,
+    "status": "failure"
+  },
   "stefanspringer1/SwiftXMLInterfaces": {
     "created": "2025-01-06T18:06:27Z",
     "duration": 7,
