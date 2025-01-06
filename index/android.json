@@ -2423,6 +2423,15 @@
     "runid": 12638963153,
     "status": "success"
   },
+  "ikhsan/DataStructure": {
+    "created": "2025-01-06T21:25:32Z",
+    "duration": 6,
+    "modified": "2025-01-06T21:25:32Z",
+    "repo": "https://github.com/ikhsan/DataStructure.git",
+    "runid": 12640552194,
+    "stars": 1,
+    "status": "success"
+  },
   "inamiy/RxProperty": {
     "created": "2025-01-06T17:06:51Z",
     "duration": 20,
