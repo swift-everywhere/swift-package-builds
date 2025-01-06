@@ -311,6 +311,14 @@
     "runid": 12637148220,
     "status": "failure"
   },
+  "Hi-Rez/Easings": {
+    "created": "2025-01-06T20:11:05Z",
+    "duration": 15,
+    "modified": "2025-01-06T20:11:05Z",
+    "repo": "https://github.com/Hi-Rez/Easings.git",
+    "runid": 12638963153,
+    "status": "failure"
+  },
   "IndiePitcher/indiepitcher-swift": {
     "created": "2025-01-06T17:28:14Z",
     "duration": 50,
