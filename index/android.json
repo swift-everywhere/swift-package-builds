@@ -823,6 +823,14 @@
     "runid": 12637148220,
     "status": "success"
   },
+  "httpswift/swifter": {
+    "created": "2025-01-06T19:44:39Z",
+    "duration": 10,
+    "modified": "2025-01-06T19:44:39Z",
+    "repo": "https://github.com/httpswift/swifter.git",
+    "runid": 12638963153,
+    "status": "failure"
+  },
   "hummingbird-project/hummingbird-redis": {
     "created": "2025-01-06T19:42:41Z",
     "duration": 27,
