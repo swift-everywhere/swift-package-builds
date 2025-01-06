@@ -1,1 +1,10 @@
-{}
+{
+  "pointfreeco/swift-prelude": {
+    "created": "2025-01-06T16:53:11Z",
+    "duration": 13,
+    "modified": "2025-01-06T16:53:11Z",
+    "repo": "https://github.com/pointfreeco/swift-prelude.git",
+    "runid": 12636663814,
+    "status": "failure"
+  }
+}
