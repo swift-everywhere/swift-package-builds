@@ -887,6 +887,14 @@
     "runid": 12637757100,
     "status": "success"
   },
+  "iamjono/SwiftRandom": {
+    "created": "2025-01-06T19:45:51Z",
+    "duration": 6,
+    "modified": "2025-01-06T19:45:51Z",
+    "repo": "https://github.com/iamjono/SwiftRandom.git",
+    "runid": 12638963153,
+    "status": "failure"
+  },
   "inamiy/RxProperty": {
     "created": "2025-01-06T17:06:51Z",
     "duration": 20,
