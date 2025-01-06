@@ -70,5 +70,13 @@
     "repo": "https://github.com/pointfreeco/swift-navigation.git",
     "runid": 12636850547,
     "status": "success"
+  },
+  "vapor-community/leaf-markdown": {
+    "created": "2025-01-06T17:13:51Z",
+    "duration": 37,
+    "modified": "2025-01-06T17:13:51Z",
+    "repo": "https://github.com/vapor-community/leaf-markdown.git",
+    "runid": 12636850547,
+    "status": "success"
   }
 }
