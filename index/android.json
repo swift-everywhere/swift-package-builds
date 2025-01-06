@@ -2335,6 +2335,15 @@
     "runid": 12637757100,
     "status": "failure"
   },
+  "amzn/openapi-swift-code-generate": {
+    "created": "2025-01-06T23:32:46Z",
+    "duration": 18,
+    "modified": "2025-01-06T23:32:46Z",
+    "repo": "https://github.com/amzn/openapi-swift-code-generate.git",
+    "runid": 12641986754,
+    "stars": 9,
+    "status": "failure"
+  },
   "andybest/linenoise-swift": {
     "created": "2025-01-06T23:27:36Z",
     "duration": 8,
