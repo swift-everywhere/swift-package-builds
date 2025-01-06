@@ -1843,6 +1843,15 @@
     "runid": 12638963153,
     "status": "failure"
   },
+  "SwiftDocOrg/swift-cmark": {
+    "created": "2025-01-06T23:17:33Z",
+    "duration": 2,
+    "modified": "2025-01-06T23:17:33Z",
+    "repo": "https://github.com/SwiftDocOrg/swift-cmark.git",
+    "runid": 12641431024,
+    "stars": 0,
+    "status": "success"
+  },
   "SwiftNIOExtras/swift-nio-redis": {
     "created": "2025-01-06T19:47:20Z",
     "duration": 25,
