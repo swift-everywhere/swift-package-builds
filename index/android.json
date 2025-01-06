@@ -1,4 +1,11 @@
 {
+  "KittyMac/flynn": {
+    "created": "2025-01-06T15:32:41Z",
+    "exitcode": 1,
+    "id": 12635322241,
+    "modified": "2025-01-06T15:32:41Z",
+    "repo": "https://github.com/KittyMac/flynn.git"
+  },
   "LeoNatan/LNPropertyListEditor": {
     "created": "2025-01-06T15:32:34Z",
     "exitcode": 1,
