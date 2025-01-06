@@ -55,6 +55,14 @@
     "runid": 12635570877,
     "status": "failure"
   },
+  "FluidGroup/swift-rubber-banding": {
+    "created": "2025-01-06T16:09:44Z",
+    "duration": 3,
+    "modified": "2025-01-06T16:09:44Z",
+    "repo": "https://github.com/FluidGroup/swift-rubber-banding.git",
+    "runid": 12635750109,
+    "status": "failure"
+  },
   "FuturraGroup/OpenAI": {
     "created": "2025-01-06T15:48:04Z",
     "duration": 7,
