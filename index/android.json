@@ -1087,6 +1087,15 @@
     "stars": 4,
     "status": "success"
   },
+  "Samasaur1/ToothpasteSqueezer": {
+    "created": "2025-01-06T21:25:02Z",
+    "duration": 7,
+    "modified": "2025-01-06T21:25:02Z",
+    "repo": "https://github.com/Samasaur1/ToothpasteSqueezer.git",
+    "runid": 12640552194,
+    "stars": 1,
+    "status": "failure"
+  },
   "ShaneQi/ZEGBot": {
     "created": "2025-01-06T20:44:06Z",
     "duration": 8,
