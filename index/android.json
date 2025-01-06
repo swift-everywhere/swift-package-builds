@@ -2638,6 +2638,15 @@
     "runid": 12638963153,
     "status": "failure"
   },
+  "loopwerk/SagaParsleyMarkdownReader": {
+    "created": "2025-01-06T21:18:49Z",
+    "duration": 14,
+    "modified": "2025-01-06T21:18:49Z",
+    "repo": "https://github.com/loopwerk/SagaParsleyMarkdownReader.git",
+    "runid": 12640312681,
+    "stars": 2,
+    "status": "failure"
+  },
   "lorenalexm/StrapiSwiftCross": {
     "created": "2025-01-06T17:34:14Z",
     "duration": 18,
