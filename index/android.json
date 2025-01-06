@@ -5717,6 +5717,15 @@
     "runid": 12638963153,
     "status": "failure"
   },
+  "sammy-SC/GPX": {
+    "created": "2025-01-06T23:19:16Z",
+    "duration": 6,
+    "modified": "2025-01-06T23:19:16Z",
+    "repo": "https://github.com/sammy-SC/GPX.git",
+    "runid": 12641986754,
+    "stars": 1,
+    "status": "success"
+  },
   "sbooth/JulianDayNumber": {
     "created": "2025-01-06T20:03:04Z",
     "duration": 7,
