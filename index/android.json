@@ -2523,10 +2523,11 @@
   },
   "chojnac/NotionSwift": {
     "created": "2025-01-06T17:43:50Z",
-    "duration": 8,
-    "modified": "2025-01-06T17:43:50Z",
+    "duration": 9,
+    "modified": "2025-01-06T23:00:57Z",
     "repo": "https://github.com/chojnac/NotionSwift.git",
-    "runid": 12637148220,
+    "runid": 12641431024,
+    "stars": 139,
     "status": "success"
   },
   "christiankm/FinanceKit": {
