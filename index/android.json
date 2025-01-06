@@ -2799,6 +2799,14 @@
     "runid": 12637148220,
     "status": "success"
   },
+  "pointfreeco/swift-case-paths": {
+    "created": "2025-01-06T20:55:27Z",
+    "duration": 77,
+    "modified": "2025-01-06T20:55:27Z",
+    "repo": "https://github.com/pointfreeco/swift-case-paths.git",
+    "runid": 12638963153,
+    "status": "success"
+  },
   "pointfreeco/swift-dependencies": {
     "created": "2025-01-06T17:34:40Z",
     "duration": 26,
