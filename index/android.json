@@ -266,10 +266,11 @@
   },
   "BinaryBirds/Sunlight": {
     "created": "2025-01-06T19:57:04Z",
-    "duration": 7,
-    "modified": "2025-01-06T19:57:04Z",
+    "duration": 6,
+    "modified": "2025-01-06T22:00:52Z",
     "repo": "https://github.com/BinaryBirds/Sunlight.git",
-    "runid": 12638963153,
+    "runid": 12640899049,
+    "stars": 28,
     "status": "failure"
   },
   "BinaryBirds/swift-http": {
