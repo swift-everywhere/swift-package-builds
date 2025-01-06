@@ -15,6 +15,14 @@
     "runid": 12636850547,
     "status": "success"
   },
+  "inamiy/RxProperty": {
+    "created": "2025-01-06T17:06:51Z",
+    "duration": 20,
+    "modified": "2025-01-06T17:06:51Z",
+    "repo": "https://github.com/inamiy/RxProperty.git",
+    "runid": 12636850547,
+    "status": "failure"
+  },
   "twof/VaporCRUDRouter": {
     "created": "2025-01-06T17:06:30Z",
     "duration": 30,
