@@ -6559,6 +6559,15 @@
     "stars": 8,
     "status": "failure"
   },
+  "vapor-community/sendgrid": {
+    "created": "2025-01-06T23:16:48Z",
+    "duration": 28,
+    "modified": "2025-01-06T23:16:48Z",
+    "repo": "https://github.com/vapor-community/sendgrid.git",
+    "runid": 12641431024,
+    "stars": 76,
+    "status": "failure"
+  },
   "vapor-community/sendgrid-kit": {
     "created": "2025-01-06T22:44:14Z",
     "duration": 12,
