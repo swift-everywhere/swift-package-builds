@@ -15,6 +15,14 @@
     "runid": 12636850547,
     "status": "success"
   },
+  "twof/VaporCRUDRouter": {
+    "created": "2025-01-06T17:06:30Z",
+    "duration": 30,
+    "modified": "2025-01-06T17:06:30Z",
+    "repo": "https://github.com/twof/VaporCRUDRouter.git",
+    "runid": 12636850547,
+    "status": "failure"
+  },
   "yukiny0811/SwiftyHTMLBuilder": {
     "created": "2025-01-06T17:05:49Z",
     "duration": 13,
