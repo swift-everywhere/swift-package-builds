@@ -3785,6 +3785,15 @@
     "stars": 62,
     "status": "success"
   },
+  "paulsamuels/MaestroDSL": {
+    "created": "2025-01-06T21:54:07Z",
+    "duration": 17,
+    "modified": "2025-01-06T21:54:08Z",
+    "repo": "https://github.com/paulsamuels/MaestroDSL.git",
+    "runid": 12640899049,
+    "stars": 3,
+    "status": "failure"
+  },
   "pelagornis/plcommand": {
     "created": "2025-01-06T21:06:56Z",
     "duration": 13,
