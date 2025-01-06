@@ -3055,6 +3055,15 @@
     "stars": 1,
     "status": "failure"
   },
+  "getditto/DittoSwiftPackage": {
+    "created": "2025-01-06T22:39:37Z",
+    "duration": 14,
+    "modified": "2025-01-06T22:39:37Z",
+    "repo": "https://github.com/getditto/DittoSwiftPackage.git",
+    "runid": 12641431024,
+    "stars": 11,
+    "status": "success"
+  },
   "getsentry/sentry-cocoa": {
     "created": "2025-01-06T20:02:56Z",
     "duration": 11,
