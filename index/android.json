@@ -3129,6 +3129,15 @@
     "stars": 92,
     "status": "success"
   },
+  "drewag/Swiftlier": {
+    "created": "2025-01-06T23:19:34Z",
+    "duration": 9,
+    "modified": "2025-01-06T23:19:34Z",
+    "repo": "https://github.com/drewag/Swiftlier.git",
+    "runid": 12641986754,
+    "stars": 36,
+    "status": "failure"
+  },
   "drewag/SwiftlierCLI": {
     "created": "2025-01-06T22:02:52Z",
     "duration": 13,
