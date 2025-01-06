@@ -2003,6 +2003,15 @@
     "runid": 12638963153,
     "status": "success"
   },
+  "Sherlouk/meilisearch-vapor": {
+    "created": "2025-01-06T23:43:30Z",
+    "duration": 29,
+    "modified": "2025-01-06T23:43:30Z",
+    "repo": "https://github.com/Sherlouk/meilisearch-vapor.git",
+    "runid": 12641986754,
+    "stars": 0,
+    "status": "failure"
+  },
   "ShivaHuang/swift-log-SwiftyBeaver": {
     "created": "2025-01-06T19:35:54Z",
     "duration": 8,
