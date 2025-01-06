@@ -48,7 +48,7 @@ jobs:
             echo "Building: ${REPO} (https://swiftpackageindex.com/${DIR})"
             mkdir -p logs/"${DIR}"
 
-            (git clone --depth=1 "${REPO}" repositories/"${DIR}" && ${{ steps.setup-toolchain.outputs.swift-build }} -c debug --package-path repositories/"${DIR}") | tee logs/"${DIR}"/buildlog.txt && echo EXITCODE=$? || EXITCODE=$?
+            (git clone --depth=1 "${REPO}" repositories/"${DIR}" && ${{ steps.setup-toolchain.outputs.swift-build }} -c debug --package-path repositories/"${DIR}") | tee logs/"${DIR}"/buildlog.txt && echo EXITCODE=0 || EXITCODE=$?
 
             if [ $EXITCODE == 0 ]; then
               echo "SUCCESS: ${REPO}"
@@ -63,11 +63,11 @@ jobs:
             jq --arg DIR "${DIR}" --arg REPO "${REPO}" '.[$DIR] |= if . == null then {"repo": $REPO, "created": (now | todate)} else . end' ${INDEX} > ${INDEX}.new && mv ${INDEX}.new ${INDEX}
 
             # update the status of the build
-            jq --arg DIR "$DIR" --arg EXITCODE "$EXITCODE" '.[$DIR]."exitcode" = $EXITCODE' $INDEX > $INDEX.new && mv $INDEX.new $INDEX
+            jq --arg DIR "$DIR" --arg EXITCODE "$EXITCODE" '.[$DIR]."exitcode" = ($EXITCODE | tonumber)' $INDEX > $INDEX.new && mv $INDEX.new $INDEX
             # set the build time
             jq --arg DIR "$DIR" --arg REPO "$REPO" '.[$DIR]."modified" = (now | todate)' $INDEX > $INDEX.new && mv $INDEX.new $INDEX
             # save the runid for future use
-            jq --arg DIR "$DIR" --arg RUNID "${{ github.run_id }}" '.[$DIR]."id" = $RUNID' $INDEX > $INDEX.new && mv $INDEX.new $INDEX
+            jq --arg DIR "$DIR" --arg RUNID "${{ github.run_id }}" '.[$DIR]."id" = ($RUNID | tonumber)' $INDEX > $INDEX.new && mv $INDEX.new $INDEX
 
             # we could compact the JSON, but it is nice to be able to
             # see the line-by-line commit history when a package
