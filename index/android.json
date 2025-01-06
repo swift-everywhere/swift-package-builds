@@ -87,6 +87,14 @@
     "repo": "https://github.com/shotastage/Fileable.swift.git",
     "status": ""
   },
+  "tomquist/reversejson": {
+    "created": "2025-01-06T15:41:10Z",
+    "duration": 12,
+    "id": 12635442628,
+    "modified": "2025-01-06T15:41:10Z",
+    "repo": "https://github.com/tomquist/reversejson.git",
+    "status": ""
+  },
   "yazio/ReadabilityModifier": {
     "created": "2025-01-06T15:39:09Z",
     "duration": 17,
