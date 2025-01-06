@@ -2038,6 +2038,15 @@
     "runid": 12638963153,
     "status": "failure"
   },
+  "astzweig/swift-digits": {
+    "created": "2025-01-06T22:39:41Z",
+    "duration": 3,
+    "modified": "2025-01-06T22:39:41Z",
+    "repo": "https://github.com/astzweig/swift-digits.git",
+    "runid": 12641431024,
+    "stars": 1,
+    "status": "success"
+  },
   "attaswift/BigInt": {
     "created": "2025-01-06T20:57:11Z",
     "duration": 7,
