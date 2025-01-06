@@ -5323,6 +5323,15 @@
     "runid": 12638963153,
     "status": "success"
   },
+  "typelift/Swiftz": {
+    "created": "2025-01-06T22:15:48Z",
+    "duration": 10,
+    "modified": "2025-01-06T22:15:48Z",
+    "repo": "https://github.com/typelift/Swiftz.git",
+    "runid": 12640899049,
+    "stars": 3332,
+    "status": "failure"
+  },
   "uraimo/RCWL-0516-Radar.swift": {
     "created": "2025-01-06T19:56:08Z",
     "duration": 8,
