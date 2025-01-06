@@ -3054,6 +3054,15 @@
     "runid": 12638963153,
     "status": "failure"
   },
+  "request-dl/request-dl-nio": {
+    "created": "2025-01-06T21:10:25Z",
+    "duration": 26,
+    "modified": "2025-01-06T21:10:25Z",
+    "repo": "https://github.com/request-dl/request-dl-nio.git",
+    "runid": 12640312681,
+    "stars": 90,
+    "status": "failure"
+  },
   "richardpiazza/LocaleSupport": {
     "created": "2025-01-06T19:46:38Z",
     "duration": 6,
