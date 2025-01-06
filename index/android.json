@@ -223,6 +223,14 @@
     "runid": 12635570877,
     "status": "failure"
   },
+  "palle-k/DL4S-Tensorboard": {
+    "created": "2025-01-06T15:56:14Z",
+    "duration": 20,
+    "modified": "2025-01-06T15:56:14Z",
+    "repo": "https://github.com/palle-k/DL4S-Tensorboard.git",
+    "runid": 12635570877,
+    "status": "failure"
+  },
   "pmacro/AITranslate": {
     "created": "2025-01-06T15:55:45Z",
     "duration": 13,
