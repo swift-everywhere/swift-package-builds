@@ -1815,6 +1815,14 @@
     "runid": 12637757100,
     "status": "failure"
   },
+  "swift-calendar/icalendarkit": {
+    "created": "2025-01-06T20:03:23Z",
+    "duration": 9,
+    "modified": "2025-01-06T20:03:23Z",
+    "repo": "https://github.com/swift-calendar/icalendarkit.git",
+    "runid": 12638963153,
+    "status": "success"
+  },
   "swift-cloud/swift-cloud": {
     "created": "2025-01-06T19:55:39Z",
     "duration": 46,
