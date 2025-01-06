@@ -3381,9 +3381,10 @@
   "facebook/zstd": {
     "created": "2025-01-06T17:41:39Z",
     "duration": 4,
-    "modified": "2025-01-06T17:41:39Z",
+    "modified": "2025-01-06T23:23:42Z",
     "repo": "https://github.com/facebook/zstd.git",
-    "runid": 12637148220,
+    "runid": 12641986754,
+    "stars": 24076,
     "status": "success"
   },
   "favret/PoutouPush": {
