@@ -6,5 +6,13 @@
     "repo": "https://github.com/ioskrew/SwiftLayout.git",
     "runid": 12635570877,
     "status": "failure"
+  },
+  "mikwat/mailerlite-swift": {
+    "created": "2025-01-06T15:47:00Z",
+    "duration": 6,
+    "modified": "2025-01-06T15:47:00Z",
+    "repo": "https://github.com/mikwat/mailerlite-swift.git",
+    "runid": 12635570877,
+    "status": "failure"
   }
 }
