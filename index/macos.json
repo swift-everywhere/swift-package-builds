@@ -15,6 +15,14 @@
     "runid": 12636663814,
     "status": "success"
   },
+  "Nef10/SwiftBeanCountParser": {
+    "created": "2025-01-06T16:53:56Z",
+    "duration": 6,
+    "modified": "2025-01-06T16:53:56Z",
+    "repo": "https://github.com/Nef10/SwiftBeanCountParser.git",
+    "runid": 12636663814,
+    "status": "success"
+  },
   "Nef10/SwiftBeanCountTangerineMapper": {
     "created": "2025-01-06T16:52:42Z",
     "duration": 14,
