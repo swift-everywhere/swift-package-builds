@@ -2685,6 +2685,15 @@
     "runid": 12637148220,
     "status": "failure"
   },
+  "fwcd/swift-utils": {
+    "created": "2025-01-06T22:03:40Z",
+    "duration": 15,
+    "modified": "2025-01-06T22:03:40Z",
+    "repo": "https://github.com/fwcd/swift-utils.git",
+    "runid": 12640899049,
+    "stars": 12,
+    "status": "failure"
+  },
   "g-mark/NullCodable": {
     "created": "2025-01-06T19:35:29Z",
     "duration": 5,
