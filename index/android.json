@@ -7,6 +7,14 @@
     "runid": 12635570877,
     "status": "failure"
   },
+  "Cay-Zhang/SwiftSpeech": {
+    "created": "2025-01-06T15:51:24Z",
+    "duration": 7,
+    "modified": "2025-01-06T15:51:24Z",
+    "repo": "https://github.com/Cay-Zhang/SwiftSpeech.git",
+    "runid": 12635570877,
+    "status": "failure"
+  },
   "FuturraGroup/OpenAI": {
     "created": "2025-01-06T15:48:04Z",
     "duration": 7,
