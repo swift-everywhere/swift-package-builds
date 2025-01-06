@@ -79,6 +79,14 @@
     "runid": 12635570877,
     "status": "failure"
   },
+  "SwiftPackageIndex/CanonicalPackageURL": {
+    "created": "2025-01-06T15:54:56Z",
+    "duration": 18,
+    "modified": "2025-01-06T15:54:56Z",
+    "repo": "https://github.com/SwiftPackageIndex/CanonicalPackageURL.git",
+    "runid": 12635570877,
+    "status": "failure"
+  },
   "ajevans99/swift-json-schema": {
     "created": "2025-01-06T15:51:15Z",
     "duration": 23,
