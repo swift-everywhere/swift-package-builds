@@ -5342,6 +5342,15 @@
     "stars": 26,
     "status": "success"
   },
+  "sushichop/Puppy": {
+    "created": "2025-01-06T22:49:55Z",
+    "duration": 4,
+    "modified": "2025-01-06T22:49:55Z",
+    "repo": "https://github.com/sushichop/Puppy.git",
+    "runid": 12641431024,
+    "stars": 161,
+    "status": "failure"
+  },
   "sweetclimusic/MyLibrary": {
     "created": "2025-01-06T17:43:41Z",
     "duration": 3,
