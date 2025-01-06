@@ -223,6 +223,14 @@
     "runid": 12638963153,
     "status": "success"
   },
+  "Ether-CLI/Manifest": {
+    "created": "2025-01-06T20:10:13Z",
+    "duration": 9,
+    "modified": "2025-01-06T20:10:13Z",
+    "repo": "https://github.com/Ether-CLI/Manifest.git",
+    "runid": 12638963153,
+    "status": "success"
+  },
   "FitnessKit/TcxDataProtocol": {
     "created": "2025-01-06T17:45:35Z",
     "duration": 10,
