@@ -1450,6 +1450,15 @@
     "runid": 12637148220,
     "status": "failure"
   },
+  "SwiftWebResources/HighlightJS-Swift": {
+    "created": "2025-01-06T21:59:07Z",
+    "duration": 1,
+    "modified": "2025-01-06T21:59:07Z",
+    "repo": "https://github.com/SwiftWebResources/HighlightJS-Swift.git",
+    "runid": 12640899049,
+    "stars": 2,
+    "status": "failure"
+  },
   "SwiftyLab/DynamicCodableKit": {
     "created": "2025-01-06T19:59:50Z",
     "duration": 20,
