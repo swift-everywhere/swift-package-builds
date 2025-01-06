@@ -295,6 +295,14 @@
     "runid": 12635570877,
     "status": "failure"
   },
+  "dodobrands/DBXCResultParser-Sonar": {
+    "created": "2025-01-06T16:14:20Z",
+    "duration": 24,
+    "modified": "2025-01-06T16:14:20Z",
+    "repo": "https://github.com/dodobrands/DBXCResultParser-Sonar.git",
+    "runid": 12635750109,
+    "status": "failure"
+  },
   "edonv/SwiftUIColorConstants": {
     "created": "2025-01-06T16:06:24Z",
     "duration": 3,
