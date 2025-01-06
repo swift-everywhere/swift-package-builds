@@ -191,6 +191,14 @@
     "runid": 12636850547,
     "status": "success"
   },
+  "t-ae/xorswift": {
+    "created": "2025-01-06T17:24:06Z",
+    "duration": 7,
+    "modified": "2025-01-06T17:24:06Z",
+    "repo": "https://github.com/t-ae/xorswift.git",
+    "runid": 12637148220,
+    "status": "failure"
+  },
   "tugcanonbas/authomatek": {
     "created": "2025-01-06T17:07:40Z",
     "duration": 41,
