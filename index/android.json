@@ -383,6 +383,14 @@
     "runid": 12636850547,
     "status": "failure"
   },
+  "ml-archive/slugify": {
+    "created": "2025-01-06T17:39:09Z",
+    "duration": 6,
+    "modified": "2025-01-06T17:39:09Z",
+    "repo": "https://github.com/ml-archive/slugify.git",
+    "runid": 12637148220,
+    "status": "success"
+  },
   "nixzhu/Baby": {
     "created": "2025-01-06T17:35:10Z",
     "duration": 7,
