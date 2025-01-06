@@ -351,6 +351,14 @@
     "runid": 12635570877,
     "status": "failure"
   },
+  "vapor/console-kit": {
+    "created": "2025-01-06T16:03:28Z",
+    "duration": 11,
+    "modified": "2025-01-06T16:03:28Z",
+    "repo": "https://github.com/vapor/console-kit.git",
+    "runid": 12635750109,
+    "status": "failure"
+  },
   "vapor/mysql-kit": {
     "created": "2025-01-06T15:50:45Z",
     "duration": 93,
