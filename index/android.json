@@ -583,6 +583,14 @@
     "runid": 12637148220,
     "status": "success"
   },
+  "khanlou/SchemaSwift": {
+    "created": "2025-01-06T18:05:16Z",
+    "duration": 12,
+    "modified": "2025-01-06T18:05:16Z",
+    "repo": "https://github.com/khanlou/SchemaSwift.git",
+    "runid": 12637757100,
+    "status": "failure"
+  },
   "kiliankoe/swift-outdated": {
     "created": "2025-01-06T17:09:52Z",
     "duration": 13,
