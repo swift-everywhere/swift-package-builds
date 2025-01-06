@@ -729,9 +729,10 @@
   "KittyMac/flynn": {
     "created": "2025-01-06T17:23:49Z",
     "duration": 6,
-    "modified": "2025-01-06T19:41:44Z",
+    "modified": "2025-01-06T21:39:20Z",
     "repo": "https://github.com/KittyMac/flynn.git",
-    "runid": 12638963153,
+    "runid": 12640552194,
+    "stars": 33,
     "status": "failure"
   },
   "Kitura/BlueSocket": {
