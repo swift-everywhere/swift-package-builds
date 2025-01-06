@@ -495,6 +495,14 @@
     "runid": 12638963153,
     "status": "failure"
   },
+  "Kitura/Kitura-Cache": {
+    "created": "2025-01-06T20:25:17Z",
+    "duration": 6,
+    "modified": "2025-01-06T20:25:17Z",
+    "repo": "https://github.com/Kitura/Kitura-Cache.git",
+    "runid": 12638963153,
+    "status": "success"
+  },
   "Kolos65/Mockable": {
     "created": "2025-01-06T20:04:54Z",
     "duration": 73,
