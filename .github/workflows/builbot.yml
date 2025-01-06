@@ -55,8 +55,10 @@ jobs:
 
             if [ $EXITCODE == 0 ]; then
               echo "SUCCESS: ${REPO} in ${DURATION}"
+              STATUS="success"
             else
               echo "FAILED: ${REPO} ($EXITCODE) in ${DURATION}"
+              STATUS="failure"
             fi
 
             # clean out the repository after building
@@ -69,8 +71,8 @@ jobs:
             jq --arg DIR "$DIR" --arg STATUS "$STATUS" '.[$DIR]."status" = $STATUS' $INDEX > $INDEX.new && mv $INDEX.new $INDEX
             # set the build time
             jq --arg DIR "$DIR" --arg REPO "$REPO" '.[$DIR]."modified" = (now | todate)' $INDEX > $INDEX.new && mv $INDEX.new $INDEX
-            # save the runid for future use
-            jq --arg DIR "$DIR" --arg RUNID "${{ github.run_id }}" '.[$DIR]."id" = ($RUNID | tonumber)' $INDEX > $INDEX.new && mv $INDEX.new $INDEX
+            # save the runid to refer to build logs
+            jq --arg DIR "$DIR" --arg RUNID "${{ github.run_id }}" '.[$DIR]."runid" = ($RUNID | tonumber)' $INDEX > $INDEX.new && mv $INDEX.new $INDEX
             # save the build duration
             jq --arg DIR "$DIR" --arg DURATION "$DURATION" '.[$DIR]."duration" = ($DURATION | tonumber)' $INDEX > $INDEX.new && mv $INDEX.new $INDEX
 
@@ -92,7 +94,7 @@ jobs:
             git config user.password "${{ secrets.GITHUB_TOKEN }}"
 
             git add $(basename $INDEX)
-            git commit -m "Build $REPO: $STATUS" .
+            git commit -m "Build $STATUS for $REPO" .
             git push
             cd -
           done
