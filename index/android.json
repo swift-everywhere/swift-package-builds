@@ -111,6 +111,14 @@
     "runid": 12637148220,
     "status": "success"
   },
+  "Fleuronic/Cubby": {
+    "created": "2025-01-06T19:38:16Z",
+    "duration": 16,
+    "modified": "2025-01-06T19:38:16Z",
+    "repo": "https://github.com/Fleuronic/Cubby.git",
+    "runid": 12638963153,
+    "status": "failure"
+  },
   "Gerzer/LogicParser": {
     "created": "2025-01-06T17:39:50Z",
     "duration": 9,
