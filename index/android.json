@@ -263,6 +263,14 @@
     "runid": 12635750109,
     "status": "failure"
   },
+  "dagronf/AppKitFocusOverlay": {
+    "created": "2025-01-06T16:09:53Z",
+    "duration": 8,
+    "modified": "2025-01-06T16:09:53Z",
+    "repo": "https://github.com/dagronf/AppKitFocusOverlay.git",
+    "runid": 12635750109,
+    "status": "failure"
+  },
   "delicious-ai/HungarianAlgorithm": {
     "created": "2025-01-06T15:54:02Z",
     "duration": 12,
