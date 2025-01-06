@@ -639,6 +639,15 @@
     "stars": 68,
     "status": "success"
   },
+  "Flight-School/SwiftAntlr4": {
+    "created": "2025-01-06T22:37:22Z",
+    "duration": 33,
+    "modified": "2025-01-06T22:37:22Z",
+    "repo": "https://github.com/Flight-School/SwiftAntlr4.git",
+    "runid": 12641431024,
+    "stars": 3,
+    "status": "success"
+  },
   "FlineDev/FreemiumKit": {
     "created": "2025-01-06T19:43:41Z",
     "duration": 7,
