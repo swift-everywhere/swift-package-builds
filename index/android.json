@@ -2892,6 +2892,15 @@
     "runid": 12638963153,
     "status": "failure"
   },
+  "oliverbrehm/SwiftIntelHex": {
+    "created": "2025-01-06T21:14:24Z",
+    "duration": 6,
+    "modified": "2025-01-06T21:14:24Z",
+    "repo": "https://github.com/oliverbrehm/SwiftIntelHex.git",
+    "runid": 12640312681,
+    "stars": 3,
+    "status": "success"
+  },
   "omaralbeik/Stores": {
     "created": "2025-01-06T19:35:38Z",
     "duration": 8,
