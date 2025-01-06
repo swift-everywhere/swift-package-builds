@@ -201,10 +201,10 @@
   },
   "IndiePitcher/indiepitcher-swift": {
     "created": "2025-01-06T17:28:14Z",
-    "duration": 52,
-    "modified": "2025-01-06T17:28:14Z",
+    "duration": 50,
+    "modified": "2025-01-06T19:51:07Z",
     "repo": "https://github.com/IndiePitcher/indiepitcher-swift.git",
-    "runid": 12637148220,
+    "runid": 12638963153,
     "status": "failure"
   },
   "JohnSundell/Sweep": {
