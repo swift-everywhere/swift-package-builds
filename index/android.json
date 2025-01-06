@@ -2162,6 +2162,15 @@
     "stars": 6,
     "status": "success"
   },
+  "a2/swift-shortcuts": {
+    "created": "2025-01-06T23:28:40Z",
+    "duration": 9,
+    "modified": "2025-01-06T23:28:40Z",
+    "repo": "https://github.com/a2/swift-shortcuts.git",
+    "runid": 12641986754,
+    "stars": 394,
+    "status": "failure"
+  },
   "aaronsky/buildkite-swift": {
     "created": "2025-01-06T23:25:35Z",
     "duration": 23,
