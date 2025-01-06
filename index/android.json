@@ -89,6 +89,15 @@
     "stars": 28,
     "status": "failure"
   },
+  "ABridoux/scout": {
+    "created": "2025-01-06T22:00:00Z",
+    "duration": 24,
+    "modified": "2025-01-06T22:00:00Z",
+    "repo": "https://github.com/ABridoux/scout.git",
+    "runid": 12640899049,
+    "stars": 130,
+    "status": "failure"
+  },
   "AdaEngine/SPIRV-Cross": {
     "created": "2025-01-06T18:06:03Z",
     "duration": 20,
