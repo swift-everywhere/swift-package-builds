@@ -1855,6 +1855,14 @@
     "runid": 12637757100,
     "status": "failure"
   },
+  "hartbit/Yaap": {
+    "created": "2025-01-06T20:47:49Z",
+    "duration": 7,
+    "modified": "2025-01-06T20:47:49Z",
+    "repo": "https://github.com/hartbit/Yaap.git",
+    "runid": 12638963153,
+    "status": "failure"
+  },
   "hectr/swift-elementary-cycles": {
     "created": "2025-01-06T20:08:29Z",
     "duration": 9,
