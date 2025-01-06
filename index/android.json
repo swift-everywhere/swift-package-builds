@@ -6003,6 +6003,15 @@
     "stars": 357,
     "status": "failure"
   },
+  "pointfreeco/swift-validated": {
+    "created": "2025-01-06T23:40:39Z",
+    "duration": 5,
+    "modified": "2025-01-06T23:40:39Z",
+    "repo": "https://github.com/pointfreeco/swift-validated.git",
+    "runid": 12641986754,
+    "stars": 391,
+    "status": "success"
+  },
   "pointfreeco/swift-web": {
     "created": "2025-01-06T19:44:20Z",
     "duration": 23,
