@@ -7,6 +7,14 @@
     "runid": 12637148220,
     "status": "success"
   },
+  "AsyncNinja/AsyncNinja": {
+    "created": "2025-01-06T17:43:16Z",
+    "duration": 10,
+    "modified": "2025-01-06T17:43:16Z",
+    "repo": "https://github.com/AsyncNinja/AsyncNinja.git",
+    "runid": 12637148220,
+    "status": "failure"
+  },
   "Balancingrock/BRUtils": {
     "created": "2025-01-06T17:24:19Z",
     "duration": 6,
