@@ -3601,6 +3601,15 @@
     "runid": 12638963153,
     "status": "success"
   },
+  "dylanshine/openai-kit": {
+    "created": "2025-01-06T23:46:16Z",
+    "duration": 8,
+    "modified": "2025-01-06T23:46:16Z",
+    "repo": "https://github.com/dylanshine/openai-kit.git",
+    "runid": 12641986754,
+    "stars": 717,
+    "status": "failure"
+  },
   "edonv/Clamping": {
     "created": "2025-01-06T23:29:54Z",
     "duration": 6,
