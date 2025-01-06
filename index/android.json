@@ -3149,6 +3149,15 @@
     "stars": 19,
     "status": "success"
   },
+  "dagronf/DSFDropFilesView": {
+    "created": "2025-01-06T23:40:24Z",
+    "duration": 7,
+    "modified": "2025-01-06T23:40:24Z",
+    "repo": "https://github.com/dagronf/DSFDropFilesView.git",
+    "runid": 12641986754,
+    "stars": 31,
+    "status": "success"
+  },
   "dagronf/DSFLabelledTextField": {
     "created": "2025-01-06T21:05:49Z",
     "duration": 8,
