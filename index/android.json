@@ -4428,6 +4428,15 @@
     "runid": 12638963153,
     "status": "failure"
   },
+  "nearfri/ObjectCoder": {
+    "created": "2025-01-06T22:53:58Z",
+    "duration": 8,
+    "modified": "2025-01-06T22:53:58Z",
+    "repo": "https://github.com/nearfri/ObjectCoder.git",
+    "runid": 12641431024,
+    "stars": 0,
+    "status": "success"
+  },
   "nearfri/Strix": {
     "created": "2025-01-06T21:11:39Z",
     "duration": 8,
