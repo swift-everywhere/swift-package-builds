@@ -2699,6 +2699,15 @@
     "stars": 1,
     "status": "success"
   },
+  "ileitch/swift-indexstore": {
+    "created": "2025-01-06T21:43:33Z",
+    "duration": 7,
+    "modified": "2025-01-06T21:43:33Z",
+    "repo": "https://github.com/ileitch/swift-indexstore.git",
+    "runid": 12640552194,
+    "stars": 0,
+    "status": "failure"
+  },
   "inamiy/RxProperty": {
     "created": "2025-01-06T17:06:51Z",
     "duration": 20,
