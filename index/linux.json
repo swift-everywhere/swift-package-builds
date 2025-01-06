@@ -159,6 +159,14 @@
     "runid": 12636850547,
     "status": "success"
   },
+  "segmentio/analytics-swift": {
+    "created": "2025-01-06T17:22:08Z",
+    "duration": 15,
+    "modified": "2025-01-06T17:22:08Z",
+    "repo": "https://github.com/segmentio/analytics-swift.git",
+    "runid": 12636850547,
+    "status": "success"
+  },
   "swift-server-community/mqtt-nio": {
     "created": "2025-01-06T17:16:43Z",
     "duration": 77,
