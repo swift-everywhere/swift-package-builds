@@ -7170,9 +7170,10 @@
   "swift-libp2p/swift-multibase": {
     "created": "2025-01-06T20:26:16Z",
     "duration": 11,
-    "modified": "2025-01-06T20:26:16Z",
+    "modified": "2025-01-06T23:58:52Z",
     "repo": "https://github.com/swift-libp2p/swift-multibase.git",
-    "runid": 12638963153,
+    "runid": 12641986754,
+    "stars": 1,
     "status": "success"
   },
   "swift-libp2p/swift-varint": {
