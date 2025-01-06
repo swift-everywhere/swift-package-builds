@@ -3649,9 +3649,10 @@
   "heckj/CASimEngine": {
     "created": "2025-01-06T20:53:50Z",
     "duration": 50,
-    "modified": "2025-01-06T20:53:50Z",
+    "modified": "2025-01-06T23:12:13Z",
     "repo": "https://github.com/heckj/CASimEngine.git",
-    "runid": 12638963153,
+    "runid": 12641431024,
+    "stars": 1,
     "status": "success"
   },
   "hectr/swift-elementary-cycles": {
