@@ -1943,6 +1943,14 @@
     "runid": 12638963153,
     "status": "failure"
   },
+  "heckj/CASimEngine": {
+    "created": "2025-01-06T20:53:50Z",
+    "duration": 50,
+    "modified": "2025-01-06T20:53:50Z",
+    "repo": "https://github.com/heckj/CASimEngine.git",
+    "runid": 12638963153,
+    "status": "success"
+  },
   "hectr/swift-elementary-cycles": {
     "created": "2025-01-06T20:08:29Z",
     "duration": 9,
