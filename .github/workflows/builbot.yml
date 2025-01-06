@@ -109,7 +109,7 @@ jobs:
             WD=$(pwd)
             START=$(date +%s)
             echo "Running build command: '${{ steps.setup-platform.outputs.buildcmd }}'"
-            (git clone --depth=1 "${REPO}" repositories/"${DIR}" && cd repositories/"${DIR}" && ${{ steps.setup-platform.outputs.buildcmd }} ) | tee ../../logs/"${DIR}"/buildlog.txt && echo EXITCODE=0 || EXITCODE=$?
+            (git clone --depth=1 "${REPO}" repositories/"${DIR}" && cd repositories/"${DIR}" && ${{ steps.setup-platform.outputs.buildcmd }} ) | tee logs/"${DIR}"/buildlog.txt && echo EXITCODE=0 || EXITCODE=$?
             END=$(date +%s)
             DURATION=$[END - START]
             cd ${WD}
