@@ -1120,6 +1120,15 @@
     "runid": 12637148220,
     "status": "success"
   },
+  "Peter-Schorn/SpotifyAPI": {
+    "created": "2025-01-06T21:51:09Z",
+    "duration": 39,
+    "modified": "2025-01-06T21:51:09Z",
+    "repo": "https://github.com/Peter-Schorn/SpotifyAPI.git",
+    "runid": 12640899049,
+    "stars": 275,
+    "status": "failure"
+  },
   "Ponyboy47/Termios": {
     "created": "2025-01-06T21:31:02Z",
     "duration": 4,
