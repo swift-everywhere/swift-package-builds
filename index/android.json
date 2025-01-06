@@ -4834,6 +4834,15 @@
     "stars": 148,
     "status": "success"
   },
+  "maparoni/GeoJSONKit-Turf": {
+    "created": "2025-01-06T23:31:34Z",
+    "duration": 8,
+    "modified": "2025-01-06T23:31:34Z",
+    "repo": "https://github.com/maparoni/GeoJSONKit-Turf.git",
+    "runid": 12641986754,
+    "stars": 3,
+    "status": "failure"
+  },
   "mapbox/mapbox-core-maps-ios": {
     "created": "2025-01-06T20:05:11Z",
     "duration": 16,
