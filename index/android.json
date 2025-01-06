@@ -2381,6 +2381,15 @@
     "stars": 23,
     "status": "success"
   },
+  "bdrelling/GoatHerb": {
+    "created": "2025-01-06T23:17:07Z",
+    "duration": 19,
+    "modified": "2025-01-06T23:17:07Z",
+    "repo": "https://github.com/bdrelling/GoatHerb.git",
+    "runid": 12641431024,
+    "stars": 5,
+    "status": "failure"
+  },
   "bdrelling/Kipple": {
     "created": "2025-01-06T17:25:07Z",
     "duration": 34,
