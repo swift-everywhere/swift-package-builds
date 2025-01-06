@@ -840,6 +840,15 @@
     "stars": 0,
     "status": "failure"
   },
+  "JaapWijnen/swift-xml-parser": {
+    "created": "2025-01-06T22:39:21Z",
+    "duration": 14,
+    "modified": "2025-01-06T22:39:21Z",
+    "repo": "https://github.com/JaapWijnen/swift-xml-parser.git",
+    "runid": 12641431024,
+    "stars": 7,
+    "status": "failure"
+  },
   "JadenGeller/Axiomatic": {
     "created": "2025-01-06T21:21:02Z",
     "duration": 6,
