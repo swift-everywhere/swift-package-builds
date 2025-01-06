@@ -751,6 +751,14 @@
     "runid": 12638963153,
     "status": "success"
   },
+  "RussBaz/cuid2": {
+    "created": "2025-01-06T20:36:29Z",
+    "duration": 16,
+    "modified": "2025-01-06T20:36:29Z",
+    "repo": "https://github.com/RussBaz/cuid2.git",
+    "runid": 12638963153,
+    "status": "failure"
+  },
   "SD10/GitDiffSwift": {
     "created": "2025-01-06T20:08:12Z",
     "duration": 6,
