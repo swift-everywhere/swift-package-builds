@@ -2908,6 +2908,15 @@
     "runid": 12636850547,
     "status": "success"
   },
+  "pelagornis/plcommand": {
+    "created": "2025-01-06T21:06:56Z",
+    "duration": 13,
+    "modified": "2025-01-06T21:06:56Z",
+    "repo": "https://github.com/pelagornis/plcommand.git",
+    "runid": 12640312681,
+    "stars": 2,
+    "status": "failure"
+  },
   "pelagornis/swift-builder": {
     "created": "2025-01-06T17:26:33Z",
     "duration": 81,
