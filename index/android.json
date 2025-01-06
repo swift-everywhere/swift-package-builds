@@ -3650,6 +3650,15 @@
     "stars": 82,
     "status": "failure"
   },
+  "loopwerk/SagaInkMarkdownReader": {
+    "created": "2025-01-06T22:12:51Z",
+    "duration": 13,
+    "modified": "2025-01-06T22:12:51Z",
+    "repo": "https://github.com/loopwerk/SagaInkMarkdownReader.git",
+    "runid": 12640899049,
+    "stars": 2,
+    "status": "failure"
+  },
   "loopwerk/SagaParsleyMarkdownReader": {
     "created": "2025-01-06T21:18:49Z",
     "duration": 14,
