@@ -196,6 +196,15 @@
     "stars": 2,
     "status": "success"
   },
+  "AlwaysRightInstitute/Mustache": {
+    "created": "2025-01-06T23:23:31Z",
+    "duration": 6,
+    "modified": "2025-01-06T23:23:31Z",
+    "repo": "https://github.com/AlwaysRightInstitute/Mustache.git",
+    "runid": 12641986754,
+    "stars": 23,
+    "status": "failure"
+  },
   "AlwaysRightInstitute/SwiftEliza": {
     "created": "2025-01-06T21:34:45Z",
     "duration": 7,
