@@ -215,6 +215,14 @@
     "runid": 12635570877,
     "status": "failure"
   },
+  "pmusolino/PMSuperButton": {
+    "created": "2025-01-06T15:55:24Z",
+    "duration": 3,
+    "modified": "2025-01-06T15:55:24Z",
+    "repo": "https://github.com/pmusolino/PMSuperButton.git",
+    "runid": 12635570877,
+    "status": "failure"
+  },
   "pzmudzinski/OpenGraphReader": {
     "created": "2025-01-06T15:53:01Z",
     "duration": 10,
