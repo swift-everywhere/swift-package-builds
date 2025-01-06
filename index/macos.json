@@ -1,4 +1,12 @@
 {
+  "Appsaurus/RuntimeExtensions": {
+    "created": "2025-01-06T16:52:53Z",
+    "duration": 5,
+    "modified": "2025-01-06T16:52:54Z",
+    "repo": "https://github.com/Appsaurus/RuntimeExtensions.git",
+    "runid": 12636663814,
+    "status": "failure"
+  },
   "Nef10/SwiftBeanCountTangerineMapper": {
     "created": "2025-01-06T16:52:42Z",
     "duration": 14,
