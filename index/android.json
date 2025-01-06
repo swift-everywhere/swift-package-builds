@@ -1416,6 +1416,15 @@
     "runid": 12638963153,
     "status": "success"
   },
+  "MihaelIsaev/SwiftSystemd": {
+    "created": "2025-01-06T23:33:43Z",
+    "duration": 13,
+    "modified": "2025-01-06T23:33:43Z",
+    "repo": "https://github.com/MihaelIsaev/SwiftSystemd.git",
+    "runid": 12641986754,
+    "stars": 7,
+    "status": "failure"
+  },
   "Mobelux/Lingo": {
     "created": "2025-01-06T19:49:24Z",
     "duration": 10,
