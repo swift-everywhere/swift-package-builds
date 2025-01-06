@@ -2095,6 +2095,14 @@
     "runid": 12638963153,
     "status": "success"
   },
+  "loudmouth/Interstellar": {
+    "created": "2025-01-06T20:40:04Z",
+    "duration": 6,
+    "modified": "2025-01-06T20:40:04Z",
+    "repo": "https://github.com/loudmouth/Interstellar.git",
+    "runid": 12638963153,
+    "status": "failure"
+  },
   "lovetodream/postgres-nio-macros": {
     "created": "2025-01-06T19:56:31Z",
     "duration": 22,
