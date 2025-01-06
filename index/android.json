@@ -1879,6 +1879,14 @@
     "runid": 12636850547,
     "status": "failure"
   },
+  "inseven/licensable": {
+    "created": "2025-01-06T20:41:41Z",
+    "duration": 6,
+    "modified": "2025-01-06T20:41:41Z",
+    "repo": "https://github.com/inseven/licensable.git",
+    "runid": 12638963153,
+    "status": "success"
+  },
   "insub4067/DependencyContainer": {
     "created": "2025-01-06T20:40:19Z",
     "duration": 6,
