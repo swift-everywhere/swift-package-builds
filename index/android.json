@@ -4936,6 +4936,15 @@
     "runid": 12638963153,
     "status": "failure"
   },
+  "vinhnx/DictionaryNestedSubscript": {
+    "created": "2025-01-06T22:00:37Z",
+    "duration": 3,
+    "modified": "2025-01-06T22:00:37Z",
+    "repo": "https://github.com/vinhnx/DictionaryNestedSubscript.git",
+    "runid": 12640899049,
+    "stars": 7,
+    "status": "success"
+  },
   "vsanthanam/WeakReference": {
     "created": "2025-01-06T17:42:58Z",
     "duration": 9,
