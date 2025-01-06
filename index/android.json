@@ -508,6 +508,15 @@
     "runid": 12638963153,
     "status": "failure"
   },
+  "FlineDev/HandySwift": {
+    "created": "2025-01-06T21:51:16Z",
+    "duration": 6,
+    "modified": "2025-01-06T21:51:16Z",
+    "repo": "https://github.com/FlineDev/HandySwift.git",
+    "runid": 12640899049,
+    "stars": 496,
+    "status": "failure"
+  },
   "FluidGroup/ResultBuilderKit": {
     "created": "2025-01-06T21:18:26Z",
     "duration": 3,
