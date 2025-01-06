@@ -71,6 +71,14 @@
     "repo": "https://github.com/hsharghi/vapor-wallet.git",
     "status": ""
   },
+  "kingslay/FFmpegKit": {
+    "created": "2025-01-06T15:41:38Z",
+    "duration": 23,
+    "id": 12635442628,
+    "modified": "2025-01-06T15:41:38Z",
+    "repo": "https://github.com/kingslay/FFmpegKit.git",
+    "status": ""
+  },
   "mingchen/WhirlpoolSwift": {
     "created": "2025-01-06T15:38:45Z",
     "duration": 6,
