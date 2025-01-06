@@ -7,26 +7,65 @@ on:
       - '.codecov.yml'
       - '.github/workflows/builbot.yml'
 
-concurrency:
-  group: builtbot
-  #-${{ github.ref }}
-  cancel-in-progress: true
-
 permissions:
   # Give the default GITHUB_TOKEN write permission to commit and push the
   # added or changed files to the repository.
   contents: write
 
+concurrency:
+  group: builtbot
+  #-${{ github.ref }}
+  cancel-in-progress: true
+
 jobs:
   buildbot:
-    runs-on: ubuntu-24.04
+    runs-on: ${{ matrix.os }}
+    strategy: 
+      fail-fast: false
+      matrix:
+        #os: ['ubuntu-24.04', 'ubuntu-22.04', 'macos-14', 'macos-15', 'windows-latest']
+        # TODO: Windows (needs bash support)
+        os: ['ubuntu-24.04', 'ubuntu-22.04', 'macos-14', 'macos-15']
     steps:
-      - name: Setup Toolchain
-        id: setup-toolchain
+      - name: Setup Android Toolchain
+        if: ${{ matrix.os == 'ubuntu-24.04' }}
+        id: setup-toolchain-android
         uses: skiptools/swift-android-action@main
         with:
           # just set up the toolchain and don't build anything
           build-package: false
+
+      - name: Setup Windows Toolchain
+        if: ${{ matrix.os == 'windows-latest' }}
+        id: setup-toolchain-windows
+        uses: compnerd/gha-setup-swift@main
+        with:
+          branch: swift-6.0.2-release
+          tag: 6.0.2-RELEASE
+
+      - name: Setup Toolchain
+        id: setup-platform
+        shell: bash
+        run: |
+          if [ "${{ matrix.os }}" == 'ubuntu-24.04' ]; then
+            echo 'platform=android' >> $GITHUB_OUTPUT
+            echo 'buildcmd=${{ steps.setup-toolchain-android.outputs.swift-build }}' >> $GITHUB_OUTPUT
+          elif [ "${{ matrix.os }}" == 'ubuntu-22.04' ]; then
+            echo 'platform=linux' >> $GITHUB_OUTPUT
+            echo 'buildcmd=swift build' >> $GITHUB_OUTPUT
+          elif [ "${{ matrix.os }}" == 'windows-latest' ]; then
+            echo 'platform=windows' >> $GITHUB_OUTPUT
+            echo 'buildcmd=swift build' >> $GITHUB_OUTPUT
+          elif [ "${{ matrix.os }}" == 'macos-14' ]; then
+            echo 'platform=macos' >> $GITHUB_OUTPUT
+            echo 'buildcmd=swift build' >> $GITHUB_OUTPUT
+          elif [ "${{ matrix.os }}" == 'macos-15' ]; then
+            echo 'platform=ios' >> $GITHUB_OUTPUT
+            echo 'DEVELOPER_DIR=/Applications/Xcode-16.2.0.app xcrun xcodebuild -skipMacroValidation -skipPackagePluginValidation -derivedDataPath .derivedData build -destination generic/platform=iOS -scheme "$(xcodebuild -list -json | jq -r '.workspace.schemes | sort_by(.) | reverse | .[0]')"' >> $GITHUB_OUTPUT
+          else
+            echo "::error::Unsupported platform: ${{ matrix.os }}"
+            exit 1
+          endif
 
       - name: Clone
         uses: actions/checkout@v4
@@ -48,7 +87,9 @@ jobs:
           #set -x
           set -o pipefail
           PACKAGES="swift-android-builds/index/packages.json"
-          INDEX="swift-android-builds/index/android.json"
+          INDEX="swift-android-builds/index/${{ steps.setup-platform.outputs.platform }}"
+          ls "${INDEX}"
+          echo "Packages in ${INDEX}: "$(jq 'length' ${INDEX})
           mkdir repositories
           mkdir logs
 
@@ -57,8 +98,11 @@ jobs:
             echo "Building: ${REPO} (https://swiftpackageindex.com/${DIR})"
             mkdir -p logs/"${DIR}"
 
+            # reset from previous run
+            EXITCODE=0
+
             START=$(date +%s)
-            (git clone --depth=1 "${REPO}" repositories/"${DIR}" && ${{ steps.setup-toolchain.outputs.swift-build }} -c debug --package-path repositories/"${DIR}") | tee logs/"${DIR}"/buildlog.txt && echo EXITCODE=0 || EXITCODE=$?
+            (git clone --depth=1 "${REPO}" repositories/"${DIR}" && ${{ steps.setup-platform.outputs.buildcmd }} -c debug --package-path repositories/"${DIR}") | tee logs/"${DIR}"/buildlog.txt && echo EXITCODE=0 || EXITCODE=$?
             END=$(date +%s)
             DURATION=$[END - START]
 
