@@ -79,6 +79,14 @@
     "runid": 12636850547,
     "status": "success"
   },
+  "tevelee/AsyncHTTP": {
+    "created": "2025-01-06T17:14:10Z",
+    "duration": 14,
+    "modified": "2025-01-06T17:14:10Z",
+    "repo": "https://github.com/tevelee/AsyncHTTP.git",
+    "runid": 12636850547,
+    "status": "failure"
+  },
   "vapor-community/leaf-markdown": {
     "created": "2025-01-06T17:13:51Z",
     "duration": 37,
