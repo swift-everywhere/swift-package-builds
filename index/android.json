@@ -1482,6 +1482,15 @@
     "runid": 12638963153,
     "status": "success"
   },
+  "MaherKSantina/DSCore": {
+    "created": "2025-01-06T23:59:11Z",
+    "duration": 18,
+    "modified": "2025-01-06T23:59:12Z",
+    "repo": "https://github.com/MaherKSantina/DSCore.git",
+    "runid": 12641986754,
+    "stars": 0,
+    "status": "failure"
+  },
   "MarSe32m/sebbu-concurrency": {
     "created": "2025-01-06T21:52:29Z",
     "duration": 10,
