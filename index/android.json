@@ -5826,9 +5826,10 @@
   "t-ae/xorswift": {
     "created": "2025-01-06T17:24:06Z",
     "duration": 7,
-    "modified": "2025-01-06T17:24:06Z",
+    "modified": "2025-01-06T23:01:38Z",
     "repo": "https://github.com/t-ae/xorswift.git",
-    "runid": 12637148220,
+    "runid": 12641431024,
+    "stars": 2,
     "status": "failure"
   },
   "tadija/AEXML": {
