@@ -90,6 +90,15 @@
     "runid": 12638963153,
     "status": "success"
   },
+  "21-DOT-DEV/swift-secp256k1": {
+    "created": "2025-01-06T23:08:33Z",
+    "duration": 16,
+    "modified": "2025-01-06T23:08:33Z",
+    "repo": "https://github.com/21-DOT-DEV/swift-secp256k1.git",
+    "runid": 12641431024,
+    "stars": 116,
+    "status": "failure"
+  },
   "2C2P/PGWUISDK-SwiftPackage": {
     "created": "2025-01-06T23:01:50Z",
     "duration": 11,
