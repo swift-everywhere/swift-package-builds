@@ -575,6 +575,14 @@
     "runid": 12638963153,
     "status": "failure"
   },
+  "Lickability/ObservableConverter": {
+    "created": "2025-01-06T20:31:22Z",
+    "duration": 17,
+    "modified": "2025-01-06T20:31:22Z",
+    "repo": "https://github.com/Lickability/ObservableConverter.git",
+    "runid": 12638963153,
+    "status": "failure"
+  },
   "LuizZak/JelloSwift": {
     "created": "2025-01-06T20:08:46Z",
     "duration": 8,
