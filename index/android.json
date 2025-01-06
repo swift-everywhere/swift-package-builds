@@ -2348,6 +2348,15 @@
     "runid": 12637148220,
     "status": "failure"
   },
+  "jkolb/Swiftish": {
+    "created": "2025-01-06T21:14:55Z",
+    "duration": 21,
+    "modified": "2025-01-06T21:14:56Z",
+    "repo": "https://github.com/jkolb/Swiftish.git",
+    "runid": 12640312681,
+    "stars": 17,
+    "status": "failure"
+  },
   "johnnzhou/swift-nio": {
     "created": "2025-01-06T17:41:25Z",
     "duration": 34,
