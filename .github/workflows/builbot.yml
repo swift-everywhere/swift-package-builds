@@ -33,6 +33,15 @@ jobs:
         with:
           path: swift-android-builds
 
+      - name: Configure git push
+        shell: bash
+        working-directory: swift-android-builds
+        run: |
+          # git config so we can push to the repository
+          git config user.email "github-action@users.noreply.github.com"
+          git config user.name "GitHub Action"
+          git config user.password "${{ secrets.GITHUB_TOKEN }}"
+
       - name: Build packages
         shell: bash
         run: |
@@ -84,15 +93,13 @@ jobs:
             jq --sort-keys '.' $INDEX > $INDEX.new && mv $INDEX.new $INDEX
 
             # output the JSON for debugging
-            jq --color-output --sort-keys '.' $INDEX
+            #jq --color-output --sort-keys '.' $INDEX
 
             cd $(dirname ${INDEX})
 
-            # git config so we can push to the repository
-            git config user.email "github-action@users.noreply.github.com"
-            git config user.name "GitHub Action"
-            git config user.password "${{ secrets.GITHUB_TOKEN }}"
-
+            # fetch any changes that may have occured since we last updated
+            git pull
+            git diff $(basename $INDEX)
             git add $(basename $INDEX)
             git commit -m "Build $STATUS for $REPO" .
             git push
