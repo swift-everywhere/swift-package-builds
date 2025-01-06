@@ -599,6 +599,14 @@
     "runid": 12636850547,
     "status": "failure"
   },
+  "kittymo/MoRegex": {
+    "created": "2025-01-06T18:05:24Z",
+    "duration": 7,
+    "modified": "2025-01-06T18:05:24Z",
+    "repo": "https://github.com/kittymo/MoRegex.git",
+    "runid": 12637757100,
+    "status": "success"
+  },
   "krzysztofzablocki/Sourcery": {
     "created": "2025-01-06T17:09:19Z",
     "duration": 65,
