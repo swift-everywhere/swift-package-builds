@@ -3479,6 +3479,15 @@
     "runid": 12637148220,
     "status": "failure"
   },
+  "grpc/grpc-swift-protobuf": {
+    "created": "2025-01-06T23:08:15Z",
+    "duration": 20,
+    "modified": "2025-01-06T23:08:15Z",
+    "repo": "https://github.com/grpc/grpc-swift-protobuf.git",
+    "runid": 12641431024,
+    "stars": 10,
+    "status": "failure"
+  },
   "grype/SwiftAnnouncements": {
     "created": "2025-01-06T19:53:06Z",
     "duration": 10,
