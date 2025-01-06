@@ -79,6 +79,14 @@
     "runid": 12636663814,
     "status": "success"
   },
+  "brightdigit/SundialKit": {
+    "created": "2025-01-06T16:59:38Z",
+    "duration": 50,
+    "modified": "2025-01-06T16:59:38Z",
+    "repo": "https://github.com/brightdigit/SundialKit.git",
+    "runid": 12636724204,
+    "status": "failure"
+  },
   "dannys42/ClosureChain": {
     "created": "2025-01-06T16:57:54Z",
     "duration": 6,
