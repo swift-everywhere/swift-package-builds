@@ -207,6 +207,14 @@
     "runid": 12636850547,
     "status": "failure"
   },
+  "ivanvorobei/SPPerspective": {
+    "created": "2025-01-06T17:30:51Z",
+    "duration": 4,
+    "modified": "2025-01-06T17:30:51Z",
+    "repo": "https://github.com/ivanvorobei/SPPerspective.git",
+    "runid": 12637148220,
+    "status": "success"
+  },
   "jaroshevskii/swift-ice-cream-sandwich": {
     "created": "2025-01-06T17:10:17Z",
     "duration": 4,
