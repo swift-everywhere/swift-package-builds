@@ -735,6 +735,14 @@
     "runid": 12637148220,
     "status": "failure"
   },
+  "tgu/BinaryCoder": {
+    "created": "2025-01-06T17:43:58Z",
+    "duration": 7,
+    "modified": "2025-01-06T17:43:58Z",
+    "repo": "https://github.com/tgu/BinaryCoder.git",
+    "runid": 12637148220,
+    "status": "failure"
+  },
   "tugcanonbas/authomatek": {
     "created": "2025-01-06T17:07:40Z",
     "duration": 41,
