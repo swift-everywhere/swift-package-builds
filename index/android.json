@@ -3514,10 +3514,11 @@
   },
   "honghaoz/Ji": {
     "created": "2025-01-06T17:43:05Z",
-    "duration": 6,
-    "modified": "2025-01-06T17:43:05Z",
+    "duration": 7,
+    "modified": "2025-01-06T22:56:29Z",
     "repo": "https://github.com/honghaoz/Ji.git",
-    "runid": 12637148220,
+    "runid": 12641431024,
+    "stars": 824,
     "status": "failure"
   },
   "hootsuite/emit": {
