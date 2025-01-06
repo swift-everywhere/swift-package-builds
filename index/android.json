@@ -1,4 +1,12 @@
 {
+  "BeAppOnline/Cancellable": {
+    "created": "2025-01-06T17:11:40Z",
+    "duration": 3,
+    "modified": "2025-01-06T17:11:40Z",
+    "repo": "https://github.com/BeAppOnline/Cancellable.git",
+    "runid": 12636850547,
+    "status": "success"
+  },
   "Digipolitan/framework-swift-template": {
     "created": "2025-01-06T17:07:46Z",
     "duration": 5,
