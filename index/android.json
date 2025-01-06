@@ -7408,6 +7408,15 @@
     "runid": 12638963153,
     "status": "success"
   },
+  "twostraws/Sitrep": {
+    "created": "2025-01-06T23:46:53Z",
+    "duration": 15,
+    "modified": "2025-01-06T23:46:53Z",
+    "repo": "https://github.com/twostraws/Sitrep.git",
+    "runid": 12641986754,
+    "stars": 1320,
+    "status": "failure"
+  },
   "typelift/Swiftz": {
     "created": "2025-01-06T22:15:48Z",
     "duration": 10,
