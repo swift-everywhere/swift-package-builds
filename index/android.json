@@ -3277,6 +3277,15 @@
     "runid": 12638963153,
     "status": "success"
   },
+  "shaps80/swift-cmark": {
+    "created": "2025-01-06T21:14:28Z",
+    "duration": 2,
+    "modified": "2025-01-06T21:14:28Z",
+    "repo": "https://github.com/shaps80/swift-cmark.git",
+    "runid": 12640312681,
+    "stars": 0,
+    "status": "success"
+  },
   "sharplet/Regex": {
     "created": "2025-01-06T20:11:42Z",
     "duration": 6,
