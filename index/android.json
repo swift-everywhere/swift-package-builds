@@ -5327,6 +5327,15 @@
     "runid": 12638963153,
     "status": "success"
   },
+  "maniramezan/UserDefaultMacro": {
+    "created": "2025-01-06T23:56:45Z",
+    "duration": 101,
+    "modified": "2025-01-06T23:56:45Z",
+    "repo": "https://github.com/maniramezan/UserDefaultMacro.git",
+    "runid": 12641986754,
+    "stars": 4,
+    "status": "failure"
+  },
   "manuelCarlos/Easing": {
     "created": "2025-01-06T22:34:50Z",
     "duration": 20,
