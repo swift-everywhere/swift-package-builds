@@ -32,6 +32,15 @@
     "stars": 4,
     "status": "success"
   },
+  "0xLeif/Yarn": {
+    "created": "2025-01-06T23:40:33Z",
+    "duration": 8,
+    "modified": "2025-01-06T23:40:33Z",
+    "repo": "https://github.com/0xLeif/Yarn.git",
+    "runid": 12641986754,
+    "stars": 2,
+    "status": "failure"
+  },
   "0xLet/Chain": {
     "created": "2025-01-06T20:45:25Z",
     "duration": 7,
