@@ -495,6 +495,14 @@
     "runid": 12637148220,
     "status": "success"
   },
+  "iShape-Swift/iTree": {
+    "created": "2025-01-06T18:04:53Z",
+    "duration": 5,
+    "modified": "2025-01-06T18:04:53Z",
+    "repo": "https://github.com/iShape-Swift/iTree.git",
+    "runid": 12637757100,
+    "status": "success"
+  },
   "inamiy/RxProperty": {
     "created": "2025-01-06T17:06:51Z",
     "duration": 20,
