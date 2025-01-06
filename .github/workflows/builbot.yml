@@ -165,7 +165,8 @@ jobs:
             git diff $(basename $INDEX)
             git add $(basename $INDEX)
             git commit -m "${PLATFORM} $STATUS for $REPO" .
-            git push
+            # permit collisions; we will commit the next time around
+            git push || true
             cd -
           done
 
