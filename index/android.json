@@ -473,6 +473,15 @@
     "runid": 12638963153,
     "status": "failure"
   },
+  "Flight-School/MessagePack": {
+    "created": "2025-01-06T21:50:12Z",
+    "duration": 6,
+    "modified": "2025-01-06T21:50:12Z",
+    "repo": "https://github.com/Flight-School/MessagePack.git",
+    "runid": 12640899049,
+    "stars": 198,
+    "status": "failure"
+  },
   "FlineDev/FreemiumKit": {
     "created": "2025-01-06T19:43:41Z",
     "duration": 7,
