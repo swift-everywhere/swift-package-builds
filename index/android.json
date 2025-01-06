@@ -4272,6 +4272,15 @@
     "runid": 12638963153,
     "status": "success"
   },
+  "taketo1024/swm-matrix-tools": {
+    "created": "2025-01-06T21:48:40Z",
+    "duration": 26,
+    "modified": "2025-01-06T21:48:40Z",
+    "repo": "https://github.com/taketo1024/swm-matrix-tools.git",
+    "runid": 12640899049,
+    "stars": 0,
+    "status": "success"
+  },
   "tattn/DIAttribute": {
     "created": "2025-01-06T21:42:43Z",
     "duration": 6,
