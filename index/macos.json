@@ -79,6 +79,14 @@
     "runid": 12636663814,
     "status": "success"
   },
+  "tigerpixel/ParserCombinator": {
+    "created": "2025-01-06T16:55:19Z",
+    "duration": 4,
+    "modified": "2025-01-06T16:55:19Z",
+    "repo": "https://github.com/tigerpixel/ParserCombinator.git",
+    "runid": 12636663814,
+    "status": "success"
+  },
   "tuist/SwiftyESBuild": {
     "created": "2025-01-06T16:55:13Z",
     "duration": 75,
