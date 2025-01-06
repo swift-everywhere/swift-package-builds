@@ -519,6 +519,14 @@
     "runid": 12637148220,
     "status": "failure"
   },
+  "my-mail-ru/swift-URI": {
+    "created": "2025-01-06T17:42:48Z",
+    "duration": 4,
+    "modified": "2025-01-06T17:42:48Z",
+    "repo": "https://github.com/my-mail-ru/swift-URI.git",
+    "runid": 12637148220,
+    "status": "success"
+  },
   "nikola-mladenovic/AwsSwiftSign": {
     "created": "2025-01-06T17:40:39Z",
     "duration": 15,
