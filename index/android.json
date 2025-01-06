@@ -1872,6 +1872,15 @@
     "runid": 12638963153,
     "status": "failure"
   },
+  "awslabs/aws-crt-swift": {
+    "created": "2025-01-06T22:08:09Z",
+    "duration": 6,
+    "modified": "2025-01-06T22:08:09Z",
+    "repo": "https://github.com/awslabs/aws-crt-swift.git",
+    "runid": 12640899049,
+    "stars": 16,
+    "status": "failure"
+  },
   "aydenp/PassEncoder": {
     "created": "2025-01-06T19:41:25Z",
     "duration": 16,
