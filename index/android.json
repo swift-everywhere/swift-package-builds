@@ -2410,6 +2410,15 @@
     "runid": 12637757100,
     "status": "success"
   },
+  "brightdigit/SpinetailVapor": {
+    "created": "2025-01-06T22:59:36Z",
+    "duration": 49,
+    "modified": "2025-01-06T22:59:36Z",
+    "repo": "https://github.com/brightdigit/SpinetailVapor.git",
+    "runid": 12641431024,
+    "stars": 0,
+    "status": "failure"
+  },
   "brightdigit/StealthyStash": {
     "created": "2025-01-06T22:03:24Z",
     "duration": 4,
