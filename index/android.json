@@ -40,6 +40,15 @@
     "runid": 12637757100,
     "status": "success"
   },
+  "0xWDG/PHPFramework": {
+    "created": "2025-01-06T22:54:39Z",
+    "duration": 9,
+    "modified": "2025-01-06T22:54:39Z",
+    "repo": "https://github.com/0xWDG/PHPFramework.git",
+    "runid": 12641431024,
+    "stars": 3,
+    "status": "success"
+  },
   "0xWDG/SimpleNetworking": {
     "created": "2025-01-06T20:03:31Z",
     "duration": 7,
