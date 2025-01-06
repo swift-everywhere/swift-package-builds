@@ -395,6 +395,15 @@
     "runid": 12638963153,
     "status": "success"
   },
+  "EmergeTools/SimpleDebugger": {
+    "created": "2025-01-06T21:34:18Z",
+    "duration": 1,
+    "modified": "2025-01-06T21:34:18Z",
+    "repo": "https://github.com/EmergeTools/SimpleDebugger.git",
+    "runid": 12640552194,
+    "stars": 7,
+    "status": "failure"
+  },
   "EstevanBR/SwiftGodotKick": {
     "created": "2025-01-06T20:08:54Z",
     "duration": 7,
