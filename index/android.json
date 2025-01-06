@@ -4152,6 +4152,15 @@
     "runid": 12638963153,
     "status": "success"
   },
+  "tattn/MoreCodable": {
+    "created": "2025-01-06T21:40:15Z",
+    "duration": 7,
+    "modified": "2025-01-06T21:40:15Z",
+    "repo": "https://github.com/tattn/MoreCodable.git",
+    "runid": 12640552194,
+    "stars": 380,
+    "status": "failure"
+  },
   "tayloraswift/swift-dom": {
     "created": "2025-01-06T21:36:02Z",
     "duration": 68,
