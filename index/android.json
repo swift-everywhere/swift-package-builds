@@ -2640,6 +2640,15 @@
     "stars": 10,
     "status": "success"
   },
+  "darrellroot/SwiftSnmpKit": {
+    "created": "2025-01-06T22:53:49Z",
+    "duration": 30,
+    "modified": "2025-01-06T22:53:49Z",
+    "repo": "https://github.com/darrellroot/SwiftSnmpKit.git",
+    "runid": 12641431024,
+    "stars": 8,
+    "status": "failure"
+  },
   "dastrobu/argtree": {
     "created": "2025-01-06T19:45:27Z",
     "duration": 5,
