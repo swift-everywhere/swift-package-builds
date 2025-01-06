@@ -519,6 +519,14 @@
     "runid": 12637148220,
     "status": "failure"
   },
+  "bojan/Thingy": {
+    "created": "2025-01-06T19:46:54Z",
+    "duration": 7,
+    "modified": "2025-01-06T19:46:54Z",
+    "repo": "https://github.com/bojan/Thingy.git",
+    "runid": 12638963153,
+    "status": "failure"
+  },
   "brightdigit/AssetLib": {
     "created": "2025-01-06T19:39:32Z",
     "duration": 39,
