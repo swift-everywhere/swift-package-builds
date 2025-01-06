@@ -3708,6 +3708,15 @@
     "runid": 12638963153,
     "status": "failure"
   },
+  "miximka/MimeParser": {
+    "created": "2025-01-06T22:08:02Z",
+    "duration": 7,
+    "modified": "2025-01-06T22:08:02Z",
+    "repo": "https://github.com/miximka/MimeParser.git",
+    "runid": 12640899049,
+    "stars": 29,
+    "status": "success"
+  },
   "mkrd/Swift-BigInt": {
     "created": "2025-01-06T20:26:04Z",
     "duration": 9,
