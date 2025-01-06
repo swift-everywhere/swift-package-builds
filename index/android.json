@@ -2011,6 +2011,15 @@
     "runid": 12638963153,
     "status": "success"
   },
+  "alexey1312/SnapshotTestingHEIC": {
+    "created": "2025-01-06T23:05:04Z",
+    "duration": 9,
+    "modified": "2025-01-06T23:05:04Z",
+    "repo": "https://github.com/alexey1312/SnapshotTestingHEIC.git",
+    "runid": 12641431024,
+    "stars": 19,
+    "status": "failure"
+  },
   "alexito4/Flow": {
     "created": "2025-01-06T22:00:17Z",
     "duration": 6,
