@@ -23,6 +23,14 @@
     "runid": 12638963153,
     "status": "success"
   },
+  "0xLet/Chain": {
+    "created": "2025-01-06T20:45:25Z",
+    "duration": 8,
+    "modified": "2025-01-06T20:45:25Z",
+    "repo": "https://github.com/0xLet/Chain.git",
+    "runid": 12638963153,
+    "status": "success"
+  },
   "0xLet/Observation": {
     "created": "2025-01-06T18:06:35Z",
     "duration": 8,
