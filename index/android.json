@@ -1629,6 +1629,15 @@
     "stars": 16,
     "status": "success"
   },
+  "dagronf/Easie": {
+    "created": "2025-01-06T21:11:04Z",
+    "duration": 7,
+    "modified": "2025-01-06T21:11:04Z",
+    "repo": "https://github.com/dagronf/Easie.git",
+    "runid": 12640312681,
+    "stars": 21,
+    "status": "success"
+  },
   "daikimat/depermaid": {
     "created": "2025-01-06T18:08:10Z",
     "duration": 2,
