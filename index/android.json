@@ -7477,6 +7477,15 @@
     "runid": 12638963153,
     "status": "success"
   },
+  "zunda-pixel/devicecheckkit": {
+    "created": "2025-01-06T23:34:22Z",
+    "duration": 13,
+    "modified": "2025-01-06T23:34:22Z",
+    "repo": "https://github.com/zunda-pixel/devicecheckkit.git",
+    "runid": 12641986754,
+    "stars": 1,
+    "status": "failure"
+  },
   "zunda-pixel/tripadvisor-swift": {
     "created": "2025-01-06T20:51:01Z",
     "duration": 12,
