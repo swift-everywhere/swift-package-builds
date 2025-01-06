@@ -1998,6 +1998,15 @@
     "runid": 12637148220,
     "status": "failure"
   },
+  "getGuaka/StringScanner": {
+    "created": "2025-01-06T21:11:44Z",
+    "duration": 3,
+    "modified": "2025-01-06T21:11:44Z",
+    "repo": "https://github.com/getGuaka/StringScanner.git",
+    "runid": 12640312681,
+    "stars": 1,
+    "status": "failure"
+  },
   "getsentry/sentry-cocoa": {
     "created": "2025-01-06T20:02:56Z",
     "duration": 11,
