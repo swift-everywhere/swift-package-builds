@@ -1976,6 +1976,15 @@
     "stars": 0,
     "status": "failure"
   },
+  "akbashev/swift-distributed-actors": {
+    "created": "2025-01-06T23:01:30Z",
+    "duration": 24,
+    "modified": "2025-01-06T23:01:30Z",
+    "repo": "https://github.com/akbashev/swift-distributed-actors.git",
+    "runid": 12641431024,
+    "stars": 0,
+    "status": "failure"
+  },
   "alessiorubicini/SwiftSessions": {
     "created": "2025-01-06T20:56:28Z",
     "duration": 25,
