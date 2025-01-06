@@ -61,7 +61,7 @@ jobs:
             echo 'buildcmd=swift build' >> $GITHUB_OUTPUT
           elif [ "${{ matrix.os }}" == 'macos-15' ]; then
             echo 'platform=ios' >> $GITHUB_OUTPUT
-            echo 'DEVELOPER_DIR=/Applications/Xcode-16.2.0.app xcrun xcodebuild -skipMacroValidation -skipPackagePluginValidation -derivedDataPath .derivedData build -destination generic/platform=iOS -scheme "$(xcodebuild -list -json | jq -r '.workspace.schemes | sort_by(.) | reverse | .[0]')"' >> $GITHUB_OUTPUT
+            echo 'DEVELOPER_DIR=/Applications/Xcode-16.2.0.app xcrun xcodebuild -skipMacroValidation -skipPackagePluginValidation -derivedDataPath .derivedData build -destination generic/platform=iOS -scheme $(xcodebuild -list -json | jq -r ".workspace.schemes | sort_by(.) | reverse | .[0]")' >> $GITHUB_OUTPUT
           else
             echo "::error::Unsupported platform: ${{ matrix.os }}"
             exit 1
@@ -86,8 +86,9 @@ jobs:
         run: |
           #set -x
           set -o pipefail
+          PLATFORM="${{ steps.setup-platform.outputs.platform }}"
           PACKAGES="swift-android-builds/index/packages.json"
-          INDEX="swift-android-builds/index/${{ steps.setup-platform.outputs.platform }}"
+          INDEX="swift-android-builds/index/${PLATFORM}.json"
           ls "${INDEX}"
           echo "Packages in ${INDEX}: "$(jq 'length' ${INDEX})
           mkdir repositories
@@ -145,7 +146,7 @@ jobs:
             git pull
             git diff $(basename $INDEX)
             git add $(basename $INDEX)
-            git commit -m "Build $STATUS for $REPO" .
+            git commit -m "${PLATFORM} $STATUS for $REPO" .
             git push
             cd -
           done
