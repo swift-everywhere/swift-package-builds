@@ -1639,6 +1639,14 @@
     "runid": 12638963153,
     "status": "failure"
   },
+  "jbadger3/Terminus": {
+    "created": "2025-01-06T20:25:10Z",
+    "duration": 10,
+    "modified": "2025-01-06T20:25:10Z",
+    "repo": "https://github.com/jbadger3/Terminus.git",
+    "runid": 12638963153,
+    "status": "failure"
+  },
   "jerrymarino/SwiftCompilationDatabase": {
     "created": "2025-01-06T17:27:03Z",
     "duration": 6,
