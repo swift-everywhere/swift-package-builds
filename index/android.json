@@ -783,6 +783,14 @@
     "runid": 12636850547,
     "status": "failure"
   },
+  "uraimo/SG90Servo.swift": {
+    "created": "2025-01-06T17:44:28Z",
+    "duration": 7,
+    "modified": "2025-01-06T17:44:28Z",
+    "repo": "https://github.com/uraimo/SG90Servo.swift.git",
+    "runid": 12637148220,
+    "status": "failure"
+  },
   "vapor-community/vapor-aws-lambda-runtime": {
     "created": "2025-01-06T17:33:42Z",
     "duration": 32,
