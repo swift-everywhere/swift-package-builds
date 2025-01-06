@@ -31,6 +31,14 @@
     "runid": 12636850547,
     "status": "success"
   },
+  "IndiePitcher/indiepitcher-swift": {
+    "created": "2025-01-06T17:28:14Z",
+    "duration": 52,
+    "modified": "2025-01-06T17:28:14Z",
+    "repo": "https://github.com/IndiePitcher/indiepitcher-swift.git",
+    "runid": 12637148220,
+    "status": "failure"
+  },
   "KittyMac/flynn": {
     "created": "2025-01-06T17:23:49Z",
     "duration": 7,
