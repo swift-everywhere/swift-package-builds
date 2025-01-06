@@ -49,20 +49,20 @@ jobs:
             rm -rf repositories/"${DIR}"
 
             # create a record of the package if it doesn't already exist
-            jq ".'${DIR}' |= if . == null then {'r': '${REPO}', 'c': (now | todate)} else . end" ${INDEX} > ${INDEX}.new && mv ${INDEX}.new ${INDEX}
+            jq --arg DIR "${DIR}" --arg REPO "${REPO}" '.[$DIR] |= if . == null then {"r": $REPO, "c": (now | todate)} else . end' ${INDEX} > ${INDEX}.new && mv ${INDEX}.new ${INDEX}
 
             # update the status of the build
-            jq ".'${DIR}'.'s' = ${EXITCODE}" ${INDEX} > ${INDEX}.new && mv ${INDEX}.new ${INDEX}
+            jq --arg DIR "$DIR" --arg EXITCODE "$EXITCODE" '.[$DIR]."s" = $EXITCODE' $INDEX > $INDEX.new && mv $INDEX.new $INDEX
             # set the build time
-            jq ".'${DIR}'.'m' = (now | todate)" ${INDEX} > ${INDEX}.new && mv ${INDEX}.new ${INDEX}
+            jq --arg DIR "$DIR" --arg REPO "$REPO" '.[$DIR]."m" = (now | todate)' $INDEX > $INDEX.new && mv $INDEX.new $INDEX
             # save the runid for future use
-            jq ".'${DIR}'.'r' = ${{ github.run_id }}" ${INDEX} > ${INDEX}.new && mv ${INDEX}.new ${INDEX}
+            jq --arg DIR "$DIR" --arg RUNID "${{ github.run_id }}" '.[$DIR]."r" = $RUNID' $INDEX > $INDEX.new && mv $INDEX.new $INDEX
 
             # compact the JSON
-            jq -c '.' ${INDEX} > ${INDEX}.new && mv ${INDEX}.new ${INDEX}
+            jq -c '.' $INDEX > $INDEX.new && mv $INDEX.new $INDEX
 
-            git add ${INDEX}
-            git commit -m "Build ${REPO}: ${EXITCODE}" ${INDEX}
+            git add $INDEX
+            git commit -m "Build $REPO: $EXITCODE" $INDEX
             git -C index push
 
             if [ $EXITCODE == 0 ]; then
