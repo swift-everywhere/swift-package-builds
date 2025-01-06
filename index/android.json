@@ -2875,6 +2875,15 @@
     "runid": 12638963153,
     "status": "failure"
   },
+  "nicklockwood/SwiftFormat": {
+    "created": "2025-01-06T21:18:03Z",
+    "duration": 23,
+    "modified": "2025-01-06T21:18:04Z",
+    "repo": "https://github.com/nicklockwood/SwiftFormat.git",
+    "runid": 12640312681,
+    "stars": 8031,
+    "status": "failure"
+  },
   "nikola-mladenovic/AwsSwiftDynamoDBsdk": {
     "created": "2025-01-06T20:38:37Z",
     "duration": 15,
