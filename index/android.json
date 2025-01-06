@@ -274,6 +274,15 @@
     "stars": 28,
     "status": "failure"
   },
+  "BinaryBirds/Testify": {
+    "created": "2025-01-06T22:08:57Z",
+    "duration": 7,
+    "modified": "2025-01-06T22:08:57Z",
+    "repo": "https://github.com/BinaryBirds/Testify.git",
+    "runid": 12640899049,
+    "stars": 25,
+    "status": "success"
+  },
   "BinaryBirds/swift-http": {
     "created": "2025-01-06T20:38:12Z",
     "duration": 5,
