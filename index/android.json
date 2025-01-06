@@ -359,6 +359,14 @@
     "runid": 12635570877,
     "status": "failure"
   },
+  "raphaelwach/dataconvertible": {
+    "created": "2025-01-06T16:04:56Z",
+    "duration": 6,
+    "modified": "2025-01-06T16:04:56Z",
+    "repo": "https://github.com/raphaelwach/dataconvertible.git",
+    "runid": 12635750109,
+    "status": "failure"
+  },
   "rockname/sword": {
     "created": "2025-01-06T16:01:53Z",
     "duration": 22,
