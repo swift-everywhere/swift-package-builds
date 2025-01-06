@@ -223,6 +223,15 @@
     "runid": 12637148220,
     "status": "failure"
   },
+  "Boilertalk/TelegramBot.swift": {
+    "created": "2025-01-06T21:07:59Z",
+    "duration": 60,
+    "modified": "2025-01-06T21:07:59Z",
+    "repo": "https://github.com/Boilertalk/TelegramBot.swift.git",
+    "runid": 12640312681,
+    "stars": 7,
+    "status": "failure"
+  },
   "Bouke/HKDF": {
     "created": "2025-01-06T20:51:38Z",
     "duration": 9,
