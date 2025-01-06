@@ -132,6 +132,15 @@
     "runid": 12638963153,
     "status": "failure"
   },
+  "Alviere/alviere-cards-ios": {
+    "created": "2025-01-06T21:59:35Z",
+    "duration": 4,
+    "modified": "2025-01-06T21:59:35Z",
+    "repo": "https://github.com/Alviere/alviere-cards-ios.git",
+    "runid": 12640899049,
+    "stars": 2,
+    "status": "success"
+  },
   "AlwaysRightInstitute/SwiftEliza": {
     "created": "2025-01-06T21:34:45Z",
     "duration": 7,
