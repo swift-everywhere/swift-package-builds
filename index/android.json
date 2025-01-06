@@ -5400,6 +5400,15 @@
     "runid": 12638963153,
     "status": "failure"
   },
+  "open-meteo/sdk": {
+    "created": "2025-01-06T23:30:31Z",
+    "duration": 13,
+    "modified": "2025-01-06T23:30:31Z",
+    "repo": "https://github.com/open-meteo/sdk.git",
+    "runid": 12641986754,
+    "stars": 33,
+    "status": "failure"
+  },
   "open-portfolio/AllocData": {
     "created": "2025-01-06T22:41:27Z",
     "duration": 8,
