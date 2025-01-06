@@ -863,6 +863,14 @@
     "runid": 12638963153,
     "status": "failure"
   },
+  "david-livadaru/DLAngle": {
+    "created": "2025-01-06T20:02:44Z",
+    "duration": 9,
+    "modified": "2025-01-06T20:02:44Z",
+    "repo": "https://github.com/david-livadaru/DLAngle.git",
+    "runid": 12638963153,
+    "status": "failure"
+  },
   "david-swift/LevenshteinTransformations": {
     "created": "2025-01-06T17:25:12Z",
     "duration": 4,
