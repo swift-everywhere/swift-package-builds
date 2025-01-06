@@ -81,10 +81,11 @@
   },
   "AdaEngine/SPIRV-Cross": {
     "created": "2025-01-06T18:06:03Z",
-    "duration": 21,
-    "modified": "2025-01-06T18:06:03Z",
+    "duration": 20,
+    "modified": "2025-01-06T21:19:35Z",
     "repo": "https://github.com/AdaEngine/SPIRV-Cross.git",
-    "runid": 12637757100,
+    "runid": 12640312681,
+    "stars": 0,
     "status": "success"
   },
   "AdaEngine/box2d-swift": {
