@@ -87,6 +87,14 @@
     "runid": 12636663814,
     "status": "success"
   },
+  "stencilproject/Stencil": {
+    "created": "2025-01-06T16:57:18Z",
+    "duration": 12,
+    "modified": "2025-01-06T16:57:18Z",
+    "repo": "https://github.com/stencilproject/Stencil.git",
+    "runid": 12636724204,
+    "status": "failure"
+  },
   "vkill/swift-aws-sigv4": {
     "created": "2025-01-06T16:54:06Z",
     "duration": 6,
