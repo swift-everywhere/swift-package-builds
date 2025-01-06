@@ -231,6 +231,14 @@
     "runid": 12635570877,
     "status": "failure"
   },
+  "edonv/swift-http-field-types": {
+    "created": "2025-01-06T16:05:58Z",
+    "duration": 5,
+    "modified": "2025-01-06T16:05:58Z",
+    "repo": "https://github.com/edonv/swift-http-field-types.git",
+    "runid": 12635750109,
+    "status": "failure"
+  },
   "exyte/ConcentricOnboarding": {
     "created": "2025-01-06T16:04:49Z",
     "duration": 6,
