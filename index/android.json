@@ -311,6 +311,14 @@
     "runid": 12637148220,
     "status": "failure"
   },
+  "xcode-actions/json-logger": {
+    "created": "2025-01-06T17:27:11Z",
+    "duration": 8,
+    "modified": "2025-01-06T17:27:11Z",
+    "repo": "https://github.com/xcode-actions/json-logger.git",
+    "runid": 12637148220,
+    "status": "success"
+  },
   "y-ich/swift-SGF": {
     "created": "2025-01-06T17:26:41Z",
     "duration": 7,
