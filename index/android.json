@@ -240,10 +240,11 @@
   },
   "Asana/locheck": {
     "created": "2025-01-06T20:58:20Z",
-    "duration": 12,
-    "modified": "2025-01-06T20:58:20Z",
+    "duration": 10,
+    "modified": "2025-01-06T23:17:55Z",
     "repo": "https://github.com/Asana/locheck.git",
-    "runid": 12638963153,
+    "runid": 12641431024,
+    "stars": 100,
     "status": "failure"
   },
   "AsyncNinja/AsyncNinja": {
