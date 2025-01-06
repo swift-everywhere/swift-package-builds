@@ -95,6 +95,14 @@
     "runid": 12636850547,
     "status": "success"
   },
+  "swift-server-community/mqtt-nio": {
+    "created": "2025-01-06T17:16:43Z",
+    "duration": 77,
+    "modified": "2025-01-06T17:16:44Z",
+    "repo": "https://github.com/swift-server-community/mqtt-nio.git",
+    "runid": 12636850547,
+    "status": "success"
+  },
   "tevelee/AsyncHTTP": {
     "created": "2025-01-06T17:14:10Z",
     "duration": 14,
