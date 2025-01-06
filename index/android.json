@@ -5405,6 +5405,15 @@
     "runid": 12637148220,
     "status": "success"
   },
+  "swhitty/KeyValueCoder": {
+    "created": "2025-01-06T22:52:50Z",
+    "duration": 7,
+    "modified": "2025-01-06T22:52:50Z",
+    "repo": "https://github.com/swhitty/KeyValueCoder.git",
+    "runid": 12641431024,
+    "stars": 17,
+    "status": "success"
+  },
   "swhitty/SwiftDraw": {
     "created": "2025-01-06T18:07:54Z",
     "duration": 78,
