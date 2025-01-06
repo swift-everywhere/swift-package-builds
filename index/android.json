@@ -2407,6 +2407,14 @@
     "runid": 12638963153,
     "status": "success"
   },
+  "launchdarkly/swift-eventsource": {
+    "created": "2025-01-06T20:57:38Z",
+    "duration": 6,
+    "modified": "2025-01-06T20:57:38Z",
+    "repo": "https://github.com/launchdarkly/swift-eventsource.git",
+    "runid": 12638963153,
+    "status": "failure"
+  },
   "leif-ibsen/SwiftChaChaPoly": {
     "created": "2025-01-06T20:43:54Z",
     "duration": 4,
