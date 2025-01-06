@@ -1130,9 +1130,9 @@
   "bloomberg/xcdiff": {
     "created": "2025-01-06T17:41:53Z",
     "duration": 10,
-    "modified": "2025-01-06T17:41:53Z",
+    "modified": "2025-01-06T20:39:27Z",
     "repo": "https://github.com/bloomberg/xcdiff.git",
-    "runid": 12637148220,
+    "runid": 12638963153,
     "status": "failure"
   },
   "bojan/Thingy": {
