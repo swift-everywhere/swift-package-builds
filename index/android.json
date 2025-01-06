@@ -2391,6 +2391,15 @@
     "runid": 12638963153,
     "status": "failure"
   },
+  "dfed/XCTest-watchOS": {
+    "created": "2025-01-06T22:06:16Z",
+    "duration": 3,
+    "modified": "2025-01-06T22:06:16Z",
+    "repo": "https://github.com/dfed/XCTest-watchOS.git",
+    "runid": 12640899049,
+    "stars": 19,
+    "status": "success"
+  },
   "dfed/swift-async-queue": {
     "created": "2025-01-06T17:45:57Z",
     "duration": 3,
