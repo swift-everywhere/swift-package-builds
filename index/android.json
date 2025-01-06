@@ -943,6 +943,14 @@
     "runid": 12637148220,
     "status": "failure"
   },
+  "grype/SwiftAnnouncements": {
+    "created": "2025-01-06T19:53:06Z",
+    "duration": 9,
+    "modified": "2025-01-06T19:53:06Z",
+    "repo": "https://github.com/grype/SwiftAnnouncements.git",
+    "runid": 12638963153,
+    "status": "success"
+  },
   "gwynne/INISerialization": {
     "created": "2025-01-06T19:34:58Z",
     "duration": 9,
