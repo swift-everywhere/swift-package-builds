@@ -183,6 +183,14 @@
     "runid": 12637148220,
     "status": "failure"
   },
+  "apple/example-package-dealer": {
+    "created": "2025-01-06T17:43:23Z",
+    "duration": 6,
+    "modified": "2025-01-06T17:43:24Z",
+    "repo": "https://github.com/apple/example-package-dealer.git",
+    "runid": 12637148220,
+    "status": "failure"
+  },
   "apple/swift-openapi-generator": {
     "created": "2025-01-06T17:32:51Z",
     "duration": 54,
