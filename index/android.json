@@ -127,6 +127,14 @@
     "runid": 12636850547,
     "status": "failure"
   },
+  "SwiftPackageIndex/ShellOut": {
+    "created": "2025-01-06T17:39:25Z",
+    "duration": 9,
+    "modified": "2025-01-06T17:39:25Z",
+    "repo": "https://github.com/SwiftPackageIndex/ShellOut.git",
+    "runid": 12637148220,
+    "status": "failure"
+  },
   "SwiftyLab/SwiftAnalyticsKit": {
     "created": "2025-01-06T17:12:30Z",
     "duration": 23,
