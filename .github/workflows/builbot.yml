@@ -8,7 +8,8 @@ on:
       - '.github/workflows/builbot.yml'
 
 concurrency:
-  #group: builtbot-${{ github.ref }}
+  group: builtbot
+  #-${{ github.ref }}
   cancel-in-progress: true
 
 jobs:
