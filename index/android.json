@@ -279,6 +279,14 @@
     "runid": 12637148220,
     "status": "failure"
   },
+  "apple/example-package-deckofplayingcards": {
+    "created": "2025-01-06T18:08:15Z",
+    "duration": 4,
+    "modified": "2025-01-06T18:08:15Z",
+    "repo": "https://github.com/apple/example-package-deckofplayingcards.git",
+    "runid": 12637757100,
+    "status": "success"
+  },
   "apple/swift-openapi-generator": {
     "created": "2025-01-06T17:32:51Z",
     "duration": 54,
