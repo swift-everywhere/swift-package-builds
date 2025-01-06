@@ -1070,6 +1070,15 @@
     "runid": 12638963153,
     "status": "failure"
   },
+  "SDGGiesbrecht/swift-package-manager": {
+    "created": "2025-01-06T21:26:07Z",
+    "duration": 6,
+    "modified": "2025-01-06T21:26:07Z",
+    "repo": "https://github.com/SDGGiesbrecht/swift-package-manager.git",
+    "runid": 12640552194,
+    "stars": 3,
+    "status": "failure"
+  },
   "STREGAsGate/Raylib": {
     "created": "2025-01-06T20:43:57Z",
     "duration": 2,
