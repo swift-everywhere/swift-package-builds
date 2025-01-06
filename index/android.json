@@ -1895,6 +1895,14 @@
     "runid": 12638963153,
     "status": "failure"
   },
+  "kiliankoe/swift-log-matrix": {
+    "created": "2025-01-06T20:32:04Z",
+    "duration": 5,
+    "modified": "2025-01-06T20:32:04Z",
+    "repo": "https://github.com/kiliankoe/swift-log-matrix.git",
+    "runid": 12638963153,
+    "status": "failure"
+  },
   "kiliankoe/swift-outdated": {
     "created": "2025-01-06T17:09:52Z",
     "duration": 13,
