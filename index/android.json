@@ -5047,6 +5047,15 @@
     "stars": 108,
     "status": "success"
   },
+  "sersoft-gmbh/device-input": {
+    "created": "2025-01-06T22:45:57Z",
+    "duration": 13,
+    "modified": "2025-01-06T22:45:57Z",
+    "repo": "https://github.com/sersoft-gmbh/device-input.git",
+    "runid": 12641431024,
+    "stars": 2,
+    "status": "failure"
+  },
   "setoelkahfi/JomloTableView": {
     "created": "2025-01-06T19:46:46Z",
     "duration": 6,
