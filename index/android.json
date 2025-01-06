@@ -2647,6 +2647,15 @@
     "runid": 12638963153,
     "status": "failure"
   },
+  "f-meloni/TestSpy": {
+    "created": "2025-01-06T22:11:06Z",
+    "duration": 11,
+    "modified": "2025-01-06T22:11:06Z",
+    "repo": "https://github.com/f-meloni/TestSpy.git",
+    "runid": 12640899049,
+    "stars": 16,
+    "status": "failure"
+  },
   "faberNovel/xcresource-cli": {
     "created": "2025-01-06T22:03:59Z",
     "duration": 8,
