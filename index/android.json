@@ -55,6 +55,14 @@
     "runid": 12636850547,
     "status": "success"
   },
+  "FitnessKit/TcxDataProtocol": {
+    "created": "2025-01-06T17:45:35Z",
+    "duration": 10,
+    "modified": "2025-01-06T17:45:35Z",
+    "repo": "https://github.com/FitnessKit/TcxDataProtocol.git",
+    "runid": 12637148220,
+    "status": "success"
+  },
   "Gerzer/LogicParser": {
     "created": "2025-01-06T17:39:50Z",
     "duration": 9,
