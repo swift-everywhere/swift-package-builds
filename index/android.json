@@ -6222,6 +6222,15 @@
     "runid": 12638963153,
     "status": "success"
   },
+  "vamsii777/juspay-kit": {
+    "created": "2025-01-06T23:04:23Z",
+    "duration": 73,
+    "modified": "2025-01-06T23:04:23Z",
+    "repo": "https://github.com/vamsii777/juspay-kit.git",
+    "runid": 12641431024,
+    "stars": 0,
+    "status": "failure"
+  },
   "vapor-community/CSRF": {
     "created": "2025-01-06T19:59:29Z",
     "duration": 32,
