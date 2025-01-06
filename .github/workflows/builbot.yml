@@ -82,7 +82,7 @@ jobs:
             cd $(dirname ${INDEX})
 
             # git config so we can push to the repository
-            git config user.email "$github-action@users.noreply.github.com"
+            git config user.email "github-action@users.noreply.github.com"
             git config user.name "GitHub Action"
             git config user.password "${{ secrets.GITHUB_TOKEN }}"
 
