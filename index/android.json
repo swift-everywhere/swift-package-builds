@@ -4953,6 +4953,15 @@
     "runid": 12638963153,
     "status": "failure"
   },
+  "vapor-community/Zip": {
+    "created": "2025-01-06T22:02:28Z",
+    "duration": 6,
+    "modified": "2025-01-06T22:02:28Z",
+    "repo": "https://github.com/vapor-community/Zip.git",
+    "runid": 12640899049,
+    "stars": 7,
+    "status": "failure"
+  },
   "vapor-community/google-cloud-kit": {
     "created": "2025-01-06T20:35:01Z",
     "duration": 82,
