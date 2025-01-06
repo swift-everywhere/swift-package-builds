@@ -3374,6 +3374,15 @@
     "runid": 12638963153,
     "status": "success"
   },
+  "junkpiano/scientist": {
+    "created": "2025-01-06T22:12:58Z",
+    "duration": 6,
+    "modified": "2025-01-06T22:12:58Z",
+    "repo": "https://github.com/junkpiano/scientist.git",
+    "runid": 12640899049,
+    "stars": 12,
+    "status": "success"
+  },
   "juri/graphqler": {
     "created": "2025-01-06T20:20:26Z",
     "duration": 13,
