@@ -4755,9 +4755,10 @@
   "magicbell/embedded-provision": {
     "created": "2025-01-06T20:00:44Z",
     "duration": 9,
-    "modified": "2025-01-06T20:00:44Z",
+    "modified": "2025-01-06T23:28:31Z",
     "repo": "https://github.com/magicbell/embedded-provision.git",
-    "runid": 12638963153,
+    "runid": 12641986754,
+    "stars": 5,
     "status": "success"
   },
   "makoni/parsable": {
