@@ -55,6 +55,14 @@
     "runid": 12636850547,
     "status": "success"
   },
+  "allegro/swift-junit": {
+    "created": "2025-01-06T17:17:13Z",
+    "duration": 10,
+    "modified": "2025-01-06T17:17:13Z",
+    "repo": "https://github.com/allegro/swift-junit.git",
+    "runid": 12636850547,
+    "status": "success"
+  },
   "amzn/smoke-aws-support": {
     "created": "2025-01-06T17:08:29Z",
     "duration": 114,
