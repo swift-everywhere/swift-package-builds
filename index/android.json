@@ -2239,6 +2239,14 @@
     "runid": 12637148220,
     "status": "success"
   },
+  "swiftlang/swift-sdk-generator": {
+    "created": "2025-01-06T20:17:17Z",
+    "duration": 22,
+    "modified": "2025-01-06T20:17:17Z",
+    "repo": "https://github.com/swiftlang/swift-sdk-generator.git",
+    "runid": 12638963153,
+    "status": "failure"
+  },
   "t-ae/xorswift": {
     "created": "2025-01-06T17:24:06Z",
     "duration": 7,
