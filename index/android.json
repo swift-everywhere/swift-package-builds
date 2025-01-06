@@ -5480,6 +5480,15 @@
     "runid": 12638963153,
     "status": "failure"
   },
+  "swift-server/swift-webauthn": {
+    "created": "2025-01-06T22:52:42Z",
+    "duration": 25,
+    "modified": "2025-01-06T22:52:42Z",
+    "repo": "https://github.com/swift-server/swift-webauthn.git",
+    "runid": 12641431024,
+    "stars": 133,
+    "status": "failure"
+  },
   "swift-serverless/BreezeLambdaWebHook": {
     "created": "2025-01-06T22:06:12Z",
     "duration": 49,
