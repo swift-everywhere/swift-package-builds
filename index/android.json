@@ -31,6 +31,14 @@
     "runid": 12635750109,
     "status": "failure"
   },
+  "ChristianFox/JustTime": {
+    "created": "2025-01-06T16:06:37Z",
+    "duration": 7,
+    "modified": "2025-01-06T16:06:37Z",
+    "repo": "https://github.com/ChristianFox/JustTime.git",
+    "runid": 12635750109,
+    "status": "failure"
+  },
   "CypherPoet/SwiftUITypographyUtils": {
     "created": "2025-01-06T16:06:20Z",
     "duration": 14,
