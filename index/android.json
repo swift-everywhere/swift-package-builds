@@ -2307,6 +2307,15 @@
     "runid": 12637757100,
     "status": "failure"
   },
+  "andybest/linenoise-swift": {
+    "created": "2025-01-06T23:27:36Z",
+    "duration": 8,
+    "modified": "2025-01-06T23:27:36Z",
+    "repo": "https://github.com/andybest/linenoise-swift.git",
+    "runid": 12641986754,
+    "stars": 145,
+    "status": "failure"
+  },
   "antlr/antlr4": {
     "created": "2025-01-06T22:52:03Z",
     "duration": 11,
