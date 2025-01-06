@@ -377,6 +377,15 @@
     "runid": 12638963153,
     "status": "success"
   },
+  "CypherPoet/AnimatableGradients": {
+    "created": "2025-01-06T21:51:28Z",
+    "duration": 4,
+    "modified": "2025-01-06T21:51:28Z",
+    "repo": "https://github.com/CypherPoet/AnimatableGradients.git",
+    "runid": 12640899049,
+    "stars": 89,
+    "status": "success"
+  },
   "CypherPoet/StringFormattingUtils": {
     "created": "2025-01-06T19:26:33Z",
     "duration": 7,
