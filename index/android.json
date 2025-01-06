@@ -287,6 +287,14 @@
     "runid": 12637148220,
     "status": "failure"
   },
+  "y-ich/swift-SGF": {
+    "created": "2025-01-06T17:26:41Z",
+    "duration": 7,
+    "modified": "2025-01-06T17:26:41Z",
+    "repo": "https://github.com/y-ich/swift-SGF.git",
+    "runid": 12637148220,
+    "status": "success"
+  },
   "yukiny0811/SwiftyHTMLBuilder": {
     "created": "2025-01-06T17:05:49Z",
     "duration": 13,
