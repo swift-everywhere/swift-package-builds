@@ -956,6 +956,15 @@
     "runid": 12638963153,
     "status": "success"
   },
+  "MarSe32m/sebbu-concurrency": {
+    "created": "2025-01-06T21:52:29Z",
+    "duration": 10,
+    "modified": "2025-01-06T21:52:29Z",
+    "repo": "https://github.com/MarSe32m/sebbu-concurrency.git",
+    "runid": 12640899049,
+    "stars": 0,
+    "status": "failure"
+  },
   "Maxim-Lanskoy/SRM": {
     "created": "2025-01-06T20:45:08Z",
     "duration": 12,
