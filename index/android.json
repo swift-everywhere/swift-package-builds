@@ -1407,6 +1407,14 @@
     "runid": 12638963153,
     "status": "success"
   },
+  "mapbox/mapbox-core-maps-ios": {
+    "created": "2025-01-06T20:05:11Z",
+    "duration": 16,
+    "modified": "2025-01-06T20:05:11Z",
+    "repo": "https://github.com/mapbox/mapbox-core-maps-ios.git",
+    "runid": 12638963153,
+    "status": "failure"
+  },
   "mapbox/turf-swift": {
     "created": "2025-01-06T19:59:58Z",
     "duration": 7,
