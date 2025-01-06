@@ -79,6 +79,15 @@
     "runid": 12638963153,
     "status": "success"
   },
+  "ABridoux/lux": {
+    "created": "2025-01-06T21:40:06Z",
+    "duration": 14,
+    "modified": "2025-01-06T21:40:06Z",
+    "repo": "https://github.com/ABridoux/lux.git",
+    "runid": 12640552194,
+    "stars": 28,
+    "status": "failure"
+  },
   "AdaEngine/SPIRV-Cross": {
     "created": "2025-01-06T18:06:03Z",
     "duration": 20,
