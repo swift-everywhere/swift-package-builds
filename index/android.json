@@ -1191,6 +1191,14 @@
     "runid": 12636850547,
     "status": "success"
   },
+  "pointfreeco/swift-web": {
+    "created": "2025-01-06T19:44:20Z",
+    "duration": 23,
+    "modified": "2025-01-06T19:44:20Z",
+    "repo": "https://github.com/pointfreeco/swift-web.git",
+    "runid": 12638963153,
+    "status": "failure"
+  },
   "polac24/XCBuildAnalyzer": {
     "created": "2025-01-06T17:13:00Z",
     "duration": 17,
