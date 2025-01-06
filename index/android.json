@@ -4005,6 +4005,15 @@
     "runid": 12638963153,
     "status": "success"
   },
+  "tayloraswift/swift-dom": {
+    "created": "2025-01-06T21:36:02Z",
+    "duration": 68,
+    "modified": "2025-01-06T21:36:02Z",
+    "repo": "https://github.com/tayloraswift/swift-dom.git",
+    "runid": 12640552194,
+    "stars": 22,
+    "status": "failure"
+  },
   "tayloraswift/swift-opengl": {
     "created": "2025-01-06T19:45:58Z",
     "duration": 6,
