@@ -1391,6 +1391,14 @@
     "runid": 12638963153,
     "status": "success"
   },
+  "ezefranca/check-permissions": {
+    "created": "2025-01-06T20:29:04Z",
+    "duration": 13,
+    "modified": "2025-01-06T20:29:04Z",
+    "repo": "https://github.com/ezefranca/check-permissions.git",
+    "runid": 12638963153,
+    "status": "failure"
+  },
   "facebook/zstd": {
     "created": "2025-01-06T17:41:39Z",
     "duration": 4,
