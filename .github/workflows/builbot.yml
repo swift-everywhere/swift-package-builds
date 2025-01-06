@@ -12,6 +12,11 @@ concurrency:
   #-${{ github.ref }}
   cancel-in-progress: true
 
+permissions:
+  # Give the default GITHUB_TOKEN write permission to commit and push the
+  # added or changed files to the repository.
+  contents: write
+
 jobs:
   buildbot:
     runs-on: ubuntu-24.04
@@ -27,6 +32,11 @@ jobs:
         uses: actions/checkout@v4
         with:
           path: swift-android-builds
+
+      # Publish to a branch in current repo
+      - uses: oleksiyrudenko/gha-git-credentials@v2.1.2
+        with:
+          token: '${{ secrets.GITHUB_TOKEN }}'
 
       - name: Build packages
         shell: bash
@@ -55,19 +65,24 @@ jobs:
             rm -rf repositories/"${DIR}"
 
             # create a record of the package if it doesn't already exist
-            jq --arg DIR "${DIR}" --arg REPO "${REPO}" '.[$DIR] |= if . == null then {"r": $REPO, "c": (now | todate)} else . end' ${INDEX} > ${INDEX}.new && mv ${INDEX}.new ${INDEX}
+            jq --arg DIR "${DIR}" --arg REPO "${REPO}" '.[$DIR] |= if . == null then {"repo": $REPO, "created": (now | todate)} else . end' ${INDEX} > ${INDEX}.new && mv ${INDEX}.new ${INDEX}
 
             # update the status of the build
-            jq --arg DIR "$DIR" --arg EXITCODE "$EXITCODE" '.[$DIR]."s" = $EXITCODE' $INDEX > $INDEX.new && mv $INDEX.new $INDEX
+            jq --arg DIR "$DIR" --arg EXITCODE "$EXITCODE" '.[$DIR]."exitcode" = $EXITCODE' $INDEX > $INDEX.new && mv $INDEX.new $INDEX
             # set the build time
-            jq --arg DIR "$DIR" --arg REPO "$REPO" '.[$DIR]."m" = (now | todate)' $INDEX > $INDEX.new && mv $INDEX.new $INDEX
+            jq --arg DIR "$DIR" --arg REPO "$REPO" '.[$DIR]."modified" = (now | todate)' $INDEX > $INDEX.new && mv $INDEX.new $INDEX
             # save the runid for future use
-            jq --arg DIR "$DIR" --arg RUNID "${{ github.run_id }}" '.[$DIR]."r" = $RUNID' $INDEX > $INDEX.new && mv $INDEX.new $INDEX
+            jq --arg DIR "$DIR" --arg RUNID "${{ github.run_id }}" '.[$DIR]."id" = $RUNID' $INDEX > $INDEX.new && mv $INDEX.new $INDEX
 
-            cat $INDEX
+            # we could compact the JSON, but it is nice to be able to
+            # see the line-by-line commit history when a package
+            # has been added or updated
+            #jq --compact-output --sort-keys '.' $INDEX > $INDEX.new && mv $INDEX.new $INDEX
+            # ensure keys are sorted
+            jq --sort-keys '.' $INDEX > $INDEX.new && mv $INDEX.new $INDEX
 
-            # compact the JSON
-            jq -c '.' $INDEX > $INDEX.new && mv $INDEX.new $INDEX
+            # output the JSON for debugging
+            jq --color-output --sort-keys '.' $INDEX
 
             cd $(dirname ${INDEX})
             git add $(basename $INDEX)
