@@ -4708,6 +4708,15 @@
     "runid": 12638963153,
     "status": "failure"
   },
+  "swift-serverless/BreezeLambdaWebHook": {
+    "created": "2025-01-06T22:06:12Z",
+    "duration": 49,
+    "modified": "2025-01-06T22:06:12Z",
+    "repo": "https://github.com/swift-serverless/BreezeLambdaWebHook.git",
+    "runid": 12640899049,
+    "stars": 0,
+    "status": "failure"
+  },
   "swift-serverless/swift-sls-adapter": {
     "created": "2025-01-06T20:58:49Z",
     "duration": 20,
