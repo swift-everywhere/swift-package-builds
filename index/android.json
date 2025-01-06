@@ -15,6 +15,14 @@
     "runid": 12637757100,
     "status": "success"
   },
+  "Alexander-Ignition/OSLogging": {
+    "created": "2025-01-06T20:01:26Z",
+    "duration": 5,
+    "modified": "2025-01-06T20:01:26Z",
+    "repo": "https://github.com/Alexander-Ignition/OSLogging.git",
+    "runid": 12638963153,
+    "status": "failure"
+  },
   "Appsaurus/Avatars": {
     "created": "2025-01-06T17:26:56Z",
     "duration": 7,
