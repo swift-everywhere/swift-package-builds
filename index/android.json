@@ -207,6 +207,14 @@
     "runid": 12636850547,
     "status": "success"
   },
+  "pelagornis/swift-builder": {
+    "created": "2025-01-06T17:26:33Z",
+    "duration": 81,
+    "modified": "2025-01-06T17:26:33Z",
+    "repo": "https://github.com/pelagornis/swift-builder.git",
+    "runid": 12637148220,
+    "status": "failure"
+  },
   "petrpavlik/GeoSwift": {
     "created": "2025-01-06T17:12:37Z",
     "duration": 6,
