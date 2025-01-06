@@ -2655,6 +2655,15 @@
     "runid": 12638963153,
     "status": "success"
   },
+  "bjtj/swift-http-server": {
+    "created": "2025-01-06T23:27:44Z",
+    "duration": 7,
+    "modified": "2025-01-06T23:27:44Z",
+    "repo": "https://github.com/bjtj/swift-http-server.git",
+    "runid": 12641986754,
+    "stars": 0,
+    "status": "failure"
+  },
   "bjtj/swift-xml": {
     "created": "2025-01-06T20:16:37Z",
     "duration": 6,
