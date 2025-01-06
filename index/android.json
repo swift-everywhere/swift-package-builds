@@ -6592,6 +6592,15 @@
     "stars": 5,
     "status": "success"
   },
+  "swiftysites/swiftysites": {
+    "created": "2025-01-06T23:31:50Z",
+    "duration": 15,
+    "modified": "2025-01-06T23:31:50Z",
+    "repo": "https://github.com/swiftysites/swiftysites.git",
+    "runid": 12641986754,
+    "stars": 5,
+    "status": "failure"
+  },
   "swifweb/autolayout": {
     "created": "2025-01-06T22:12:37Z",
     "duration": 53,
