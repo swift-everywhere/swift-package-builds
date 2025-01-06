@@ -94,8 +94,10 @@ jobs:
           mkdir repositories
           mkdir logs
 
-          for REPO in $(cat ${PACKAGES} | jq -r '.[]' | sort -R | head -n 100) ; do
-            DIR=$(echo "${REPO}" | cut -f 4- -d '/' | sed 's;.git$;;g')
+          for DIR in $(cat ${PACKAGES} | jq -r '.[]' | sort -R | head -n 100) ; do
+            #DIR=$(echo "${REPO}" | cut -f 4- -d '/' | sed 's;.git$;;g')
+            REPO="https://github.com/${DIR}.git"
+
             echo "Building: ${REPO} (https://swiftpackageindex.com/${DIR})"
             mkdir -p logs/"${DIR}"
 
