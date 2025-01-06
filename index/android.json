@@ -919,6 +919,15 @@
     "runid": 12638963153,
     "status": "failure"
   },
+  "MihaelIsaev/AwesomeWS": {
+    "created": "2025-01-06T21:46:39Z",
+    "duration": 43,
+    "modified": "2025-01-06T21:46:39Z",
+    "repo": "https://github.com/MihaelIsaev/AwesomeWS.git",
+    "runid": 12640869239,
+    "stars": 44,
+    "status": "failure"
+  },
   "MihaelIsaev/Localizer": {
     "created": "2025-01-06T20:28:42Z",
     "duration": 7,
