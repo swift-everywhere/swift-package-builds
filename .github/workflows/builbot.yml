@@ -24,7 +24,8 @@ jobs:
 
             mkdir -p ${DIR}
             cd ${DIR}
-            (git clone ${REPO} . && ${{ steps.setup-toolchain.outputs.swift-build }} -c debug) &> buildlog.txt && echo SUCCESS: ${REPO} || echo FAILED: ${REPO}
+            (git clone ${REPO} . && ${{ steps.setup-toolchain.outputs.swift-build }} -c debug) > buildlog.txt && echo "SUCCESS: ${REPO}" || echo "FAILED: ${REPO}"
+            cd -
             #exit 0
           done
 
