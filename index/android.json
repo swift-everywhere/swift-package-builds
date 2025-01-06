@@ -2101,6 +2101,15 @@
     "stars": 6,
     "status": "success"
   },
+  "Stiivi/DotWriter": {
+    "created": "2025-01-06T23:51:08Z",
+    "duration": 6,
+    "modified": "2025-01-06T23:51:08Z",
+    "repo": "https://github.com/Stiivi/DotWriter.git",
+    "runid": 12641986754,
+    "stars": 1,
+    "status": "success"
+  },
   "Stiivi/ParserCombinator": {
     "created": "2025-01-06T19:43:55Z",
     "duration": 4,
