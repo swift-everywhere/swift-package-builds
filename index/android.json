@@ -1527,6 +1527,14 @@
     "runid": 12638963153,
     "status": "failure"
   },
+  "taylorbswift/swift-web-semantics": {
+    "created": "2025-01-06T19:49:11Z",
+    "duration": 6,
+    "modified": "2025-01-06T19:49:11Z",
+    "repo": "https://github.com/taylorbswift/swift-web-semantics.git",
+    "runid": 12638963153,
+    "status": "success"
+  },
   "techinpark/ios_privacy_manifest_scanner": {
     "created": "2025-01-06T17:40:01Z",
     "duration": 8,
