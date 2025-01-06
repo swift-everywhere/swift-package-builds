@@ -1965,6 +1965,15 @@
     "runid": 12637148220,
     "status": "success"
   },
+  "fireblade-engine/math": {
+    "created": "2025-01-06T21:18:21Z",
+    "duration": 6,
+    "modified": "2025-01-06T21:18:21Z",
+    "repo": "https://github.com/fireblade-engine/math.git",
+    "runid": 12640312681,
+    "stars": 39,
+    "status": "failure"
+  },
   "fireblade-engine/time": {
     "created": "2025-01-06T17:10:12Z",
     "duration": 19,
