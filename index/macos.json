@@ -31,6 +31,14 @@
     "runid": 12636663814,
     "status": "success"
   },
+  "kasei/swift-serd": {
+    "created": "2025-01-06T16:53:13Z",
+    "duration": 2,
+    "modified": "2025-01-06T16:53:13Z",
+    "repo": "https://github.com/kasei/swift-serd.git",
+    "runid": 12636663814,
+    "status": "success"
+  },
   "lhoward/AsyncExtensions": {
     "created": "2025-01-06T16:53:10Z",
     "duration": 11,
