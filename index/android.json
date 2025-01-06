@@ -2973,6 +2973,15 @@
     "runid": 12638963153,
     "status": "success"
   },
+  "foscomputerservices/CryptoScraper": {
+    "created": "2025-01-06T22:44:47Z",
+    "duration": 21,
+    "modified": "2025-01-06T22:44:47Z",
+    "repo": "https://github.com/foscomputerservices/CryptoScraper.git",
+    "runid": 12641431024,
+    "stars": 2,
+    "status": "failure"
+  },
   "fpseverino/apple-maps-kit": {
     "created": "2025-01-06T21:16:23Z",
     "duration": 71,
