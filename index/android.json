@@ -70,5 +70,13 @@
     "repo": "https://github.com/simonnickel/snap-settings-service.git",
     "runid": 12635570877,
     "status": "failure"
+  },
+  "vapor/mysql-kit": {
+    "created": "2025-01-06T15:50:45Z",
+    "duration": 93,
+    "modified": "2025-01-06T15:50:45Z",
+    "repo": "https://github.com/vapor/mysql-kit.git",
+    "runid": 12635570877,
+    "status": "failure"
   }
 }
