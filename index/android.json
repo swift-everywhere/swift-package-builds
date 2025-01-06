@@ -1549,6 +1549,15 @@
     "runid": 12638963153,
     "status": "failure"
   },
+  "RiftValleySoftware/RVS_GeneralObserver": {
+    "created": "2025-01-06T23:00:47Z",
+    "duration": 6,
+    "modified": "2025-01-06T23:00:47Z",
+    "repo": "https://github.com/RiftValleySoftware/RVS_GeneralObserver.git",
+    "runid": 12641431024,
+    "stars": 5,
+    "status": "success"
+  },
   "RiftValleySoftware/RVS_IPAddress": {
     "created": "2025-01-06T21:59:13Z",
     "duration": 5,
