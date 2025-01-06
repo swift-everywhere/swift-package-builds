@@ -167,6 +167,14 @@
     "runid": 12636724204,
     "status": "failure"
   },
+  "tobihagemann/box-swift-sdk-gen": {
+    "created": "2025-01-06T17:03:05Z",
+    "duration": 52,
+    "modified": "2025-01-06T17:03:05Z",
+    "repo": "https://github.com/tobihagemann/box-swift-sdk-gen.git",
+    "runid": 12636724204,
+    "status": "failure"
+  },
   "vapor/sqlite-nio": {
     "created": "2025-01-06T17:01:56Z",
     "duration": 33,
