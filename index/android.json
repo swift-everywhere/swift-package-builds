@@ -1827,6 +1827,15 @@
     "runid": 12638963153,
     "status": "success"
   },
+  "danielctull/Resourceful": {
+    "created": "2025-01-06T21:29:23Z",
+    "duration": 6,
+    "modified": "2025-01-06T21:29:23Z",
+    "repo": "https://github.com/danielctull/Resourceful.git",
+    "runid": 12640552194,
+    "stars": 6,
+    "status": "success"
+  },
   "danielsaidi/WebViewKit": {
     "created": "2025-01-06T21:15:10Z",
     "duration": 4,
