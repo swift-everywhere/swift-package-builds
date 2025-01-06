@@ -503,6 +503,14 @@
     "runid": 12637148220,
     "status": "failure"
   },
+  "vapor-community/vapor-sitemap": {
+    "created": "2025-01-06T17:38:14Z",
+    "duration": 26,
+    "modified": "2025-01-06T17:38:14Z",
+    "repo": "https://github.com/vapor-community/vapor-sitemap.git",
+    "runid": 12637148220,
+    "status": "failure"
+  },
   "wolfmcnally/WolfNumerics": {
     "created": "2025-01-06T17:35:38Z",
     "duration": 7,
