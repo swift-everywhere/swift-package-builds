@@ -230,6 +230,15 @@
     "runid": 12637148220,
     "status": "success"
   },
+  "Appsaurus/Fakery": {
+    "created": "2025-01-06T23:19:09Z",
+    "duration": 9,
+    "modified": "2025-01-06T23:19:09Z",
+    "repo": "https://github.com/Appsaurus/Fakery.git",
+    "runid": 12641986754,
+    "stars": 0,
+    "status": "failure"
+  },
   "Appsaurus/FluentExtensions": {
     "created": "2025-01-06T19:49:03Z",
     "duration": 32,
