@@ -223,6 +223,14 @@
     "runid": 12637148220,
     "status": "success"
   },
+  "engali94/XCBuildKit": {
+    "created": "2025-01-06T17:38:55Z",
+    "duration": 15,
+    "modified": "2025-01-06T17:38:55Z",
+    "repo": "https://github.com/engali94/XCBuildKit.git",
+    "runid": 12637148220,
+    "status": "success"
+  },
   "ferranpujolcamins/DotSwift": {
     "created": "2025-01-06T17:05:35Z",
     "duration": 12,
