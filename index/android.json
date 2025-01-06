@@ -1187,6 +1187,15 @@
     "runid": 12638963153,
     "status": "failure"
   },
+  "KittyMac/Sextant": {
+    "created": "2025-01-06T23:36:11Z",
+    "duration": 20,
+    "modified": "2025-01-06T23:36:11Z",
+    "repo": "https://github.com/KittyMac/Sextant.git",
+    "runid": 12641986754,
+    "stars": 52,
+    "status": "success"
+  },
   "KittyMac/flynn": {
     "created": "2025-01-06T17:23:49Z",
     "duration": 6,
