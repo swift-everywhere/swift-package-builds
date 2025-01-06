@@ -5491,6 +5491,15 @@
     "runid": 12638963153,
     "status": "failure"
   },
+  "tuist/Command": {
+    "created": "2025-01-06T22:41:18Z",
+    "duration": 96,
+    "modified": "2025-01-06T22:41:18Z",
+    "repo": "https://github.com/tuist/Command.git",
+    "runid": 12641431024,
+    "stars": 42,
+    "status": "success"
+  },
   "tuist/XcodeProj": {
     "created": "2025-01-06T22:13:14Z",
     "duration": 9,
