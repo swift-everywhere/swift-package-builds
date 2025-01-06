@@ -423,6 +423,14 @@
     "runid": 12637148220,
     "status": "success"
   },
+  "daikimat/depermaid": {
+    "created": "2025-01-06T18:08:10Z",
+    "duration": 2,
+    "modified": "2025-01-06T18:08:10Z",
+    "repo": "https://github.com/daikimat/depermaid.git",
+    "runid": 12637757100,
+    "status": "success"
+  },
   "david-swift/LevenshteinTransformations": {
     "created": "2025-01-06T17:25:12Z",
     "duration": 4,
