@@ -3401,6 +3401,15 @@
     "stars": 3,
     "status": "success"
   },
+  "happn-app/XibLoc": {
+    "created": "2025-01-06T22:55:08Z",
+    "duration": 5,
+    "modified": "2025-01-06T22:55:08Z",
+    "repo": "https://github.com/happn-app/XibLoc.git",
+    "runid": 12641431024,
+    "stars": 2,
+    "status": "failure"
+  },
   "happn-app/officectl-model": {
     "created": "2025-01-06T22:16:07Z",
     "duration": 11,
