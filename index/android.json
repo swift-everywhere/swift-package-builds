@@ -879,6 +879,14 @@
     "runid": 12636850547,
     "status": "success"
   },
+  "finestructure/ValueCodable": {
+    "created": "2025-01-06T19:54:19Z",
+    "duration": 7,
+    "modified": "2025-01-06T19:54:19Z",
+    "repo": "https://github.com/finestructure/ValueCodable.git",
+    "runid": 12638963153,
+    "status": "success"
+  },
   "firebase/nanopb": {
     "created": "2025-01-06T17:39:52Z",
     "duration": 1,
