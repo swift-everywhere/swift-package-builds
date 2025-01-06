@@ -224,6 +224,15 @@
     "runid": 12637148220,
     "status": "success"
   },
+  "AvdLee/appstoreconnect-swift-sdk": {
+    "created": "2025-01-06T22:32:06Z",
+    "duration": 29,
+    "modified": "2025-01-06T22:32:06Z",
+    "repo": "https://github.com/AvdLee/appstoreconnect-swift-sdk.git",
+    "runid": 12641431024,
+    "stars": 1493,
+    "status": "failure"
+  },
   "Balancingrock/BRUtils": {
     "created": "2025-01-06T17:24:19Z",
     "duration": 7,
