@@ -2351,6 +2351,14 @@
     "runid": 12638963153,
     "status": "failure"
   },
+  "ngr-tc/swift-rtc": {
+    "created": "2025-01-06T20:42:47Z",
+    "duration": 64,
+    "modified": "2025-01-06T20:42:47Z",
+    "repo": "https://github.com/ngr-tc/swift-rtc.git",
+    "runid": 12638963153,
+    "status": "failure"
+  },
   "nikola-mladenovic/AwsSwiftDynamoDBsdk": {
     "created": "2025-01-06T20:38:37Z",
     "duration": 15,
