@@ -591,6 +591,14 @@
     "runid": 12635750109,
     "status": "failure"
   },
+  "twostraws/swiftslug": {
+    "created": "2025-01-06T16:13:55Z",
+    "duration": 5,
+    "modified": "2025-01-06T16:13:55Z",
+    "repo": "https://github.com/twostraws/swiftslug.git",
+    "runid": 12635750109,
+    "status": "failure"
+  },
   "uraimo/rcwl-0516-radar.swift": {
     "created": "2025-01-06T15:55:32Z",
     "duration": 8,
