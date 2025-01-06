@@ -95,6 +95,14 @@
     "runid": 12636850547,
     "status": "success"
   },
+  "allegro/swiftbox": {
+    "created": "2025-01-06T17:30:30Z",
+    "duration": 15,
+    "modified": "2025-01-06T17:30:30Z",
+    "repo": "https://github.com/allegro/swiftbox.git",
+    "runid": 12637148220,
+    "status": "failure"
+  },
   "bdrelling/Kipple": {
     "created": "2025-01-06T17:25:07Z",
     "duration": 34,
