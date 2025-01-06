@@ -1142,6 +1142,15 @@
     "runid": 12637757100,
     "status": "success"
   },
+  "JustinGuedes/inswifted": {
+    "created": "2025-01-06T23:27:11Z",
+    "duration": 6,
+    "modified": "2025-01-06T23:27:11Z",
+    "repo": "https://github.com/JustinGuedes/inswifted.git",
+    "runid": 12641986754,
+    "stars": 4,
+    "status": "success"
+  },
   "Kaiede/PCA9685": {
     "created": "2025-01-06T23:18:03Z",
     "duration": 7,
