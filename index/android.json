@@ -3039,6 +3039,15 @@
     "runid": 12637148220,
     "status": "success"
   },
+  "plarson/WKCodable": {
+    "created": "2025-01-06T21:14:17Z",
+    "duration": 7,
+    "modified": "2025-01-06T21:14:17Z",
+    "repo": "https://github.com/plarson/WKCodable.git",
+    "runid": 12640312681,
+    "stars": 4,
+    "status": "success"
+  },
   "pointfreeco/swift-case-paths": {
     "created": "2025-01-06T20:55:27Z",
     "duration": 77,
