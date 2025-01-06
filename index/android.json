@@ -335,6 +335,14 @@
     "runid": 12638963153,
     "status": "failure"
   },
+  "Kolos65/Mockable": {
+    "created": "2025-01-06T20:04:54Z",
+    "duration": 73,
+    "modified": "2025-01-06T20:04:54Z",
+    "repo": "https://github.com/Kolos65/Mockable.git",
+    "runid": 12638963153,
+    "status": "success"
+  },
   "Kuniwak/MirrorDiffKit": {
     "created": "2025-01-06T18:05:41Z",
     "duration": 6,
