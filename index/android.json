@@ -2047,6 +2047,15 @@
     "runid": 12638963153,
     "status": "failure"
   },
+  "apple/swift-argument-parser": {
+    "created": "2025-01-06T22:56:22Z",
+    "duration": 13,
+    "modified": "2025-01-06T22:56:22Z",
+    "repo": "https://github.com/apple/swift-argument-parser.git",
+    "runid": 12641431024,
+    "stars": 3379,
+    "status": "success"
+  },
   "apple/swift-crypto": {
     "created": "2025-01-06T21:20:55Z",
     "duration": 78,
