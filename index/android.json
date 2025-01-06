@@ -119,6 +119,14 @@
     "runid": 12636663814,
     "status": "success"
   },
+  "eugenebmx/eugener_test_cocoa": {
+    "created": "2025-01-06T16:59:52Z",
+    "duration": 6,
+    "modified": "2025-01-06T16:59:52Z",
+    "repo": "https://github.com/eugenebmx/eugener_test_cocoa.git",
+    "runid": 12636724204,
+    "status": "failure"
+  },
   "flipside5/SoS": {
     "created": "2025-01-06T16:57:29Z",
     "duration": 11,
