@@ -538,6 +538,15 @@
     "runid": 12636850547,
     "status": "success"
   },
+  "Digipolitan/localization-toolkit-object-mapper": {
+    "created": "2025-01-06T22:45:08Z",
+    "duration": 10,
+    "modified": "2025-01-06T22:45:08Z",
+    "repo": "https://github.com/Digipolitan/localization-toolkit-object-mapper.git",
+    "runid": 12641431024,
+    "stars": 0,
+    "status": "failure"
+  },
   "Digipolitan/session-kit": {
     "created": "2025-01-06T20:12:01Z",
     "duration": 5,
