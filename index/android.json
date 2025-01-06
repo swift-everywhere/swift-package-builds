@@ -15,6 +15,14 @@
     "runid": 12636850547,
     "status": "success"
   },
+  "brokenhandsio/vapor-csrf": {
+    "created": "2025-01-06T17:10:49Z",
+    "duration": 30,
+    "modified": "2025-01-06T17:10:49Z",
+    "repo": "https://github.com/brokenhandsio/vapor-csrf.git",
+    "runid": 12636850547,
+    "status": "failure"
+  },
   "btfranklin/StringBooster": {
     "created": "2025-01-06T17:05:58Z",
     "duration": 6,
