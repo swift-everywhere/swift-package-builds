@@ -239,6 +239,14 @@
     "runid": 12635750109,
     "status": "failure"
   },
+  "openkitten/schrodinger": {
+    "created": "2025-01-06T16:01:58Z",
+    "duration": 5,
+    "modified": "2025-01-06T16:01:58Z",
+    "repo": "https://github.com/openkitten/schrodinger.git",
+    "runid": 12635750109,
+    "status": "failure"
+  },
   "palle-k/DL4S-Tensorboard": {
     "created": "2025-01-06T15:56:14Z",
     "duration": 20,
