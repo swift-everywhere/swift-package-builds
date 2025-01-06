@@ -1583,6 +1583,14 @@
     "runid": 12638963153,
     "status": "failure"
   },
+  "davdroman/swift-json-testing": {
+    "created": "2025-01-06T20:57:24Z",
+    "duration": 12,
+    "modified": "2025-01-06T20:57:24Z",
+    "repo": "https://github.com/davdroman/swift-json-testing.git",
+    "runid": 12638963153,
+    "status": "success"
+  },
   "david-livadaru/DLAngle": {
     "created": "2025-01-06T20:02:44Z",
     "duration": 9,
