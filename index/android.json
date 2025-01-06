@@ -927,6 +927,14 @@
     "runid": 12637148220,
     "status": "success"
   },
+  "swhitty/SwiftDraw": {
+    "created": "2025-01-06T18:07:54Z",
+    "duration": 78,
+    "modified": "2025-01-06T18:07:54Z",
+    "repo": "https://github.com/swhitty/SwiftDraw.git",
+    "runid": 12637757100,
+    "status": "failure"
+  },
   "swiftlang/swift-driver": {
     "created": "2025-01-06T17:29:31Z",
     "duration": 72,
