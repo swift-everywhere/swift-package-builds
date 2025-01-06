@@ -591,6 +591,14 @@
     "runid": 12637148220,
     "status": "success"
   },
+  "music-notation-swift/music-notation-import-guitarpro": {
+    "created": "2025-01-06T17:45:24Z",
+    "duration": 12,
+    "modified": "2025-01-06T17:45:24Z",
+    "repo": "https://github.com/music-notation-swift/music-notation-import-guitarpro.git",
+    "runid": 12637148220,
+    "status": "failure"
+  },
   "mxcl/LegibleError": {
     "created": "2025-01-06T17:42:07Z",
     "duration": 5,
