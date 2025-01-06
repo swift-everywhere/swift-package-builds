@@ -407,6 +407,14 @@
     "runid": 12637148220,
     "status": "failure"
   },
+  "brightdigit/AssetLib": {
+    "created": "2025-01-06T19:39:32Z",
+    "duration": 39,
+    "modified": "2025-01-06T19:39:32Z",
+    "repo": "https://github.com/brightdigit/AssetLib.git",
+    "runid": 12638963153,
+    "status": "failure"
+  },
   "brightdigit/FelinePine": {
     "created": "2025-01-06T17:44:20Z",
     "duration": 6,
