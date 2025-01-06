@@ -4392,6 +4392,15 @@
     "runid": 12638963153,
     "status": "failure"
   },
+  "hylo-lang/Lotsawa": {
+    "created": "2025-01-06T23:46:30Z",
+    "duration": 13,
+    "modified": "2025-01-06T23:46:30Z",
+    "repo": "https://github.com/hylo-lang/Lotsawa.git",
+    "runid": 12641986754,
+    "stars": 18,
+    "status": "success"
+  },
   "iShape-Swift/iTree": {
     "created": "2025-01-06T18:04:53Z",
     "duration": 5,
