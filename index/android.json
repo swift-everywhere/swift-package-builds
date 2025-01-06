@@ -47,6 +47,14 @@
     "runid": 12635750109,
     "status": "failure"
   },
+  "DimaRU/BuildEnvironment": {
+    "created": "2025-01-06T16:17:59Z",
+    "duration": 13,
+    "modified": "2025-01-06T16:17:59Z",
+    "repo": "https://github.com/DimaRU/BuildEnvironment.git",
+    "runid": 12635750109,
+    "status": "failure"
+  },
   "Eisenhuth/Ospuze": {
     "created": "2025-01-06T15:54:38Z",
     "duration": 8,
