@@ -47,6 +47,14 @@
     "runid": 12635570877,
     "status": "failure"
   },
+  "LuizZak/GPEngine": {
+    "created": "2025-01-06T15:55:53Z",
+    "duration": 8,
+    "modified": "2025-01-06T15:55:53Z",
+    "repo": "https://github.com/LuizZak/GPEngine.git",
+    "runid": 12635570877,
+    "status": "failure"
+  },
   "MiaKoring/SlashCommands": {
     "created": "2025-01-06T15:54:30Z",
     "duration": 7,
