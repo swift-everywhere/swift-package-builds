@@ -415,6 +415,14 @@
     "runid": 12638963153,
     "status": "success"
   },
+  "JohnSundell/Publish": {
+    "created": "2025-01-06T20:30:08Z",
+    "duration": 17,
+    "modified": "2025-01-06T20:30:08Z",
+    "repo": "https://github.com/JohnSundell/Publish.git",
+    "runid": 12638963153,
+    "status": "failure"
+  },
   "JohnSundell/Sweep": {
     "created": "2025-01-06T17:30:36Z",
     "duration": 6,
