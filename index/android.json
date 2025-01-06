@@ -407,6 +407,14 @@
     "runid": 12637148220,
     "status": "success"
   },
+  "mxcl/StreamReader": {
+    "created": "2025-01-06T17:39:33Z",
+    "duration": 7,
+    "modified": "2025-01-06T17:39:33Z",
+    "repo": "https://github.com/mxcl/StreamReader.git",
+    "runid": 12637148220,
+    "status": "failure"
+  },
   "nixzhu/Baby": {
     "created": "2025-01-06T17:35:10Z",
     "duration": 7,
