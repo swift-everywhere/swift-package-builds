@@ -832,6 +832,15 @@
     "runid": 12638963153,
     "status": "failure"
   },
+  "NSHipster/PasswordRules": {
+    "created": "2025-01-06T21:24:36Z",
+    "duration": 3,
+    "modified": "2025-01-06T21:24:36Z",
+    "repo": "https://github.com/NSHipster/PasswordRules.git",
+    "runid": 12640552194,
+    "stars": 278,
+    "status": "success"
+  },
   "Nef10/SwiftBeanCountImporter": {
     "created": "2025-01-06T20:16:29Z",
     "duration": 33,
