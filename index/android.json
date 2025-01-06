@@ -1915,6 +1915,15 @@
     "runid": 12638963153,
     "status": "success"
   },
+  "davecom/SwiftPriorityQueue": {
+    "created": "2025-01-06T21:34:30Z",
+    "duration": 4,
+    "modified": "2025-01-06T21:34:30Z",
+    "repo": "https://github.com/davecom/SwiftPriorityQueue.git",
+    "runid": 12640552194,
+    "stars": 372,
+    "status": "success"
+  },
   "david-livadaru/DLAngle": {
     "created": "2025-01-06T20:02:44Z",
     "duration": 9,
