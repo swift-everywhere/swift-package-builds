@@ -159,6 +159,14 @@
     "runid": 12635570877,
     "status": "failure"
   },
+  "SwingDev/RxSwiftAutoRetry": {
+    "created": "2025-01-06T16:17:46Z",
+    "duration": 15,
+    "modified": "2025-01-06T16:17:46Z",
+    "repo": "https://github.com/SwingDev/RxSwiftAutoRetry.git",
+    "runid": 12635750109,
+    "status": "failure"
+  },
   "William-Weng/WWHash": {
     "created": "2025-01-06T16:02:12Z",
     "duration": 6,
