@@ -2257,6 +2257,15 @@
     "stars": 2,
     "status": "failure"
   },
+  "SwiftWebUI/SwiftWebUI": {
+    "created": "2025-01-06T23:54:40Z",
+    "duration": 33,
+    "modified": "2025-01-06T23:54:40Z",
+    "repo": "https://github.com/SwiftWebUI/SwiftWebUI.git",
+    "runid": 12641986754,
+    "stars": 4216,
+    "status": "failure"
+  },
   "SwifterSwift/SwifterSwift": {
     "created": "2025-01-06T23:32:54Z",
     "duration": 7,
