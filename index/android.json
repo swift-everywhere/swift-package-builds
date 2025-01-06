@@ -6804,6 +6804,15 @@
     "stars": 9,
     "status": "failure"
   },
+  "uraimo/WS281x.swift": {
+    "created": "2025-01-06T23:27:27Z",
+    "duration": 7,
+    "modified": "2025-01-06T23:27:27Z",
+    "repo": "https://github.com/uraimo/WS281x.swift.git",
+    "runid": 12641986754,
+    "stars": 36,
+    "status": "failure"
+  },
   "uuid25/swift-uuid25": {
     "created": "2025-01-06T20:28:01Z",
     "duration": 4,
