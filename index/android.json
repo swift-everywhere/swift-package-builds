@@ -2988,6 +2988,15 @@
     "stars": 995,
     "status": "success"
   },
+  "frugoman/SwiftMocks": {
+    "created": "2025-01-06T22:43:00Z",
+    "duration": 92,
+    "modified": "2025-01-06T22:43:00Z",
+    "repo": "https://github.com/frugoman/SwiftMocks.git",
+    "runid": 12641431024,
+    "stars": 88,
+    "status": "failure"
+  },
   "fummicc1/GeoHashSwift": {
     "created": "2025-01-06T20:55:35Z",
     "duration": 7,
