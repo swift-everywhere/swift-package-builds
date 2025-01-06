@@ -1576,10 +1576,11 @@
   },
   "bdewey/static-libgit2": {
     "created": "2025-01-06T17:42:23Z",
-    "duration": 7,
-    "modified": "2025-01-06T17:42:23Z",
+    "duration": 8,
+    "modified": "2025-01-06T21:37:09Z",
     "repo": "https://github.com/bdewey/static-libgit2.git",
-    "runid": 12637148220,
+    "runid": 12640552194,
+    "stars": 23,
     "status": "success"
   },
   "bdrelling/Kipple": {
