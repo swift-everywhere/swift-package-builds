@@ -5642,10 +5642,11 @@
   },
   "vapor/mysql-kit": {
     "created": "2025-01-06T20:18:51Z",
-    "duration": 93,
-    "modified": "2025-01-06T20:18:52Z",
+    "duration": 92,
+    "modified": "2025-01-06T22:38:56Z",
     "repo": "https://github.com/vapor/mysql-kit.git",
-    "runid": 12638963153,
+    "runid": 12641431024,
+    "stars": 226,
     "status": "failure"
   },
   "vapor/routing-kit": {
