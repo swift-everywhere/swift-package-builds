@@ -519,6 +519,14 @@
     "runid": 12636850547,
     "status": "failure"
   },
+  "invia-flights/swift-xcode-cloud-snapshot-testing": {
+    "created": "2025-01-06T18:05:34Z",
+    "duration": 9,
+    "modified": "2025-01-06T18:05:34Z",
+    "repo": "https://github.com/invia-flights/swift-xcode-cloud-snapshot-testing.git",
+    "runid": 12637757100,
+    "status": "failure"
+  },
   "ivanvorobei/SPPerspective": {
     "created": "2025-01-06T17:30:51Z",
     "duration": 4,
