@@ -23,6 +23,14 @@
     "runid": 12635570877,
     "status": "failure"
   },
+  "ChimeHQ/Rearrange": {
+    "created": "2025-01-06T16:06:05Z",
+    "duration": 6,
+    "modified": "2025-01-06T16:06:05Z",
+    "repo": "https://github.com/ChimeHQ/Rearrange.git",
+    "runid": 12635750109,
+    "status": "failure"
+  },
   "Eisenhuth/Ospuze": {
     "created": "2025-01-06T15:54:38Z",
     "duration": 8,
