@@ -98,7 +98,7 @@ jobs:
           mkdir repositories
           mkdir logs
 
-          for DIR in $(cat ${PACKAGES} | jq -r '.[]' | sort -R | head -n 100) ; do
+          for DIR in $(cat ${PACKAGES} | jq -r '.[]' | sort -R) ; do
             #DIR=$(echo "${REPO}" | cut -f 4- -d '/' | sed 's;.git$;;g')
             REPO="https://github.com/${DIR}.git"
 
