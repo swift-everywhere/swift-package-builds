@@ -4112,6 +4112,15 @@
     "stars": 90,
     "status": "failure"
   },
+  "reswifq/reswifq": {
+    "created": "2025-01-06T22:00:10Z",
+    "duration": 8,
+    "modified": "2025-01-06T22:00:10Z",
+    "repo": "https://github.com/reswifq/reswifq.git",
+    "runid": 12640899049,
+    "stars": 60,
+    "status": "failure"
+  },
   "richardpiazza/LocaleSupport": {
     "created": "2025-01-06T19:46:38Z",
     "duration": 6,
