@@ -5545,6 +5545,15 @@
     "stars": 3,
     "status": "success"
   },
+  "thii/yes": {
+    "created": "2025-01-06T22:45:28Z",
+    "duration": 3,
+    "modified": "2025-01-06T22:45:28Z",
+    "repo": "https://github.com/thii/yes.git",
+    "runid": 12641431024,
+    "stars": 1,
+    "status": "success"
+  },
   "thoughtbot/Argo": {
     "created": "2025-01-06T19:50:09Z",
     "duration": 10,
