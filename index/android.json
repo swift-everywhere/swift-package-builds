@@ -1270,6 +1270,15 @@
     "runid": 12638963153,
     "status": "failure"
   },
+  "RiftValleySoftware/RVS_IPAddress": {
+    "created": "2025-01-06T21:59:13Z",
+    "duration": 5,
+    "modified": "2025-01-06T21:59:14Z",
+    "repo": "https://github.com/RiftValleySoftware/RVS_IPAddress.git",
+    "runid": 12640899049,
+    "stars": 2,
+    "status": "success"
+  },
   "RiftValleySoftware/RVS_ParseXMLDuration": {
     "created": "2025-01-06T20:20:12Z",
     "duration": 6,
