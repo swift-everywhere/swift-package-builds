@@ -1319,6 +1319,14 @@
     "runid": 12638963153,
     "status": "failure"
   },
+  "magicbell/embedded-provision": {
+    "created": "2025-01-06T20:00:44Z",
+    "duration": 9,
+    "modified": "2025-01-06T20:00:44Z",
+    "repo": "https://github.com/magicbell/embedded-provision.git",
+    "runid": 12638963153,
+    "status": "success"
+  },
   "mapbox/turf-swift": {
     "created": "2025-01-06T19:59:58Z",
     "duration": 7,
