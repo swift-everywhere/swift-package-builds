@@ -127,6 +127,14 @@
     "runid": 12636850547,
     "status": "failure"
   },
+  "kudit/Device": {
+    "created": "2025-01-06T17:23:58Z",
+    "duration": 9,
+    "modified": "2025-01-06T17:23:58Z",
+    "repo": "https://github.com/kudit/Device.git",
+    "runid": 12637148220,
+    "status": "failure"
+  },
   "mgriebling/UInt128": {
     "created": "2025-01-06T17:11:04Z",
     "duration": 14,
