@@ -3385,6 +3385,15 @@
     "runid": 12637148220,
     "status": "failure"
   },
+  "kylef/JSONWebToken.swift": {
+    "created": "2025-01-06T22:05:17Z",
+    "duration": 11,
+    "modified": "2025-01-06T22:05:17Z",
+    "repo": "https://github.com/kylef/JSONWebToken.swift.git",
+    "runid": 12640899049,
+    "stars": 763,
+    "status": "failure"
+  },
   "kylehughes/sort-state-university": {
     "created": "2025-01-06T21:25:09Z",
     "duration": 6,
