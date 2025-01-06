@@ -1855,6 +1855,14 @@
     "runid": 12637148220,
     "status": "failure"
   },
+  "vapor-community/CSRF": {
+    "created": "2025-01-06T19:59:29Z",
+    "duration": 32,
+    "modified": "2025-01-06T19:59:29Z",
+    "repo": "https://github.com/vapor-community/CSRF.git",
+    "runid": 12638963153,
+    "status": "failure"
+  },
   "vapor-community/vapor-aws-lambda-runtime": {
     "created": "2025-01-06T17:33:42Z",
     "duration": 32,
