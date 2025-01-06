@@ -47,6 +47,14 @@
     "runid": 12636850547,
     "status": "failure"
   },
+  "kiliankoe/swift-outdated": {
+    "created": "2025-01-06T17:09:52Z",
+    "duration": 13,
+    "modified": "2025-01-06T17:09:52Z",
+    "repo": "https://github.com/kiliankoe/swift-outdated.git",
+    "runid": 12636850547,
+    "status": "failure"
+  },
   "krzysztofzablocki/Sourcery": {
     "created": "2025-01-06T17:09:19Z",
     "duration": 65,
