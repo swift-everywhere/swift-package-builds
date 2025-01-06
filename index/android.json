@@ -1262,6 +1262,15 @@
     "stars": 342,
     "status": "failure"
   },
+  "RedMadRobot/input-mask-ios": {
+    "created": "2025-01-06T21:59:30Z",
+    "duration": 7,
+    "modified": "2025-01-06T21:59:30Z",
+    "repo": "https://github.com/RedMadRobot/input-mask-ios.git",
+    "runid": 12640899049,
+    "stars": 584,
+    "status": "success"
+  },
   "RedMadRobot/parser-autograph": {
     "created": "2025-01-06T20:13:06Z",
     "duration": 15,
