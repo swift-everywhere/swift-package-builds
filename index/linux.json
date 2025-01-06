@@ -159,6 +159,14 @@
     "runid": 12636850547,
     "status": "failure"
   },
+  "tgrapperon/swift-dependencies-additions": {
+    "created": "2025-01-06T17:21:20Z",
+    "duration": 31,
+    "modified": "2025-01-06T17:21:20Z",
+    "repo": "https://github.com/tgrapperon/swift-dependencies-additions.git",
+    "runid": 12636850547,
+    "status": "success"
+  },
   "vapor-community/leaf-markdown": {
     "created": "2025-01-06T17:13:51Z",
     "duration": 37,
