@@ -6115,6 +6115,15 @@
     "runid": 12637148220,
     "status": "success"
   },
+  "pksprojects/ElasticSwift": {
+    "created": "2025-01-06T23:49:25Z",
+    "duration": 6,
+    "modified": "2025-01-06T23:49:25Z",
+    "repo": "https://github.com/pksprojects/ElasticSwift.git",
+    "runid": 12641986754,
+    "stars": 46,
+    "status": "failure"
+  },
   "plarson/WKCodable": {
     "created": "2025-01-06T21:14:17Z",
     "duration": 7,
