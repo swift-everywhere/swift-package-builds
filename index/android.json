@@ -191,6 +191,14 @@
     "runid": 12636724204,
     "status": "failure"
   },
+  "sbooth/CZoneDetect": {
+    "created": "2025-01-06T17:00:24Z",
+    "duration": 1,
+    "modified": "2025-01-06T17:00:24Z",
+    "repo": "https://github.com/sbooth/CZoneDetect.git",
+    "runid": 12636724204,
+    "status": "failure"
+  },
   "shamatar/scrypt-cryptoswift": {
     "created": "2025-01-06T17:00:16Z",
     "duration": 8,
