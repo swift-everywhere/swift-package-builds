@@ -1383,6 +1383,14 @@
     "runid": 12637148220,
     "status": "failure"
   },
+  "mxcl/Version": {
+    "created": "2025-01-06T19:56:38Z",
+    "duration": 6,
+    "modified": "2025-01-06T19:56:38Z",
+    "repo": "https://github.com/mxcl/Version.git",
+    "runid": 12638963153,
+    "status": "success"
+  },
   "my-mail-ru/swift-URI": {
     "created": "2025-01-06T17:42:48Z",
     "duration": 4,
