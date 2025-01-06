@@ -1541,6 +1541,15 @@
     "stars": 278,
     "status": "success"
   },
+  "Nef10/ShellOut": {
+    "created": "2025-01-06T23:44:05Z",
+    "duration": 6,
+    "modified": "2025-01-06T23:44:05Z",
+    "repo": "https://github.com/Nef10/ShellOut.git",
+    "runid": 12641986754,
+    "stars": 0,
+    "status": "success"
+  },
   "Nef10/SwiftBeanCountImporter": {
     "created": "2025-01-06T20:16:29Z",
     "duration": 33,
