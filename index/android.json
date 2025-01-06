@@ -327,6 +327,14 @@
     "runid": 12638963153,
     "status": "success"
   },
+  "SwiftNIOExtras/swift-nio-redis": {
+    "created": "2025-01-06T19:47:20Z",
+    "duration": 25,
+    "modified": "2025-01-06T19:47:20Z",
+    "repo": "https://github.com/SwiftNIOExtras/swift-nio-redis.git",
+    "runid": 12638963153,
+    "status": "failure"
+  },
   "SwiftPackageIndex/ReleaseNotes": {
     "created": "2025-01-06T17:12:00Z",
     "duration": 19,
