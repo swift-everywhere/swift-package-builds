@@ -1810,6 +1810,15 @@
     "runid": 12638963153,
     "status": "success"
   },
+  "SoftwareEngineerChris/MonetaryAmount": {
+    "created": "2025-01-06T23:17:44Z",
+    "duration": 10,
+    "modified": "2025-01-06T23:17:44Z",
+    "repo": "https://github.com/SoftwareEngineerChris/MonetaryAmount.git",
+    "runid": 12641431024,
+    "stars": 1,
+    "status": "failure"
+  },
   "SomeRandomiOSDev/Complex": {
     "created": "2025-01-06T22:09:31Z",
     "duration": 10,
