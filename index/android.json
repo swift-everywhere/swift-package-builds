@@ -431,6 +431,14 @@
     "runid": 12636850547,
     "status": "failure"
   },
+  "kaqu/FuturaAsync": {
+    "created": "2025-01-06T17:43:37Z",
+    "duration": 5,
+    "modified": "2025-01-06T17:43:37Z",
+    "repo": "https://github.com/kaqu/FuturaAsync.git",
+    "runid": 12637148220,
+    "status": "failure"
+  },
   "kasei/IDPPlanner": {
     "created": "2025-01-06T17:33:57Z",
     "duration": 8,
