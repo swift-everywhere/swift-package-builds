@@ -4949,6 +4949,15 @@
     "runid": 12638963153,
     "status": "failure"
   },
+  "vapor/fluent-mongo-driver": {
+    "created": "2025-01-06T22:01:35Z",
+    "duration": 21,
+    "modified": "2025-01-06T22:01:35Z",
+    "repo": "https://github.com/vapor/fluent-mongo-driver.git",
+    "runid": 12640899049,
+    "stars": 26,
+    "status": "failure"
+  },
   "vapor/mysql-kit": {
     "created": "2025-01-06T20:18:51Z",
     "duration": 93,
