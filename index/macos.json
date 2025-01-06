@@ -7,6 +7,14 @@
     "runid": 12636663814,
     "status": "failure"
   },
+  "D-Integral/NefertitiFile": {
+    "created": "2025-01-06T16:55:24Z",
+    "duration": 4,
+    "modified": "2025-01-06T16:55:24Z",
+    "repo": "https://github.com/D-Integral/NefertitiFile.git",
+    "runid": 12636663814,
+    "status": "success"
+  },
   "Digipolitan/dependency-injector": {
     "created": "2025-01-06T16:53:19Z",
     "duration": 2,
