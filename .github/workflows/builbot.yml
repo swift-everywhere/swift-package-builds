@@ -24,7 +24,7 @@ jobs:
             DIR=$(echo "${REPO}" | cut -f 4- -d '/' | sed 's;.git$;;g')
             mkdir -p ${DIR}
             cd ${DIR}
-            git clone https://github.com/${REPO} .
+            git clone ${REPO} .
             ${{ steps.setup-toolchain.outputs.swift-build }} -c debug
             exit 0
           done
