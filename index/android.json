@@ -3231,6 +3231,14 @@
     "runid": 12638963153,
     "status": "failure"
   },
+  "swift-serverless/swift-sls-adapter": {
+    "created": "2025-01-06T20:58:49Z",
+    "duration": 20,
+    "modified": "2025-01-06T20:58:49Z",
+    "repo": "https://github.com/swift-serverless/swift-sls-adapter.git",
+    "runid": 12638963153,
+    "status": "success"
+  },
   "swiftlang/swift-driver": {
     "created": "2025-01-06T17:29:31Z",
     "duration": 72,
