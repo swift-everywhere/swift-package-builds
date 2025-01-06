@@ -985,6 +985,15 @@
     "stars": 9,
     "status": "failure"
   },
+  "GiacomoLeopizzi/random-swift": {
+    "created": "2025-01-06T23:54:06Z",
+    "duration": 54,
+    "modified": "2025-01-06T23:54:06Z",
+    "repo": "https://github.com/GiacomoLeopizzi/random-swift.git",
+    "runid": 12641986754,
+    "stars": 0,
+    "status": "failure"
+  },
   "GoodHatsLLC/Emitter": {
     "created": "2025-01-06T19:41:58Z",
     "duration": 10,
