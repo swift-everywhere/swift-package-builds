@@ -319,6 +319,14 @@
     "runid": 12635570877,
     "status": "failure"
   },
+  "polpielladev/chatty-cli": {
+    "created": "2025-01-06T16:04:07Z",
+    "duration": 9,
+    "modified": "2025-01-06T16:04:07Z",
+    "repo": "https://github.com/polpielladev/chatty-cli.git",
+    "runid": 12635750109,
+    "status": "failure"
+  },
   "pzmudzinski/OpenGraphReader": {
     "created": "2025-01-06T15:53:01Z",
     "duration": 10,
