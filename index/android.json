@@ -31,6 +31,14 @@
     "runid": 12636850547,
     "status": "failure"
   },
+  "tugcanonbas/authomatek": {
+    "created": "2025-01-06T17:07:40Z",
+    "duration": 41,
+    "modified": "2025-01-06T17:07:40Z",
+    "repo": "https://github.com/tugcanonbas/authomatek.git",
+    "runid": 12636850547,
+    "status": "failure"
+  },
   "twof/VaporCRUDRouter": {
     "created": "2025-01-06T17:06:30Z",
     "duration": 30,
