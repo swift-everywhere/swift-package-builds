@@ -659,6 +659,15 @@
     "runid": 12638963153,
     "status": "failure"
   },
+  "DanielSincere/StaticMemberIterable": {
+    "created": "2025-01-06T23:49:00Z",
+    "duration": 92,
+    "modified": "2025-01-06T23:49:00Z",
+    "repo": "https://github.com/DanielSincere/StaticMemberIterable.git",
+    "runid": 12641986754,
+    "stars": 16,
+    "status": "failure"
+  },
   "DanielSincere/SwishAppStore": {
     "created": "2025-01-06T22:02:16Z",
     "duration": 9,
