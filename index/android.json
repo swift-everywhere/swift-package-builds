@@ -2435,6 +2435,15 @@
     "stars": 145,
     "status": "failure"
   },
+  "angu-software/SwiftAsyncAssert": {
+    "created": "2025-01-06T23:37:47Z",
+    "duration": 6,
+    "modified": "2025-01-06T23:37:47Z",
+    "repo": "https://github.com/angu-software/SwiftAsyncAssert.git",
+    "runid": 12641986754,
+    "stars": 9,
+    "status": "success"
+  },
   "antlr/antlr4": {
     "created": "2025-01-06T22:52:03Z",
     "duration": 11,
