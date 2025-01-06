@@ -4428,6 +4428,15 @@
     "runid": 12638963153,
     "status": "failure"
   },
+  "open-portfolio/AllocData": {
+    "created": "2025-01-06T22:41:27Z",
+    "duration": 8,
+    "modified": "2025-01-06T22:41:27Z",
+    "repo": "https://github.com/open-portfolio/AllocData.git",
+    "runid": 12641431024,
+    "stars": 2,
+    "status": "success"
+  },
   "openalloc/SwiftCompactor": {
     "created": "2025-01-06T22:00:45Z",
     "duration": 7,
