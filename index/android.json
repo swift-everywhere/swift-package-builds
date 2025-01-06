@@ -23,6 +23,14 @@
     "runid": 12636850547,
     "status": "success"
   },
+  "PerfectlySoft/Perfect-COpenSSL": {
+    "created": "2025-01-06T17:23:41Z",
+    "duration": 10,
+    "modified": "2025-01-06T17:23:41Z",
+    "repo": "https://github.com/PerfectlySoft/Perfect-COpenSSL.git",
+    "runid": 12637148220,
+    "status": "success"
+  },
   "SwiftPackageIndex/ReleaseNotes": {
     "created": "2025-01-06T17:12:00Z",
     "duration": 19,
