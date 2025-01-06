@@ -3234,6 +3234,15 @@
     "stars": 17,
     "status": "failure"
   },
+  "johnno1962/Popen": {
+    "created": "2025-01-06T22:09:12Z",
+    "duration": 7,
+    "modified": "2025-01-06T22:09:12Z",
+    "repo": "https://github.com/johnno1962/Popen.git",
+    "runid": 12640899049,
+    "stars": 6,
+    "status": "failure"
+  },
   "johnnzhou/swift-nio": {
     "created": "2025-01-06T17:41:25Z",
     "duration": 34,
