@@ -743,6 +743,14 @@
     "runid": 12638963153,
     "status": "failure"
   },
+  "Mobelux/swift-lambda-extras": {
+    "created": "2025-01-06T20:57:03Z",
+    "duration": 14,
+    "modified": "2025-01-06T20:57:03Z",
+    "repo": "https://github.com/Mobelux/swift-lambda-extras.git",
+    "runid": 12638963153,
+    "status": "failure"
+  },
   "Nef10/SwiftBeanCountImporter": {
     "created": "2025-01-06T20:16:29Z",
     "duration": 33,
