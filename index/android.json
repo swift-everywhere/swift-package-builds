@@ -263,6 +263,14 @@
     "runid": 12638963153,
     "status": "failure"
   },
+  "Kitura/Kitura": {
+    "created": "2025-01-06T19:53:40Z",
+    "duration": 24,
+    "modified": "2025-01-06T19:53:40Z",
+    "repo": "https://github.com/Kitura/Kitura.git",
+    "runid": 12638963153,
+    "status": "failure"
+  },
   "Kuniwak/MirrorDiffKit": {
     "created": "2025-01-06T18:05:41Z",
     "duration": 6,
