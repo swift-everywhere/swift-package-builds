@@ -359,6 +359,14 @@
     "runid": 12636850547,
     "status": "success"
   },
+  "pointfreeco/swift-dependencies": {
+    "created": "2025-01-06T17:34:40Z",
+    "duration": 26,
+    "modified": "2025-01-06T17:34:40Z",
+    "repo": "https://github.com/pointfreeco/swift-dependencies.git",
+    "runid": 12637148220,
+    "status": "failure"
+  },
   "pointfreeco/swift-nonempty": {
     "created": "2025-01-06T17:12:05Z",
     "duration": 4,
