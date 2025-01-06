@@ -7094,6 +7094,15 @@
     "runid": 12638963153,
     "status": "failure"
   },
+  "tugcanonbas/connectable-kit": {
+    "created": "2025-01-06T23:38:55Z",
+    "duration": 27,
+    "modified": "2025-01-06T23:38:55Z",
+    "repo": "https://github.com/tugcanonbas/connectable-kit.git",
+    "runid": 12641986754,
+    "stars": 9,
+    "status": "failure"
+  },
   "tuist/Command": {
     "created": "2025-01-06T22:41:18Z",
     "duration": 96,
