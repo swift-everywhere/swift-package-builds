@@ -30,5 +30,13 @@
     "repo": "https://github.com/SwiftGen/StencilSwiftKit.git",
     "runid": 12636663814,
     "status": "success"
+  },
+  "markbattistella/image-zoom-publish-plugin": {
+    "created": "2025-01-06T16:53:59Z",
+    "duration": 22,
+    "modified": "2025-01-06T16:53:59Z",
+    "repo": "https://github.com/markbattistella/image-zoom-publish-plugin.git",
+    "runid": 12636663814,
+    "status": "success"
   }
 }
