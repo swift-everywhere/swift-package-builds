@@ -4113,6 +4113,15 @@
     "runid": 12638963153,
     "status": "success"
   },
+  "fumoboy007/swift-http-error-handling": {
+    "created": "2025-01-06T23:57:17Z",
+    "duration": 14,
+    "modified": "2025-01-06T23:57:17Z",
+    "repo": "https://github.com/fumoboy007/swift-http-error-handling.git",
+    "runid": 12641986754,
+    "stars": 7,
+    "status": "failure"
+  },
   "funzin/Rimuru": {
     "created": "2025-01-06T19:37:03Z",
     "duration": 68,
