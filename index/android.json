@@ -543,6 +543,14 @@
     "runid": 12637148220,
     "status": "failure"
   },
+  "hanjoes/swift-termina": {
+    "created": "2025-01-06T18:08:19Z",
+    "duration": 3,
+    "modified": "2025-01-06T18:08:19Z",
+    "repo": "https://github.com/hanjoes/swift-termina.git",
+    "runid": 12637757100,
+    "status": "failure"
+  },
   "heroesofcode/ViewState": {
     "created": "2025-01-06T17:44:35Z",
     "duration": 6,
