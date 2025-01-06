@@ -2301,6 +2301,15 @@
     "runid": 12638963153,
     "status": "success"
   },
+  "bernoulliconvergenator/BCTest": {
+    "created": "2025-01-06T22:58:45Z",
+    "duration": 67,
+    "modified": "2025-01-06T22:58:45Z",
+    "repo": "https://github.com/bernoulliconvergenator/BCTest.git",
+    "runid": 12641431024,
+    "stars": 1,
+    "status": "failure"
+  },
   "bhansconnect/SwiftTimeit": {
     "created": "2025-01-06T20:52:21Z",
     "duration": 6,
