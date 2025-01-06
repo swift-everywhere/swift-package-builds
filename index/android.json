@@ -2056,6 +2056,15 @@
     "stars": 3379,
     "status": "success"
   },
+  "apple/swift-cluster-membership": {
+    "created": "2025-01-06T22:57:06Z",
+    "duration": 16,
+    "modified": "2025-01-06T22:57:06Z",
+    "repo": "https://github.com/apple/swift-cluster-membership.git",
+    "runid": 12641431024,
+    "stars": 210,
+    "status": "failure"
+  },
   "apple/swift-crypto": {
     "created": "2025-01-06T21:20:55Z",
     "duration": 78,
