@@ -28,6 +28,8 @@ jobs:
         #os: ['ubuntu-24.04', 'ubuntu-22.04', 'macos-14', 'macos-15']
         # TODO: fix ios builds
         os: ['ubuntu-24.04', 'ubuntu-22.04']
+        # TODO: fix issue with commit collisions when running concurrently
+        os: ['ubuntu-24.04']
     steps:
       - name: Setup Android Toolchain
         if: ${{ matrix.os == 'ubuntu-24.04' }}
