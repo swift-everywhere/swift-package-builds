@@ -2165,6 +2165,15 @@
     "runid": 12638963153,
     "status": "success"
   },
+  "ctreffs/SwiftVulkan": {
+    "created": "2025-01-06T22:06:37Z",
+    "duration": 1,
+    "modified": "2025-01-06T22:06:37Z",
+    "repo": "https://github.com/ctreffs/SwiftVulkan.git",
+    "runid": 12640899049,
+    "stars": 9,
+    "status": "success"
+  },
   "cx-org/CombineX": {
     "created": "2025-01-06T20:25:30Z",
     "duration": 12,
