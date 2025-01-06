@@ -2483,6 +2483,15 @@
     "runid": 12638963153,
     "status": "failure"
   },
+  "aws-amplify/aws-sdk-ios-spm": {
+    "created": "2025-01-06T23:26:52Z",
+    "duration": 6,
+    "modified": "2025-01-06T23:26:52Z",
+    "repo": "https://github.com/aws-amplify/aws-sdk-ios-spm.git",
+    "runid": 12641986754,
+    "stars": 30,
+    "status": "success"
+  },
   "awslabs/aws-crt-swift": {
     "created": "2025-01-06T22:08:09Z",
     "duration": 6,
