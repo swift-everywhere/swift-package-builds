@@ -135,6 +135,14 @@
     "runid": 12636850547,
     "status": "success"
   },
+  "mesqueeb/CaseAnything": {
+    "created": "2025-01-06T17:21:28Z",
+    "duration": 6,
+    "modified": "2025-01-06T17:21:28Z",
+    "repo": "https://github.com/mesqueeb/CaseAnything.git",
+    "runid": 12636850547,
+    "status": "success"
+  },
   "pointfreeco/swift-navigation": {
     "created": "2025-01-06T17:10:07Z",
     "duration": 97,
