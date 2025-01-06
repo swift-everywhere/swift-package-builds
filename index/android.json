@@ -804,6 +804,15 @@
     "stars": 5,
     "status": "success"
   },
+  "Joannis/swift-nio-ssh": {
+    "created": "2025-01-06T22:16:54Z",
+    "duration": 46,
+    "modified": "2025-01-06T22:16:54Z",
+    "repo": "https://github.com/Joannis/swift-nio-ssh.git",
+    "runid": 12640899049,
+    "stars": 1,
+    "status": "failure"
+  },
   "JohnSundell/Ink": {
     "created": "2025-01-06T20:03:40Z",
     "duration": 8,
