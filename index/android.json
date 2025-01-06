@@ -1271,6 +1271,14 @@
     "runid": 12637148220,
     "status": "success"
   },
+  "lovetodream/postgres-nio-macros": {
+    "created": "2025-01-06T19:56:31Z",
+    "duration": 22,
+    "modified": "2025-01-06T19:56:31Z",
+    "repo": "https://github.com/lovetodream/postgres-nio-macros.git",
+    "runid": 12638963153,
+    "status": "failure"
+  },
   "marionauta/HelperKit": {
     "created": "2025-01-06T17:39:40Z",
     "duration": 6,
