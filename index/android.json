@@ -79,6 +79,14 @@
     "runid": 12635570877,
     "status": "failure"
   },
+  "delicious-ai/HungarianAlgorithm": {
+    "created": "2025-01-06T15:54:02Z",
+    "duration": 12,
+    "modified": "2025-01-06T15:54:02Z",
+    "repo": "https://github.com/delicious-ai/HungarianAlgorithm.git",
+    "runid": 12635570877,
+    "status": "failure"
+  },
   "dmonagle/elasticsearch-vapor": {
     "created": "2025-01-06T15:51:33Z",
     "duration": 9,
