@@ -5357,6 +5357,15 @@
     "runid": 12636850547,
     "status": "success"
   },
+  "yumemi-inc/danger-swift-eda": {
+    "created": "2025-01-06T22:07:16Z",
+    "duration": 16,
+    "modified": "2025-01-06T22:07:16Z",
+    "repo": "https://github.com/yumemi-inc/danger-swift-eda.git",
+    "runid": 12640899049,
+    "stars": 7,
+    "status": "failure"
+  },
   "yutailang0119/FileScanKit": {
     "created": "2025-01-06T19:25:38Z",
     "duration": 11,
