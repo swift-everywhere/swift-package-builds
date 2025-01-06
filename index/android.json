@@ -3928,6 +3928,15 @@
     "runid": 12637757100,
     "status": "success"
   },
+  "karwa/uniqueid": {
+    "created": "2025-01-06T22:59:54Z",
+    "duration": 6,
+    "modified": "2025-01-06T22:59:54Z",
+    "repo": "https://github.com/karwa/uniqueid.git",
+    "runid": 12641431024,
+    "stars": 72,
+    "status": "failure"
+  },
   "kasei/IDPPlanner": {
     "created": "2025-01-06T17:33:57Z",
     "duration": 8,
