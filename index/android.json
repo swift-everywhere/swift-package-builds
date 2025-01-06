@@ -2614,6 +2614,15 @@
     "runid": 12638963153,
     "status": "success"
   },
+  "klundberg/Weakify": {
+    "created": "2025-01-06T21:24:32Z",
+    "duration": 3,
+    "modified": "2025-01-06T21:24:32Z",
+    "repo": "https://github.com/klundberg/Weakify.git",
+    "runid": 12640552194,
+    "stars": 74,
+    "status": "success"
+  },
   "kodecocodes/spm-tutorial": {
     "created": "2025-01-06T19:43:24Z",
     "duration": 3,
