@@ -19,10 +19,14 @@ jobs:
           #set -x
           set -o pipefail
           # random selection of the swiftpackageindex repositories
+          mkdir repositories
+          mkdir logs
+
           for REPO in $(curl https://raw.githubusercontent.com/SwiftPackageIndex/PackageList/refs/heads/main/packages.json | jq -r '.[]' | sort -R | head -n 100) ; do
             DIR=$(echo "${REPO}" | cut -f 4- -d '/' | sed 's;.git$;;g')
             echo "Building: ${REPO} (https://swiftpackageindex.com/${DIR})"
+            mkdir -p logs/"${DIR}"
 
-            (git clone "${REPO}" "${DIR}" && ${{ steps.setup-toolchain.outputs.swift-build }} -c debug --package-path "${DIR}") | tee "${DIR}"/buildlog.txt && echo "SUCCESS: ${REPO}" || echo "FAILED: ${REPO}"
+            (git clone --depth=1 "${REPO}" repositories/"${DIR}" && ${{ steps.setup-toolchain.outputs.swift-build }} -c debug --package-path repositories/"${DIR}") | tee logs/"${DIR}"/buildlog.txt && echo "SUCCESS: ${REPO}" || echo "FAILED: ${REPO}"
           done
 
