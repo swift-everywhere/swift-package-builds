@@ -1324,6 +1324,15 @@
     "runid": 12638963153,
     "status": "failure"
   },
+  "apple/swift-crypto": {
+    "created": "2025-01-06T21:20:55Z",
+    "duration": 78,
+    "modified": "2025-01-06T21:20:55Z",
+    "repo": "https://github.com/apple/swift-crypto.git",
+    "runid": 12640312681,
+    "stars": 1490,
+    "status": "success"
+  },
   "apple/swift-metrics": {
     "created": "2025-01-06T20:30:18Z",
     "duration": 3,
