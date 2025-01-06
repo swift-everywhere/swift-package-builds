@@ -3792,6 +3792,15 @@
     "runid": 12638963153,
     "status": "success"
   },
+  "gonzalonunez/ginny": {
+    "created": "2025-01-06T23:28:21Z",
+    "duration": 32,
+    "modified": "2025-01-06T23:28:21Z",
+    "repo": "https://github.com/gonzalonunez/ginny.git",
+    "runid": 12641986754,
+    "stars": 12,
+    "status": "failure"
+  },
   "google/flatbuffers": {
     "created": "2025-01-06T21:34:54Z",
     "duration": 7,
