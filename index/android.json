@@ -3551,6 +3551,15 @@
     "runid": 12638963153,
     "status": "failure"
   },
+  "nicklockwood/ShapeScript": {
+    "created": "2025-01-06T21:53:49Z",
+    "duration": 17,
+    "modified": "2025-01-06T21:53:49Z",
+    "repo": "https://github.com/nicklockwood/ShapeScript.git",
+    "runid": 12640899049,
+    "stars": 399,
+    "status": "failure"
+  },
   "nicklockwood/SwiftFormat": {
     "created": "2025-01-06T21:18:03Z",
     "duration": 23,
