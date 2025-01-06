@@ -3049,10 +3049,11 @@
   },
   "ml-archive/bugsnag": {
     "created": "2025-01-06T17:11:36Z",
-    "duration": 30,
-    "modified": "2025-01-06T20:02:27Z",
+    "duration": 28,
+    "modified": "2025-01-06T21:34:16Z",
     "repo": "https://github.com/ml-archive/bugsnag.git",
-    "runid": 12638963153,
+    "runid": 12640552194,
+    "stars": 39,
     "status": "failure"
   },
   "ml-archive/slugify": {
