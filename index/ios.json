@@ -1,8 +1,8 @@
 {
   "": {
     "created": "2025-01-06T16:48:45Z",
-    "duration": 1,
-    "modified": "2025-01-06T16:49:16Z",
+    "duration": 0,
+    "modified": "2025-01-06T16:49:17Z",
     "repo": "ukitaka/XCTAssertUnrecoverable",
     "runid": 12636600318,
     "status": "failure"
