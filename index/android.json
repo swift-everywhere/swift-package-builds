@@ -3253,6 +3253,15 @@
     "runid": 12636850547,
     "status": "failure"
   },
+  "ptrkstr/ACDD-Swift": {
+    "created": "2025-01-06T21:21:26Z",
+    "duration": 4,
+    "modified": "2025-01-06T21:21:26Z",
+    "repo": "https://github.com/ptrkstr/ACDD-Swift.git",
+    "runid": 12640312681,
+    "stars": 1,
+    "status": "success"
+  },
   "ptsochantaris/can-proceed": {
     "created": "2025-01-06T17:45:53Z",
     "duration": 6,
