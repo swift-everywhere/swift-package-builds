@@ -55,6 +55,14 @@
     "runid": 12636663814,
     "status": "success"
   },
+  "flipside5/SoS": {
+    "created": "2025-01-06T16:57:29Z",
+    "duration": 11,
+    "modified": "2025-01-06T16:57:29Z",
+    "repo": "https://github.com/flipside5/SoS.git",
+    "runid": 12636724204,
+    "status": "failure"
+  },
   "fschwehn/vapor-rest-client": {
     "created": "2025-01-06T16:53:42Z",
     "duration": 19,
