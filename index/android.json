@@ -151,6 +151,14 @@
     "runid": 12635570877,
     "status": "failure"
   },
+  "auth0/JWTDecode.swift": {
+    "created": "2025-01-06T16:03:43Z",
+    "duration": 14,
+    "modified": "2025-01-06T16:03:43Z",
+    "repo": "https://github.com/auth0/JWTDecode.swift.git",
+    "runid": 12635750109,
+    "status": "failure"
+  },
   "bigMOTOR/DataDrivenRxDatasources": {
     "created": "2025-01-06T15:47:23Z",
     "duration": 21,
