@@ -615,6 +615,14 @@
     "runid": 12638963153,
     "status": "success"
   },
+  "NozeIO/swift-nio-irc-server": {
+    "created": "2025-01-06T20:28:34Z",
+    "duration": 32,
+    "modified": "2025-01-06T20:28:34Z",
+    "repo": "https://github.com/NozeIO/swift-nio-irc-server.git",
+    "runid": 12638963153,
+    "status": "failure"
+  },
   "NozeIO/swift-nio-redis-client": {
     "created": "2025-01-06T20:19:32Z",
     "duration": 25,
