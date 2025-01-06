@@ -5571,6 +5571,15 @@
     "stars": 0,
     "status": "failure"
   },
+  "slashmo/swift-app-store-receipt-validation": {
+    "created": "2025-01-06T23:06:23Z",
+    "duration": 46,
+    "modified": "2025-01-06T23:06:23Z",
+    "repo": "https://github.com/slashmo/swift-app-store-receipt-validation.git",
+    "runid": 12641431024,
+    "stars": 11,
+    "status": "failure"
+  },
   "sleepwalkerfx/QuantumCache": {
     "created": "2025-01-06T20:48:29Z",
     "duration": 6,
