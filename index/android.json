@@ -791,6 +791,14 @@
     "runid": 12638963153,
     "status": "success"
   },
+  "OperatorFoundation/swift-netutils": {
+    "created": "2025-01-06T20:49:06Z",
+    "duration": 14,
+    "modified": "2025-01-06T20:49:06Z",
+    "repo": "https://github.com/OperatorFoundation/swift-netutils.git",
+    "runid": 12638963153,
+    "status": "failure"
+  },
   "PerfectlySoft/Perfect-COpenSSL": {
     "created": "2025-01-06T17:23:41Z",
     "duration": 10,
