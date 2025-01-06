@@ -2303,6 +2303,14 @@
     "runid": 12638963153,
     "status": "success"
   },
+  "makoni/parsable": {
+    "created": "2025-01-06T20:48:51Z",
+    "duration": 15,
+    "modified": "2025-01-06T20:48:51Z",
+    "repo": "https://github.com/makoni/parsable.git",
+    "runid": 12638963153,
+    "status": "success"
+  },
   "mapbox/mapbox-core-maps-ios": {
     "created": "2025-01-06T20:05:11Z",
     "duration": 16,
