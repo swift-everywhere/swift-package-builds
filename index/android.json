@@ -326,6 +326,15 @@
     "stars": 7,
     "status": "failure"
   },
+  "Bouke/Glob": {
+    "created": "2025-01-06T22:32:39Z",
+    "duration": 6,
+    "modified": "2025-01-06T22:32:39Z",
+    "repo": "https://github.com/Bouke/Glob.git",
+    "runid": 12641431024,
+    "stars": 25,
+    "status": "failure"
+  },
   "Bouke/HKDF": {
     "created": "2025-01-06T20:51:38Z",
     "duration": 9,
