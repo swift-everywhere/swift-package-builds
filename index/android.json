@@ -303,6 +303,14 @@
     "runid": 12637148220,
     "status": "failure"
   },
+  "asensei/vapor-fluent-mongo": {
+    "created": "2025-01-06T19:26:25Z",
+    "duration": 46,
+    "modified": "2025-01-06T19:26:25Z",
+    "repo": "https://github.com/asensei/vapor-fluent-mongo.git",
+    "runid": 12638963153,
+    "status": "failure"
+  },
   "attaswift/Deque": {
     "created": "2025-01-06T17:45:40Z",
     "duration": 4,
