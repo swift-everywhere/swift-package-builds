@@ -1671,6 +1671,14 @@
     "runid": 12637148220,
     "status": "failure"
   },
+  "vapor/url-encoded-form": {
+    "created": "2025-01-06T19:52:07Z",
+    "duration": 5,
+    "modified": "2025-01-06T19:52:07Z",
+    "repo": "https://github.com/vapor/url-encoded-form.git",
+    "runid": 12638963153,
+    "status": "failure"
+  },
   "vsanthanam/WeakReference": {
     "created": "2025-01-06T17:42:58Z",
     "duration": 9,
