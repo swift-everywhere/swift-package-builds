@@ -1433,6 +1433,15 @@
     "runid": 12638963153,
     "status": "success"
   },
+  "aestesis/Cpng": {
+    "created": "2025-01-06T21:41:05Z",
+    "duration": 1,
+    "modified": "2025-01-06T21:41:05Z",
+    "repo": "https://github.com/aestesis/Cpng.git",
+    "runid": 12640552194,
+    "stars": 0,
+    "status": "failure"
+  },
   "alessiorubicini/SwiftSessions": {
     "created": "2025-01-06T20:56:28Z",
     "duration": 25,
