@@ -727,6 +727,14 @@
     "runid": 12636850547,
     "status": "failure"
   },
+  "ptsochantaris/can-proceed": {
+    "created": "2025-01-06T17:45:53Z",
+    "duration": 6,
+    "modified": "2025-01-06T17:45:53Z",
+    "repo": "https://github.com/ptsochantaris/can-proceed.git",
+    "runid": 12637148220,
+    "status": "failure"
+  },
   "rapierorg/telegram-bot-swift": {
     "created": "2025-01-06T17:41:34Z",
     "duration": 8,
