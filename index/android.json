@@ -881,6 +881,15 @@
     "runid": 12638963153,
     "status": "success"
   },
+  "PureSwift/GATT": {
+    "created": "2025-01-06T21:17:31Z",
+    "duration": 58,
+    "modified": "2025-01-06T21:17:31Z",
+    "repo": "https://github.com/PureSwift/GATT.git",
+    "runid": 12640312681,
+    "stars": 64,
+    "status": "failure"
+  },
   "Quick/swift-fakes": {
     "created": "2025-01-06T20:33:38Z",
     "duration": 23,
