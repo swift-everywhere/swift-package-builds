@@ -1013,9 +1013,10 @@
   "Hi-Rez/Easings": {
     "created": "2025-01-06T20:11:05Z",
     "duration": 15,
-    "modified": "2025-01-06T20:11:05Z",
+    "modified": "2025-01-06T23:49:41Z",
     "repo": "https://github.com/Hi-Rez/Easings.git",
-    "runid": 12638963153,
+    "runid": 12641986754,
+    "stars": 12,
     "status": "failure"
   },
   "HoaPham98/VietnameseLunarDateSwift": {
