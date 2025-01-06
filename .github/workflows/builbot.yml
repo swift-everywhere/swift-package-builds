@@ -1,0 +1,25 @@
+name: buildbot
+on:
+  workflow_dispatch:
+  push:
+jobs:
+  buildbot:
+    runs-on: ubuntu-24.04
+    steps:
+      - name: Setup Toolchain
+        id: setup-toolchain
+        uses: skiptools/swift-android-action@main
+        with:
+          # just set up the toolchain and don't build anything
+          build-package: false
+
+      - name: Build packages
+        shell: bash
+        run: |
+          for REPO in apple/swift-numerics ; do
+            mkdir -p ${REPO}
+            cd ${REPO}/..
+            git clone https://github.com/${REPO}
+            cd ../${REPO}
+            ${{ steps.setup-toolchain.outputs.swift-build }} -c debug
+          done

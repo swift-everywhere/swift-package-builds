@@ -1,4 +1,4 @@
-name: swift-android-action ci
+name: builder ci
 on:
   workflow_dispatch:
 jobs:
