@@ -47,6 +47,14 @@
     "runid": 12636850547,
     "status": "failure"
   },
+  "jaroshevskii/swift-ice-cream-sandwich": {
+    "created": "2025-01-06T17:10:17Z",
+    "duration": 4,
+    "modified": "2025-01-06T17:10:17Z",
+    "repo": "https://github.com/jaroshevskii/swift-ice-cream-sandwich.git",
+    "runid": 12636850547,
+    "status": "success"
+  },
   "jsorge/maverick": {
     "created": "2025-01-06T17:08:13Z",
     "duration": 26,
