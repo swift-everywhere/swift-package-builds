@@ -5080,10 +5080,11 @@
   },
   "peripheryapp/periphery": {
     "created": "2025-01-06T20:23:18Z",
-    "duration": 19,
-    "modified": "2025-01-06T20:23:18Z",
+    "duration": 12,
+    "modified": "2025-01-06T23:07:27Z",
     "repo": "https://github.com/peripheryapp/periphery.git",
-    "runid": 12638963153,
+    "runid": 12641431024,
+    "stars": 5368,
     "status": "failure"
   },
   "peterkos/swifty": {
