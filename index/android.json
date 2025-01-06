@@ -4847,6 +4847,15 @@
     "runid": 12638963153,
     "status": "failure"
   },
+  "nextincrement/simple-asn1-reader-writer": {
+    "created": "2025-01-06T23:12:31Z",
+    "duration": 6,
+    "modified": "2025-01-06T23:12:31Z",
+    "repo": "https://github.com/nextincrement/simple-asn1-reader-writer.git",
+    "runid": 12641431024,
+    "stars": 7,
+    "status": "success"
+  },
   "ngr-tc/swift-rtc": {
     "created": "2025-01-06T20:42:47Z",
     "duration": 64,
