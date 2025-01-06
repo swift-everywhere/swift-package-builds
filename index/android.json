@@ -271,6 +271,14 @@
     "runid": 12635570877,
     "status": "failure"
   },
+  "terlan98/CircularSlider": {
+    "created": "2025-01-06T15:57:33Z",
+    "duration": 4,
+    "modified": "2025-01-06T15:57:33Z",
+    "repo": "https://github.com/terlan98/CircularSlider.git",
+    "runid": 12635750109,
+    "status": "failure"
+  },
   "uraimo/rcwl-0516-radar.swift": {
     "created": "2025-01-06T15:55:32Z",
     "duration": 8,
