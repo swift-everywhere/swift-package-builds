@@ -15,6 +15,14 @@
     "runid": 12636850547,
     "status": "success"
   },
+  "amzn/smoke-aws-support": {
+    "created": "2025-01-06T17:08:29Z",
+    "duration": 114,
+    "modified": "2025-01-06T17:08:29Z",
+    "repo": "https://github.com/amzn/smoke-aws-support.git",
+    "runid": 12636850547,
+    "status": "success"
+  },
   "franklefebvre/swift-export": {
     "created": "2025-01-06T17:06:33Z",
     "duration": 15,
