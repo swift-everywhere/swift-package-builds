@@ -4430,6 +4430,15 @@
     "stars": 17,
     "status": "success"
   },
+  "kateinoigakukun/swift-indexstore": {
+    "created": "2025-01-06T23:29:00Z",
+    "duration": 7,
+    "modified": "2025-01-06T23:29:00Z",
+    "repo": "https://github.com/kateinoigakukun/swift-indexstore.git",
+    "runid": 12641986754,
+    "stars": 52,
+    "status": "failure"
+  },
   "kawoou/AnyDate": {
     "created": "2025-01-06T22:32:32Z",
     "duration": 7,
