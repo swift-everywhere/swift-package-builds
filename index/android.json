@@ -1571,6 +1571,15 @@
     "runid": 12637148220,
     "status": "failure"
   },
+  "SwiftPackageIndex/ShellQuote": {
+    "created": "2025-01-06T22:09:37Z",
+    "duration": 6,
+    "modified": "2025-01-06T22:09:37Z",
+    "repo": "https://github.com/SwiftPackageIndex/ShellQuote.git",
+    "runid": 12640899049,
+    "stars": 0,
+    "status": "success"
+  },
   "SwiftWebResources/HighlightJS-Swift": {
     "created": "2025-01-06T21:59:07Z",
     "duration": 1,
