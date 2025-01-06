@@ -1962,6 +1962,15 @@
     "runid": 12638963153,
     "status": "success"
   },
+  "fpseverino/apple-maps-kit": {
+    "created": "2025-01-06T21:16:23Z",
+    "duration": 71,
+    "modified": "2025-01-06T21:16:23Z",
+    "repo": "https://github.com/fpseverino/apple-maps-kit.git",
+    "runid": 12640312681,
+    "stars": 12,
+    "status": "failure"
+  },
   "franklefebvre/XMLCoder": {
     "created": "2025-01-06T20:32:12Z",
     "duration": 7,
