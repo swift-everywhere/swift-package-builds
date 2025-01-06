@@ -2168,6 +2168,15 @@
     "stars": 0,
     "status": "failure"
   },
+  "akbashev/cluster-event-sourcing": {
+    "created": "2025-01-06T23:25:11Z",
+    "duration": 25,
+    "modified": "2025-01-06T23:25:11Z",
+    "repo": "https://github.com/akbashev/cluster-event-sourcing.git",
+    "runid": 12641986754,
+    "stars": 0,
+    "status": "failure"
+  },
   "akbashev/swift-distributed-actors": {
     "created": "2025-01-06T23:01:30Z",
     "duration": 24,
