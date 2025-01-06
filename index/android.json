@@ -3691,6 +3691,15 @@
     "runid": 12637148220,
     "status": "failure"
   },
+  "uraimo/UBloxGPS.swift": {
+    "created": "2025-01-06T21:15:05Z",
+    "duration": 8,
+    "modified": "2025-01-06T21:15:05Z",
+    "repo": "https://github.com/uraimo/UBloxGPS.swift.git",
+    "runid": 12640312681,
+    "stars": 9,
+    "status": "failure"
+  },
   "uuid25/swift-uuid25": {
     "created": "2025-01-06T20:28:01Z",
     "duration": 4,
