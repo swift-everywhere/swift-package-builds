@@ -2855,6 +2855,14 @@
     "runid": 12638963153,
     "status": "failure"
   },
+  "zef/Retry": {
+    "created": "2025-01-06T20:29:43Z",
+    "duration": 6,
+    "modified": "2025-01-06T20:29:43Z",
+    "repo": "https://github.com/zef/Retry.git",
+    "runid": 12638963153,
+    "status": "success"
+  },
   "zssz/BerkananFoundation": {
     "created": "2025-01-06T20:25:47Z",
     "duration": 6,
