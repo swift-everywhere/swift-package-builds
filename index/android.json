@@ -599,6 +599,14 @@
     "runid": 12635750109,
     "status": "failure"
   },
+  "yonaskolb/Genesis": {
+    "created": "2025-01-06T16:09:37Z",
+    "duration": 19,
+    "modified": "2025-01-06T16:09:37Z",
+    "repo": "https://github.com/yonaskolb/Genesis.git",
+    "runid": 12635750109,
+    "status": "failure"
+  },
   "zssz/BerkananFoundation": {
     "created": "2025-01-06T15:53:08Z",
     "duration": 7,
