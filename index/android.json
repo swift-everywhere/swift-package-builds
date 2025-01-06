@@ -2047,6 +2047,14 @@
     "runid": 12637148220,
     "status": "failure"
   },
+  "peripheryapp/periphery": {
+    "created": "2025-01-06T20:23:18Z",
+    "duration": 19,
+    "modified": "2025-01-06T20:23:18Z",
+    "repo": "https://github.com/peripheryapp/periphery.git",
+    "runid": 12638963153,
+    "status": "failure"
+  },
   "petrpavlik/GeoSwift": {
     "created": "2025-01-06T17:12:37Z",
     "duration": 6,
