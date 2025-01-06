@@ -447,6 +447,14 @@
     "runid": 12637148220,
     "status": "failure"
   },
+  "nikola-mladenovic/AwsSwiftSign": {
+    "created": "2025-01-06T17:40:39Z",
+    "duration": 15,
+    "modified": "2025-01-06T17:40:39Z",
+    "repo": "https://github.com/nikola-mladenovic/AwsSwiftSign.git",
+    "runid": 12637148220,
+    "status": "failure"
+  },
   "nixzhu/Baby": {
     "created": "2025-01-06T17:35:10Z",
     "duration": 7,
