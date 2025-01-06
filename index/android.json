@@ -15,6 +15,14 @@
     "runid": 12638963153,
     "status": "success"
   },
+  "20tab/DepthNSDictionary": {
+    "created": "2025-01-06T20:12:50Z",
+    "duration": 6,
+    "modified": "2025-01-06T20:12:50Z",
+    "repo": "https://github.com/20tab/DepthNSDictionary.git",
+    "runid": 12638963153,
+    "status": "success"
+  },
   "AdaEngine/SPIRV-Cross": {
     "created": "2025-01-06T18:06:03Z",
     "duration": 21,
