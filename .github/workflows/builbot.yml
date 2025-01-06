@@ -81,7 +81,7 @@ jobs:
           git config user.name "GitHub Action"
           git config user.password "${{ secrets.GITHUB_TOKEN }}"
 
-      - name: Build packages
+      - name: Build packages for ${{ steps.setup-platform.outputs.platform }}
         shell: bash
         run: |
           #set -x
@@ -104,10 +104,12 @@ jobs:
             # reset from previous run
             EXITCODE=0
 
+            WD=$(pwd)
             START=$(date +%s)
-            (git clone --depth=1 "${REPO}" repositories/"${DIR}" && ${{ steps.setup-platform.outputs.buildcmd }} -c debug --package-path repositories/"${DIR}") | tee logs/"${DIR}"/buildlog.txt && echo EXITCODE=0 || EXITCODE=$?
+            (git clone --depth=1 "${REPO}" repositories/"${DIR}" && cd repositories/"${DIR}" && ${{ steps.setup-platform.outputs.buildcmd }} ) | tee ../../logs/"${DIR}"/buildlog.txt && echo EXITCODE=0 || EXITCODE=$?
             END=$(date +%s)
             DURATION=$[END - START]
+            cd ${WD}
 
             if [ $EXITCODE == 0 ]; then
               echo "SUCCESS: ${REPO} in ${DURATION}"
