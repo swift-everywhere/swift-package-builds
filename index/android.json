@@ -4018,6 +4018,15 @@
     "stars": 190,
     "status": "success"
   },
+  "kennethlaskoski/KL": {
+    "created": "2025-01-06T23:05:36Z",
+    "duration": 6,
+    "modified": "2025-01-06T23:05:36Z",
+    "repo": "https://github.com/kennethlaskoski/KL.git",
+    "runid": 12641431024,
+    "stars": 0,
+    "status": "success"
+  },
   "kewlbear/TensorFlowLiteC": {
     "created": "2025-01-06T20:23:26Z",
     "duration": 6,
