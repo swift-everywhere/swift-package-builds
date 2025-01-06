@@ -159,6 +159,14 @@
     "runid": 12638963153,
     "status": "failure"
   },
+  "DanielSincere/ShXcrun": {
+    "created": "2025-01-06T20:05:21Z",
+    "duration": 9,
+    "modified": "2025-01-06T20:05:21Z",
+    "repo": "https://github.com/DanielSincere/ShXcrun.git",
+    "runid": 12638963153,
+    "status": "failure"
+  },
   "Digipolitan/framework-swift-template": {
     "created": "2025-01-06T17:07:46Z",
     "duration": 5,
