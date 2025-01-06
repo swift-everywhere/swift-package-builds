@@ -39,6 +39,14 @@
     "runid": 12635570877,
     "status": "failure"
   },
+  "RedECSEngine/Graphs": {
+    "created": "2025-01-06T15:54:09Z",
+    "duration": 6,
+    "modified": "2025-01-06T15:54:09Z",
+    "repo": "https://github.com/RedECSEngine/Graphs.git",
+    "runid": 12635570877,
+    "status": "failure"
+  },
   "RussBaz/cuid2": {
     "created": "2025-01-06T15:53:25Z",
     "duration": 17,
