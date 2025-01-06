@@ -3419,6 +3419,15 @@
     "stars": 3,
     "status": "success"
   },
+  "happn-app/SemiSingleton": {
+    "created": "2025-01-06T22:56:08Z",
+    "duration": 5,
+    "modified": "2025-01-06T22:56:08Z",
+    "repo": "https://github.com/happn-app/SemiSingleton.git",
+    "runid": 12641431024,
+    "stars": 2,
+    "status": "failure"
+  },
   "happn-app/XibLoc": {
     "created": "2025-01-06T22:55:08Z",
     "duration": 5,
