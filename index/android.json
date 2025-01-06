@@ -972,6 +972,15 @@
     "stars": 23,
     "status": "success"
   },
+  "QuickBirdEng/DataKit": {
+    "created": "2025-01-06T21:24:54Z",
+    "duration": 9,
+    "modified": "2025-01-06T21:24:54Z",
+    "repo": "https://github.com/QuickBirdEng/DataKit.git",
+    "runid": 12640552194,
+    "stars": 43,
+    "status": "success"
+  },
   "QuickBirdEng/XServiceLocator": {
     "created": "2025-01-06T20:39:35Z",
     "duration": 7,
