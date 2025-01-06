@@ -551,6 +551,14 @@
     "runid": 12638963153,
     "status": "success"
   },
+  "NozeIO/swift-nio-redis-client": {
+    "created": "2025-01-06T20:19:32Z",
+    "duration": 25,
+    "modified": "2025-01-06T20:19:32Z",
+    "repo": "https://github.com/NozeIO/swift-nio-redis-client.git",
+    "runid": 12638963153,
+    "status": "failure"
+  },
   "OpenCombine/OpenCombine": {
     "created": "2025-01-06T19:40:27Z",
     "duration": 13,
