@@ -3010,6 +3010,15 @@
     "stars": 2,
     "status": "failure"
   },
+  "loopwerk/SwiftMarkdown": {
+    "created": "2025-01-06T21:39:01Z",
+    "duration": 5,
+    "modified": "2025-01-06T21:39:01Z",
+    "repo": "https://github.com/loopwerk/SwiftMarkdown.git",
+    "runid": 12640552194,
+    "stars": 1,
+    "status": "failure"
+  },
   "lorenalexm/StrapiSwiftCross": {
     "created": "2025-01-06T17:34:14Z",
     "duration": 18,
