@@ -237,6 +237,15 @@
     "runid": 12636850547,
     "status": "success"
   },
+  "BenchR267/Parsel": {
+    "created": "2025-01-06T21:56:51Z",
+    "duration": 6,
+    "modified": "2025-01-06T21:56:51Z",
+    "repo": "https://github.com/BenchR267/Parsel.git",
+    "runid": 12640899049,
+    "stars": 22,
+    "status": "success"
+  },
   "BinaryBirds/Sunlight": {
     "created": "2025-01-06T19:57:04Z",
     "duration": 7,
