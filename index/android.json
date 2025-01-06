@@ -3992,6 +3992,15 @@
     "runid": 12638963153,
     "status": "success"
   },
+  "gringoireDM/EnumKit": {
+    "created": "2025-01-06T23:38:15Z",
+    "duration": 6,
+    "modified": "2025-01-06T23:38:15Z",
+    "repo": "https://github.com/gringoireDM/EnumKit.git",
+    "runid": 12641986754,
+    "stars": 103,
+    "status": "success"
+  },
   "groue/GRDB.swift": {
     "created": "2025-01-06T17:44:54Z",
     "duration": 11,
