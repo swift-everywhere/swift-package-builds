@@ -39,6 +39,14 @@
     "repo": "https://github.com/dylanshine/openai-kit.git",
     "status": ""
   },
+  "fwcd/swift-binary-coder": {
+    "created": "2025-01-06T15:40:57Z",
+    "duration": 13,
+    "id": 12635442628,
+    "modified": "2025-01-06T15:40:57Z",
+    "repo": "https://github.com/fwcd/swift-binary-coder.git",
+    "status": ""
+  },
   "glessard/shuffle": {
     "created": "2025-01-06T15:40:24Z",
     "duration": 4,
