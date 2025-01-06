@@ -1,4 +1,12 @@
 {
+  "0xLet/Observation": {
+    "created": "2025-01-06T18:06:35Z",
+    "duration": 8,
+    "modified": "2025-01-06T18:06:35Z",
+    "repo": "https://github.com/0xLet/Observation.git",
+    "runid": 12637757100,
+    "status": "success"
+  },
   "AdaEngine/SPIRV-Cross": {
     "created": "2025-01-06T18:06:03Z",
     "duration": 21,
