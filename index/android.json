@@ -2915,6 +2915,15 @@
     "runid": 12637148220,
     "status": "success"
   },
+  "envoy/Ambassador": {
+    "created": "2025-01-06T22:54:21Z",
+    "duration": 7,
+    "modified": "2025-01-06T22:54:21Z",
+    "repo": "https://github.com/envoy/Ambassador.git",
+    "runid": 12641431024,
+    "stars": 186,
+    "status": "failure"
+  },
   "erica/Swift-General-Utility": {
     "created": "2025-01-06T22:10:54Z",
     "duration": 5,
