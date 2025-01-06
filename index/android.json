@@ -1975,6 +1975,14 @@
     "runid": 12638963153,
     "status": "success"
   },
+  "jverkoey/BinaryCodable": {
+    "created": "2025-01-06T20:41:26Z",
+    "duration": 6,
+    "modified": "2025-01-06T20:41:26Z",
+    "repo": "https://github.com/jverkoey/BinaryCodable.git",
+    "runid": 12638963153,
+    "status": "success"
+  },
   "kaqu/FuturaAsync": {
     "created": "2025-01-06T17:43:37Z",
     "duration": 5,
