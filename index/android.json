@@ -7090,6 +7090,15 @@
     "stars": 22,
     "status": "failure"
   },
+  "tayloraswift/swift-mongodb": {
+    "created": "2025-01-06T23:45:54Z",
+    "duration": 53,
+    "modified": "2025-01-06T23:45:54Z",
+    "repo": "https://github.com/tayloraswift/swift-mongodb.git",
+    "runid": 12641986754,
+    "stars": 7,
+    "status": "failure"
+  },
   "tayloraswift/swift-noise": {
     "created": "2025-01-06T22:01:53Z",
     "duration": 17,
