@@ -367,6 +367,14 @@
     "runid": 12638963153,
     "status": "success"
   },
+  "FluxorOrg/FluxorExplorerSnapshot": {
+    "created": "2025-01-06T20:41:11Z",
+    "duration": 14,
+    "modified": "2025-01-06T20:41:11Z",
+    "repo": "https://github.com/FluxorOrg/FluxorExplorerSnapshot.git",
+    "runid": 12638963153,
+    "status": "success"
+  },
   "Formkunft/LightTableDelta": {
     "created": "2025-01-06T19:40:46Z",
     "duration": 7,
