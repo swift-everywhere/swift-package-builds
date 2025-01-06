@@ -95,6 +95,14 @@
     "runid": 12636850547,
     "status": "success"
   },
+  "ml-archive/bugsnag": {
+    "created": "2025-01-06T17:11:36Z",
+    "duration": 30,
+    "modified": "2025-01-06T17:11:36Z",
+    "repo": "https://github.com/ml-archive/bugsnag.git",
+    "runid": 12636850547,
+    "status": "failure"
+  },
   "p-x9/IndirectlyCodable": {
     "created": "2025-01-06T17:09:27Z",
     "duration": 7,
