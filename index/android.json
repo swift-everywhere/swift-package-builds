@@ -1655,6 +1655,14 @@
     "runid": 12637148220,
     "status": "success"
   },
+  "yonaskolb/XcodeGen": {
+    "created": "2025-01-06T19:47:52Z",
+    "duration": 22,
+    "modified": "2025-01-06T19:47:52Z",
+    "repo": "https://github.com/yonaskolb/XcodeGen.git",
+    "runid": 12638963153,
+    "status": "failure"
+  },
   "yukiny0811/SwiftyHTMLBuilder": {
     "created": "2025-01-06T17:05:49Z",
     "duration": 13,
