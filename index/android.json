@@ -1575,6 +1575,14 @@
     "runid": 12637148220,
     "status": "failure"
   },
+  "nixzhu/Ananda": {
+    "created": "2025-01-06T20:05:32Z",
+    "duration": 9,
+    "modified": "2025-01-06T20:05:32Z",
+    "repo": "https://github.com/nixzhu/Ananda.git",
+    "runid": 12638963153,
+    "status": "failure"
+  },
   "nixzhu/Baby": {
     "created": "2025-01-06T17:35:10Z",
     "duration": 7,
