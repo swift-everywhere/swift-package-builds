@@ -1426,6 +1426,15 @@
     "stars": 0,
     "status": "failure"
   },
+  "MaxHaertwig/ANTLR4-Swift": {
+    "created": "2025-01-06T23:38:08Z",
+    "duration": 13,
+    "modified": "2025-01-06T23:38:08Z",
+    "repo": "https://github.com/MaxHaertwig/ANTLR4-Swift.git",
+    "runid": 12641986754,
+    "stars": 0,
+    "status": "success"
+  },
   "Maxim-Lanskoy/SRM": {
     "created": "2025-01-06T20:45:08Z",
     "duration": 11,
