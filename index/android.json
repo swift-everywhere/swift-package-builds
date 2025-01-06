@@ -719,6 +719,14 @@
     "runid": 12638963153,
     "status": "success"
   },
+  "Quick/swift-fakes": {
+    "created": "2025-01-06T20:33:38Z",
+    "duration": 22,
+    "modified": "2025-01-06T20:33:38Z",
+    "repo": "https://github.com/Quick/swift-fakes.git",
+    "runid": 12638963153,
+    "status": "success"
+  },
   "RakuyoKit/swift": {
     "created": "2025-01-06T17:29:45Z",
     "duration": 13,
