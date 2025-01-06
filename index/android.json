@@ -7,6 +7,14 @@
     "runid": 12635570877,
     "status": "failure"
   },
+  "ajevans99/swift-json-schema": {
+    "created": "2025-01-06T15:51:15Z",
+    "duration": 23,
+    "modified": "2025-01-06T15:51:15Z",
+    "repo": "https://github.com/ajevans99/swift-json-schema.git",
+    "runid": 12635570877,
+    "status": "failure"
+  },
   "angelopino/APJExtensions": {
     "created": "2025-01-06T15:47:57Z",
     "duration": 7,
