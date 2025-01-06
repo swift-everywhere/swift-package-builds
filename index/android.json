@@ -3628,6 +3628,15 @@
     "runid": 12637148220,
     "status": "failure"
   },
+  "pointfreeco/swift-html-vapor": {
+    "created": "2025-01-06T21:38:55Z",
+    "duration": 25,
+    "modified": "2025-01-06T21:38:55Z",
+    "repo": "https://github.com/pointfreeco/swift-html-vapor.git",
+    "runid": 12640552194,
+    "stars": 89,
+    "status": "failure"
+  },
   "pointfreeco/swift-nonempty": {
     "created": "2025-01-06T17:12:05Z",
     "duration": 4,
