@@ -2287,6 +2287,14 @@
     "runid": 12637148220,
     "status": "success"
   },
+  "milend/hmap": {
+    "created": "2025-01-06T20:44:54Z",
+    "duration": 7,
+    "modified": "2025-01-06T20:44:54Z",
+    "repo": "https://github.com/milend/hmap.git",
+    "runid": 12638963153,
+    "status": "failure"
+  },
   "mkrd/Swift-BigInt": {
     "created": "2025-01-06T20:26:04Z",
     "duration": 9,
