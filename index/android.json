@@ -4176,6 +4176,15 @@
     "stars": 23583,
     "status": "success"
   },
+  "google/swift-benchmark": {
+    "created": "2025-01-06T23:50:44Z",
+    "duration": 8,
+    "modified": "2025-01-06T23:50:44Z",
+    "repo": "https://github.com/google/swift-benchmark.git",
+    "runid": 12641986754,
+    "stars": 927,
+    "status": "failure"
+  },
   "gor-gyolchanyan-swift/introspection-kit": {
     "created": "2025-01-06T17:40:43Z",
     "duration": 3,
