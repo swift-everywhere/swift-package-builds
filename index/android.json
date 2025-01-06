@@ -4672,10 +4672,11 @@
   },
   "vapor-community/vapor-sitemap": {
     "created": "2025-01-06T17:38:14Z",
-    "duration": 26,
-    "modified": "2025-01-06T17:38:14Z",
+    "duration": 33,
+    "modified": "2025-01-06T21:52:17Z",
     "repo": "https://github.com/vapor-community/vapor-sitemap.git",
-    "runid": 12637148220,
+    "runid": 12640899049,
+    "stars": 7,
     "status": "failure"
   },
   "vapor-community/wkhtmltopdf": {
