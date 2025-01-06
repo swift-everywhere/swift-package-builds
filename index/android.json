@@ -2587,6 +2587,15 @@
     "runid": 12637757100,
     "status": "success"
   },
+  "damuellen/Gnuplot.swift": {
+    "created": "2025-01-06T22:54:29Z",
+    "duration": 7,
+    "modified": "2025-01-06T22:54:29Z",
+    "repo": "https://github.com/damuellen/Gnuplot.swift.git",
+    "runid": 12641431024,
+    "stars": 2,
+    "status": "success"
+  },
   "dan-hart/DHDeclarable": {
     "created": "2025-01-06T19:43:50Z",
     "duration": 8,
