@@ -2558,6 +2558,15 @@
     "stars": 0,
     "status": "success"
   },
+  "darrarski/sort-swift-imports": {
+    "created": "2025-01-06T22:44:57Z",
+    "duration": 6,
+    "modified": "2025-01-06T22:44:57Z",
+    "repo": "https://github.com/darrarski/sort-swift-imports.git",
+    "runid": 12641431024,
+    "stars": 10,
+    "status": "success"
+  },
   "dastrobu/argtree": {
     "created": "2025-01-06T19:45:27Z",
     "duration": 5,
