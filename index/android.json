@@ -1032,10 +1032,11 @@
   },
   "Maxim-Lanskoy/SRM": {
     "created": "2025-01-06T20:45:08Z",
-    "duration": 12,
-    "modified": "2025-01-06T20:45:08Z",
+    "duration": 11,
+    "modified": "2025-01-06T22:02:39Z",
     "repo": "https://github.com/Maxim-Lanskoy/SRM.git",
-    "runid": 12638963153,
+    "runid": 12640899049,
+    "stars": 9,
     "status": "failure"
   },
   "MetalheadSanya/swift-mock": {
