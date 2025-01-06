@@ -33,11 +33,6 @@ jobs:
         with:
           path: swift-android-builds
 
-      # Publish to a branch in current repo
-      - uses: oleksiyrudenko/gha-git-credentials@v2.1.2
-        with:
-          token: '${{ secrets.GITHUB_TOKEN }}'
-
       - name: Build packages
         shell: bash
         run: |
@@ -85,6 +80,12 @@ jobs:
             jq --color-output --sort-keys '.' $INDEX
 
             cd $(dirname ${INDEX})
+
+            # git config so we can push to the repository
+            git config user.email "$github-action@users.noreply.github.com"
+            git config user.name "GitHub Action"
+            git config user.password "${{ secrets.GITHUB_TOKEN }}"
+
             git add $(basename $INDEX)
             git commit -m "Build $REPO: $EXITCODE" .
             git push
