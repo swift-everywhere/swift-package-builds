@@ -5989,6 +5989,15 @@
     "runid": 12637148220,
     "status": "failure"
   },
+  "soto-project/soto-s3-file-transfer": {
+    "created": "2025-01-06T23:22:42Z",
+    "duration": 121,
+    "modified": "2025-01-06T23:22:42Z",
+    "repo": "https://github.com/soto-project/soto-s3-file-transfer.git",
+    "runid": 12641986754,
+    "stars": 48,
+    "status": "failure"
+  },
   "space-code/concurrency": {
     "created": "2025-01-06T21:43:04Z",
     "duration": 6,
