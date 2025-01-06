@@ -71,6 +71,14 @@
     "runid": 12636850547,
     "status": "success"
   },
+  "andooown/swift-atproto": {
+    "created": "2025-01-06T17:20:34Z",
+    "duration": 127,
+    "modified": "2025-01-06T17:20:34Z",
+    "repo": "https://github.com/andooown/swift-atproto.git",
+    "runid": 12636850547,
+    "status": "failure"
+  },
   "apple/swift-async-algorithms": {
     "created": "2025-01-06T17:15:25Z",
     "duration": 27,
