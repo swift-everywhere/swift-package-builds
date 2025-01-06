@@ -4190,6 +4190,15 @@
     "runid": 12638963153,
     "status": "success"
   },
+  "tattn/DIAttribute": {
+    "created": "2025-01-06T21:42:43Z",
+    "duration": 6,
+    "modified": "2025-01-06T21:42:43Z",
+    "repo": "https://github.com/tattn/DIAttribute.git",
+    "runid": 12640552194,
+    "stars": 44,
+    "status": "success"
+  },
   "tattn/MoreCodable": {
     "created": "2025-01-06T21:40:15Z",
     "duration": 7,
