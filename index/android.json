@@ -239,6 +239,14 @@
     "runid": 12635750109,
     "status": "failure"
   },
+  "jsorge/textbundleify": {
+    "created": "2025-01-06T16:05:04Z",
+    "duration": 8,
+    "modified": "2025-01-06T16:05:04Z",
+    "repo": "https://github.com/jsorge/textbundleify.git",
+    "runid": 12635750109,
+    "status": "failure"
+  },
   "k-o-d-e-n/CGLayout": {
     "created": "2025-01-06T15:53:47Z",
     "duration": 7,
