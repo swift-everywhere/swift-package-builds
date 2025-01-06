@@ -1734,6 +1734,15 @@
     "stars": 1490,
     "status": "success"
   },
+  "apple/swift-distributed-tracing-extras": {
+    "created": "2025-01-06T22:01:13Z",
+    "duration": 5,
+    "modified": "2025-01-06T22:01:13Z",
+    "repo": "https://github.com/apple/swift-distributed-tracing-extras.git",
+    "runid": 12640899049,
+    "stars": 36,
+    "status": "failure"
+  },
   "apple/swift-metrics": {
     "created": "2025-01-06T20:30:18Z",
     "duration": 3,
