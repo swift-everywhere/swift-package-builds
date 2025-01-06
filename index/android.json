@@ -127,6 +127,14 @@
     "runid": 12636850547,
     "status": "success"
   },
+  "pointfreeco/swift-nonempty": {
+    "created": "2025-01-06T17:12:05Z",
+    "duration": 4,
+    "modified": "2025-01-06T17:12:05Z",
+    "repo": "https://github.com/pointfreeco/swift-nonempty.git",
+    "runid": 12636850547,
+    "status": "success"
+  },
   "saltzmanjoelh/CliRunnable": {
     "created": "2025-01-06T17:09:38Z",
     "duration": 10,
