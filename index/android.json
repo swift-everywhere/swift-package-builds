@@ -519,6 +519,14 @@
     "runid": 12638963153,
     "status": "failure"
   },
+  "Kitura/CloudEnvironment": {
+    "created": "2025-01-06T20:37:47Z",
+    "duration": 15,
+    "modified": "2025-01-06T20:37:47Z",
+    "repo": "https://github.com/Kitura/CloudEnvironment.git",
+    "runid": 12638963153,
+    "status": "success"
+  },
   "Kitura/HeliumLogger": {
     "created": "2025-01-06T20:20:05Z",
     "duration": 10,
