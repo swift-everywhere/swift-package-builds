@@ -1607,6 +1607,14 @@
     "runid": 12638963153,
     "status": "success"
   },
+  "franklefebvre/swift-export": {
+    "created": "2025-01-06T20:39:57Z",
+    "duration": 14,
+    "modified": "2025-01-06T20:39:57Z",
+    "repo": "https://github.com/franklefebvre/swift-export.git",
+    "runid": 12638963153,
+    "status": "success"
+  },
   "funzin/Rimuru": {
     "created": "2025-01-06T19:37:03Z",
     "duration": 68,
