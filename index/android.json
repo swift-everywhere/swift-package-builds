@@ -1070,6 +1070,15 @@
     "runid": 12637757100,
     "status": "success"
   },
+  "Kaiede/PCA9685": {
+    "created": "2025-01-06T23:18:03Z",
+    "duration": 7,
+    "modified": "2025-01-06T23:18:03Z",
+    "repo": "https://github.com/Kaiede/PCA9685.git",
+    "runid": 12641431024,
+    "stars": 5,
+    "status": "failure"
+  },
   "KeanuPang/fugle-realtime-swift": {
     "created": "2025-01-06T20:19:47Z",
     "duration": 14,
