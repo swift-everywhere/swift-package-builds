@@ -551,6 +551,14 @@
     "runid": 12636850547,
     "status": "failure"
   },
+  "florianreinhart/Geodesy": {
+    "created": "2025-01-06T19:34:17Z",
+    "duration": 433,
+    "modified": "2025-01-06T19:34:17Z",
+    "repo": "https://github.com/florianreinhart/Geodesy.git",
+    "runid": 12638963153,
+    "status": "failure"
+  },
   "furby-tm/TOMLKit": {
     "created": "2025-01-06T17:40:23Z",
     "duration": 22,
