@@ -33,5 +33,12 @@
     "id": "12635264618",
     "modified": "2025-01-06T15:28:55Z",
     "repo": "https://github.com/r0ml/SwiftyPython.git"
+  },
+  "tbxark/swift-telegram-bot-api": {
+    "created": "2025-01-06T15:29:54Z",
+    "exitcode": "1",
+    "id": "12635264618",
+    "modified": "2025-01-06T15:29:54Z",
+    "repo": "https://github.com/tbxark/swift-telegram-bot-api.git"
   }
 }
