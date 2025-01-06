@@ -7631,6 +7631,15 @@
     "stars": 12,
     "status": "failure"
   },
+  "uraimo/Nunchuck.swift": {
+    "created": "2025-01-06T23:54:49Z",
+    "duration": 8,
+    "modified": "2025-01-06T23:54:49Z",
+    "repo": "https://github.com/uraimo/Nunchuck.swift.git",
+    "runid": 12641986754,
+    "stars": 33,
+    "status": "failure"
+  },
   "uraimo/RCWL-0516-Radar.swift": {
     "created": "2025-01-06T19:56:08Z",
     "duration": 8,
