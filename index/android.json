@@ -183,6 +183,14 @@
     "runid": 12636724204,
     "status": "failure"
   },
+  "shamatar/scrypt-cryptoswift": {
+    "created": "2025-01-06T17:00:16Z",
+    "duration": 8,
+    "modified": "2025-01-06T17:00:16Z",
+    "repo": "https://github.com/shamatar/scrypt-cryptoswift.git",
+    "runid": 12636724204,
+    "status": "failure"
+  },
   "sloik/OptionalAPI": {
     "created": "2025-01-06T16:58:41Z",
     "duration": 13,
