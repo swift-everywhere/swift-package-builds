@@ -30,5 +30,13 @@
     "repo": "https://github.com/franklefebvre/swift-export.git",
     "runid": 12636850547,
     "status": "success"
+  },
+  "pointfreeco/swift-navigation": {
+    "created": "2025-01-06T17:10:07Z",
+    "duration": 97,
+    "modified": "2025-01-06T17:10:07Z",
+    "repo": "https://github.com/pointfreeco/swift-navigation.git",
+    "runid": 12636850547,
+    "status": "success"
   }
 }
