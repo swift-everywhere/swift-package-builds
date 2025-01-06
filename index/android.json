@@ -1179,6 +1179,15 @@
     "runid": 12638963153,
     "status": "failure"
   },
+  "SwiftPackageIndex/CanonicalPackageURL": {
+    "created": "2025-01-06T21:27:00Z",
+    "duration": 18,
+    "modified": "2025-01-06T21:27:00Z",
+    "repo": "https://github.com/SwiftPackageIndex/CanonicalPackageURL.git",
+    "runid": 12640552194,
+    "stars": 3,
+    "status": "success"
+  },
   "SwiftPackageIndex/ReleaseNotes": {
     "created": "2025-01-06T17:12:00Z",
     "duration": 19,
