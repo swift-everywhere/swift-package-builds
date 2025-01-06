@@ -263,6 +263,14 @@
     "runid": 12638963153,
     "status": "failure"
   },
+  "JohnSundell/Ink": {
+    "created": "2025-01-06T20:03:40Z",
+    "duration": 8,
+    "modified": "2025-01-06T20:03:40Z",
+    "repo": "https://github.com/JohnSundell/Ink.git",
+    "runid": 12638963153,
+    "status": "success"
+  },
   "JohnSundell/Sweep": {
     "created": "2025-01-06T17:30:36Z",
     "duration": 6,
