@@ -881,6 +881,15 @@
     "runid": 12638963153,
     "status": "failure"
   },
+  "IBDecodable/IBDecodable": {
+    "created": "2025-01-06T23:11:04Z",
+    "duration": 7,
+    "modified": "2025-01-06T23:11:04Z",
+    "repo": "https://github.com/IBDecodable/IBDecodable.git",
+    "runid": 12641431024,
+    "stars": 148,
+    "status": "failure"
+  },
   "IBM/swift-sdk-core": {
     "created": "2025-01-06T20:15:23Z",
     "duration": 7,
