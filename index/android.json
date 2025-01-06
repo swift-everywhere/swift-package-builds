@@ -1623,6 +1623,14 @@
     "runid": 12638963153,
     "status": "failure"
   },
+  "elegantchaos/JSONSession": {
+    "created": "2025-01-06T20:52:04Z",
+    "duration": 18,
+    "modified": "2025-01-06T20:52:04Z",
+    "repo": "https://github.com/elegantchaos/JSONSession.git",
+    "runid": 12638963153,
+    "status": "failure"
+  },
   "elegantchaos/Matchable": {
     "created": "2025-01-06T19:52:24Z",
     "duration": 6,
