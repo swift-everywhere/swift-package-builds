@@ -45,6 +45,12 @@ jobs:
 
             (git clone --depth=1 "${REPO}" repositories/"${DIR}" && ${{ steps.setup-toolchain.outputs.swift-build }} -c debug --package-path repositories/"${DIR}") | tee logs/"${DIR}"/buildlog.txt && echo EXITCODE=$? || EXITCODE=$?
 
+            if [ $EXITCODE == 0 ]; then
+              echo "SUCCESS: ${REPO}"
+            else
+              echo "FAILED: ${REPO} ($EXITCODE)"
+            fi
+
             # clean out the repository after building
             rm -rf repositories/"${DIR}"
 
@@ -58,18 +64,17 @@ jobs:
             # save the runid for future use
             jq --arg DIR "$DIR" --arg RUNID "${{ github.run_id }}" '.[$DIR]."r" = $RUNID' $INDEX > $INDEX.new && mv $INDEX.new $INDEX
 
+            cat $INDEX
+
             # compact the JSON
             jq -c '.' $INDEX > $INDEX.new && mv $INDEX.new $INDEX
 
-            git add $INDEX
-            git commit -m "Build $REPO: $EXITCODE" $INDEX
-            git -C index push
+            cd $(dirname ${INDEX})
+            git add $(basename $INDEX)
+            git commit -m "Build $REPO: $EXITCODE" .
+            git push
+            cd -
 
-            if [ $EXITCODE == 0 ]; then
-              echo "SUCCESS: ${REPO}"
-            else
-              echo "FAILED: ${REPO} ($EXITCODE)"
-            fi
 
           done
 
