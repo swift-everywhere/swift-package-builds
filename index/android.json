@@ -7178,6 +7178,15 @@
     "runid": 12638963153,
     "status": "success"
   },
+  "valdirunars/BigIntCompress": {
+    "created": "2025-01-06T23:37:54Z",
+    "duration": 6,
+    "modified": "2025-01-06T23:37:54Z",
+    "repo": "https://github.com/valdirunars/BigIntCompress.git",
+    "runid": 12641986754,
+    "stars": 0,
+    "status": "success"
+  },
   "valeriyvan/jpeg": {
     "created": "2025-01-06T21:54:20Z",
     "duration": 12,
