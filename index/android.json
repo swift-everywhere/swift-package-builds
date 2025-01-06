@@ -2767,6 +2767,15 @@
     "runid": 12638963153,
     "status": "failure"
   },
+  "nearfri/Strix": {
+    "created": "2025-01-06T21:11:39Z",
+    "duration": 8,
+    "modified": "2025-01-06T21:11:39Z",
+    "repo": "https://github.com/nearfri/Strix.git",
+    "runid": 12640312681,
+    "stars": 10,
+    "status": "failure"
+  },
   "nerdsupremacist/TextMate": {
     "created": "2025-01-06T20:00:08Z",
     "duration": 9,
