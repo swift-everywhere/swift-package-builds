@@ -794,6 +794,15 @@
     "runid": 12638963153,
     "status": "success"
   },
+  "Kitura/Kitura-NIO": {
+    "created": "2025-01-06T21:40:55Z",
+    "duration": 19,
+    "modified": "2025-01-06T21:40:55Z",
+    "repo": "https://github.com/Kitura/Kitura-NIO.git",
+    "runid": 12640552194,
+    "stars": 37,
+    "status": "failure"
+  },
   "Kolos65/Mockable": {
     "created": "2025-01-06T20:04:54Z",
     "duration": 73,
