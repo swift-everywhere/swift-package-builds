@@ -1527,6 +1527,14 @@
     "runid": 12638963153,
     "status": "success"
   },
+  "franklefebvre/XMLCoder": {
+    "created": "2025-01-06T20:32:12Z",
+    "duration": 7,
+    "modified": "2025-01-06T20:32:12Z",
+    "repo": "https://github.com/franklefebvre/XMLCoder.git",
+    "runid": 12638963153,
+    "status": "success"
+  },
   "funzin/Rimuru": {
     "created": "2025-01-06T19:37:03Z",
     "duration": 68,
