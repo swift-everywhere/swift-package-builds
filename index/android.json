@@ -5705,6 +5705,15 @@
     "stars": 8,
     "status": "failure"
   },
+  "vapor-community/sendgrid-kit": {
+    "created": "2025-01-06T22:44:14Z",
+    "duration": 12,
+    "modified": "2025-01-06T22:44:14Z",
+    "repo": "https://github.com/vapor-community/sendgrid-kit.git",
+    "runid": 12641431024,
+    "stars": 12,
+    "status": "failure"
+  },
   "vapor-community/vapor-aws-lambda-runtime": {
     "created": "2025-01-06T17:33:42Z",
     "duration": 32,
