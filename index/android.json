@@ -6266,6 +6266,15 @@
     "runid": 12638963153,
     "status": "success"
   },
+  "sciv-img/OSet": {
+    "created": "2025-01-06T23:38:26Z",
+    "duration": 3,
+    "modified": "2025-01-06T23:38:26Z",
+    "repo": "https://github.com/sciv-img/OSet.git",
+    "runid": 12641986754,
+    "stars": 31,
+    "status": "success"
+  },
   "scottmatthewman/swiftcsvencoder": {
     "created": "2025-01-06T19:35:45Z",
     "duration": 6,
