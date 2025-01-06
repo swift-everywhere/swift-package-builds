@@ -1778,6 +1778,15 @@
     "runid": 12638963153,
     "status": "success"
   },
+  "YOCKOW/SwiftTimeSpecification": {
+    "created": "2025-01-06T22:36:40Z",
+    "duration": 6,
+    "modified": "2025-01-06T22:36:40Z",
+    "repo": "https://github.com/YOCKOW/SwiftTimeSpecification.git",
+    "runid": 12641431024,
+    "stars": 3,
+    "status": "failure"
+  },
   "Zollerboy1/BigDecimal": {
     "created": "2025-01-06T20:56:48Z",
     "duration": 11,
