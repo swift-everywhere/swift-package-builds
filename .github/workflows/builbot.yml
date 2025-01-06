@@ -26,20 +26,17 @@ jobs:
       - name: Clone
         uses: actions/checkout@v4
         with:
-          path: index
+          path: swift-android-builds
 
       - name: Build packages
         shell: bash
         run: |
           #set -x
           set -o pipefail
-          PACKAGES="index/packages.json"
-          INDEX="index/android.json"
+          PACKAGES="swift-android-builds/index/packages.json"
+          INDEX="swift-android-builds/index/android.json"
           mkdir repositories
           mkdir logs
-
-          ls
-          ls index
 
           for REPO in $(cat ${PACKAGES} | jq -r '.[]' | sort -R | head -n 100) ; do
             DIR=$(echo "${REPO}" | cut -f 4- -d '/' | sed 's;.git$;;g')
