@@ -2327,6 +2327,14 @@
     "runid": 12636850547,
     "status": "success"
   },
+  "phisakel/gtfs-db-swift": {
+    "created": "2025-01-06T20:33:15Z",
+    "duration": 35,
+    "modified": "2025-01-06T20:33:15Z",
+    "repo": "https://github.com/phisakel/gtfs-db-swift.git",
+    "runid": 12638963153,
+    "status": "failure"
+  },
   "pixyzehn/custom-repeat-date": {
     "created": "2025-01-06T17:38:40Z",
     "duration": 15,
