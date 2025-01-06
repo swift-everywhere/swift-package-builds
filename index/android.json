@@ -4662,6 +4662,15 @@
     "stars": 22,
     "status": "failure"
   },
+  "tayloraswift/swift-noise": {
+    "created": "2025-01-06T22:01:53Z",
+    "duration": 17,
+    "modified": "2025-01-06T22:01:53Z",
+    "repo": "https://github.com/tayloraswift/swift-noise.git",
+    "runid": 12640899049,
+    "stars": 128,
+    "status": "failure"
+  },
   "tayloraswift/swift-opengl": {
     "created": "2025-01-06T19:45:58Z",
     "duration": 6,
