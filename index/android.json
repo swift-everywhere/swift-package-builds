@@ -4342,6 +4342,15 @@
     "runid": 12637148220,
     "status": "success"
   },
+  "shield-ai-technology/shieldcredit-spm": {
+    "created": "2025-01-06T22:01:56Z",
+    "duration": 2,
+    "modified": "2025-01-06T22:01:56Z",
+    "repo": "https://github.com/shield-ai-technology/shieldcredit-spm.git",
+    "runid": 12640899049,
+    "stars": 1,
+    "status": "failure"
+  },
   "sinoru/swift-json": {
     "created": "2025-01-06T19:58:55Z",
     "duration": 15,
