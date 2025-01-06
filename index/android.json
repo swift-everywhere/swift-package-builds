@@ -615,6 +615,14 @@
     "runid": 12637757100,
     "status": "success"
   },
+  "dan-hart/DHDeclarable": {
+    "created": "2025-01-06T19:43:50Z",
+    "duration": 8,
+    "modified": "2025-01-06T19:43:50Z",
+    "repo": "https://github.com/dan-hart/DHDeclarable.git",
+    "runid": 12638963153,
+    "status": "success"
+  },
   "david-swift/LevenshteinTransformations": {
     "created": "2025-01-06T17:25:12Z",
     "duration": 4,
