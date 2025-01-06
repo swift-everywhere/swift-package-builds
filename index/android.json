@@ -624,6 +624,15 @@
     "runid": 12637148220,
     "status": "success"
   },
+  "JosephDuffy/HashableMacro": {
+    "created": "2025-01-06T21:30:57Z",
+    "duration": 93,
+    "modified": "2025-01-06T21:30:57Z",
+    "repo": "https://github.com/JosephDuffy/HashableMacro.git",
+    "runid": 12640552194,
+    "stars": 18,
+    "status": "success"
+  },
   "JosephDuffy/Partial": {
     "created": "2025-01-06T17:44:14Z",
     "duration": 16,
