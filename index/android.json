@@ -6288,10 +6288,11 @@
   },
   "thoughtbot/Argo": {
     "created": "2025-01-06T19:50:09Z",
-    "duration": 10,
-    "modified": "2025-01-06T19:50:09Z",
+    "duration": 8,
+    "modified": "2025-01-06T23:15:48Z",
     "repo": "https://github.com/thoughtbot/Argo.git",
-    "runid": 12638963153,
+    "runid": 12641431024,
+    "stars": 3491,
     "status": "success"
   },
   "tigerpixel/PGNParser": {
