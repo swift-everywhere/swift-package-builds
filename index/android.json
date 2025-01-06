@@ -3779,9 +3779,10 @@
   "sinoru/swift-json": {
     "created": "2025-01-06T19:58:55Z",
     "duration": 15,
-    "modified": "2025-01-06T19:58:55Z",
+    "modified": "2025-01-06T21:36:18Z",
     "repo": "https://github.com/sinoru/swift-json.git",
-    "runid": 12638963153,
+    "runid": 12640552194,
+    "stars": 1,
     "status": "failure"
   },
   "skelpo/JSON": {
