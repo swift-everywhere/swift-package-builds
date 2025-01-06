@@ -2617,6 +2617,15 @@
     "stars": 9,
     "status": "failure"
   },
+  "amzn/smoke-aws-generate": {
+    "created": "2025-01-06T23:57:51Z",
+    "duration": 25,
+    "modified": "2025-01-06T23:57:51Z",
+    "repo": "https://github.com/amzn/smoke-aws-generate.git",
+    "runid": 12641986754,
+    "stars": 19,
+    "status": "failure"
+  },
   "andersonlucasg3/Swift.Binary": {
     "created": "2025-01-06T23:50:52Z",
     "duration": 7,
