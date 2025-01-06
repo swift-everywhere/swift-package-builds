@@ -1223,6 +1223,14 @@
     "runid": 12638963153,
     "status": "failure"
   },
+  "b9swift/MulticastDelegate": {
+    "created": "2025-01-06T20:51:45Z",
+    "duration": 6,
+    "modified": "2025-01-06T20:51:45Z",
+    "repo": "https://github.com/b9swift/MulticastDelegate.git",
+    "runid": 12638963153,
+    "status": "success"
+  },
   "bdewey/static-libgit2": {
     "created": "2025-01-06T17:42:23Z",
     "duration": 7,
