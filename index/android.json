@@ -3969,6 +3969,15 @@
     "stars": 13,
     "status": "failure"
   },
+  "ibm-security-verify/webauthn-relying-party-server-swift": {
+    "created": "2025-01-06T23:23:24Z",
+    "duration": 30,
+    "modified": "2025-01-06T23:23:24Z",
+    "repo": "https://github.com/ibm-security-verify/webauthn-relying-party-server-swift.git",
+    "runid": 12641986754,
+    "stars": 1,
+    "status": "failure"
+  },
   "ikesyo/Himotoki": {
     "created": "2025-01-06T21:26:00Z",
     "duration": 6,
