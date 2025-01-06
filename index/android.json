@@ -159,6 +159,14 @@
     "runid": 12636850547,
     "status": "success"
   },
+  "jerrymarino/SwiftCompilationDatabase": {
+    "created": "2025-01-06T17:27:03Z",
+    "duration": 6,
+    "modified": "2025-01-06T17:27:03Z",
+    "repo": "https://github.com/jerrymarino/SwiftCompilationDatabase.git",
+    "runid": 12637148220,
+    "status": "failure"
+  },
   "jp-fan-app/swift-client": {
     "created": "2025-01-06T17:24:28Z",
     "duration": 8,
