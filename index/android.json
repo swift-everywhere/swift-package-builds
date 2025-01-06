@@ -2157,6 +2157,15 @@
     "runid": 12637148220,
     "status": "success"
   },
+  "calebkleveter/Argon2": {
+    "created": "2025-01-06T22:11:08Z",
+    "duration": 1,
+    "modified": "2025-01-06T22:11:08Z",
+    "repo": "https://github.com/calebkleveter/Argon2.git",
+    "runid": 12640899049,
+    "stars": 2,
+    "status": "failure"
+  },
   "capnslipp/Tribool": {
     "created": "2025-01-06T18:10:00Z",
     "duration": 6,
