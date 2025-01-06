@@ -103,10 +103,12 @@ jobs:
           mkdir logs
 
           for DIR in $(cat ${PACKAGES} | jq -r '.[]' | sort -R) ; do
-            #DIR=$(echo "${REPO}" | cut -f 4- -d '/' | sed 's;.git$;;g')
             REPO="https://github.com/${DIR}.git"
-
             echo "Building: ${REPO} (https://swiftpackageindex.com/${DIR})"
+
+            # skip a build that was already run 
+            jq -e '.[$DIR]."stars"' ${INDEX} && continue || true
+
             mkdir -p logs/"${DIR}"
 
             # reset from previous run
