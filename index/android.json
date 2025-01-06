@@ -1143,6 +1143,14 @@
     "runid": 12638963153,
     "status": "failure"
   },
+  "apple/swift-nio-ssl": {
+    "created": "2025-01-06T20:47:34Z",
+    "duration": 94,
+    "modified": "2025-01-06T20:47:34Z",
+    "repo": "https://github.com/apple/swift-nio-ssl.git",
+    "runid": 12638963153,
+    "status": "failure"
+  },
   "apple/swift-openapi-generator": {
     "created": "2025-01-06T17:32:51Z",
     "duration": 54,
