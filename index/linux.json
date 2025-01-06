@@ -79,6 +79,14 @@
     "runid": 12636663814,
     "status": "success"
   },
+  "jegnux/BackedCodable": {
+    "created": "2025-01-06T16:57:53Z",
+    "duration": 8,
+    "modified": "2025-01-06T16:57:53Z",
+    "repo": "https://github.com/jegnux/BackedCodable.git",
+    "runid": 12636724204,
+    "status": "failure"
+  },
   "karwa/swift-checkit": {
     "created": "2025-01-06T16:57:38Z",
     "duration": 6,
