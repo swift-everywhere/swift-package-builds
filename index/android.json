@@ -5588,6 +5588,15 @@
     "stars": 29,
     "status": "success"
   },
+  "mkeiser/BinarySearch": {
+    "created": "2025-01-06T23:58:40Z",
+    "duration": 5,
+    "modified": "2025-01-06T23:58:40Z",
+    "repo": "https://github.com/mkeiser/BinarySearch.git",
+    "runid": 12641986754,
+    "stars": 4,
+    "status": "success"
+  },
   "mkrd/Swift-BigInt": {
     "created": "2025-01-06T20:26:04Z",
     "duration": 9,
