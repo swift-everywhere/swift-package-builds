@@ -21,10 +21,8 @@ jobs:
           # random selection of the swiftpackageindex repositories
           for REPO in $(curl https://raw.githubusercontent.com/SwiftPackageIndex/PackageList/refs/heads/main/packages.json | jq -r '.[]' | sort -R | head -n 10) ; do
             DIR=$(echo "${REPO}" | cut -f 4- -d '/' | sed 's;.git$;;g')
-            echo "Building repository: ${DIR} (https://swiftpackageindex.com/${DIR})"
+            echo "Building: ${REPO} (https://swiftpackageindex.com/${DIR})"
 
             (git clone "${REPO}" "${DIR}" && ${{ steps.setup-toolchain.outputs.swift-build }} -c debug --package-path "${DIR}") | tee "${DIR}"/buildlog.txt && echo "SUCCESS: ${REPO}" || echo "FAILED: ${REPO}"
-            cd -
-            #exit 0
           done
 
