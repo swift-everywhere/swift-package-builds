@@ -2,6 +2,15 @@ name: buildbot
 on:
   workflow_dispatch:
   push:
+    branches: [main]
+    paths:
+      - '.codecov.yml'
+      - '.github/workflows/builbot.yml'
+
+concurrency:
+  #group: builtbot-${{ github.ref }}
+  cancel-in-progress: true
+
 jobs:
   buildbot:
     runs-on: ubuntu-24.04
@@ -13,20 +22,53 @@ jobs:
           # just set up the toolchain and don't build anything
           build-package: false
 
+      - name: Clone
+        uses: actions/checkout@v4
+        with:
+          path: index
+
       - name: Build packages
         shell: bash
         run: |
           #set -x
           set -o pipefail
-          # random selection of the swiftpackageindex repositories
+          PACKAGES="index/packages.json"
+          INDEX="index/android.json"
           mkdir repositories
           mkdir logs
 
-          for REPO in $(curl https://raw.githubusercontent.com/SwiftPackageIndex/PackageList/refs/heads/main/packages.json | jq -r '.[]' | sort -R | head -n 100) ; do
+          for REPO in $(cat ${PACKAGES} | jq -r '.[]' | sort -R | head -n 100) ; do
             DIR=$(echo "${REPO}" | cut -f 4- -d '/' | sed 's;.git$;;g')
             echo "Building: ${REPO} (https://swiftpackageindex.com/${DIR})"
             mkdir -p logs/"${DIR}"
 
-            (git clone --depth=1 "${REPO}" repositories/"${DIR}" && ${{ steps.setup-toolchain.outputs.swift-build }} -c debug --package-path repositories/"${DIR}") | tee logs/"${DIR}"/buildlog.txt && echo "SUCCESS: ${REPO}" || echo "FAILED: ${REPO}"
+            (git clone --depth=1 "${REPO}" repositories/"${DIR}" && ${{ steps.setup-toolchain.outputs.swift-build }} -c debug --package-path repositories/"${DIR}") | tee logs/"${DIR}"/buildlog.txt && echo EXITCODE=$? || EXITCODE=$?
+
+            # clean out the repository after building
+            rm -rf repositories/"${DIR}"
+
+            # create a record of the package if it doesn't already exist
+            jq '."${DIR}" |= if . == null then {"r": "${REPO}", "c": (now | todate)} else . end' ${INDEX} > ${INDEX}.new && mv ${INDEX}.new ${INDEX}
+
+            # update the status of the build
+            jq '."${DIR}"."s" = ${EXITCODE}' ${INDEX} > ${INDEX}.new && mv ${INDEX}.new ${INDEX}
+            # set the build time
+            jq '."${DIR}"."m" = (now | todate)' ${INDEX} > ${INDEX}.new && mv ${INDEX}.new ${INDEX}
+            # save the runid for future use
+            jq '."${DIR}"."r" = ${{ github.run_id }}' ${INDEX} > ${INDEX}.new && mv ${INDEX}.new ${INDEX}
+
+            # compact the JSON
+            jq -c '.' ${INDEX} > ${INDEX}.new && mv ${INDEX}.new ${INDEX}
+
+            git add ${INDEX}
+            git commit -m "Build ${REPO}: ${EXITCODE}" ${INDEX}
+            git -C index push
+
+            if [ $EXITCODE == 0 ]; then
+              echo "SUCCESS: ${REPO}"
+            else
+              echo "FAILED: ${REPO} ($EXITCODE)"
+            fi
+
           done
 
