@@ -528,6 +528,15 @@
     "runid": 12638963153,
     "status": "failure"
   },
+  "Infomaniak/swift-dependency-injection": {
+    "created": "2025-01-06T21:12:20Z",
+    "duration": 7,
+    "modified": "2025-01-06T21:12:20Z",
+    "repo": "https://github.com/Infomaniak/swift-dependency-injection.git",
+    "runid": 12640312681,
+    "stars": 10,
+    "status": "success"
+  },
   "JohnSundell/Ink": {
     "created": "2025-01-06T20:03:40Z",
     "duration": 8,
