@@ -3439,6 +3439,15 @@
     "runid": 12638963153,
     "status": "failure"
   },
+  "mattmassicotte/PackageTemplate": {
+    "created": "2025-01-06T22:00:33Z",
+    "duration": 3,
+    "modified": "2025-01-06T22:00:33Z",
+    "repo": "https://github.com/mattmassicotte/PackageTemplate.git",
+    "runid": 12640899049,
+    "stars": 59,
+    "status": "success"
+  },
   "mattmassicotte/Queue": {
     "created": "2025-01-06T20:50:41Z",
     "duration": 7,
