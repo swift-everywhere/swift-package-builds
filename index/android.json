@@ -2250,6 +2250,15 @@
     "runid": 12636850547,
     "status": "failure"
   },
+  "brokenhandsio/vapor-dynamodb-sessions": {
+    "created": "2025-01-06T22:36:33Z",
+    "duration": 95,
+    "modified": "2025-01-06T22:36:33Z",
+    "repo": "https://github.com/brokenhandsio/vapor-dynamodb-sessions.git",
+    "runid": 12641431024,
+    "stars": 5,
+    "status": "failure"
+  },
   "btfranklin/StringBooster": {
     "created": "2025-01-06T17:05:58Z",
     "duration": 6,
