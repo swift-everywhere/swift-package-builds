@@ -7156,6 +7156,15 @@
     "runid": 12638963153,
     "status": "success"
   },
+  "taketo1024/swm-homology": {
+    "created": "2025-01-06T23:50:25Z",
+    "duration": 23,
+    "modified": "2025-01-06T23:50:25Z",
+    "repo": "https://github.com/taketo1024/swm-homology.git",
+    "runid": 12641986754,
+    "stars": 3,
+    "status": "success"
+  },
   "taketo1024/swm-matrix-tools": {
     "created": "2025-01-06T21:48:40Z",
     "duration": 26,
