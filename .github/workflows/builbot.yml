@@ -16,10 +16,16 @@ jobs:
       - name: Build packages
         shell: bash
         run: |
-          for REPO in apple/swift-numerics ; do
-            mkdir -p ${REPO}
-            cd ${REPO}/..
-            git clone https://github.com/${REPO}
-            cd ../${REPO}
+          set -x
+          # random selection of the swiftpackageindex repositories
+          for REPO in $(curl https://raw.githubusercontent.com/SwiftPackageIndex/PackageList/refs/heads/main/packages.json | jq -r '.[]' | sort -R) ; do
+            echo "Building repository: ${REPO}"
+
+            DIR=$(echo "${REPO}" | cut -f 4- -d '/' | sed 's;.git$;;g')
+            mkdir -p ${DIR}
+            cd ${DIR}
+            git clone https://github.com/${REPO} .
             ${{ steps.setup-toolchain.outputs.swift-build }} -c debug
+            exit 0
           done
+
