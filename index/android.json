@@ -6091,6 +6091,15 @@
     "stars": 2,
     "status": "success"
   },
+  "sersoft-gmbh/color-components": {
+    "created": "2025-01-06T23:31:25Z",
+    "duration": 20,
+    "modified": "2025-01-06T23:31:25Z",
+    "repo": "https://github.com/sersoft-gmbh/color-components.git",
+    "runid": 12641986754,
+    "stars": 9,
+    "status": "success"
+  },
   "sersoft-gmbh/device-input": {
     "created": "2025-01-06T22:45:57Z",
     "duration": 13,
