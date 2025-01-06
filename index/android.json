@@ -39,6 +39,14 @@
     "runid": 12635570877,
     "status": "failure"
   },
+  "GEOSwift/geos": {
+    "created": "2025-01-06T16:01:21Z",
+    "duration": 227,
+    "modified": "2025-01-06T16:01:21Z",
+    "repo": "https://github.com/GEOSwift/geos.git",
+    "runid": 12635750109,
+    "status": "failure"
+  },
   "InderKumarRathore/DeviceGuru": {
     "created": "2025-01-06T15:53:31Z",
     "duration": 6,
