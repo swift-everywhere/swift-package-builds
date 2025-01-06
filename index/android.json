@@ -4916,6 +4916,15 @@
     "runid": 12638963153,
     "status": "failure"
   },
+  "modswift/ExExpress": {
+    "created": "2025-01-06T23:25:57Z",
+    "duration": 2,
+    "modified": "2025-01-06T23:25:57Z",
+    "repo": "https://github.com/modswift/ExExpress.git",
+    "runid": 12641986754,
+    "stars": 8,
+    "status": "failure"
+  },
   "mojzesh/swift-colorful": {
     "created": "2025-01-06T20:03:13Z",
     "duration": 8,
