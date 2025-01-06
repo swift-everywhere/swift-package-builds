@@ -1935,6 +1935,14 @@
     "runid": 12638963153,
     "status": "failure"
   },
+  "hummingbird-project/hummingbird-websocket": {
+    "created": "2025-01-06T20:48:15Z",
+    "duration": 24,
+    "modified": "2025-01-06T20:48:15Z",
+    "repo": "https://github.com/hummingbird-project/hummingbird-websocket.git",
+    "runid": 12638963153,
+    "status": "failure"
+  },
   "iShape-Swift/iTree": {
     "created": "2025-01-06T18:04:53Z",
     "duration": 5,
