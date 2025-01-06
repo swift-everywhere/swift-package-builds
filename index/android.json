@@ -79,6 +79,14 @@
     "runid": 12635570877,
     "status": "failure"
   },
+  "binaryscraping/swift-sqlite": {
+    "created": "2025-01-06T15:54:16Z",
+    "duration": 6,
+    "modified": "2025-01-06T15:54:16Z",
+    "repo": "https://github.com/binaryscraping/swift-sqlite.git",
+    "runid": 12635570877,
+    "status": "failure"
+  },
   "bytehubio/BigInt": {
     "created": "2025-01-06T15:53:40Z",
     "duration": 8,
