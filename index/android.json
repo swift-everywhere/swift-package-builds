@@ -2891,6 +2891,15 @@
     "runid": 12636850547,
     "status": "success"
   },
+  "jayadamsmorgan/SwiftMsgPack": {
+    "created": "2025-01-06T21:52:37Z",
+    "duration": 7,
+    "modified": "2025-01-06T21:52:37Z",
+    "repo": "https://github.com/jayadamsmorgan/SwiftMsgPack.git",
+    "runid": 12640899049,
+    "stars": 1,
+    "status": "failure"
+  },
   "jb55/secp256k1.swift": {
     "created": "2025-01-06T20:06:39Z",
     "duration": 1,
