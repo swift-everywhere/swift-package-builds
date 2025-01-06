@@ -5276,6 +5276,15 @@
     "stars": 1,
     "status": "failure"
   },
+  "nicklockwood/LRUCache": {
+    "created": "2025-01-06T23:31:56Z",
+    "duration": 5,
+    "modified": "2025-01-06T23:31:56Z",
+    "repo": "https://github.com/nicklockwood/LRUCache.git",
+    "runid": 12641986754,
+    "stars": 388,
+    "status": "success"
+  },
   "nicklockwood/ShapeScript": {
     "created": "2025-01-06T21:53:49Z",
     "duration": 17,
