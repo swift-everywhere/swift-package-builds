@@ -1420,6 +1420,15 @@
     "stars": 342,
     "status": "failure"
   },
+  "ReSwift/ReSwift": {
+    "created": "2025-01-06T22:34:57Z",
+    "duration": 7,
+    "modified": "2025-01-06T22:34:57Z",
+    "repo": "https://github.com/ReSwift/ReSwift.git",
+    "runid": 12641431024,
+    "stars": 7565,
+    "status": "success"
+  },
   "RedMadRobot/input-mask-ios": {
     "created": "2025-01-06T21:59:30Z",
     "duration": 7,
