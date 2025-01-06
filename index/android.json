@@ -95,6 +95,14 @@
     "runid": 12636850547,
     "status": "failure"
   },
+  "getGuaka/Regex": {
+    "created": "2025-01-06T17:24:32Z",
+    "duration": 3,
+    "modified": "2025-01-06T17:24:32Z",
+    "repo": "https://github.com/getGuaka/Regex.git",
+    "runid": 12637148220,
+    "status": "failure"
+  },
   "hootsuite/emit": {
     "created": "2025-01-06T17:24:12Z",
     "duration": 6,
