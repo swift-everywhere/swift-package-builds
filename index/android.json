@@ -311,6 +311,14 @@
     "runid": 12638963153,
     "status": "success"
   },
+  "Stiivi/ParserCombinator": {
+    "created": "2025-01-06T19:43:55Z",
+    "duration": 4,
+    "modified": "2025-01-06T19:43:55Z",
+    "repo": "https://github.com/Stiivi/ParserCombinator.git",
+    "runid": 12638963153,
+    "status": "success"
+  },
   "SwiftPackageIndex/ReleaseNotes": {
     "created": "2025-01-06T17:12:00Z",
     "duration": 19,
