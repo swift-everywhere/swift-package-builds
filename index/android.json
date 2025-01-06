@@ -559,6 +559,14 @@
     "runid": 12637148220,
     "status": "failure"
   },
+  "techinpark/ios_privacy_manifest_scanner": {
+    "created": "2025-01-06T17:40:01Z",
+    "duration": 8,
+    "modified": "2025-01-06T17:40:01Z",
+    "repo": "https://github.com/techinpark/ios_privacy_manifest_scanner.git",
+    "runid": 12637148220,
+    "status": "failure"
+  },
   "tugcanonbas/authomatek": {
     "created": "2025-01-06T17:07:40Z",
     "duration": 41,
