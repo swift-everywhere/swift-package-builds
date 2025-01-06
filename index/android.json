@@ -316,6 +316,15 @@
     "stars": 1493,
     "status": "failure"
   },
+  "Balancingrock/Ascii": {
+    "created": "2025-01-06T23:30:57Z",
+    "duration": 4,
+    "modified": "2025-01-06T23:30:57Z",
+    "repo": "https://github.com/Balancingrock/Ascii.git",
+    "runid": 12641986754,
+    "stars": 2,
+    "status": "success"
+  },
   "Balancingrock/BRUtils": {
     "created": "2025-01-06T17:24:19Z",
     "duration": 7,
