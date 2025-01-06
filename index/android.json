@@ -695,6 +695,14 @@
     "runid": 12637148220,
     "status": "failure"
   },
+  "wabiverse/KrakenPlugs": {
+    "created": "2025-01-06T17:42:15Z",
+    "duration": 7,
+    "modified": "2025-01-06T17:42:15Z",
+    "repo": "https://github.com/wabiverse/KrakenPlugs.git",
+    "runid": 12637148220,
+    "status": "success"
+  },
   "weissi/swift-undefined": {
     "created": "2025-01-06T17:38:24Z",
     "duration": 3,
