@@ -4481,6 +4481,15 @@
     "stars": 3,
     "status": "success"
   },
+  "markbattistella/extra-components-publish-plugin": {
+    "created": "2025-01-06T23:11:22Z",
+    "duration": 17,
+    "modified": "2025-01-06T23:11:22Z",
+    "repo": "https://github.com/markbattistella/extra-components-publish-plugin.git",
+    "runid": 12641431024,
+    "stars": 0,
+    "status": "failure"
+  },
   "marmelroy/Zip": {
     "created": "2025-01-06T21:37:20Z",
     "duration": 6,
