@@ -686,6 +686,15 @@
     "stars": 198,
     "status": "failure"
   },
+  "Flight-School/Money": {
+    "created": "2025-01-06T23:09:20Z",
+    "duration": 7,
+    "modified": "2025-01-06T23:09:20Z",
+    "repo": "https://github.com/Flight-School/Money.git",
+    "runid": 12641431024,
+    "stars": 914,
+    "status": "success"
+  },
   "Flight-School/Rate": {
     "created": "2025-01-06T22:32:45Z",
     "duration": 5,
