@@ -455,6 +455,14 @@
     "runid": 12635570877,
     "status": "failure"
   },
+  "michaelnisi/hattr": {
+    "created": "2025-01-06T16:17:31Z",
+    "duration": 6,
+    "modified": "2025-01-06T16:17:31Z",
+    "repo": "https://github.com/michaelnisi/hattr.git",
+    "runid": 12635750109,
+    "status": "failure"
+  },
   "mihaelisaev/vaporautostat": {
     "created": "2025-01-06T15:47:43Z",
     "duration": 20,
