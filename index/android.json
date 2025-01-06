@@ -191,6 +191,14 @@
     "runid": 12637148220,
     "status": "success"
   },
+  "bloomberg/xcdiff": {
+    "created": "2025-01-06T17:41:53Z",
+    "duration": 10,
+    "modified": "2025-01-06T17:41:53Z",
+    "repo": "https://github.com/bloomberg/xcdiff.git",
+    "runid": 12637148220,
+    "status": "failure"
+  },
   "brokenhandsio/vapor-csrf": {
     "created": "2025-01-06T17:10:49Z",
     "duration": 30,
