@@ -39,6 +39,14 @@
     "runid": 12637148220,
     "status": "failure"
   },
+  "JohnSundell/Sweep": {
+    "created": "2025-01-06T17:30:36Z",
+    "duration": 6,
+    "modified": "2025-01-06T17:30:36Z",
+    "repo": "https://github.com/JohnSundell/Sweep.git",
+    "runid": 12637148220,
+    "status": "success"
+  },
   "KittyMac/flynn": {
     "created": "2025-01-06T17:23:49Z",
     "duration": 7,
