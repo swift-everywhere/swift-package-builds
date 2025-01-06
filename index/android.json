@@ -5219,6 +5219,15 @@
     "runid": 12638963153,
     "status": "failure"
   },
+  "tuist/XcodeProj": {
+    "created": "2025-01-06T22:13:14Z",
+    "duration": 9,
+    "modified": "2025-01-06T22:13:14Z",
+    "repo": "https://github.com/tuist/XcodeProj.git",
+    "runid": 12640899049,
+    "stars": 2048,
+    "status": "failure"
+  },
   "turbolent/OrderedSet": {
     "created": "2025-01-06T17:12:41Z",
     "duration": 3,
