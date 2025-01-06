@@ -71,6 +71,14 @@
     "runid": 12637148220,
     "status": "failure"
   },
+  "berikv/FailableSequence": {
+    "created": "2025-01-06T17:26:48Z",
+    "duration": 6,
+    "modified": "2025-01-06T17:26:48Z",
+    "repo": "https://github.com/berikv/FailableSequence.git",
+    "runid": 12637148220,
+    "status": "success"
+  },
   "brokenhandsio/vapor-csrf": {
     "created": "2025-01-06T17:10:49Z",
     "duration": 30,
