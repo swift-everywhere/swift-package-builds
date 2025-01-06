@@ -2533,6 +2533,15 @@
     "runid": 12638963153,
     "status": "success"
   },
+  "freshOS/Then": {
+    "created": "2025-01-06T21:59:22Z",
+    "duration": 7,
+    "modified": "2025-01-06T21:59:22Z",
+    "repo": "https://github.com/freshOS/Then.git",
+    "runid": 12640899049,
+    "stars": 995,
+    "status": "success"
+  },
   "fummicc1/GeoHashSwift": {
     "created": "2025-01-06T20:55:35Z",
     "duration": 7,
