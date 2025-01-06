@@ -1159,6 +1159,14 @@
     "runid": 12638963153,
     "status": "success"
   },
+  "cx-org/CombineX": {
+    "created": "2025-01-06T20:25:30Z",
+    "duration": 12,
+    "modified": "2025-01-06T20:25:30Z",
+    "repo": "https://github.com/cx-org/CombineX.git",
+    "runid": 12638963153,
+    "status": "failure"
+  },
   "d-exclaimation/pioneer": {
     "created": "2025-01-06T18:04:48Z",
     "duration": 32,
