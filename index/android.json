@@ -2702,6 +2702,15 @@
     "stars": 16,
     "status": "failure"
   },
+  "f-meloni/danger-swift-coverage": {
+    "created": "2025-01-06T22:15:24Z",
+    "duration": 61,
+    "modified": "2025-01-06T22:15:24Z",
+    "repo": "https://github.com/f-meloni/danger-swift-coverage.git",
+    "runid": 12640899049,
+    "stars": 84,
+    "status": "failure"
+  },
   "faberNovel/xcresource-cli": {
     "created": "2025-01-06T22:03:59Z",
     "duration": 8,
