@@ -2389,6 +2389,15 @@
     "stars": 92,
     "status": "success"
   },
+  "drewag/SwiftlierCLI": {
+    "created": "2025-01-06T22:02:52Z",
+    "duration": 13,
+    "modified": "2025-01-06T22:02:52Z",
+    "repo": "https://github.com/drewag/SwiftlierCLI.git",
+    "runid": 12640899049,
+    "stars": 0,
+    "status": "failure"
+  },
   "duhnnie/SwiftRestClient": {
     "created": "2025-01-06T17:45:46Z",
     "duration": 6,
