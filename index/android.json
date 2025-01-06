@@ -15,6 +15,14 @@
     "runid": 12636724204,
     "status": "failure"
   },
+  "LucianoPAlmeida/variable-injector": {
+    "created": "2025-01-06T17:01:41Z",
+    "duration": 77,
+    "modified": "2025-01-06T17:01:41Z",
+    "repo": "https://github.com/LucianoPAlmeida/variable-injector.git",
+    "runid": 12636724204,
+    "status": "failure"
+  },
   "Samasaur1/DiceKit": {
     "created": "2025-01-06T17:00:00Z",
     "duration": 7,
