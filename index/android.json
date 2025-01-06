@@ -6487,10 +6487,11 @@
   },
   "techinpark/ios_privacy_manifest_scanner": {
     "created": "2025-01-06T17:40:01Z",
-    "duration": 8,
-    "modified": "2025-01-06T17:40:01Z",
+    "duration": 9,
+    "modified": "2025-01-06T23:26:29Z",
     "repo": "https://github.com/techinpark/ios_privacy_manifest_scanner.git",
-    "runid": 12637148220,
+    "runid": 12641986754,
+    "stars": 65,
     "status": "failure"
   },
   "teco-project/teco-core": {
