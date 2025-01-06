@@ -2381,6 +2381,15 @@
     "runid": 12637757100,
     "status": "failure"
   },
+  "amosavian/JWSETKit": {
+    "created": "2025-01-06T23:35:50Z",
+    "duration": 27,
+    "modified": "2025-01-06T23:35:50Z",
+    "repo": "https://github.com/amosavian/JWSETKit.git",
+    "runid": 12641986754,
+    "stars": 46,
+    "status": "failure"
+  },
   "amzn/openapi-swift-code-generate": {
     "created": "2025-01-06T23:32:46Z",
     "duration": 18,
