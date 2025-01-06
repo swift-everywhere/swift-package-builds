@@ -247,6 +247,14 @@
     "runid": 12635570877,
     "status": "failure"
   },
+  "edonv/SwiftUIColorConstants": {
+    "created": "2025-01-06T16:06:24Z",
+    "duration": 3,
+    "modified": "2025-01-06T16:06:24Z",
+    "repo": "https://github.com/edonv/SwiftUIColorConstants.git",
+    "runid": 12635750109,
+    "status": "failure"
+  },
   "edonv/swift-http-field-types": {
     "created": "2025-01-06T16:05:58Z",
     "duration": 5,
