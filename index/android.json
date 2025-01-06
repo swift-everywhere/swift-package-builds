@@ -647,6 +647,14 @@
     "runid": 12638963153,
     "status": "success"
   },
+  "dastrobu/argtree": {
+    "created": "2025-01-06T19:45:27Z",
+    "duration": 5,
+    "modified": "2025-01-06T19:45:27Z",
+    "repo": "https://github.com/dastrobu/argtree.git",
+    "runid": 12638963153,
+    "status": "failure"
+  },
   "david-swift/LevenshteinTransformations": {
     "created": "2025-01-06T17:25:12Z",
     "duration": 4,
