@@ -1960,6 +1960,15 @@
     "runid": 12638963153,
     "status": "success"
   },
+  "glessard/shuffle": {
+    "created": "2025-01-06T21:05:55Z",
+    "duration": 4,
+    "modified": "2025-01-06T21:05:55Z",
+    "repo": "https://github.com/glessard/shuffle.git",
+    "runid": 12640312681,
+    "stars": 3,
+    "status": "failure"
+  },
   "gmosx/swift-common": {
     "created": "2025-01-06T19:50:16Z",
     "duration": 6,
