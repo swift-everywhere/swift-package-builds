@@ -575,6 +575,14 @@
     "runid": 12635750109,
     "status": "failure"
   },
+  "xcode-coffee/jsonfeed": {
+    "created": "2025-01-06T16:07:34Z",
+    "duration": 6,
+    "modified": "2025-01-06T16:07:34Z",
+    "repo": "https://github.com/xcode-coffee/jsonfeed.git",
+    "runid": 12635750109,
+    "status": "failure"
+  },
   "zssz/BerkananFoundation": {
     "created": "2025-01-06T15:53:08Z",
     "duration": 7,
