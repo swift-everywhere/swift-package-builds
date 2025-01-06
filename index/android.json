@@ -415,6 +415,14 @@
     "runid": 12637148220,
     "status": "failure"
   },
+  "berikv/ClampedInteger": {
+    "created": "2025-01-06T19:40:50Z",
+    "duration": 3,
+    "modified": "2025-01-06T19:40:50Z",
+    "repo": "https://github.com/berikv/ClampedInteger.git",
+    "runid": 12638963153,
+    "status": "success"
+  },
   "berikv/FailableSequence": {
     "created": "2025-01-06T17:26:48Z",
     "duration": 6,
