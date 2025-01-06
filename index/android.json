@@ -239,6 +239,14 @@
     "runid": 12637148220,
     "status": "failure"
   },
+  "WilhelmOks/ModifiedCopyMacro": {
+    "created": "2025-01-06T18:09:54Z",
+    "duration": 94,
+    "modified": "2025-01-06T18:09:54Z",
+    "repo": "https://github.com/WilhelmOks/ModifiedCopyMacro.git",
+    "runid": 12637757100,
+    "status": "success"
+  },
   "adam-fowler/swift-web": {
     "created": "2025-01-06T17:35:02Z",
     "duration": 21,
