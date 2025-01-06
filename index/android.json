@@ -1639,6 +1639,14 @@
     "runid": 12637757100,
     "status": "failure"
   },
+  "swift-cloud/swift-cloud": {
+    "created": "2025-01-06T19:55:39Z",
+    "duration": 46,
+    "modified": "2025-01-06T19:55:39Z",
+    "repo": "https://github.com/swift-cloud/swift-cloud.git",
+    "runid": 12638963153,
+    "status": "failure"
+  },
   "swift-nest/clutch": {
     "created": "2025-01-06T19:52:55Z",
     "duration": 7,
