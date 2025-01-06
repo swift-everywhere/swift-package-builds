@@ -5904,6 +5904,15 @@
     "runid": 12636850547,
     "status": "success"
   },
+  "pointfreeco/swift-url-routing": {
+    "created": "2025-01-06T23:37:35Z",
+    "duration": 32,
+    "modified": "2025-01-06T23:37:35Z",
+    "repo": "https://github.com/pointfreeco/swift-url-routing.git",
+    "runid": 12641986754,
+    "stars": 357,
+    "status": "failure"
+  },
   "pointfreeco/swift-web": {
     "created": "2025-01-06T19:44:20Z",
     "duration": 23,
