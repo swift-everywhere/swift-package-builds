@@ -812,6 +812,15 @@
     "runid": 12638963153,
     "status": "success"
   },
+  "Nef10/SwiftBeanCountParserUtils": {
+    "created": "2025-01-06T21:19:05Z",
+    "duration": 6,
+    "modified": "2025-01-06T21:19:05Z",
+    "repo": "https://github.com/Nef10/SwiftBeanCountParserUtils.git",
+    "runid": 12640312681,
+    "stars": 0,
+    "status": "success"
+  },
   "NeilsUltimateLab/AutolayoutExtension": {
     "created": "2025-01-06T20:44:46Z",
     "duration": 10,
