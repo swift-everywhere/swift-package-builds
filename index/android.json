@@ -5149,6 +5149,15 @@
     "stars": 1,
     "status": "success"
   },
+  "ptrkstr/APIKeyMiddleware": {
+    "created": "2025-01-06T23:00:12Z",
+    "duration": 17,
+    "modified": "2025-01-06T23:00:12Z",
+    "repo": "https://github.com/ptrkstr/APIKeyMiddleware.git",
+    "runid": 12641431024,
+    "stars": 3,
+    "status": "failure"
+  },
   "ptsochantaris/can-proceed": {
     "created": "2025-01-06T17:45:53Z",
     "duration": 6,
