@@ -6007,6 +6007,15 @@
     "stars": 3332,
     "status": "failure"
   },
+  "uploadcare/uploadcare-swift": {
+    "created": "2025-01-06T22:56:48Z",
+    "duration": 18,
+    "modified": "2025-01-06T22:56:48Z",
+    "repo": "https://github.com/uploadcare/uploadcare-swift.git",
+    "runid": 12641431024,
+    "stars": 12,
+    "status": "failure"
+  },
   "uraimo/RCWL-0516-Radar.swift": {
     "created": "2025-01-06T19:56:08Z",
     "duration": 8,
