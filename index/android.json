@@ -199,6 +199,14 @@
     "runid": 12635570877,
     "status": "failure"
   },
+  "jawziyya/fawaid-models": {
+    "created": "2025-01-06T16:02:19Z",
+    "duration": 6,
+    "modified": "2025-01-06T16:02:19Z",
+    "repo": "https://github.com/jawziyya/fawaid-models.git",
+    "runid": 12635750109,
+    "status": "failure"
+  },
   "k-o-d-e-n/CGLayout": {
     "created": "2025-01-06T15:53:47Z",
     "duration": 7,
