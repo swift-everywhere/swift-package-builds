@@ -1246,6 +1246,15 @@
     "runid": 12638963153,
     "status": "success"
   },
+  "Kitura/Kitura-Markdown": {
+    "created": "2025-01-06T23:33:51Z",
+    "duration": 7,
+    "modified": "2025-01-06T23:33:51Z",
+    "repo": "https://github.com/Kitura/Kitura-Markdown.git",
+    "runid": 12641986754,
+    "stars": 26,
+    "status": "success"
+  },
   "Kitura/Kitura-NIO": {
     "created": "2025-01-06T21:40:55Z",
     "duration": 19,
