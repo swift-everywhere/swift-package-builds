@@ -5866,9 +5866,10 @@
   "swift-serverless/swift-sls-adapter": {
     "created": "2025-01-06T20:58:49Z",
     "duration": 20,
-    "modified": "2025-01-06T20:58:49Z",
+    "modified": "2025-01-06T23:06:44Z",
     "repo": "https://github.com/swift-serverless/swift-sls-adapter.git",
-    "runid": 12638963153,
+    "runid": 12641431024,
+    "stars": 5,
     "status": "success"
   },
   "swiftlang/swift-docc": {
