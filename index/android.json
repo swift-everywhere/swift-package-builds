@@ -167,6 +167,14 @@
     "runid": 12638963153,
     "status": "success"
   },
+  "Cosmo/ISO8859": {
+    "created": "2025-01-06T20:15:55Z",
+    "duration": 5,
+    "modified": "2025-01-06T20:15:55Z",
+    "repo": "https://github.com/Cosmo/ISO8859.git",
+    "runid": 12638963153,
+    "status": "success"
+  },
   "CypherPoet/AlphabetEncoder": {
     "created": "2025-01-06T19:39:50Z",
     "duration": 17,
