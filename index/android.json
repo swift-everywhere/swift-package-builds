@@ -15,6 +15,14 @@
     "runid": 12637148220,
     "status": "failure"
   },
+  "AudioKit/Tonic": {
+    "created": "2025-01-06T17:46:05Z",
+    "duration": 7,
+    "modified": "2025-01-06T17:46:05Z",
+    "repo": "https://github.com/AudioKit/Tonic.git",
+    "runid": 12637148220,
+    "status": "success"
+  },
   "Balancingrock/BRUtils": {
     "created": "2025-01-06T17:24:19Z",
     "duration": 6,
