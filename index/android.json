@@ -2176,6 +2176,15 @@
     "runid": 12636850547,
     "status": "success"
   },
+  "finestructure/Rester": {
+    "created": "2025-01-06T21:36:53Z",
+    "duration": 17,
+    "modified": "2025-01-06T21:36:53Z",
+    "repo": "https://github.com/finestructure/Rester.git",
+    "runid": 12640552194,
+    "stars": 44,
+    "status": "failure"
+  },
   "finestructure/ValueCodable": {
     "created": "2025-01-06T19:54:19Z",
     "duration": 7,
