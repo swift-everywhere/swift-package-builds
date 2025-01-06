@@ -4194,6 +4194,15 @@
     "runid": 12638963153,
     "status": "failure"
   },
+  "ldstreet/PlayDocs": {
+    "created": "2025-01-06T23:04:37Z",
+    "duration": 13,
+    "modified": "2025-01-06T23:04:37Z",
+    "repo": "https://github.com/ldstreet/PlayDocs.git",
+    "runid": 12641431024,
+    "stars": 3,
+    "status": "failure"
+  },
   "leif-ibsen/SwiftChaChaPoly": {
     "created": "2025-01-06T20:43:54Z",
     "duration": 4,
