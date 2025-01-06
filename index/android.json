@@ -594,6 +594,15 @@
     "runid": 12638963153,
     "status": "failure"
   },
+  "Flight-School/JSONFeed": {
+    "created": "2025-01-06T22:32:24Z",
+    "duration": 6,
+    "modified": "2025-01-06T22:32:24Z",
+    "repo": "https://github.com/Flight-School/JSONFeed.git",
+    "runid": 12641431024,
+    "stars": 51,
+    "status": "success"
+  },
   "Flight-School/MessagePack": {
     "created": "2025-01-06T21:50:12Z",
     "duration": 6,
