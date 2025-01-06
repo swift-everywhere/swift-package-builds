@@ -159,6 +159,14 @@
     "runid": 12635570877,
     "status": "failure"
   },
+  "appcues/segment-appcues-ios": {
+    "created": "2025-01-06T16:05:41Z",
+    "duration": 18,
+    "modified": "2025-01-06T16:05:41Z",
+    "repo": "https://github.com/appcues/segment-appcues-ios.git",
+    "runid": 12635750109,
+    "status": "failure"
+  },
   "aus-der-Technik/SwiftyNats": {
     "created": "2025-01-06T15:55:20Z",
     "duration": 23,
