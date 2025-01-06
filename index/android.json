@@ -3992,6 +3992,15 @@
     "stars": 0,
     "status": "success"
   },
+  "soto-project/soto-codegenerator": {
+    "created": "2025-01-06T21:41:24Z",
+    "duration": 18,
+    "modified": "2025-01-06T21:41:24Z",
+    "repo": "https://github.com/soto-project/soto-codegenerator.git",
+    "runid": 12640552194,
+    "stars": 18,
+    "status": "failure"
+  },
   "soto-project/soto-cognito-authentication-kit": {
     "created": "2025-01-06T17:37:42Z",
     "duration": 123,
