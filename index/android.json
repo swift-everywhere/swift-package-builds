@@ -1741,6 +1741,15 @@
     "runid": 12637757100,
     "status": "failure"
   },
+  "appcraftconsulting/buymeacoffee": {
+    "created": "2025-01-06T22:08:49Z",
+    "duration": 6,
+    "modified": "2025-01-06T22:08:49Z",
+    "repo": "https://github.com/appcraftconsulting/buymeacoffee.git",
+    "runid": 12640899049,
+    "stars": 190,
+    "status": "success"
+  },
   "appdecentral/replicatingtypes": {
     "created": "2025-01-06T19:53:56Z",
     "duration": 7,
