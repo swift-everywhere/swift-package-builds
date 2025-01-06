@@ -1977,6 +1977,15 @@
     "runid": 12637757100,
     "status": "failure"
   },
+  "antlr/antlr4": {
+    "created": "2025-01-06T22:52:03Z",
+    "duration": 11,
+    "modified": "2025-01-06T22:52:03Z",
+    "repo": "https://github.com/antlr/antlr4.git",
+    "runid": 12641431024,
+    "stars": 17425,
+    "status": "success"
+  },
   "appcraftconsulting/buymeacoffee": {
     "created": "2025-01-06T22:08:49Z",
     "duration": 6,
