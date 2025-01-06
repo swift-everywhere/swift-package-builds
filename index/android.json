@@ -47,6 +47,14 @@
     "runid": 12636850547,
     "status": "failure"
   },
+  "krzysztofzablocki/Sourcery": {
+    "created": "2025-01-06T17:09:19Z",
+    "duration": 65,
+    "modified": "2025-01-06T17:09:19Z",
+    "repo": "https://github.com/krzysztofzablocki/Sourcery.git",
+    "runid": 12636850547,
+    "status": "failure"
+  },
   "tugcanonbas/authomatek": {
     "created": "2025-01-06T17:07:40Z",
     "duration": 41,
