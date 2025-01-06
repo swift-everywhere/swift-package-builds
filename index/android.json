@@ -367,6 +367,14 @@
     "runid": 12638963153,
     "status": "success"
   },
+  "OperatorFoundation/Datable": {
+    "created": "2025-01-06T20:01:55Z",
+    "duration": 15,
+    "modified": "2025-01-06T20:01:55Z",
+    "repo": "https://github.com/OperatorFoundation/Datable.git",
+    "runid": 12638963153,
+    "status": "success"
+  },
   "PerfectlySoft/Perfect-COpenSSL": {
     "created": "2025-01-06T17:23:41Z",
     "duration": 10,
