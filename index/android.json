@@ -217,10 +217,10 @@
   },
   "SDGGiesbrecht/SDGWeb": {
     "created": "2025-01-06T17:30:15Z",
-    "duration": 29,
-    "modified": "2025-01-06T17:30:15Z",
+    "duration": 30,
+    "modified": "2025-01-06T19:34:48Z",
     "repo": "https://github.com/SDGGiesbrecht/SDGWeb.git",
-    "runid": 12637148220,
+    "runid": 12638963153,
     "status": "failure"
   },
   "SwiftPackageIndex/ReleaseNotes": {
