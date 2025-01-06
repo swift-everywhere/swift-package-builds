@@ -3006,6 +3006,15 @@
     "stars": 88,
     "status": "failure"
   },
+  "fumito-ito/SwiftyInAppMessaging": {
+    "created": "2025-01-06T22:43:46Z",
+    "duration": 38,
+    "modified": "2025-01-06T22:43:46Z",
+    "repo": "https://github.com/fumito-ito/SwiftyInAppMessaging.git",
+    "runid": 12641431024,
+    "stars": 7,
+    "status": "success"
+  },
   "fummicc1/GeoHashSwift": {
     "created": "2025-01-06T20:55:35Z",
     "duration": 7,
