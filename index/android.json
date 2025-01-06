@@ -383,6 +383,14 @@
     "runid": 12637148220,
     "status": "success"
   },
+  "JosephDuffy/Renamed": {
+    "created": "2025-01-06T20:14:52Z",
+    "duration": 105,
+    "modified": "2025-01-06T20:14:52Z",
+    "repo": "https://github.com/JosephDuffy/Renamed.git",
+    "runid": 12638963153,
+    "status": "success"
+  },
   "JosephDuffy/SwiftChecksDangerPlugin": {
     "created": "2025-01-06T19:41:37Z",
     "duration": 11,
