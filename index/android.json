@@ -479,6 +479,14 @@
     "runid": 12635570877,
     "status": "failure"
   },
+  "ra9r/Ra9rKit": {
+    "created": "2025-01-06T16:07:19Z",
+    "duration": 4,
+    "modified": "2025-01-06T16:07:19Z",
+    "repo": "https://github.com/ra9r/Ra9rKit.git",
+    "runid": 12635750109,
+    "status": "failure"
+  },
   "raphaelwach/dataconvertible": {
     "created": "2025-01-06T16:04:56Z",
     "duration": 6,
