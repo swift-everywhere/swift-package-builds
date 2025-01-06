@@ -851,6 +851,15 @@
     "runid": 12638963153,
     "status": "failure"
   },
+  "Mobelux/swift-aws-extras": {
+    "created": "2025-01-06T21:33:46Z",
+    "duration": 118,
+    "modified": "2025-01-06T21:33:46Z",
+    "repo": "https://github.com/Mobelux/swift-aws-extras.git",
+    "runid": 12640552194,
+    "stars": 1,
+    "status": "failure"
+  },
   "Mobelux/swift-lambda-extras": {
     "created": "2025-01-06T20:57:03Z",
     "duration": 14,
