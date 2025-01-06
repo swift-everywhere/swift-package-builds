@@ -65,7 +65,7 @@ jobs:
           else
             echo "::error::Unsupported platform: ${{ matrix.os }}"
             exit 1
-          endif
+          fi
 
       - name: Clone
         uses: actions/checkout@v4
