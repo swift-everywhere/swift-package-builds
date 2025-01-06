@@ -2825,6 +2825,15 @@
     "runid": 12638963153,
     "status": "success"
   },
+  "eneko/RegEx": {
+    "created": "2025-01-06T22:46:09Z",
+    "duration": 5,
+    "modified": "2025-01-06T22:46:09Z",
+    "repo": "https://github.com/eneko/RegEx.git",
+    "runid": 12641431024,
+    "stars": 11,
+    "status": "success"
+  },
   "engali94/XCBuildKit": {
     "created": "2025-01-06T17:38:55Z",
     "duration": 15,
