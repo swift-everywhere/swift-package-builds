@@ -4005,6 +4005,15 @@
     "runid": 12638963153,
     "status": "success"
   },
+  "finestructure/swift-pg-extras": {
+    "created": "2025-01-06T23:58:34Z",
+    "duration": 13,
+    "modified": "2025-01-06T23:58:34Z",
+    "repo": "https://github.com/finestructure/swift-pg-extras.git",
+    "runid": 12641986754,
+    "stars": 2,
+    "status": "failure"
+  },
   "finnvoor/appstoreconnect-swift-sdk": {
     "created": "2025-01-06T20:37:22Z",
     "duration": 30,
