@@ -911,6 +911,14 @@
     "runid": 12638963153,
     "status": "success"
   },
+  "kodecocodes/spm-tutorial": {
+    "created": "2025-01-06T19:43:24Z",
+    "duration": 3,
+    "modified": "2025-01-06T19:43:24Z",
+    "repo": "https://github.com/kodecocodes/spm-tutorial.git",
+    "runid": 12638963153,
+    "status": "failure"
+  },
   "krad/grip": {
     "created": "2025-01-06T19:35:06Z",
     "duration": 7,
