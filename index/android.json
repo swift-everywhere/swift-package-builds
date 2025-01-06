@@ -1889,6 +1889,15 @@
     "stars": 7565,
     "status": "success"
   },
+  "RedMadRobot/autograph": {
+    "created": "2025-01-06T23:52:57Z",
+    "duration": 14,
+    "modified": "2025-01-06T23:52:57Z",
+    "repo": "https://github.com/RedMadRobot/autograph.git",
+    "runid": 12641986754,
+    "stars": 5,
+    "status": "failure"
+  },
   "RedMadRobot/input-mask-ios": {
     "created": "2025-01-06T21:59:30Z",
     "duration": 7,
