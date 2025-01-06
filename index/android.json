@@ -175,6 +175,14 @@
     "runid": 12637148220,
     "status": "failure"
   },
+  "bdewey/static-libgit2": {
+    "created": "2025-01-06T17:42:23Z",
+    "duration": 7,
+    "modified": "2025-01-06T17:42:23Z",
+    "repo": "https://github.com/bdewey/static-libgit2.git",
+    "runid": 12637148220,
+    "status": "success"
+  },
   "bdrelling/Kipple": {
     "created": "2025-01-06T17:25:07Z",
     "duration": 34,
