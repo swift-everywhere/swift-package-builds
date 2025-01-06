@@ -719,6 +719,14 @@
     "runid": 12637148220,
     "status": "failure"
   },
+  "vsanthanam/WeakReference": {
+    "created": "2025-01-06T17:42:58Z",
+    "duration": 9,
+    "modified": "2025-01-06T17:42:58Z",
+    "repo": "https://github.com/vsanthanam/WeakReference.git",
+    "runid": 12637148220,
+    "status": "success"
+  },
   "wabiverse/KrakenPlugs": {
     "created": "2025-01-06T17:42:15Z",
     "duration": 7,
