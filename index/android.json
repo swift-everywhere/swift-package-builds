@@ -3270,6 +3270,15 @@
     "runid": 12637148220,
     "status": "success"
   },
+  "kasei/swift-sparql-syntax": {
+    "created": "2025-01-06T22:06:35Z",
+    "duration": 18,
+    "modified": "2025-01-06T22:06:35Z",
+    "repo": "https://github.com/kasei/swift-sparql-syntax.git",
+    "runid": 12640899049,
+    "stars": 17,
+    "status": "success"
+  },
   "kewlbear/TensorFlowLiteC": {
     "created": "2025-01-06T20:23:26Z",
     "duration": 6,
