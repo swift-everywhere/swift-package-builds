@@ -135,6 +135,14 @@
     "runid": 12636850547,
     "status": "success"
   },
+  "petrpavlik/GeoSwift": {
+    "created": "2025-01-06T17:12:37Z",
+    "duration": 6,
+    "modified": "2025-01-06T17:12:37Z",
+    "repo": "https://github.com/petrpavlik/GeoSwift.git",
+    "runid": 12636850547,
+    "status": "success"
+  },
   "pointfreeco/swift-nonempty": {
     "created": "2025-01-06T17:12:05Z",
     "duration": 4,
