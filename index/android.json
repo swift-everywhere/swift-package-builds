@@ -2159,6 +2159,15 @@
     "runid": 12637757100,
     "status": "failure"
   },
+  "happn-app/RecursiveSyncDispatch": {
+    "created": "2025-01-06T21:18:11Z",
+    "duration": 6,
+    "modified": "2025-01-06T21:18:11Z",
+    "repo": "https://github.com/happn-app/RecursiveSyncDispatch.git",
+    "runid": 12640312681,
+    "stars": 3,
+    "status": "success"
+  },
   "hartbit/Yaap": {
     "created": "2025-01-06T20:47:49Z",
     "duration": 7,
