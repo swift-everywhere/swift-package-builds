@@ -4230,6 +4230,15 @@
     "stars": 0,
     "status": "success"
   },
+  "soffes/HotKey": {
+    "created": "2025-01-06T21:56:55Z",
+    "duration": 4,
+    "modified": "2025-01-06T21:56:55Z",
+    "repo": "https://github.com/soffes/HotKey.git",
+    "runid": 12640899049,
+    "stars": 952,
+    "status": "success"
+  },
   "soto-project/Perfect-INIParser": {
     "created": "2025-01-06T21:18:34Z",
     "duration": 6,
