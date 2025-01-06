@@ -7470,6 +7470,15 @@
     "runid": 12638963153,
     "status": "success"
   },
+  "vapor/sqlite-kit": {
+    "created": "2025-01-06T23:41:54Z",
+    "duration": 44,
+    "modified": "2025-01-06T23:41:55Z",
+    "repo": "https://github.com/vapor/sqlite-kit.git",
+    "runid": 12641986754,
+    "stars": 63,
+    "status": "failure"
+  },
   "vapor/url-encoded-form": {
     "created": "2025-01-06T19:52:07Z",
     "duration": 5,
