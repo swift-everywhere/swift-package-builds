@@ -1566,6 +1566,15 @@
     "stars": 3,
     "status": "success"
   },
+  "SwiftPackageIndex/ReadyForSwift6Test": {
+    "created": "2025-01-06T22:14:06Z",
+    "duration": 2,
+    "modified": "2025-01-06T22:14:06Z",
+    "repo": "https://github.com/SwiftPackageIndex/ReadyForSwift6Test.git",
+    "runid": 12640899049,
+    "stars": 7,
+    "status": "success"
+  },
   "SwiftPackageIndex/ReleaseNotes": {
     "created": "2025-01-06T17:12:00Z",
     "duration": 19,
