@@ -263,6 +263,14 @@
     "runid": 12635570877,
     "status": "failure"
   },
+  "swift-tweets/swtws": {
+    "created": "2025-01-06T15:56:17Z",
+    "duration": 2,
+    "modified": "2025-01-06T15:56:17Z",
+    "repo": "https://github.com/swift-tweets/swtws.git",
+    "runid": 12635570877,
+    "status": "failure"
+  },
   "uraimo/rcwl-0516-radar.swift": {
     "created": "2025-01-06T15:55:32Z",
     "duration": 8,
