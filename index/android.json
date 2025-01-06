@@ -23,6 +23,14 @@
     "runid": 12636850547,
     "status": "success"
   },
+  "BlackWild/swift-encore": {
+    "created": "2025-01-06T17:39:16Z",
+    "duration": 6,
+    "modified": "2025-01-06T17:39:16Z",
+    "repo": "https://github.com/BlackWild/swift-encore.git",
+    "runid": 12637148220,
+    "status": "failure"
+  },
   "Digipolitan/framework-swift-template": {
     "created": "2025-01-06T17:07:46Z",
     "duration": 5,
