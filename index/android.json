@@ -255,6 +255,14 @@
     "runid": 12638963153,
     "status": "failure"
   },
+  "FluxorOrg/Fluxor": {
+    "created": "2025-01-06T20:11:35Z",
+    "duration": 13,
+    "modified": "2025-01-06T20:11:35Z",
+    "repo": "https://github.com/FluxorOrg/Fluxor.git",
+    "runid": 12638963153,
+    "status": "success"
+  },
   "Formkunft/LightTableDelta": {
     "created": "2025-01-06T19:40:46Z",
     "duration": 7,
