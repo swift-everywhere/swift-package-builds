@@ -175,6 +175,14 @@
     "runid": 12636850547,
     "status": "success"
   },
+  "SwiftyLinkerKit/SwiftyTM1637": {
+    "created": "2025-01-06T17:45:03Z",
+    "duration": 8,
+    "modified": "2025-01-06T17:45:03Z",
+    "repo": "https://github.com/SwiftyLinkerKit/SwiftyTM1637.git",
+    "runid": 12637148220,
+    "status": "failure"
+  },
   "adam-fowler/swift-web": {
     "created": "2025-01-06T17:35:02Z",
     "duration": 21,
