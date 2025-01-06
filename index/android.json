@@ -3692,6 +3692,15 @@
     "runid": 12638963153,
     "status": "failure"
   },
+  "peterkos/swifty": {
+    "created": "2025-01-06T21:49:08Z",
+    "duration": 12,
+    "modified": "2025-01-06T21:49:08Z",
+    "repo": "https://github.com/peterkos/swifty.git",
+    "runid": 12640899049,
+    "stars": 3,
+    "status": "success"
+  },
   "peterringset/JSONPatch": {
     "created": "2025-01-06T21:24:28Z",
     "duration": 6,
