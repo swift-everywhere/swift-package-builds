@@ -2493,6 +2493,15 @@
     "runid": 12638963153,
     "status": "failure"
   },
+  "apple/swift-nio-extras": {
+    "created": "2025-01-06T23:35:08Z",
+    "duration": 11,
+    "modified": "2025-01-06T23:35:08Z",
+    "repo": "https://github.com/apple/swift-nio-extras.git",
+    "runid": 12641986754,
+    "stars": 210,
+    "status": "failure"
+  },
   "apple/swift-nio-imap": {
     "created": "2025-01-06T20:27:49Z",
     "duration": 61,
