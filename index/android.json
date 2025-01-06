@@ -3170,6 +3170,15 @@
     "stars": 0,
     "status": "failure"
   },
+  "jollyjinx/modbus-2-mqtt-bridge": {
+    "created": "2025-01-06T22:04:46Z",
+    "duration": 45,
+    "modified": "2025-01-06T22:04:46Z",
+    "repo": "https://github.com/jollyjinx/modbus-2-mqtt-bridge.git",
+    "runid": 12640899049,
+    "stars": 8,
+    "status": "failure"
+  },
   "jp-fan-app/swift-client": {
     "created": "2025-01-06T17:24:28Z",
     "duration": 8,
