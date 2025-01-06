@@ -159,6 +159,14 @@
     "runid": 12638963153,
     "status": "failure"
   },
+  "BinaryBirds/swift-http": {
+    "created": "2025-01-06T20:38:12Z",
+    "duration": 5,
+    "modified": "2025-01-06T20:38:12Z",
+    "repo": "https://github.com/BinaryBirds/swift-http.git",
+    "runid": 12638963153,
+    "status": "failure"
+  },
   "BlackWild/swift-encore": {
     "created": "2025-01-06T17:39:16Z",
     "duration": 6,
