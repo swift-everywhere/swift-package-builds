@@ -7025,9 +7025,10 @@
   "zef/Retry": {
     "created": "2025-01-06T20:29:43Z",
     "duration": 6,
-    "modified": "2025-01-06T20:29:43Z",
+    "modified": "2025-01-06T23:23:49Z",
     "repo": "https://github.com/zef/Retry.git",
-    "runid": 12638963153,
+    "runid": 12641986754,
+    "stars": 1,
     "status": "success"
   },
   "zonble/HumanString": {
