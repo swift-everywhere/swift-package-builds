@@ -151,6 +151,14 @@
     "runid": 12636850547,
     "status": "success"
   },
+  "polac24/XCBuildAnalyzer": {
+    "created": "2025-01-06T17:13:00Z",
+    "duration": 17,
+    "modified": "2025-01-06T17:13:00Z",
+    "repo": "https://github.com/polac24/XCBuildAnalyzer.git",
+    "runid": 12636850547,
+    "status": "failure"
+  },
   "saltzmanjoelh/CliRunnable": {
     "created": "2025-01-06T17:09:38Z",
     "duration": 10,
