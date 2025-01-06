@@ -119,6 +119,14 @@
     "runid": 12636663814,
     "status": "failure"
   },
+  "norio-nomura/XCTAssertCrash": {
+    "created": "2025-01-06T16:58:48Z",
+    "duration": 6,
+    "modified": "2025-01-06T16:58:48Z",
+    "repo": "https://github.com/norio-nomura/XCTAssertCrash.git",
+    "runid": 12636724204,
+    "status": "failure"
+  },
   "pointfreeco/swift-prelude": {
     "created": "2025-01-06T16:53:11Z",
     "duration": 13,
