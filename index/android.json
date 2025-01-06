@@ -47,6 +47,14 @@
     "runid": 12635570877,
     "status": "failure"
   },
+  "dmonagle/elasticsearch-vapor": {
+    "created": "2025-01-06T15:51:33Z",
+    "duration": 9,
+    "modified": "2025-01-06T15:51:33Z",
+    "repo": "https://github.com/dmonagle/elasticsearch-vapor.git",
+    "runid": 12635570877,
+    "status": "failure"
+  },
   "himbeles/LocationProvider": {
     "created": "2025-01-06T15:50:51Z",
     "duration": 6,
