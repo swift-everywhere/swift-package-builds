@@ -271,6 +271,14 @@
     "runid": 12636850547,
     "status": "failure"
   },
+  "kasei/IDPPlanner": {
+    "created": "2025-01-06T17:33:57Z",
+    "duration": 8,
+    "modified": "2025-01-06T17:33:57Z",
+    "repo": "https://github.com/kasei/IDPPlanner.git",
+    "runid": 12637148220,
+    "status": "success"
+  },
   "kiliankoe/swift-outdated": {
     "created": "2025-01-06T17:09:52Z",
     "duration": 13,
