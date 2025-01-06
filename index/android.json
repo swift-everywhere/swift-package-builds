@@ -1639,6 +1639,14 @@
     "runid": 12637148220,
     "status": "success"
   },
+  "sinoru/swift-json": {
+    "created": "2025-01-06T19:58:55Z",
+    "duration": 15,
+    "modified": "2025-01-06T19:58:55Z",
+    "repo": "https://github.com/sinoru/swift-json.git",
+    "runid": 12638963153,
+    "status": "failure"
+  },
   "skelpo/JSON": {
     "created": "2025-01-06T17:43:31Z",
     "duration": 7,
