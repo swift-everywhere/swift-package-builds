@@ -87,6 +87,15 @@
     "runid": 12637757100,
     "status": "success"
   },
+  "AdaEngine/box2d-swift": {
+    "created": "2025-01-06T21:18:14Z",
+    "duration": 2,
+    "modified": "2025-01-06T21:18:14Z",
+    "repo": "https://github.com/AdaEngine/box2d-swift.git",
+    "runid": 12640312681,
+    "stars": 3,
+    "status": "failure"
+  },
   "Alamofire/Alamofire": {
     "created": "2025-01-06T20:06:20Z",
     "duration": 10,
