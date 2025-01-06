@@ -3565,9 +3565,10 @@
   "jerrymarino/SwiftCompilationDatabase": {
     "created": "2025-01-06T17:27:03Z",
     "duration": 6,
-    "modified": "2025-01-06T17:27:03Z",
+    "modified": "2025-01-06T22:45:43Z",
     "repo": "https://github.com/jerrymarino/SwiftCompilationDatabase.git",
-    "runid": 12637148220,
+    "runid": 12641431024,
+    "stars": 4,
     "status": "failure"
   },
   "jhonatn/SwiftTypeFamily": {
