@@ -39,6 +39,14 @@
     "runid": 12637148220,
     "status": "failure"
   },
+  "HealthTap/DangerXcodeStaticAnalyzer": {
+    "created": "2025-01-06T17:35:26Z",
+    "duration": 15,
+    "modified": "2025-01-06T17:35:26Z",
+    "repo": "https://github.com/HealthTap/DangerXcodeStaticAnalyzer.git",
+    "runid": 12637148220,
+    "status": "failure"
+  },
   "IndiePitcher/indiepitcher-swift": {
     "created": "2025-01-06T17:28:14Z",
     "duration": 52,
