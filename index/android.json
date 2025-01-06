@@ -511,6 +511,14 @@
     "runid": 12638963153,
     "status": "failure"
   },
+  "Nef10/SwiftBeanCountImporter": {
+    "created": "2025-01-06T20:16:29Z",
+    "duration": 33,
+    "modified": "2025-01-06T20:16:29Z",
+    "repo": "https://github.com/Nef10/SwiftBeanCountImporter.git",
+    "runid": 12638963153,
+    "status": "success"
+  },
   "NikSativa/CodableKit": {
     "created": "2025-01-06T19:54:27Z",
     "duration": 7,
