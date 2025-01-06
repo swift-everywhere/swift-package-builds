@@ -2152,6 +2152,15 @@
     "runid": 12637148220,
     "status": "failure"
   },
+  "Swonkie/RawTerm": {
+    "created": "2025-01-06T23:38:58Z",
+    "duration": 3,
+    "modified": "2025-01-06T23:38:58Z",
+    "repo": "https://github.com/Swonkie/RawTerm.git",
+    "runid": 12641986754,
+    "stars": 1,
+    "status": "failure"
+  },
   "TizianoCoroneo/Deeplink": {
     "created": "2025-01-06T20:43:37Z",
     "duration": 16,
