@@ -2247,6 +2247,14 @@
     "runid": 12638963153,
     "status": "failure"
   },
+  "nikola-mladenovic/AwsSwiftDynamoDBsdk": {
+    "created": "2025-01-06T20:38:37Z",
+    "duration": 15,
+    "modified": "2025-01-06T20:38:37Z",
+    "repo": "https://github.com/nikola-mladenovic/AwsSwiftDynamoDBsdk.git",
+    "runid": 12638963153,
+    "status": "failure"
+  },
   "nikola-mladenovic/AwsSwiftSign": {
     "created": "2025-01-06T17:40:39Z",
     "duration": 15,
