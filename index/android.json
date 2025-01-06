@@ -4256,6 +4256,15 @@
     "runid": 12637757100,
     "status": "success"
   },
+  "iainsmith/async-http-client": {
+    "created": "2025-01-06T23:40:16Z",
+    "duration": 56,
+    "modified": "2025-01-06T23:40:16Z",
+    "repo": "https://github.com/iainsmith/async-http-client.git",
+    "runid": 12641986754,
+    "stars": 0,
+    "status": "failure"
+  },
   "iamjono/SwiftRandom": {
     "created": "2025-01-06T19:45:51Z",
     "duration": 6,
