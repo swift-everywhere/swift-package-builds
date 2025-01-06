@@ -71,6 +71,14 @@
     "runid": 12638963153,
     "status": "success"
   },
+  "ChimeHQ/ConcurrencyPlus": {
+    "created": "2025-01-06T19:45:21Z",
+    "duration": 6,
+    "modified": "2025-01-06T19:45:21Z",
+    "repo": "https://github.com/ChimeHQ/ConcurrencyPlus.git",
+    "runid": 12638963153,
+    "status": "failure"
+  },
   "ChristianFox/RawDog": {
     "created": "2025-01-06T19:37:15Z",
     "duration": 6,
