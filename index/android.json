@@ -551,6 +551,14 @@
     "runid": 12636850547,
     "status": "failure"
   },
+  "rapierorg/telegram-bot-swift": {
+    "created": "2025-01-06T17:41:34Z",
+    "duration": 8,
+    "modified": "2025-01-06T17:41:34Z",
+    "repo": "https://github.com/rapierorg/telegram-bot-swift.git",
+    "runid": 12637148220,
+    "status": "failure"
+  },
   "rootstrap/SwiftGradients": {
     "created": "2025-01-06T17:33:48Z",
     "duration": 6,
