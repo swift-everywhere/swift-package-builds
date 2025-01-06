@@ -3856,6 +3856,15 @@
     "stars": 1,
     "status": "success"
   },
+  "mRs-/RxNimble": {
+    "created": "2025-01-06T22:34:28Z",
+    "duration": 16,
+    "modified": "2025-01-06T22:34:28Z",
+    "repo": "https://github.com/mRs-/RxNimble.git",
+    "runid": 12641431024,
+    "stars": 0,
+    "status": "failure"
+  },
   "magicbell/embedded-provision": {
     "created": "2025-01-06T20:00:44Z",
     "duration": 9,
