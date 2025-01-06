@@ -3038,6 +3038,15 @@
     "runid": 12637148220,
     "status": "success"
   },
+  "marmelroy/Zip": {
+    "created": "2025-01-06T21:37:20Z",
+    "duration": 6,
+    "modified": "2025-01-06T21:37:20Z",
+    "repo": "https://github.com/marmelroy/Zip.git",
+    "runid": 12640552194,
+    "stars": 2523,
+    "status": "failure"
+  },
   "mattmassicotte/Empire": {
     "created": "2025-01-06T19:47:59Z",
     "duration": 6,
