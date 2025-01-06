@@ -7220,6 +7220,15 @@
     "stars": 152,
     "status": "failure"
   },
+  "swift-server/swift-service-lifecycle": {
+    "created": "2025-01-06T23:59:28Z",
+    "duration": 8,
+    "modified": "2025-01-06T23:59:28Z",
+    "repo": "https://github.com/swift-server/swift-service-lifecycle.git",
+    "runid": 12641986754,
+    "stars": 408,
+    "status": "failure"
+  },
   "swift-server/swift-webauthn": {
     "created": "2025-01-06T22:52:42Z",
     "duration": 25,
