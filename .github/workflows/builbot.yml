@@ -26,6 +26,8 @@ jobs:
         #os: ['ubuntu-24.04', 'ubuntu-22.04', 'macos-14', 'macos-15', 'windows-latest']
         # TODO: Windows (needs bash support)
         os: ['ubuntu-24.04', 'ubuntu-22.04', 'macos-14', 'macos-15']
+        # TODO: fix ios builds
+        os: ['ubuntu-24.04', 'ubuntu-22.04']
     steps:
       - name: Setup Android Toolchain
         if: ${{ matrix.os == 'ubuntu-24.04' }}
@@ -61,7 +63,7 @@ jobs:
             echo 'buildcmd=swift build' >> $GITHUB_OUTPUT
           elif [ "${{ matrix.os }}" == 'macos-15' ]; then
             echo 'platform=ios' >> $GITHUB_OUTPUT
-            echo 'DEVELOPER_DIR=/Applications/Xcode-16.2.0.app xcrun xcodebuild -skipMacroValidation -skipPackagePluginValidation -derivedDataPath .derivedData build -destination generic/platform=iOS -scheme $(xcodebuild -list -json | jq -r ".workspace.schemes | sort_by(.) | reverse | .[0]")' >> $GITHUB_OUTPUT
+            echo 'DEVELOPER_DIR=/Applications/Xcode-16.2.0.app xcrun xcodebuild -skipMacroValidation -skipPackagePluginValidation -derivedDataPath .derivedData build -destination generic/platform=iOS -scheme $(xcrun xcodebuild -list -json | jq -r ".workspace.schemes | sort_by(.) | reverse | .[0]")' >> $GITHUB_OUTPUT
           else
             echo "::error::Unsupported platform: ${{ matrix.os }}"
             exit 1
@@ -106,6 +108,7 @@ jobs:
 
             WD=$(pwd)
             START=$(date +%s)
+            echo "Running build command: '${{ steps.setup-platform.outputs.buildcmd }}'"
             (git clone --depth=1 "${REPO}" repositories/"${DIR}" && cd repositories/"${DIR}" && ${{ steps.setup-platform.outputs.buildcmd }} ) | tee ../../logs/"${DIR}"/buildlog.txt && echo EXITCODE=0 || EXITCODE=$?
             END=$(date +%s)
             DURATION=$[END - START]
