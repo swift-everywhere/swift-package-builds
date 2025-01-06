@@ -408,6 +408,15 @@
     "stars": 4,
     "status": "success"
   },
+  "CuriositySoftware/XcodeTargetGraphGen": {
+    "created": "2025-01-06T22:13:27Z",
+    "duration": 12,
+    "modified": "2025-01-06T22:13:27Z",
+    "repo": "https://github.com/CuriositySoftware/XcodeTargetGraphGen.git",
+    "runid": 12640899049,
+    "stars": 38,
+    "status": "failure"
+  },
   "CuriositySoftware/swift-property-name": {
     "created": "2025-01-06T20:22:39Z",
     "duration": 123,
