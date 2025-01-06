@@ -6009,6 +6009,15 @@
     "runid": 12638963153,
     "status": "success"
   },
+  "segabor/OSCCore": {
+    "created": "2025-01-06T23:29:47Z",
+    "duration": 24,
+    "modified": "2025-01-06T23:29:47Z",
+    "repo": "https://github.com/segabor/OSCCore.git",
+    "runid": 12641986754,
+    "stars": 46,
+    "status": "failure"
+  },
   "sendbird/sendbird-uikit-ios": {
     "created": "2025-01-06T21:10:56Z",
     "duration": 13,
