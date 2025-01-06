@@ -49,14 +49,14 @@ jobs:
             rm -rf repositories/"${DIR}"
 
             # create a record of the package if it doesn't already exist
-            jq '."${DIR}" |= if . == null then {"r": "${REPO}", "c": (now | todate)} else . end' ${INDEX} > ${INDEX}.new && mv ${INDEX}.new ${INDEX}
+            jq ".'${DIR}' |= if . == null then {'r': '${REPO}', 'c': (now | todate)} else . end" ${INDEX} > ${INDEX}.new && mv ${INDEX}.new ${INDEX}
 
             # update the status of the build
-            jq '."${DIR}"."s" = ${EXITCODE}' ${INDEX} > ${INDEX}.new && mv ${INDEX}.new ${INDEX}
+            jq ".'${DIR}'.'s' = ${EXITCODE}" ${INDEX} > ${INDEX}.new && mv ${INDEX}.new ${INDEX}
             # set the build time
-            jq '."${DIR}"."m" = (now | todate)' ${INDEX} > ${INDEX}.new && mv ${INDEX}.new ${INDEX}
+            jq ".'${DIR}'.'m' = (now | todate)" ${INDEX} > ${INDEX}.new && mv ${INDEX}.new ${INDEX}
             # save the runid for future use
-            jq '."${DIR}"."r" = ${{ github.run_id }}' ${INDEX} > ${INDEX}.new && mv ${INDEX}.new ${INDEX}
+            jq ".'${DIR}'.'r' = ${{ github.run_id }}" ${INDEX} > ${INDEX}.new && mv ${INDEX}.new ${INDEX}
 
             # compact the JSON
             jq -c '.' ${INDEX} > ${INDEX}.new && mv ${INDEX}.new ${INDEX}
