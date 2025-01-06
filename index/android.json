@@ -4650,6 +4650,15 @@
     "stars": 60,
     "status": "failure"
   },
+  "rhx/gir2swift": {
+    "created": "2025-01-06T22:31:15Z",
+    "duration": 9,
+    "modified": "2025-01-06T22:31:15Z",
+    "repo": "https://github.com/rhx/gir2swift.git",
+    "runid": 12641431024,
+    "stars": 24,
+    "status": "failure"
+  },
   "richardpiazza/LocaleSupport": {
     "created": "2025-01-06T19:46:38Z",
     "duration": 6,
