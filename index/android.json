@@ -1047,6 +1047,14 @@
     "runid": 12637148220,
     "status": "failure"
   },
+  "getsentry/sentry-cocoa": {
+    "created": "2025-01-06T20:02:56Z",
+    "duration": 11,
+    "modified": "2025-01-06T20:02:56Z",
+    "repo": "https://github.com/getsentry/sentry-cocoa.git",
+    "runid": 12638963153,
+    "status": "success"
+  },
   "gmosx/swift-common": {
     "created": "2025-01-06T19:50:16Z",
     "duration": 6,
