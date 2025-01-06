@@ -1559,6 +1559,14 @@
     "runid": 12637757100,
     "status": "failure"
   },
+  "swift-nest/clutch": {
+    "created": "2025-01-06T19:52:55Z",
+    "duration": 7,
+    "modified": "2025-01-06T19:52:55Z",
+    "repo": "https://github.com/swift-nest/clutch.git",
+    "runid": 12638963153,
+    "status": "failure"
+  },
   "swift-psychrometrics/swift-psychrometrics": {
     "created": "2025-01-06T19:45:09Z",
     "duration": 21,
