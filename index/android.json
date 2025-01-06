@@ -3223,6 +3223,14 @@
     "runid": 12638963153,
     "status": "failure"
   },
+  "vapor-community/Imperial": {
+    "created": "2025-01-06T20:50:33Z",
+    "duration": 34,
+    "modified": "2025-01-06T20:50:33Z",
+    "repo": "https://github.com/vapor-community/Imperial.git",
+    "runid": 12638963153,
+    "status": "failure"
+  },
   "vapor-community/google-cloud-kit": {
     "created": "2025-01-06T20:35:01Z",
     "duration": 82,
