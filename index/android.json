@@ -446,6 +446,15 @@
     "runid": 12638963153,
     "status": "failure"
   },
+  "DanielSincere/SwishAppStore": {
+    "created": "2025-01-06T22:02:16Z",
+    "duration": 9,
+    "modified": "2025-01-06T22:02:16Z",
+    "repo": "https://github.com/DanielSincere/SwishAppStore.git",
+    "runid": 12640899049,
+    "stars": 2,
+    "status": "failure"
+  },
   "DanielSincere/UniquelyTypedID": {
     "created": "2025-01-06T21:58:46Z",
     "duration": 93,
