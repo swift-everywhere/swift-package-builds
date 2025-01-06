@@ -3881,6 +3881,15 @@
     "runid": 12638963153,
     "status": "success"
   },
+  "manuelCarlos/Easing": {
+    "created": "2025-01-06T22:34:50Z",
+    "duration": 20,
+    "modified": "2025-01-06T22:34:50Z",
+    "repo": "https://github.com/manuelCarlos/Easing.git",
+    "runid": 12641431024,
+    "stars": 148,
+    "status": "success"
+  },
   "mapbox/mapbox-core-maps-ios": {
     "created": "2025-01-06T20:05:11Z",
     "duration": 16,
