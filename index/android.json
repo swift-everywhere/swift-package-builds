@@ -2330,6 +2330,15 @@
     "runid": 12638963153,
     "status": "success"
   },
+  "eugenebokhan/swift-package-api-diff": {
+    "created": "2025-01-06T21:53:21Z",
+    "duration": 43,
+    "modified": "2025-01-06T21:53:21Z",
+    "repo": "https://github.com/eugenebokhan/swift-package-api-diff.git",
+    "runid": 12640899049,
+    "stars": 9,
+    "status": "failure"
+  },
   "evgenyneu/SigmaSwiftStatistics": {
     "created": "2025-01-06T20:15:08Z",
     "duration": 7,
