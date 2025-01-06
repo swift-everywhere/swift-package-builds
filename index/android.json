@@ -2544,6 +2544,15 @@
     "runid": 12638963153,
     "status": "success"
   },
+  "bannzai/SPMDemo": {
+    "created": "2025-01-06T23:27:48Z",
+    "duration": 3,
+    "modified": "2025-01-06T23:27:48Z",
+    "repo": "https://github.com/bannzai/SPMDemo.git",
+    "runid": 12641986754,
+    "stars": 6,
+    "status": "success"
+  },
   "bdewey/static-libgit2": {
     "created": "2025-01-06T17:42:23Z",
     "duration": 8,
