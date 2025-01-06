@@ -6441,6 +6441,15 @@
     "stars": 5,
     "status": "success"
   },
+  "swift-sprinter/swift-sls-adapter": {
+    "created": "2025-01-06T23:29:21Z",
+    "duration": 20,
+    "modified": "2025-01-06T23:29:21Z",
+    "repo": "https://github.com/swift-sprinter/swift-sls-adapter.git",
+    "runid": 12641986754,
+    "stars": 0,
+    "status": "success"
+  },
   "swiftlang/swift-docc": {
     "created": "2025-01-06T22:07:45Z",
     "duration": 27,
