@@ -1831,6 +1831,15 @@
     "runid": 12637148220,
     "status": "failure"
   },
+  "apple/swift-openapi-urlsession": {
+    "created": "2025-01-06T22:08:42Z",
+    "duration": 19,
+    "modified": "2025-01-06T22:08:42Z",
+    "repo": "https://github.com/apple/swift-openapi-urlsession.git",
+    "runid": 12640899049,
+    "stars": 163,
+    "status": "failure"
+  },
   "asensei/vapor-fluent-mongo": {
     "created": "2025-01-06T19:26:25Z",
     "duration": 46,
