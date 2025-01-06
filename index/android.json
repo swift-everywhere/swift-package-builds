@@ -5004,6 +5004,15 @@
     "runid": 12638963153,
     "status": "failure"
   },
+  "pokryfka/aws-xray-sdk-swift": {
+    "created": "2025-01-06T22:56:02Z",
+    "duration": 27,
+    "modified": "2025-01-06T22:56:02Z",
+    "repo": "https://github.com/pokryfka/aws-xray-sdk-swift.git",
+    "runid": 12641431024,
+    "stars": 14,
+    "status": "failure"
+  },
   "polac24/XCBuildAnalyzer": {
     "created": "2025-01-06T17:13:00Z",
     "duration": 17,
