@@ -1220,6 +1220,15 @@
     "runid": 12638963153,
     "status": "failure"
   },
+  "OlehKulykov/PLzmaSDK": {
+    "created": "2025-01-06T22:31:36Z",
+    "duration": 20,
+    "modified": "2025-01-06T22:31:36Z",
+    "repo": "https://github.com/OlehKulykov/PLzmaSDK.git",
+    "runid": 12641431024,
+    "stars": 86,
+    "status": "success"
+  },
   "OpenCombine/OpenCombine": {
     "created": "2025-01-06T19:40:27Z",
     "duration": 13,
