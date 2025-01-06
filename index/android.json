@@ -973,6 +973,15 @@
     "runid": 12638963153,
     "status": "failure"
   },
+  "MetalheadSanya/swift-mock": {
+    "created": "2025-01-06T21:56:43Z",
+    "duration": 142,
+    "modified": "2025-01-06T21:56:43Z",
+    "repo": "https://github.com/MetalheadSanya/swift-mock.git",
+    "runid": 12640899049,
+    "stars": 27,
+    "status": "failure"
+  },
   "MihaelIsaev/AwesomeWS": {
     "created": "2025-01-06T21:46:39Z",
     "duration": 43,
