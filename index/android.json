@@ -95,6 +95,14 @@
     "runid": 12637148220,
     "status": "success"
   },
+  "DanielSincere/ShGit": {
+    "created": "2025-01-06T19:38:52Z",
+    "duration": 9,
+    "modified": "2025-01-06T19:38:52Z",
+    "repo": "https://github.com/DanielSincere/ShGit.git",
+    "runid": 12638963153,
+    "status": "failure"
+  },
   "Digipolitan/framework-swift-template": {
     "created": "2025-01-06T17:07:46Z",
     "duration": 5,
