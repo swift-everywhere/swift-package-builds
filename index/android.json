@@ -3697,6 +3697,15 @@
     "stars": 92,
     "status": "success"
   },
+  "dirtyhenry/swift-blocks": {
+    "created": "2025-01-06T23:57:25Z",
+    "duration": 7,
+    "modified": "2025-01-06T23:57:25Z",
+    "repo": "https://github.com/dirtyhenry/swift-blocks.git",
+    "runid": 12641986754,
+    "stars": 3,
+    "status": "failure"
+  },
   "dominicegginton/spinner": {
     "created": "2025-01-06T23:47:04Z",
     "duration": 10,
