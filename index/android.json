@@ -1642,6 +1642,15 @@
     "runid": 12638963153,
     "status": "success"
   },
+  "alexito4/Flow": {
+    "created": "2025-01-06T22:00:17Z",
+    "duration": 6,
+    "modified": "2025-01-06T22:00:17Z",
+    "repo": "https://github.com/alexito4/Flow.git",
+    "runid": 12640899049,
+    "stars": 104,
+    "status": "failure"
+  },
   "alexruperez/Tagging": {
     "created": "2025-01-06T18:08:01Z",
     "duration": 6,
