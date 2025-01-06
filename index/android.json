@@ -23,6 +23,14 @@
     "runid": 12636850547,
     "status": "success"
   },
+  "SwiftPackageIndex/ReleaseNotes": {
+    "created": "2025-01-06T17:12:00Z",
+    "duration": 19,
+    "modified": "2025-01-06T17:12:00Z",
+    "repo": "https://github.com/SwiftPackageIndex/ReleaseNotes.git",
+    "runid": 12636850547,
+    "status": "failure"
+  },
   "brokenhandsio/vapor-csrf": {
     "created": "2025-01-06T17:10:49Z",
     "duration": 30,
