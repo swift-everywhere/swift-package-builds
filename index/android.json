@@ -255,6 +255,14 @@
     "runid": 12637148220,
     "status": "success"
   },
+  "facebook/zstd": {
+    "created": "2025-01-06T17:41:39Z",
+    "duration": 4,
+    "modified": "2025-01-06T17:41:39Z",
+    "repo": "https://github.com/facebook/zstd.git",
+    "runid": 12637148220,
+    "status": "success"
+  },
   "ferranpujolcamins/DotSwift": {
     "created": "2025-01-06T17:05:35Z",
     "duration": 12,
