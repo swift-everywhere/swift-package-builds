@@ -3160,6 +3160,15 @@
     "runid": 12638963153,
     "status": "success"
   },
+  "sendbird/sendbird-uikit-ios": {
+    "created": "2025-01-06T21:10:56Z",
+    "duration": 13,
+    "modified": "2025-01-06T21:10:56Z",
+    "repo": "https://github.com/sendbird/sendbird-uikit-ios.git",
+    "runid": 12640312681,
+    "stars": 108,
+    "status": "success"
+  },
   "setoelkahfi/JomloTableView": {
     "created": "2025-01-06T19:46:46Z",
     "duration": 6,
