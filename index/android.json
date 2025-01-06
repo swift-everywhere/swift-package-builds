@@ -3198,6 +3198,15 @@
     "runid": 12638963153,
     "status": "failure"
   },
+  "peterringset/JSONPatch": {
+    "created": "2025-01-06T21:24:28Z",
+    "duration": 6,
+    "modified": "2025-01-06T21:24:28Z",
+    "repo": "https://github.com/peterringset/JSONPatch.git",
+    "runid": 12640552194,
+    "stars": 10,
+    "status": "success"
+  },
   "petrpavlik/GeoSwift": {
     "created": "2025-01-06T17:12:37Z",
     "duration": 6,
