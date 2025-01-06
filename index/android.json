@@ -351,6 +351,14 @@
     "runid": 12637148220,
     "status": "success"
   },
+  "d-exclaimation/pioneer": {
+    "created": "2025-01-06T18:04:48Z",
+    "duration": 32,
+    "modified": "2025-01-06T18:04:48Z",
+    "repo": "https://github.com/d-exclaimation/pioneer.git",
+    "runid": 12637757100,
+    "status": "failure"
+  },
   "dagronf/DSFAppearanceManager": {
     "created": "2025-01-06T17:46:12Z",
     "duration": 6,
