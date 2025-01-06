@@ -55,6 +55,14 @@
     "runid": 12636850547,
     "status": "failure"
   },
+  "p-x9/IndirectlyCodable": {
+    "created": "2025-01-06T17:09:27Z",
+    "duration": 7,
+    "modified": "2025-01-06T17:09:27Z",
+    "repo": "https://github.com/p-x9/IndirectlyCodable.git",
+    "runid": 12636850547,
+    "status": "success"
+  },
   "tugcanonbas/authomatek": {
     "created": "2025-01-06T17:07:40Z",
     "duration": 41,
