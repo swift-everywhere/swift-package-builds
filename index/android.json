@@ -2929,10 +2929,11 @@
   },
   "bloomberg/xcdiff": {
     "created": "2025-01-06T17:41:53Z",
-    "duration": 10,
-    "modified": "2025-01-06T20:39:27Z",
+    "duration": 11,
+    "modified": "2025-01-06T23:49:12Z",
     "repo": "https://github.com/bloomberg/xcdiff.git",
-    "runid": 12638963153,
+    "runid": 12641986754,
+    "stars": 929,
     "status": "failure"
   },
   "bojan/Thingy": {
