@@ -4459,6 +4459,15 @@
     "runid": 12637148220,
     "status": "success"
   },
+  "myTrackerSDK/mytracker-ios-spm": {
+    "created": "2025-01-06T22:55:22Z",
+    "duration": 2,
+    "modified": "2025-01-06T22:55:22Z",
+    "repo": "https://github.com/myTrackerSDK/mytracker-ios-spm.git",
+    "runid": 12641431024,
+    "stars": 1,
+    "status": "success"
+  },
   "nalexn/minimalist": {
     "created": "2025-01-06T20:49:13Z",
     "duration": 5,
