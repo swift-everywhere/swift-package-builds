@@ -5459,10 +5459,11 @@
   },
   "pointfreeco/swift-dependencies": {
     "created": "2025-01-06T17:34:40Z",
-    "duration": 26,
-    "modified": "2025-01-06T17:34:40Z",
+    "duration": 30,
+    "modified": "2025-01-06T23:20:27Z",
     "repo": "https://github.com/pointfreeco/swift-dependencies.git",
-    "runid": 12637148220,
+    "runid": 12641986754,
+    "stars": 1663,
     "status": "failure"
   },
   "pointfreeco/swift-html-vapor": {
