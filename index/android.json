@@ -6111,6 +6111,15 @@
     "runid": 12638963153,
     "status": "failure"
   },
+  "tayloraswift/swiftxml": {
+    "created": "2025-01-06T23:12:24Z",
+    "duration": 4,
+    "modified": "2025-01-06T23:12:24Z",
+    "repo": "https://github.com/tayloraswift/swiftxml.git",
+    "runid": 12641431024,
+    "stars": 10,
+    "status": "failure"
+  },
   "taylorbswift/swift-web-semantics": {
     "created": "2025-01-06T19:49:11Z",
     "duration": 6,
