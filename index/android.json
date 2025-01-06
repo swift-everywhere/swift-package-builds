@@ -1191,6 +1191,15 @@
     "runid": 12638963153,
     "status": "success"
   },
+  "OperatorFoundation/BlueSocket": {
+    "created": "2025-01-06T22:07:54Z",
+    "duration": 9,
+    "modified": "2025-01-06T22:07:54Z",
+    "repo": "https://github.com/OperatorFoundation/BlueSocket.git",
+    "runid": 12640899049,
+    "stars": 0,
+    "status": "failure"
+  },
   "OperatorFoundation/Datable": {
     "created": "2025-01-06T20:01:55Z",
     "duration": 15,
