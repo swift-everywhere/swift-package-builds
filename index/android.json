@@ -998,6 +998,15 @@
     "stars": 1,
     "status": "failure"
   },
+  "JohnSundell/Files": {
+    "created": "2025-01-06T23:19:24Z",
+    "duration": 7,
+    "modified": "2025-01-06T23:19:24Z",
+    "repo": "https://github.com/JohnSundell/Files.git",
+    "runid": 12641986754,
+    "stars": 2549,
+    "status": "success"
+  },
   "JohnSundell/Ink": {
     "created": "2025-01-06T20:03:40Z",
     "duration": 8,
