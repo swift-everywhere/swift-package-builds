@@ -3222,6 +3222,15 @@
     "runid": 12638963153,
     "status": "failure"
   },
+  "stackotter/swift-macro-toolkit": {
+    "created": "2025-01-06T21:09:58Z",
+    "duration": 118,
+    "modified": "2025-01-06T21:09:58Z",
+    "repo": "https://github.com/stackotter/swift-macro-toolkit.git",
+    "runid": 12640312681,
+    "stars": 254,
+    "status": "success"
+  },
   "stefanspringer1/SwiftXMLInterfaces": {
     "created": "2025-01-06T18:06:27Z",
     "duration": 7,
