@@ -118,5 +118,13 @@
     "repo": "https://github.com/pointfreeco/swift-prelude.git",
     "runid": 12636663814,
     "status": "failure"
+  },
+  "vsanthanam/WeakReference": {
+    "created": "2025-01-06T16:58:11Z",
+    "duration": 9,
+    "modified": "2025-01-06T16:58:11Z",
+    "repo": "https://github.com/vsanthanam/WeakReference.git",
+    "runid": 12636724204,
+    "status": "failure"
   }
 }
