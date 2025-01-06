@@ -2903,6 +2903,14 @@
     "runid": 12638963153,
     "status": "failure"
   },
+  "vapor/routing-kit": {
+    "created": "2025-01-06T20:37:31Z",
+    "duration": 8,
+    "modified": "2025-01-06T20:37:31Z",
+    "repo": "https://github.com/vapor/routing-kit.git",
+    "runid": 12638963153,
+    "status": "success"
+  },
   "vapor/url-encoded-form": {
     "created": "2025-01-06T19:52:07Z",
     "duration": 5,
