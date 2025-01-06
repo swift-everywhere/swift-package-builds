@@ -1619,6 +1619,15 @@
     "stars": 0,
     "status": "success"
   },
+  "SalehAlbuga/azure-functions-swift": {
+    "created": "2025-01-06T22:48:33Z",
+    "duration": 40,
+    "modified": "2025-01-06T22:48:33Z",
+    "repo": "https://github.com/SalehAlbuga/azure-functions-swift.git",
+    "runid": 12641431024,
+    "stars": 89,
+    "status": "failure"
+  },
   "Samasaur1/DiceKit": {
     "created": "2025-01-06T21:06:10Z",
     "duration": 7,
