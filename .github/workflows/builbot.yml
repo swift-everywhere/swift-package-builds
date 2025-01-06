@@ -107,7 +107,7 @@ jobs:
             echo "Building: ${REPO} (https://swiftpackageindex.com/${DIR})"
 
             # skip a build that was already run 
-            jq -e '.[$DIR]."stars"' ${INDEX} && continue || true
+            jq -e --arg DIR "$DIR" '.[$DIR]."stars"' ${INDEX} && continue || true
 
             mkdir -p logs/"${DIR}"
 
@@ -134,7 +134,7 @@ jobs:
             rm -rf repositories/"${DIR}"
 
             # create a record of the package if it doesn't already exist
-            jq --arg DIR "${DIR}" --arg REPO "${REPO}" '.[$DIR] |= if . == null then {"repo": $REPO, "created": (now | todate)} else . end' ${INDEX} > ${INDEX}.new && mv ${INDEX}.new ${INDEX}
+            jq --arg DIR "$DIR" --arg REPO "$REPO" '.[$DIR] |= if . == null then {"repo": $REPO, "created": (now | todate)} else . end' $INDEX > $INDEX.new && mv ${INDEX}.new ${INDEX}
 
             # update the status of the build
             jq --arg DIR "$DIR" --arg STATUS "$STATUS" '.[$DIR]."status" = $STATUS' $INDEX > $INDEX.new && mv $INDEX.new $INDEX
