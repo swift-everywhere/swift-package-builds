@@ -1,11 +1,13 @@
 name: buildbot
 on:
   workflow_dispatch:
+  schedule:
+    - cron: '5 * * * *'
   push:
     branches: [main]
     paths:
-      - '.codecov.yml'
       - '.github/workflows/builbot.yml'
+
 
 permissions:
   # Give the default GITHUB_TOKEN write permission to commit and push the
@@ -138,6 +140,9 @@ jobs:
             jq --arg DIR "$DIR" --arg RUNID "${{ github.run_id }}" '.[$DIR]."runid" = ($RUNID | tonumber)' $INDEX > $INDEX.new && mv $INDEX.new $INDEX
             # save the build duration
             jq --arg DIR "$DIR" --arg DURATION "$DURATION" '.[$DIR]."duration" = ($DURATION | tonumber)' $INDEX > $INDEX.new && mv $INDEX.new $INDEX
+            # save the number of stars
+            STARS=$(gh repo view --json stargazerCount "${REPO}" | jq '.stargazerCount')
+            jq --arg DIR "$DIR" --arg STARS "$STARS" '.[$DIR]."stars" = ($STARS | tonumber)' $INDEX > $INDEX.new && mv $INDEX.new $INDEX
 
             # we could compact the JSON, but it is nice to be able to
             # see the line-by-line commit history when a package
