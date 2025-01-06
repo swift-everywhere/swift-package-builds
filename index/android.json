@@ -4771,6 +4771,15 @@
     "runid": 12638963153,
     "status": "success"
   },
+  "swiftlang/swift-docc": {
+    "created": "2025-01-06T22:07:45Z",
+    "duration": 27,
+    "modified": "2025-01-06T22:07:45Z",
+    "repo": "https://github.com/swiftlang/swift-docc.git",
+    "runid": 12640899049,
+    "stars": 1208,
+    "status": "failure"
+  },
   "swiftlang/swift-driver": {
     "created": "2025-01-06T17:29:31Z",
     "duration": 72,
