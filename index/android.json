@@ -223,6 +223,14 @@
     "runid": 12637148220,
     "status": "failure"
   },
+  "amirsaam/PatreonAPI-Swift": {
+    "created": "2025-01-06T18:05:04Z",
+    "duration": 10,
+    "modified": "2025-01-06T18:05:04Z",
+    "repo": "https://github.com/amirsaam/PatreonAPI-Swift.git",
+    "runid": 12637757100,
+    "status": "failure"
+  },
   "apple/example-package-dealer": {
     "created": "2025-01-06T17:43:23Z",
     "duration": 6,
