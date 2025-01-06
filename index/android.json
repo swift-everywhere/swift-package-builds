@@ -3426,6 +3426,15 @@
     "runid": 12638963153,
     "status": "success"
   },
+  "soto-project/Perfect-INIParser": {
+    "created": "2025-01-06T21:18:34Z",
+    "duration": 6,
+    "modified": "2025-01-06T21:18:34Z",
+    "repo": "https://github.com/soto-project/Perfect-INIParser.git",
+    "runid": 12640312681,
+    "stars": 0,
+    "status": "success"
+  },
   "soto-project/soto-cognito-authentication-kit": {
     "created": "2025-01-06T17:37:42Z",
     "duration": 123,
