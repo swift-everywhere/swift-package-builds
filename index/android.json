@@ -199,6 +199,14 @@
     "runid": 12638963153,
     "status": "success"
   },
+  "CuriositySoftware/swift-property-name": {
+    "created": "2025-01-06T20:22:39Z",
+    "duration": 123,
+    "modified": "2025-01-06T20:22:39Z",
+    "repo": "https://github.com/CuriositySoftware/swift-property-name.git",
+    "runid": 12638963153,
+    "status": "success"
+  },
   "CypherPoet/AlphabetEncoder": {
     "created": "2025-01-06T19:39:50Z",
     "duration": 17,
