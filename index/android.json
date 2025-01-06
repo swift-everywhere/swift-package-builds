@@ -2607,6 +2607,14 @@
     "runid": 12637148220,
     "status": "failure"
   },
+  "taketo1024/swm-core": {
+    "created": "2025-01-06T20:31:44Z",
+    "duration": 20,
+    "modified": "2025-01-06T20:31:44Z",
+    "repo": "https://github.com/taketo1024/swm-core.git",
+    "runid": 12638963153,
+    "status": "success"
+  },
   "tayloraswift/swift-opengl": {
     "created": "2025-01-06T19:45:58Z",
     "duration": 6,
