@@ -565,6 +565,15 @@
     "runid": 12638963153,
     "status": "failure"
   },
+  "Infomaniak/swift-concurrency": {
+    "created": "2025-01-06T21:31:16Z",
+    "duration": 6,
+    "modified": "2025-01-06T21:31:16Z",
+    "repo": "https://github.com/Infomaniak/swift-concurrency.git",
+    "runid": 12640552194,
+    "stars": 7,
+    "status": "success"
+  },
   "Infomaniak/swift-dependency-injection": {
     "created": "2025-01-06T21:12:20Z",
     "duration": 7,
