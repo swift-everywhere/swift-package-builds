@@ -2895,6 +2895,14 @@
     "runid": 12637148220,
     "status": "success"
   },
+  "wangzhizhou/PaperMC": {
+    "created": "2025-01-06T20:36:12Z",
+    "duration": 70,
+    "modified": "2025-01-06T20:36:12Z",
+    "repo": "https://github.com/wangzhizhou/PaperMC.git",
+    "runid": 12638963153,
+    "status": "failure"
+  },
   "wayfair-archive/prelude": {
     "created": "2025-01-06T17:44:42Z",
     "duration": 6,
