@@ -4469,10 +4469,11 @@
   },
   "pelagornis/swift-builder": {
     "created": "2025-01-06T17:26:33Z",
-    "duration": 81,
-    "modified": "2025-01-06T17:26:33Z",
+    "duration": 80,
+    "modified": "2025-01-06T22:34:11Z",
     "repo": "https://github.com/pelagornis/swift-builder.git",
-    "runid": 12637148220,
+    "runid": 12641431024,
+    "stars": 6,
     "status": "failure"
   },
   "peripheryapp/periphery": {
