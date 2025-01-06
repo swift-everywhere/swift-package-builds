@@ -7757,6 +7757,15 @@
     "runid": 12637148220,
     "status": "success"
   },
+  "xtremekforever/swift-systemd": {
+    "created": "2025-01-06T23:44:59Z",
+    "duration": 18,
+    "modified": "2025-01-06T23:44:59Z",
+    "repo": "https://github.com/xtremekforever/swift-systemd.git",
+    "runid": 12641986754,
+    "stars": 5,
+    "status": "failure"
+  },
   "y-ich/swift-SGF": {
     "created": "2025-01-06T17:26:41Z",
     "duration": 7,
