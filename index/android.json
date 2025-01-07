@@ -9082,10 +9082,10 @@
   },
   "a2/swift-shortcuts": {
     "created": "2025-01-06T23:28:40Z",
-    "duration": 9,
-    "modified": "2025-01-06T23:28:40Z",
+    "duration": 10,
+    "modified": "2025-01-07T17:50:39Z",
     "repo": "https://github.com/a2/swift-shortcuts.git",
-    "runid": 12641986754,
+    "runid": 12656035496,
     "stars": 394,
     "status": "failure"
   },
