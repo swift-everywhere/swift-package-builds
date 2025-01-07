@@ -7254,6 +7254,15 @@
     "stars": 33,
     "status": "failure"
   },
+  "andrey-shavelev/Juice": {
+    "created": "2025-01-07T09:54:17Z",
+    "duration": 8,
+    "modified": "2025-01-07T09:54:17Z",
+    "repo": "https://github.com/andrey-shavelev/Juice.git",
+    "runid": 12648641718,
+    "stars": 5,
+    "status": "success"
+  },
   "andybest/linenoise-swift": {
     "created": "2025-01-06T23:27:36Z",
     "duration": 8,
