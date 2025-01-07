@@ -14114,6 +14114,15 @@
     "stars": 32,
     "status": "failure"
   },
+  "soto-project/soto-core": {
+    "created": "2025-01-07T06:07:27Z",
+    "duration": 28,
+    "modified": "2025-01-07T06:07:27Z",
+    "repo": "https://github.com/soto-project/soto-core.git",
+    "runid": 12645653000,
+    "stars": 112,
+    "status": "failure"
+  },
   "soto-project/soto-s3-file-transfer": {
     "created": "2025-01-06T23:22:42Z",
     "duration": 121,
