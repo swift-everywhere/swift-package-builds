@@ -3152,10 +3152,11 @@
   },
   "JuanjoArreola/ShallowPromises": {
     "created": "2025-01-06T18:08:07Z",
-    "duration": 6,
-    "modified": "2025-01-06T18:08:07Z",
+    "duration": 8,
+    "modified": "2025-01-07T11:07:24Z",
     "repo": "https://github.com/JuanjoArreola/ShallowPromises.git",
-    "runid": 12637757100,
+    "runid": 12649615878,
+    "stars": 0,
     "status": "success"
   },
   "JustinGuedes/inswifted": {
