@@ -26939,9 +26939,9 @@
   "techinpark/ios_privacy_manifest_scanner": {
     "created": "2025-01-06T17:40:01Z",
     "duration": 9,
-    "modified": "2025-01-06T23:26:29Z",
+    "modified": "2025-01-07T18:31:43Z",
     "repo": "https://github.com/techinpark/ios_privacy_manifest_scanner.git",
-    "runid": 12641986754,
+    "runid": 12657091582,
     "stars": 65,
     "status": "failure"
   },
