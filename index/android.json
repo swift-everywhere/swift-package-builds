@@ -1155,6 +1155,15 @@
     "stars": 32,
     "status": "success"
   },
+  "ChimeHQ/GlobPattern": {
+    "created": "2025-01-07T12:03:44Z",
+    "duration": 4,
+    "modified": "2025-01-07T12:03:44Z",
+    "repo": "https://github.com/ChimeHQ/GlobPattern.git",
+    "runid": 12650476881,
+    "stars": 13,
+    "status": "failure"
+  },
   "ChimeHQ/JSONRPC": {
     "created": "2025-01-07T08:46:49Z",
     "duration": 7,
