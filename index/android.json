@@ -4207,6 +4207,15 @@
     "stars": 0,
     "status": "success"
   },
+  "OctoPoulpeStudio/DTOMacro": {
+    "created": "2025-01-07T09:25:09Z",
+    "duration": 95,
+    "modified": "2025-01-07T09:25:09Z",
+    "repo": "https://github.com/OctoPoulpeStudio/DTOMacro.git",
+    "runid": 12648641718,
+    "stars": 3,
+    "status": "failure"
+  },
   "OlehKulykov/PLzmaSDK": {
     "created": "2025-01-06T22:31:36Z",
     "duration": 20,
