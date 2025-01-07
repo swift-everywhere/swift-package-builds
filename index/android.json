@@ -2349,6 +2349,15 @@
     "stars": 7565,
     "status": "success"
   },
+  "ReactiveCocoa/ReactiveSwift": {
+    "created": "2025-01-07T01:15:29Z",
+    "duration": 10,
+    "modified": "2025-01-07T01:15:29Z",
+    "repo": "https://github.com/ReactiveCocoa/ReactiveSwift.git",
+    "runid": 12641986754,
+    "stars": 3014,
+    "status": "failure"
+  },
   "RedMadRobot/autograph": {
     "created": "2025-01-06T23:52:57Z",
     "duration": 14,
