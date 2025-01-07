@@ -5800,6 +5800,15 @@
     "runid": 12637148220,
     "status": "failure"
   },
+  "jph00/BaseMath": {
+    "created": "2025-01-07T00:51:42Z",
+    "duration": 8,
+    "modified": "2025-01-07T00:51:42Z",
+    "repo": "https://github.com/jph00/BaseMath.git",
+    "runid": 12641986754,
+    "stars": 197,
+    "status": "failure"
+  },
   "jsorge/maverick": {
     "created": "2025-01-06T17:08:13Z",
     "duration": 26,
