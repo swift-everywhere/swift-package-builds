@@ -2678,6 +2678,15 @@
     "stars": 23,
     "status": "failure"
   },
+  "Gerzer/Existential-Graphs-Foundation": {
+    "created": "2025-01-07T12:15:36Z",
+    "duration": 16,
+    "modified": "2025-01-07T12:15:36Z",
+    "repo": "https://github.com/Gerzer/Existential-Graphs-Foundation.git",
+    "runid": 12650476881,
+    "stars": 4,
+    "status": "failure"
+  },
   "Gerzer/JSONParser": {
     "created": "2025-01-07T09:06:25Z",
     "duration": 8,
