@@ -5462,6 +5462,15 @@
     "stars": 4604,
     "status": "success"
   },
+  "apple/swift-service-context": {
+    "created": "2025-01-07T05:16:56Z",
+    "duration": 4,
+    "modified": "2025-01-07T05:16:56Z",
+    "repo": "https://github.com/apple/swift-service-context.git",
+    "runid": 12645351961,
+    "stars": 79,
+    "status": "success"
+  },
   "apple/swift-service-discovery": {
     "created": "2025-01-07T00:23:43Z",
     "duration": 10,
