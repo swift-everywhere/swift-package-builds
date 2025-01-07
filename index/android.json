@@ -2352,6 +2352,15 @@
     "stars": 1,
     "status": "failure"
   },
+  "Frizlab/stream-reader": {
+    "created": "2025-01-07T10:54:46Z",
+    "duration": 8,
+    "modified": "2025-01-07T10:54:46Z",
+    "repo": "https://github.com/Frizlab/stream-reader.git",
+    "runid": 12649615878,
+    "stars": 6,
+    "status": "success"
+  },
   "Frizlab/swift-action": {
     "created": "2025-01-07T03:01:51Z",
     "duration": 5,
