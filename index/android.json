@@ -1319,6 +1319,15 @@
     "stars": 27,
     "status": "success"
   },
+  "DuetHealth/Bedrock": {
+    "created": "2025-01-07T06:28:46Z",
+    "duration": 9,
+    "modified": "2025-01-07T06:28:46Z",
+    "repo": "https://github.com/DuetHealth/Bedrock.git",
+    "runid": 12646377141,
+    "stars": 4,
+    "status": "success"
+  },
   "Dynatrace/swift-mobile-sdk": {
     "created": "2025-01-07T04:03:33Z",
     "duration": 5,
