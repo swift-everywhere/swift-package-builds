@@ -9716,6 +9716,15 @@
     "stars": 9,
     "status": "success"
   },
+  "antitypical/Result": {
+    "created": "2025-01-07T14:46:26Z",
+    "duration": 7,
+    "modified": "2025-01-07T14:46:26Z",
+    "repo": "https://github.com/antitypical/Result.git",
+    "runid": 12652509868,
+    "stars": 2509,
+    "status": "success"
+  },
   "antlr/antlr4": {
     "created": "2025-01-06T22:52:03Z",
     "duration": 11,
