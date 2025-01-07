@@ -9343,6 +9343,15 @@
     "stars": 0,
     "status": "success"
   },
+  "flintprocessor/ANSIEscapeCode": {
+    "created": "2025-01-07T07:37:49Z",
+    "duration": 8,
+    "modified": "2025-01-07T07:37:49Z",
+    "repo": "https://github.com/flintprocessor/ANSIEscapeCode.git",
+    "runid": 12646951061,
+    "stars": 17,
+    "status": "success"
+  },
   "flintprocessor/Bouncer": {
     "created": "2025-01-06T22:43:54Z",
     "duration": 7,
