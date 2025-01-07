@@ -18214,6 +18214,15 @@
     "stars": 10,
     "status": "failure"
   },
+  "orlandos-nl/IkigaJSON": {
+    "created": "2025-01-07T11:27:22Z",
+    "duration": 27,
+    "modified": "2025-01-07T11:27:22Z",
+    "repo": "https://github.com/orlandos-nl/IkigaJSON.git",
+    "runid": 12650476881,
+    "stars": 383,
+    "status": "failure"
+  },
   "orlandos-nl/MongoKitten": {
     "created": "2025-01-07T03:46:24Z",
     "duration": 19,
