@@ -5074,6 +5074,15 @@
     "runid": 12638963153,
     "status": "success"
   },
+  "juri/tui-fuzzy-finder": {
+    "created": "2025-01-07T00:07:23Z",
+    "duration": 9,
+    "modified": "2025-01-07T00:07:23Z",
+    "repo": "https://github.com/juri/tui-fuzzy-finder.git",
+    "runid": 12641986754,
+    "stars": 1,
+    "status": "failure"
+  },
   "jverkoey/BinaryCodable": {
     "created": "2025-01-06T20:41:26Z",
     "duration": 6,
