@@ -23409,6 +23409,15 @@
     "stars": 61,
     "status": "success"
   },
+  "swiftlang/swift-llbuild": {
+    "created": "2025-01-07T13:03:18Z",
+    "duration": 92,
+    "modified": "2025-01-07T13:03:18Z",
+    "repo": "https://github.com/swiftlang/swift-llbuild.git",
+    "runid": 12651715076,
+    "stars": 1088,
+    "status": "success"
+  },
   "swiftlang/swift-lmdb": {
     "created": "2025-01-07T03:35:51Z",
     "duration": 1,
