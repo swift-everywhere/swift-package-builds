@@ -4789,6 +4789,15 @@
     "stars": 4,
     "status": "failure"
   },
+  "SwifQL/VaporBridges": {
+    "created": "2025-01-07T06:57:14Z",
+    "duration": 40,
+    "modified": "2025-01-07T06:57:14Z",
+    "repo": "https://github.com/SwifQL/VaporBridges.git",
+    "runid": 12646377141,
+    "stars": 7,
+    "status": "failure"
+  },
   "SwiftDocOrg/swift-cmark": {
     "created": "2025-01-06T23:17:33Z",
     "duration": 2,
