@@ -7992,6 +7992,15 @@
     "stars": 210,
     "status": "failure"
   },
+  "apple/swift-nio-http2": {
+    "created": "2025-01-07T10:37:43Z",
+    "duration": 26,
+    "modified": "2025-01-07T10:37:43Z",
+    "repo": "https://github.com/apple/swift-nio-http2.git",
+    "runid": 12649615878,
+    "stars": 467,
+    "status": "failure"
+  },
   "apple/swift-nio-imap": {
     "created": "2025-01-06T20:27:49Z",
     "duration": 61,
