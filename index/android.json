@@ -1450,6 +1450,15 @@
     "stars": 5,
     "status": "success"
   },
+  "Joannis/SMTPKitten": {
+    "created": "2025-01-07T01:59:00Z",
+    "duration": 67,
+    "modified": "2025-01-07T01:59:00Z",
+    "repo": "https://github.com/Joannis/SMTPKitten.git",
+    "runid": 12643524602,
+    "stars": 37,
+    "status": "failure"
+  },
   "Joannis/swift-nio-ssh": {
     "created": "2025-01-06T22:16:54Z",
     "duration": 46,
