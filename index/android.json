@@ -4925,6 +4925,15 @@
     "stars": 3,
     "status": "failure"
   },
+  "SDWebImage/libaom-Xcode": {
+    "created": "2025-01-07T08:16:28Z",
+    "duration": 7,
+    "modified": "2025-01-07T08:16:28Z",
+    "repo": "https://github.com/SDWebImage/libaom-Xcode.git",
+    "runid": 12646951061,
+    "stars": 5,
+    "status": "failure"
+  },
   "SDWebImage/libavif-Xcode": {
     "created": "2025-01-07T08:16:20Z",
     "duration": 29,
