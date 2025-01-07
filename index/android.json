@@ -17850,6 +17850,15 @@
     "stars": 26,
     "status": "failure"
   },
+  "vapor/fluent-sqlite-driver": {
+    "created": "2025-01-07T07:30:22Z",
+    "duration": 52,
+    "modified": "2025-01-07T07:30:22Z",
+    "repo": "https://github.com/vapor/fluent-sqlite-driver.git",
+    "runid": 12646951061,
+    "stars": 71,
+    "status": "failure"
+  },
   "vapor/jwt": {
     "created": "2025-01-07T01:09:23Z",
     "duration": 30,
