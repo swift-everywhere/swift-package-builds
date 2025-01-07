@@ -4251,6 +4251,15 @@
     "stars": 0,
     "status": "failure"
   },
+  "MarSe32m/sebbu-ts-ds": {
+    "created": "2025-01-07T12:47:43Z",
+    "duration": 11,
+    "modified": "2025-01-07T12:47:43Z",
+    "repo": "https://github.com/MarSe32m/sebbu-ts-ds.git",
+    "runid": 12651715076,
+    "stars": 0,
+    "status": "failure"
+  },
   "MarcAlx/swift-event": {
     "created": "2025-01-07T07:25:59Z",
     "duration": 4,
