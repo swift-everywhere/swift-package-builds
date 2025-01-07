@@ -5510,6 +5510,15 @@
     "stars": 3,
     "status": "success"
   },
+  "TICESoftware/vapor-gorush": {
+    "created": "2025-01-07T07:56:05Z",
+    "duration": 15,
+    "modified": "2025-01-07T07:56:06Z",
+    "repo": "https://github.com/TICESoftware/vapor-gorush.git",
+    "runid": 12646951061,
+    "stars": 2,
+    "status": "failure"
+  },
   "ThatsJustCheesy/InAnyCase": {
     "created": "2025-01-07T00:02:49Z",
     "duration": 8,
