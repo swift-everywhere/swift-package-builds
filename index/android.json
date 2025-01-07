@@ -5095,6 +5095,15 @@
     "runid": 12638963153,
     "status": "success"
   },
+  "interstateone/BinaryCookies": {
+    "created": "2025-01-07T00:24:02Z",
+    "duration": 18,
+    "modified": "2025-01-07T00:24:02Z",
+    "repo": "https://github.com/interstateone/BinaryCookies.git",
+    "runid": 12641986754,
+    "stars": 22,
+    "status": "success"
+  },
   "invia-flights/swift-xcode-cloud-snapshot-testing": {
     "created": "2025-01-06T18:05:34Z",
     "duration": 9,
