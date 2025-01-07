@@ -13219,6 +13219,15 @@
     "stars": 327,
     "status": "failure"
   },
+  "vapor/jwt-kit": {
+    "created": "2025-01-07T03:41:12Z",
+    "duration": 48,
+    "modified": "2025-01-07T03:41:12Z",
+    "repo": "https://github.com/vapor/jwt-kit.git",
+    "runid": 12644606839,
+    "stars": 215,
+    "status": "failure"
+  },
   "vapor/leaf": {
     "created": "2025-01-07T00:32:33Z",
     "duration": 27,
