@@ -7992,6 +7992,15 @@
     "stars": 208,
     "status": "failure"
   },
+  "brightdigit/NPMPublishPlugin": {
+    "created": "2025-01-07T09:05:13Z",
+    "duration": 19,
+    "modified": "2025-01-07T09:05:13Z",
+    "repo": "https://github.com/brightdigit/NPMPublishPlugin.git",
+    "runid": 12647794335,
+    "stars": 1,
+    "status": "failure"
+  },
   "brightdigit/Ngrokit": {
     "created": "2025-01-07T00:24:08Z",
     "duration": 5,
