@@ -3431,6 +3431,15 @@
     "stars": 1490,
     "status": "success"
   },
+  "apple/swift-distributed-tracing-baggage-core": {
+    "created": "2025-01-07T01:12:49Z",
+    "duration": 12,
+    "modified": "2025-01-07T01:12:49Z",
+    "repo": "https://github.com/apple/swift-distributed-tracing-baggage-core.git",
+    "runid": 12641986754,
+    "stars": 13,
+    "status": "success"
+  },
   "apple/swift-distributed-tracing-extras": {
     "created": "2025-01-06T22:01:13Z",
     "duration": 5,
