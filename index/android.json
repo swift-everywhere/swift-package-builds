@@ -7552,10 +7552,10 @@
   },
   "Samasaur1/SwiftIP": {
     "created": "2025-01-07T02:20:34Z",
-    "duration": 9,
-    "modified": "2025-01-07T02:20:34Z",
+    "duration": 8,
+    "modified": "2025-01-07T23:24:54Z",
     "repo": "https://github.com/Samasaur1/SwiftIP.git",
-    "runid": 12643524602,
+    "runid": 12660929108,
     "stars": 1,
     "status": "failure"
   },
