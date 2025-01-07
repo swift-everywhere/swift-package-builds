@@ -1220,6 +1220,15 @@
     "stars": 0,
     "status": "success"
   },
+  "ExCodable/ExCodable": {
+    "created": "2025-01-07T03:52:57Z",
+    "duration": 8,
+    "modified": "2025-01-07T03:52:57Z",
+    "repo": "https://github.com/ExCodable/ExCodable.git",
+    "runid": 12644606839,
+    "stars": 145,
+    "status": "success"
+  },
   "FabrizioBrancati/BFKit-Swift": {
     "created": "2025-01-07T02:11:02Z",
     "duration": 8,
