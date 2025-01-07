@@ -4863,6 +4863,15 @@
     "stars": 0,
     "status": "failure"
   },
+  "SDGGiesbrecht/swift-driver": {
+    "created": "2025-01-07T08:10:47Z",
+    "duration": 36,
+    "modified": "2025-01-07T08:10:47Z",
+    "repo": "https://github.com/SDGGiesbrecht/swift-driver.git",
+    "runid": 12646951061,
+    "stars": 0,
+    "status": "failure"
+  },
   "SDGGiesbrecht/swift-format": {
     "created": "2025-01-06T20:45:38Z",
     "duration": 12,
