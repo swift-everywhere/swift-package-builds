@@ -6930,6 +6930,15 @@
     "stars": 0,
     "status": "failure"
   },
+  "ianpartridge/swift-log-syslog": {
+    "created": "2025-01-07T02:34:32Z",
+    "duration": 7,
+    "modified": "2025-01-07T02:34:32Z",
+    "repo": "https://github.com/ianpartridge/swift-log-syslog.git",
+    "runid": 12643524602,
+    "stars": 34,
+    "status": "success"
+  },
   "iballan/BasicServiceLocator": {
     "created": "2025-01-06T20:01:39Z",
     "duration": 6,
