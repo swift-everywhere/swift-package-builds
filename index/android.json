@@ -11038,6 +11038,15 @@
     "stars": 1,
     "status": "success"
   },
+  "p-x9/MachOKit": {
+    "created": "2025-01-07T04:20:14Z",
+    "duration": 25,
+    "modified": "2025-01-07T04:20:14Z",
+    "repo": "https://github.com/p-x9/MachOKit.git",
+    "runid": 12644606839,
+    "stars": 96,
+    "status": "failure"
+  },
   "p-x9/ObfuscateMacro": {
     "created": "2025-01-07T03:44:14Z",
     "duration": 78,
