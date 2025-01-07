@@ -4861,6 +4861,15 @@
     "stars": 0,
     "status": "success"
   },
+  "PerfectlySoft/Perfect-NewRelic-Linux": {
+    "created": "2025-01-07T10:36:46Z",
+    "duration": 7,
+    "modified": "2025-01-07T10:36:47Z",
+    "repo": "https://github.com/PerfectlySoft/Perfect-NewRelic-Linux.git",
+    "runid": 12649615878,
+    "stars": 2,
+    "status": "failure"
+  },
   "PerfectlySoft/Perfect-Repeater": {
     "created": "2025-01-07T00:17:16Z",
     "duration": 5,
