@@ -17896,10 +17896,11 @@
   },
   "kiliankoe/swift-outdated": {
     "created": "2025-01-06T17:09:52Z",
-    "duration": 13,
-    "modified": "2025-01-06T17:09:52Z",
+    "duration": 16,
+    "modified": "2025-01-07T14:36:05Z",
     "repo": "https://github.com/kiliankoe/swift-outdated.git",
-    "runid": 12636850547,
+    "runid": 12652509868,
+    "stars": 344,
     "status": "failure"
   },
   "kishikawakatsumi/swift-power-assert": {
