@@ -12983,6 +12983,15 @@
     "runid": 12637148220,
     "status": "failure"
   },
+  "ptsochantaris/lista": {
+    "created": "2025-01-07T06:06:41Z",
+    "duration": 6,
+    "modified": "2025-01-07T06:06:41Z",
+    "repo": "https://github.com/ptsochantaris/lista.git",
+    "runid": 12645653000,
+    "stars": 1,
+    "status": "success"
+  },
   "ptsochantaris/trailer-json": {
     "created": "2025-01-07T01:23:41Z",
     "duration": 7,
