@@ -6049,9 +6049,10 @@
   "crelies/JSON-DSL": {
     "created": "2025-01-06T17:28:19Z",
     "duration": 4,
-    "modified": "2025-01-06T17:28:19Z",
+    "modified": "2025-01-07T04:19:30Z",
     "repo": "https://github.com/crelies/JSON-DSL.git",
-    "runid": 12637148220,
+    "runid": 12644606839,
+    "stars": 1,
     "status": "success"
   },
   "crelies/UIKit-Modifiers": {
