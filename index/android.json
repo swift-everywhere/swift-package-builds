@@ -23450,6 +23450,15 @@
     "stars": 0,
     "status": "failure"
   },
+  "richardpiazza/DynuREST": {
+    "created": "2025-01-07T15:02:33Z",
+    "duration": 17,
+    "modified": "2025-01-07T15:02:33Z",
+    "repo": "https://github.com/richardpiazza/DynuREST.git",
+    "runid": 12652509868,
+    "stars": 0,
+    "status": "success"
+  },
   "richardpiazza/GraphPoint": {
     "created": "2025-01-07T11:07:15Z",
     "duration": 9,
