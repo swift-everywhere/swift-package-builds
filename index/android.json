@@ -18317,6 +18317,15 @@
     "stars": 1320,
     "status": "failure"
   },
+  "twostraws/SwiftSlug": {
+    "created": "2025-01-07T08:09:12Z",
+    "duration": 6,
+    "modified": "2025-01-07T08:09:13Z",
+    "repo": "https://github.com/twostraws/SwiftSlug.git",
+    "runid": 12646951061,
+    "stars": 39,
+    "status": "success"
+  },
   "typelift/Abstract": {
     "created": "2025-01-07T08:06:41Z",
     "duration": 13,
