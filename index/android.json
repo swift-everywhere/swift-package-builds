@@ -2566,9 +2566,10 @@
   "SwiftPackageIndex/SemanticVersion": {
     "created": "2025-01-06T20:19:54Z",
     "duration": 6,
-    "modified": "2025-01-06T20:19:54Z",
+    "modified": "2025-01-07T00:42:44Z",
     "repo": "https://github.com/SwiftPackageIndex/SemanticVersion.git",
-    "runid": 12638963153,
+    "runid": 12641986754,
+    "stars": 56,
     "status": "success"
   },
   "SwiftPackageIndex/ShellOut": {
