@@ -451,10 +451,10 @@
   },
   "AgoraIO/AgoraRtcEngine_macOS": {
     "created": "2025-01-07T02:57:30Z",
-    "duration": 12,
-    "modified": "2025-01-07T02:57:30Z",
+    "duration": 8,
+    "modified": "2025-01-07T17:32:45Z",
     "repo": "https://github.com/AgoraIO/AgoraRtcEngine_macOS.git",
-    "runid": 12644277556,
+    "runid": 12656035496,
     "stars": 1,
     "status": "success"
   },
