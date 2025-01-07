@@ -6465,6 +6465,15 @@
     "runid": 12637148220,
     "status": "success"
   },
+  "nnabeyang/swift-cbor": {
+    "created": "2025-01-07T00:26:46Z",
+    "duration": 29,
+    "modified": "2025-01-07T00:26:46Z",
+    "repo": "https://github.com/nnabeyang/swift-cbor.git",
+    "runid": 12641986754,
+    "stars": 5,
+    "status": "success"
+  },
   "no-comment/KeyboardToolbar": {
     "created": "2025-01-06T20:23:44Z",
     "duration": 4,
