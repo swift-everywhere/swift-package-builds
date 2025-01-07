@@ -14242,6 +14242,15 @@
     "stars": 1,
     "status": "failure"
   },
+  "tannerdsilva/QuickLMDB": {
+    "created": "2025-01-07T05:28:23Z",
+    "duration": 12,
+    "modified": "2025-01-07T05:28:23Z",
+    "repo": "https://github.com/tannerdsilva/QuickLMDB.git",
+    "runid": 12645653000,
+    "stars": 6,
+    "status": "failure"
+  },
   "tannerdsilva/RapidLMDB": {
     "created": "2025-01-07T03:09:19Z",
     "duration": 10,
