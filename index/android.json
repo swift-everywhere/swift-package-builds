@@ -7034,6 +7034,15 @@
     "stars": 1,
     "status": "failure"
   },
+  "ngtk/LoggerKit": {
+    "created": "2025-01-07T00:53:47Z",
+    "duration": 6,
+    "modified": "2025-01-07T00:53:47Z",
+    "repo": "https://github.com/ngtk/LoggerKit.git",
+    "runid": 12641986754,
+    "stars": 7,
+    "status": "success"
+  },
   "nicklockwood/LRUCache": {
     "created": "2025-01-06T23:31:56Z",
     "duration": 5,
