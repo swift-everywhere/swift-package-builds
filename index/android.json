@@ -20879,6 +20879,15 @@
     "stars": 2,
     "status": "success"
   },
+  "stansmida/swift-conformable-existential": {
+    "created": "2025-01-07T11:29:44Z",
+    "duration": 129,
+    "modified": "2025-01-07T11:29:44Z",
+    "repo": "https://github.com/stansmida/swift-conformable-existential.git",
+    "runid": 12650476881,
+    "stars": 2,
+    "status": "success"
+  },
   "stansmida/swift-extras": {
     "created": "2025-01-07T02:35:15Z",
     "duration": 7,
