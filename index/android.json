@@ -5770,6 +5770,15 @@
     "stars": 97,
     "status": "success"
   },
+  "apple/FHIRModels": {
+    "created": "2025-01-07T06:30:06Z",
+    "duration": 10,
+    "modified": "2025-01-07T06:30:06Z",
+    "repo": "https://github.com/apple/FHIRModels.git",
+    "runid": 12646377141,
+    "stars": 183,
+    "status": "failure"
+  },
   "apple/app-store-server-library-swift": {
     "created": "2025-01-07T04:48:02Z",
     "duration": 91,
