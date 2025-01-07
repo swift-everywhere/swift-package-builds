@@ -7974,6 +7974,15 @@
     "stars": 350,
     "status": "failure"
   },
+  "apple/swift-container-plugin": {
+    "created": "2025-01-07T10:45:50Z",
+    "duration": 41,
+    "modified": "2025-01-07T10:45:50Z",
+    "repo": "https://github.com/apple/swift-container-plugin.git",
+    "runid": 12649615878,
+    "stars": 133,
+    "status": "success"
+  },
   "apple/swift-crypto": {
     "created": "2025-01-06T21:20:55Z",
     "duration": 78,
