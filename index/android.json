@@ -6853,6 +6853,15 @@
     "stars": 10,
     "status": "failure"
   },
+  "SomeRandomiOSDev/Half": {
+    "created": "2025-01-07T13:01:13Z",
+    "duration": 4,
+    "modified": "2025-01-07T13:01:13Z",
+    "repo": "https://github.com/SomeRandomiOSDev/Half.git",
+    "runid": 12651715076,
+    "stars": 11,
+    "status": "failure"
+  },
   "SomeRandomiOSDev/SwiftyCast": {
     "created": "2025-01-07T06:38:12Z",
     "duration": 3,
