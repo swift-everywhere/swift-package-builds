@@ -2187,6 +2187,15 @@
     "runid": 12638963153,
     "status": "success"
   },
+  "RougeWare/Swift-Either": {
+    "created": "2025-01-07T00:35:38Z",
+    "duration": 6,
+    "modified": "2025-01-07T00:35:38Z",
+    "repo": "https://github.com/RougeWare/Swift-Either.git",
+    "runid": 12641986754,
+    "stars": 1,
+    "status": "success"
+  },
   "RougeWare/Swift-Simple-Logging": {
     "created": "2025-01-06T22:03:19Z",
     "duration": 10,
