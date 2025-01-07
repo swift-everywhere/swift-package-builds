@@ -22328,6 +22328,15 @@
     "stars": 10,
     "status": "success"
   },
+  "wadetregaskis/FoundationExtensions": {
+    "created": "2025-01-07T10:26:53Z",
+    "duration": 7,
+    "modified": "2025-01-07T10:26:53Z",
+    "repo": "https://github.com/wadetregaskis/FoundationExtensions.git",
+    "runid": 12649615878,
+    "stars": 0,
+    "status": "failure"
+  },
   "wadetregaskis/Gate": {
     "created": "2025-01-07T09:27:45Z",
     "duration": 6,
