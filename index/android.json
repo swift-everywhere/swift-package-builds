@@ -13819,6 +13819,15 @@
     "stars": 3,
     "status": "success"
   },
+  "taketo1024/swm-knots": {
+    "created": "2025-01-07T05:12:52Z",
+    "duration": 23,
+    "modified": "2025-01-07T05:12:52Z",
+    "repo": "https://github.com/taketo1024/swm-knots.git",
+    "runid": 12645351961,
+    "stars": 5,
+    "status": "success"
+  },
   "taketo1024/swm-matrix-tools": {
     "created": "2025-01-06T21:48:40Z",
     "duration": 26,
