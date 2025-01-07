@@ -9969,6 +9969,15 @@
     "stars": 42,
     "status": "success"
   },
+  "tuist/ProjectAutomation": {
+    "created": "2025-01-07T01:23:02Z",
+    "duration": 5,
+    "modified": "2025-01-07T01:23:02Z",
+    "repo": "https://github.com/tuist/ProjectAutomation.git",
+    "runid": 12641986754,
+    "stars": 8,
+    "status": "failure"
+  },
   "tuist/XcodeProj": {
     "created": "2025-01-06T22:13:14Z",
     "duration": 9,
