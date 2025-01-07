@@ -6474,6 +6474,15 @@
     "stars": 256,
     "status": "success"
   },
+  "apple/swift-statsd-client": {
+    "created": "2025-01-07T07:26:44Z",
+    "duration": 11,
+    "modified": "2025-01-07T07:26:44Z",
+    "repo": "https://github.com/apple/swift-statsd-client.git",
+    "runid": 12646951061,
+    "stars": 60,
+    "status": "failure"
+  },
   "arguiot/Euler": {
     "created": "2025-01-07T01:57:36Z",
     "duration": 10,
