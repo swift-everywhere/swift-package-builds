@@ -11026,6 +11026,15 @@
     "stars": 56,
     "status": "success"
   },
+  "norio-nomura/SwiftBacktrace": {
+    "created": "2025-01-07T05:02:38Z",
+    "duration": 13,
+    "modified": "2025-01-07T05:02:38Z",
+    "repo": "https://github.com/norio-nomura/SwiftBacktrace.git",
+    "runid": 12645351961,
+    "stars": 17,
+    "status": "failure"
+  },
   "norio-nomura/XCTAssertCrash": {
     "created": "2025-01-07T02:37:29Z",
     "duration": 7,
