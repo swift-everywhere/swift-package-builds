@@ -12477,6 +12477,15 @@
     "stars": 2,
     "status": "failure"
   },
+  "loopwerk/SagaPythonMarkdownReader": {
+    "created": "2025-01-07T08:03:09Z",
+    "duration": 11,
+    "modified": "2025-01-07T08:03:09Z",
+    "repo": "https://github.com/loopwerk/SagaPythonMarkdownReader.git",
+    "runid": 12646951061,
+    "stars": 1,
+    "status": "failure"
+  },
   "loopwerk/SagaStencilRenderer": {
     "created": "2025-01-06T23:42:05Z",
     "duration": 10,
