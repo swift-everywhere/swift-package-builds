@@ -15176,6 +15176,15 @@
     "stars": 8,
     "status": "success"
   },
+  "objecthub/swift-dynamicjson": {
+    "created": "2025-01-07T09:02:59Z",
+    "duration": 9,
+    "modified": "2025-01-07T09:02:59Z",
+    "repo": "https://github.com/objecthub/swift-dynamicjson.git",
+    "runid": 12647794335,
+    "stars": 10,
+    "status": "failure"
+  },
   "objecthub/swift-markdownkit": {
     "created": "2025-01-07T01:53:56Z",
     "duration": 9,
