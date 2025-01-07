@@ -12664,6 +12664,15 @@
     "stars": 468,
     "status": "failure"
   },
+  "vapor/database-kit": {
+    "created": "2025-01-07T03:13:48Z",
+    "duration": 2,
+    "modified": "2025-01-07T03:13:48Z",
+    "repo": "https://github.com/vapor/database-kit.git",
+    "runid": 12644277556,
+    "stars": 40,
+    "status": "failure"
+  },
   "vapor/fluent": {
     "created": "2025-01-07T01:53:01Z",
     "duration": 36,
