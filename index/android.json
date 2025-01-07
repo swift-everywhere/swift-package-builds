@@ -14466,6 +14466,15 @@
     "stars": 49,
     "status": "failure"
   },
+  "mattt/Euler": {
+    "created": "2025-01-07T09:31:59Z",
+    "duration": 7,
+    "modified": "2025-01-07T09:31:59Z",
+    "repo": "https://github.com/mattt/Euler.git",
+    "runid": 12648641718,
+    "stars": 1156,
+    "status": "failure"
+  },
   "maxhumber/Carlo": {
     "created": "2025-01-07T02:18:36Z",
     "duration": 7,
