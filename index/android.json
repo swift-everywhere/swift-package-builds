@@ -16449,6 +16449,15 @@
     "stars": 0,
     "status": "success"
   },
+  "kareman/FileSmith": {
+    "created": "2025-01-07T13:19:36Z",
+    "duration": 9,
+    "modified": "2025-01-07T13:19:36Z",
+    "repo": "https://github.com/kareman/FileSmith.git",
+    "runid": 12651715076,
+    "stars": 27,
+    "status": "failure"
+  },
   "kareman/FootlessParser": {
     "created": "2025-01-07T01:24:44Z",
     "duration": 6,
