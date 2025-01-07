@@ -7309,6 +7309,15 @@
     "stars": 14,
     "status": "failure"
   },
+  "jcoynel/app-store-reviews-swift": {
+    "created": "2025-01-07T02:41:12Z",
+    "duration": 11,
+    "modified": "2025-01-07T02:41:12Z",
+    "repo": "https://github.com/jcoynel/app-store-reviews-swift.git",
+    "runid": 12643524602,
+    "stars": 6,
+    "status": "failure"
+  },
   "jemmons/MyNameIsURL": {
     "created": "2025-01-07T01:24:52Z",
     "duration": 7,
