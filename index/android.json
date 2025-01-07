@@ -17479,10 +17479,10 @@
   },
   "johnbona/disque": {
     "created": "2025-01-06T23:12:19Z",
-    "duration": 5,
-    "modified": "2025-01-06T23:12:19Z",
+    "duration": 8,
+    "modified": "2025-01-07T21:27:48Z",
     "repo": "https://github.com/johnbona/disque.git",
-    "runid": 12641431024,
+    "runid": 12659472889,
     "stars": 9,
     "status": "failure"
   },
