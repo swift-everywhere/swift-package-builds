@@ -3000,6 +3000,15 @@
     "stars": 0,
     "status": "failure"
   },
+  "art-divin/StencilSwiftKit": {
+    "created": "2025-01-07T00:21:35Z",
+    "duration": 9,
+    "modified": "2025-01-07T00:21:35Z",
+    "repo": "https://github.com/art-divin/StencilSwiftKit.git",
+    "runid": 12641986754,
+    "stars": 3,
+    "status": "failure"
+  },
   "asensei/vapor-fluent-mongo": {
     "created": "2025-01-06T19:26:25Z",
     "duration": 46,
