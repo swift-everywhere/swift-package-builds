@@ -8608,6 +8608,15 @@
     "stars": 9,
     "status": "success"
   },
+  "richiefi/PrivacyManifestUtil": {
+    "created": "2025-01-07T01:17:50Z",
+    "duration": 10,
+    "modified": "2025-01-07T01:17:50Z",
+    "repo": "https://github.com/richiefi/PrivacyManifestUtil.git",
+    "runid": 12641986754,
+    "stars": 0,
+    "status": "failure"
+  },
   "rkreutz/Argon2Kit": {
     "created": "2025-01-06T21:12:12Z",
     "duration": 6,
