@@ -700,6 +700,15 @@
     "stars": 32,
     "status": "success"
   },
+  "ChimeHQ/LanguageClient": {
+    "created": "2025-01-07T02:35:46Z",
+    "duration": 27,
+    "modified": "2025-01-07T02:35:46Z",
+    "repo": "https://github.com/ChimeHQ/LanguageClient.git",
+    "runid": 12643524602,
+    "stars": 97,
+    "status": "success"
+  },
   "ChimeHQ/OperationPlus": {
     "created": "2025-01-07T01:37:44Z",
     "duration": 10,
