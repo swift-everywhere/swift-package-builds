@@ -14484,6 +14484,15 @@
     "stars": 0,
     "status": "success"
   },
+  "fwcd/swift-cairo": {
+    "created": "2025-01-07T14:08:41Z",
+    "duration": 8,
+    "modified": "2025-01-07T14:08:41Z",
+    "repo": "https://github.com/fwcd/swift-cairo.git",
+    "runid": 12652509868,
+    "stars": 0,
+    "status": "failure"
+  },
   "fwcd/swift-utils": {
     "created": "2025-01-06T22:03:40Z",
     "duration": 15,
