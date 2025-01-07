@@ -22213,6 +22213,15 @@
     "stars": 133,
     "status": "failure"
   },
+  "swift-serverless/Breeze": {
+    "created": "2025-01-07T12:03:13Z",
+    "duration": 14,
+    "modified": "2025-01-07T12:03:14Z",
+    "repo": "https://github.com/swift-serverless/Breeze.git",
+    "runid": 12650476881,
+    "stars": 49,
+    "status": "failure"
+  },
   "swift-serverless/BreezeLambdaDynamoDBAPI": {
     "created": "2025-01-07T08:06:27Z",
     "duration": 127,
