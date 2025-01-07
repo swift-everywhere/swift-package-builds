@@ -107,7 +107,7 @@ jobs:
             echo "Building: ${REPO} (https://swiftpackageindex.com/${DIR})"
 
             # skip a build that we have already run 
-            jq -e --arg DIR "$DIR" '.[$DIR]."stars"' ${INDEX} && continue || true
+            #jq -e --arg DIR "$DIR" '.[$DIR]."stars"' ${INDEX} && continue || true
 
             mkdir -p logs/"${DIR}"
 
