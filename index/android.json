@@ -15089,6 +15089,15 @@
     "stars": 174,
     "status": "failure"
   },
+  "kattouf/Sake": {
+    "created": "2025-01-07T11:41:17Z",
+    "duration": 26,
+    "modified": "2025-01-07T11:41:17Z",
+    "repo": "https://github.com/kattouf/Sake.git",
+    "runid": 12650476881,
+    "stars": 66,
+    "status": "failure"
+  },
   "kawoou/AnyDate": {
     "created": "2025-01-06T22:32:32Z",
     "duration": 7,
