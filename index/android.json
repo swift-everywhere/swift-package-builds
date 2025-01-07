@@ -1365,6 +1365,15 @@
     "stars": 0,
     "status": "failure"
   },
+  "Flight-School/FloatingPointApproximation": {
+    "created": "2025-01-07T04:58:41Z",
+    "duration": 4,
+    "modified": "2025-01-07T04:58:41Z",
+    "repo": "https://github.com/Flight-School/FloatingPointApproximation.git",
+    "runid": 12645351961,
+    "stars": 52,
+    "status": "success"
+  },
   "Flight-School/JSONFeed": {
     "created": "2025-01-06T22:32:24Z",
     "duration": 6,
