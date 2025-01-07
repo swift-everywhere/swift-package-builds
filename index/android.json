@@ -3448,6 +3448,15 @@
     "stars": 11,
     "status": "success"
   },
+  "Local-Connectivity-Lab/lcl-speedtest": {
+    "created": "2025-01-07T09:47:15Z",
+    "duration": 64,
+    "modified": "2025-01-07T09:47:15Z",
+    "repo": "https://github.com/Local-Connectivity-Lab/lcl-speedtest.git",
+    "runid": 12648641718,
+    "stars": 8,
+    "status": "failure"
+  },
   "Local-Connectivity-Lab/websocket-kit": {
     "created": "2025-01-07T03:36:51Z",
     "duration": 59,
