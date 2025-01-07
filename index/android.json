@@ -3418,6 +3418,15 @@
     "stars": 10,
     "status": "failure"
   },
+  "RxSwiftCommunity/RxDataSources": {
+    "created": "2025-01-07T03:55:11Z",
+    "duration": 14,
+    "modified": "2025-01-07T03:55:11Z",
+    "repo": "https://github.com/RxSwiftCommunity/RxDataSources.git",
+    "runid": 12644606839,
+    "stars": 3100,
+    "status": "failure"
+  },
   "RxSwiftCommunity/RxFlow": {
     "created": "2025-01-07T01:23:26Z",
     "duration": 12,
