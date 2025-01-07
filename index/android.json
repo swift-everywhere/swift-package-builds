@@ -6213,6 +6213,15 @@
     "stars": 0,
     "status": "success"
   },
+  "PureSwift/DBus": {
+    "created": "2025-01-07T14:06:43Z",
+    "duration": 11,
+    "modified": "2025-01-07T14:06:43Z",
+    "repo": "https://github.com/PureSwift/DBus.git",
+    "runid": 12652509868,
+    "stars": 13,
+    "status": "success"
+  },
   "PureSwift/GATT": {
     "created": "2025-01-06T21:17:31Z",
     "duration": 58,
