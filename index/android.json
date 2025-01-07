@@ -26119,10 +26119,10 @@
   },
   "swiftlang/swift-docc": {
     "created": "2025-01-06T22:07:45Z",
-    "duration": 27,
-    "modified": "2025-01-06T22:07:45Z",
+    "duration": 34,
+    "modified": "2025-01-07T20:07:35Z",
     "repo": "https://github.com/swiftlang/swift-docc.git",
-    "runid": 12640899049,
+    "runid": 12658091539,
     "stars": 1208,
     "status": "failure"
   },
