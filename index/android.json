@@ -15741,6 +15741,15 @@
     "stars": 57,
     "status": "failure"
   },
+  "mattpolzin/VaporTypedRoutes": {
+    "created": "2025-01-07T10:46:39Z",
+    "duration": 26,
+    "modified": "2025-01-07T10:46:39Z",
+    "repo": "https://github.com/mattpolzin/VaporTypedRoutes.git",
+    "runid": 12649615878,
+    "stars": 4,
+    "status": "failure"
+  },
   "mattpolzin/swift-test-codecov": {
     "created": "2025-01-07T00:16:50Z",
     "duration": 9,
