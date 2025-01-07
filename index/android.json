@@ -2069,6 +2069,15 @@
     "stars": 80,
     "status": "failure"
   },
+  "NozeIO/swift-nio-irc-client": {
+    "created": "2025-01-07T01:17:04Z",
+    "duration": 25,
+    "modified": "2025-01-07T01:17:04Z",
+    "repo": "https://github.com/NozeIO/swift-nio-irc-client.git",
+    "runid": 12641986754,
+    "stars": 3,
+    "status": "failure"
+  },
   "NozeIO/swift-nio-irc-server": {
     "created": "2025-01-06T20:28:34Z",
     "duration": 32,
