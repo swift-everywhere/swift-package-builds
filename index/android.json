@@ -13098,6 +13098,15 @@
     "stars": 1,
     "status": "success"
   },
+  "getGuaka/FileUtils": {
+    "created": "2025-01-07T12:09:55Z",
+    "duration": 4,
+    "modified": "2025-01-07T12:09:55Z",
+    "repo": "https://github.com/getGuaka/FileUtils.git",
+    "runid": 12650476881,
+    "stars": 33,
+    "status": "failure"
+  },
   "getGuaka/Prompt": {
     "created": "2025-01-07T02:10:45Z",
     "duration": 10,
