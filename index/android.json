@@ -10540,10 +10540,10 @@
   },
   "asensei/vapor-auth-jwt": {
     "created": "2025-01-07T07:33:51Z",
-    "duration": 31,
-    "modified": "2025-01-07T07:33:51Z",
+    "duration": 40,
+    "modified": "2025-01-07T19:20:47Z",
     "repo": "https://github.com/asensei/vapor-auth-jwt.git",
-    "runid": 12646951061,
+    "runid": 12657790358,
     "stars": 5,
     "status": "failure"
   },
