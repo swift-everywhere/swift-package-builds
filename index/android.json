@@ -23840,6 +23840,15 @@
     "stars": 48,
     "status": "failure"
   },
+  "soto-project/soto-smithy": {
+    "created": "2025-01-07T14:05:45Z",
+    "duration": 10,
+    "modified": "2025-01-07T14:05:45Z",
+    "repo": "https://github.com/soto-project/soto-smithy.git",
+    "runid": 12652509868,
+    "stars": 1,
+    "status": "success"
+  },
   "soucolline/ZLogger": {
     "created": "2025-01-06T23:24:46Z",
     "duration": 6,
