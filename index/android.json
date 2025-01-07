@@ -9673,6 +9673,15 @@
     "stars": 56,
     "status": "failure"
   },
+  "fabianmuecke/RxErrorHandling": {
+    "created": "2025-01-07T08:15:32Z",
+    "duration": 19,
+    "modified": "2025-01-07T08:15:32Z",
+    "repo": "https://github.com/fabianmuecke/RxErrorHandling.git",
+    "runid": 12646951061,
+    "stars": 0,
+    "status": "failure"
+  },
   "fabiorodella/FreeformJSON": {
     "created": "2025-01-07T00:39:10Z",
     "duration": 6,
