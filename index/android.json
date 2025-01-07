@@ -22613,6 +22613,15 @@
     "stars": 278,
     "status": "success"
   },
+  "pointfreeco/swift-html": {
+    "created": "2025-01-07T15:01:47Z",
+    "duration": 12,
+    "modified": "2025-01-07T15:01:47Z",
+    "repo": "https://github.com/pointfreeco/swift-html.git",
+    "runid": 12652509868,
+    "stars": 777,
+    "status": "failure"
+  },
   "pointfreeco/swift-html-vapor": {
     "created": "2025-01-06T21:38:55Z",
     "duration": 25,
