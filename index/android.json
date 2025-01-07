@@ -26189,6 +26189,15 @@
     "stars": 0,
     "status": "failure"
   },
+  "wolfmcnally/WolfCore": {
+    "created": "2025-01-07T13:07:55Z",
+    "duration": 15,
+    "modified": "2025-01-07T13:07:55Z",
+    "repo": "https://github.com/wolfmcnally/WolfCore.git",
+    "runid": 12651715076,
+    "stars": 3,
+    "status": "failure"
+  },
   "wolfmcnally/WolfFoundation": {
     "created": "2025-01-07T00:07:06Z",
     "duration": 8,
