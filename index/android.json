@@ -19087,6 +19087,15 @@
     "stars": 7,
     "status": "success"
   },
+  "swiftlang/swift-testing": {
+    "created": "2025-01-07T09:39:57Z",
+    "duration": 82,
+    "modified": "2025-01-07T09:39:57Z",
+    "repo": "https://github.com/swiftlang/swift-testing.git",
+    "runid": 12648641718,
+    "stars": 1860,
+    "status": "failure"
+  },
   "swiftlang/swift-toolchain-sqlite": {
     "created": "2025-01-07T04:08:32Z",
     "duration": 5,
