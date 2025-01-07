@@ -16155,6 +16155,15 @@
     "stars": 20,
     "status": "failure"
   },
+  "samco182/SwiftyXBee": {
+    "created": "2025-01-07T08:25:24Z",
+    "duration": 9,
+    "modified": "2025-01-07T08:25:24Z",
+    "repo": "https://github.com/samco182/SwiftyXBee.git",
+    "runid": 12647794335,
+    "stars": 21,
+    "status": "failure"
+  },
   "sammy-SC/GPX": {
     "created": "2025-01-06T23:19:16Z",
     "duration": 6,
