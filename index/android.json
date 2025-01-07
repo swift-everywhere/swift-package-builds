@@ -5500,6 +5500,15 @@
     "stars": 21,
     "status": "success"
   },
+  "cremo-music/Notus": {
+    "created": "2025-01-07T03:31:46Z",
+    "duration": 8,
+    "modified": "2025-01-07T03:31:46Z",
+    "repo": "https://github.com/cremo-music/Notus.git",
+    "runid": 12644606839,
+    "stars": 5,
+    "status": "failure"
+  },
   "cszatmary/DiscreteMathematics": {
     "created": "2025-01-06T17:31:02Z",
     "duration": 11,
