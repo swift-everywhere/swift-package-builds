@@ -13334,6 +13334,15 @@
     "stars": 162,
     "status": "failure"
   },
+  "devxoul/RxExpect": {
+    "created": "2025-01-07T14:59:23Z",
+    "duration": 13,
+    "modified": "2025-01-07T14:59:23Z",
+    "repo": "https://github.com/devxoul/RxExpect.git",
+    "runid": 12652509868,
+    "stars": 104,
+    "status": "failure"
+  },
   "devxoul/RxJSON": {
     "created": "2025-01-07T07:40:21Z",
     "duration": 12,
