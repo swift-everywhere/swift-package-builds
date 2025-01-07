@@ -282,6 +282,15 @@
     "stars": 3,
     "status": "failure"
   },
+  "AdaEngine/glslang": {
+    "created": "2025-01-07T07:54:49Z",
+    "duration": 41,
+    "modified": "2025-01-07T07:54:49Z",
+    "repo": "https://github.com/AdaEngine/glslang.git",
+    "runid": 12646951061,
+    "stars": 0,
+    "status": "success"
+  },
   "AdaEngine/miniaudio": {
     "created": "2025-01-06T21:50:14Z",
     "duration": 1,
