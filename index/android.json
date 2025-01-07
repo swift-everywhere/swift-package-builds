@@ -806,6 +806,15 @@
     "runid": 12638963153,
     "status": "success"
   },
+  "CombineCommunity/RxCombine": {
+    "created": "2025-01-07T03:51:48Z",
+    "duration": 12,
+    "modified": "2025-01-07T03:51:48Z",
+    "repo": "https://github.com/CombineCommunity/RxCombine.git",
+    "runid": 12644606839,
+    "stars": 1034,
+    "status": "failure"
+  },
   "CoreOffice/CryptoOffice": {
     "created": "2025-01-07T02:42:25Z",
     "duration": 27,
