@@ -1731,6 +1731,15 @@
     "stars": 330,
     "status": "success"
   },
+  "MasterJ93/ATProtoKit": {
+    "created": "2025-01-07T00:53:25Z",
+    "duration": 18,
+    "modified": "2025-01-07T00:53:25Z",
+    "repo": "https://github.com/MasterJ93/ATProtoKit.git",
+    "runid": 12641986754,
+    "stars": 100,
+    "status": "failure"
+  },
   "MaxHaertwig/ANTLR4-Swift": {
     "created": "2025-01-06T23:38:08Z",
     "duration": 13,
