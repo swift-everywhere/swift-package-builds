@@ -7646,6 +7646,15 @@
     "runid": 12638963153,
     "status": "failure"
   },
+  "swift-extras/swift-extras-base64": {
+    "created": "2025-01-07T00:21:18Z",
+    "duration": 7,
+    "modified": "2025-01-07T00:21:18Z",
+    "repo": "https://github.com/swift-extras/swift-extras-base64.git",
+    "runid": 12641986754,
+    "stars": 94,
+    "status": "success"
+  },
   "swift-libp2p/swift-multibase": {
     "created": "2025-01-06T20:26:16Z",
     "duration": 11,
