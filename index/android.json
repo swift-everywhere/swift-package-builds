@@ -7872,6 +7872,15 @@
     "runid": 12638963153,
     "status": "success"
   },
+  "designedbyclowns/GeoURI": {
+    "created": "2025-01-07T06:55:39Z",
+    "duration": 9,
+    "modified": "2025-01-07T06:55:40Z",
+    "repo": "https://github.com/designedbyclowns/GeoURI.git",
+    "runid": 12646377141,
+    "stars": 8,
+    "status": "success"
+  },
   "devedbox/Commander": {
     "created": "2025-01-07T00:52:37Z",
     "duration": 7,
