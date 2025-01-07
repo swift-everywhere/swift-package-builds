@@ -8972,6 +8972,15 @@
     "stars": 56,
     "status": "success"
   },
+  "norio-nomura/XCTAssertCrash": {
+    "created": "2025-01-07T02:37:29Z",
+    "duration": 7,
+    "modified": "2025-01-07T02:37:29Z",
+    "repo": "https://github.com/norio-nomura/XCTAssertCrash.git",
+    "runid": 12643524602,
+    "stars": 51,
+    "status": "failure"
+  },
   "nsomar/Guaka": {
     "created": "2025-01-06T19:45:33Z",
     "duration": 5,
