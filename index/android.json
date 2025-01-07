@@ -9328,6 +9328,15 @@
     "stars": 4,
     "status": "failure"
   },
+  "m-barthelemy/DockerSwift": {
+    "created": "2025-01-07T03:59:31Z",
+    "duration": 51,
+    "modified": "2025-01-07T03:59:31Z",
+    "repo": "https://github.com/m-barthelemy/DockerSwift.git",
+    "runid": 12644606839,
+    "stars": 23,
+    "status": "failure"
+  },
   "m-housh/FSMCSVModels": {
     "created": "2025-01-06T22:11:19Z",
     "duration": 6,
