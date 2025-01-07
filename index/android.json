@@ -6736,6 +6736,15 @@
     "runid": 12637148220,
     "status": "failure"
   },
+  "kylef-archive/fd": {
+    "created": "2025-01-07T01:18:19Z",
+    "duration": 18,
+    "modified": "2025-01-07T01:18:19Z",
+    "repo": "https://github.com/kylef-archive/fd.git",
+    "runid": 12641986754,
+    "stars": 33,
+    "status": "failure"
+  },
   "kylef/JSONWebToken.swift": {
     "created": "2025-01-06T22:05:17Z",
     "duration": 11,
