@@ -2417,6 +2417,15 @@
     "stars": 0,
     "status": "success"
   },
+  "Formkunft/LightTableFilePaths": {
+    "created": "2025-01-07T12:16:24Z",
+    "duration": 10,
+    "modified": "2025-01-07T12:16:24Z",
+    "repo": "https://github.com/Formkunft/LightTableFilePaths.git",
+    "runid": 12650476881,
+    "stars": 0,
+    "status": "success"
+  },
   "Frizlab/APIConnectionProtocols": {
     "created": "2025-01-06T20:56:36Z",
     "duration": 8,
