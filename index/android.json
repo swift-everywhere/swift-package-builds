@@ -4519,6 +4519,15 @@
     "stars": 1756,
     "status": "failure"
   },
+  "Molbie/Outlaw": {
+    "created": "2025-01-07T12:31:09Z",
+    "duration": 10,
+    "modified": "2025-01-07T12:31:09Z",
+    "repo": "https://github.com/Molbie/Outlaw.git",
+    "runid": 12650476881,
+    "stars": 24,
+    "status": "failure"
+  },
   "Momeno/TypeSwift": {
     "created": "2025-01-07T01:03:30Z",
     "duration": 7,
