@@ -14131,6 +14131,15 @@
     "stars": 3,
     "status": "success"
   },
+  "ffried/FFFoundation": {
+    "created": "2025-01-07T14:25:50Z",
+    "duration": 17,
+    "modified": "2025-01-07T14:25:50Z",
+    "repo": "https://github.com/ffried/FFFoundation.git",
+    "runid": 12652509868,
+    "stars": 4,
+    "status": "failure"
+  },
   "finestructure/Parser": {
     "created": "2025-01-07T00:38:36Z",
     "duration": 7,
