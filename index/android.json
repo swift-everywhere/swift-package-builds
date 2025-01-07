@@ -2132,6 +2132,15 @@
     "stars": 27,
     "status": "failure"
   },
+  "Kitura/KituraKit": {
+    "created": "2025-01-07T03:57:00Z",
+    "duration": 28,
+    "modified": "2025-01-07T03:57:00Z",
+    "repo": "https://github.com/Kitura/KituraKit.git",
+    "runid": 12644606839,
+    "stars": 59,
+    "status": "failure"
+  },
   "Kitura/LoggerAPI": {
     "created": "2025-01-06T22:53:06Z",
     "duration": 8,
