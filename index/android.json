@@ -9710,6 +9710,15 @@
     "stars": 6,
     "status": "success"
   },
+  "loopwerk/Parsley": {
+    "created": "2025-01-07T04:57:28Z",
+    "duration": 8,
+    "modified": "2025-01-07T04:57:28Z",
+    "repo": "https://github.com/loopwerk/Parsley.git",
+    "runid": 12645351961,
+    "stars": 20,
+    "status": "success"
+  },
   "loopwerk/Saga": {
     "created": "2025-01-06T21:37:57Z",
     "duration": 17,
