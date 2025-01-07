@@ -4816,6 +4816,15 @@
     "stars": 0,
     "status": "success"
   },
+  "Subito-it/Bariloche": {
+    "created": "2025-01-07T07:10:01Z",
+    "duration": 9,
+    "modified": "2025-01-07T07:10:01Z",
+    "repo": "https://github.com/Subito-it/Bariloche.git",
+    "runid": 12646377141,
+    "stars": 46,
+    "status": "failure"
+  },
   "SusanDoggie/Float16": {
     "created": "2025-01-06T20:22:58Z",
     "duration": 6,
