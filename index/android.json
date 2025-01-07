@@ -1585,6 +1585,15 @@
     "stars": 0,
     "status": "success"
   },
+  "DimaRU/CDRCodable": {
+    "created": "2025-01-07T08:49:26Z",
+    "duration": 17,
+    "modified": "2025-01-07T08:49:26Z",
+    "repo": "https://github.com/DimaRU/CDRCodable.git",
+    "runid": 12647794335,
+    "stars": 3,
+    "status": "success"
+  },
   "DimaRU/Msg2swift": {
     "created": "2025-01-07T06:06:33Z",
     "duration": 11,
