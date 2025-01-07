@@ -13927,6 +13927,15 @@
     "stars": 2,
     "status": "success"
   },
+  "serhii-londar/GithubAPI": {
+    "created": "2025-01-07T06:29:49Z",
+    "duration": 8,
+    "modified": "2025-01-07T06:29:49Z",
+    "repo": "https://github.com/serhii-londar/GithubAPI.git",
+    "runid": 12646377141,
+    "stars": 87,
+    "status": "failure"
+  },
   "sersoft-gmbh/auth-scope": {
     "created": "2025-01-07T02:49:35Z",
     "duration": 16,
