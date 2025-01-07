@@ -2842,6 +2842,15 @@
     "stars": 2,
     "status": "success"
   },
+  "Nextdoor/corridor": {
+    "created": "2025-01-07T04:07:52Z",
+    "duration": 6,
+    "modified": "2025-01-07T04:07:52Z",
+    "repo": "https://github.com/Nextdoor/corridor.git",
+    "runid": 12644606839,
+    "stars": 5,
+    "status": "success"
+  },
   "NiftyTreeStudios/Nifty-Dice-Roller": {
     "created": "2025-01-07T04:03:14Z",
     "duration": 4,
