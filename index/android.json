@@ -8643,6 +8643,15 @@
     "runid": 12638963153,
     "status": "failure"
   },
+  "stackotter/swift-cmark-gfm": {
+    "created": "2025-01-07T01:03:22Z",
+    "duration": 2,
+    "modified": "2025-01-07T01:03:22Z",
+    "repo": "https://github.com/stackotter/swift-cmark-gfm.git",
+    "runid": 12641986754,
+    "stars": 2,
+    "status": "success"
+  },
   "stackotter/swift-macro-toolkit": {
     "created": "2025-01-06T21:09:58Z",
     "duration": 118,
