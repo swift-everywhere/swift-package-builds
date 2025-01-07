@@ -4385,6 +4385,15 @@
     "stars": 23,
     "status": "failure"
   },
+  "PerfectlySoft/Perfect-Thread": {
+    "created": "2025-01-07T08:50:26Z",
+    "duration": 3,
+    "modified": "2025-01-07T08:50:26Z",
+    "repo": "https://github.com/PerfectlySoft/Perfect-Thread.git",
+    "runid": 12647794335,
+    "stars": 18,
+    "status": "failure"
+  },
   "PerfectlySoft/Perfect-XML": {
     "created": "2025-01-07T05:40:47Z",
     "duration": 360,
