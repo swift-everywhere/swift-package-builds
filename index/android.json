@@ -9755,6 +9755,15 @@
     "stars": 19,
     "status": "failure"
   },
+  "amzn/smoke-aws-support": {
+    "created": "2025-01-07T15:08:42Z",
+    "duration": 24,
+    "modified": "2025-01-07T15:08:42Z",
+    "repo": "https://github.com/amzn/smoke-aws-support.git",
+    "runid": 12652509868,
+    "stars": 6,
+    "status": "failure"
+  },
   "amzn/smoke-dynamodb": {
     "created": "2025-01-07T12:41:14Z",
     "duration": 26,
