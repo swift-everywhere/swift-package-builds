@@ -17701,10 +17701,11 @@
   },
   "jsorge/maverick": {
     "created": "2025-01-06T17:08:13Z",
-    "duration": 26,
-    "modified": "2025-01-06T17:08:13Z",
+    "duration": 28,
+    "modified": "2025-01-07T14:58:49Z",
     "repo": "https://github.com/jsorge/maverick.git",
-    "runid": 12636850547,
+    "runid": 12652509868,
+    "stars": 12,
     "status": "failure"
   },
   "jsorge/maverick-models": {
