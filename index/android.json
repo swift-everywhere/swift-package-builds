@@ -15850,10 +15850,10 @@
   },
   "gscalzo/SwiftCubicSpline": {
     "created": "2025-01-07T00:28:05Z",
-    "duration": 3,
-    "modified": "2025-01-07T00:28:05Z",
+    "duration": 4,
+    "modified": "2025-01-07T19:33:27Z",
     "repo": "https://github.com/gscalzo/SwiftCubicSpline.git",
-    "runid": 12641986754,
+    "runid": 12657790358,
     "stars": 27,
     "status": "failure"
   },
