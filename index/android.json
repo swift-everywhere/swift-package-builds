@@ -22780,10 +22780,10 @@
   },
   "pointfreeco/swift-parsing": {
     "created": "2025-01-07T12:31:59Z",
-    "duration": 18,
-    "modified": "2025-01-07T12:31:59Z",
+    "duration": 17,
+    "modified": "2025-01-07T21:52:55Z",
     "repo": "https://github.com/pointfreeco/swift-parsing.git",
-    "runid": 12650476881,
+    "runid": 12659472889,
     "stars": 889,
     "status": "failure"
   },
