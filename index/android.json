@@ -5810,6 +5810,15 @@
     "stars": 394,
     "status": "failure"
   },
+  "aaronsky/asc-swift": {
+    "created": "2025-01-07T07:52:07Z",
+    "duration": 186,
+    "modified": "2025-01-07T07:52:07Z",
+    "repo": "https://github.com/aaronsky/asc-swift.git",
+    "runid": 12646951061,
+    "stars": 44,
+    "status": "success"
+  },
   "aaronsky/buildkite-swift": {
     "created": "2025-01-06T23:25:35Z",
     "duration": 23,
