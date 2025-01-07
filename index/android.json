@@ -20575,10 +20575,10 @@
   },
   "mrtksn/DirectJSON": {
     "created": "2025-01-07T10:00:24Z",
-    "duration": 7,
-    "modified": "2025-01-07T10:00:24Z",
+    "duration": 6,
+    "modified": "2025-01-07T18:24:53Z",
     "repo": "https://github.com/mrtksn/DirectJSON.git",
-    "runid": 12648641718,
+    "runid": 12656035496,
     "stars": 7,
     "status": "success"
   },
