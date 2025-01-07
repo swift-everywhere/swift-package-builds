@@ -9469,6 +9469,15 @@
     "stars": 57,
     "status": "success"
   },
+  "safx/Cron-Swift": {
+    "created": "2025-01-07T02:08:38Z",
+    "duration": 6,
+    "modified": "2025-01-07T02:08:38Z",
+    "repo": "https://github.com/safx/Cron-Swift.git",
+    "runid": 12643524602,
+    "stars": 25,
+    "status": "failure"
+  },
   "saltzmanjoelh/CliRunnable": {
     "created": "2025-01-06T17:09:38Z",
     "duration": 10,
