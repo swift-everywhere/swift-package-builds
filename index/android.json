@@ -11635,6 +11635,15 @@
     "stars": 29,
     "status": "success"
   },
+  "hummingbird-project/swift-websocket": {
+    "created": "2025-01-07T09:05:36Z",
+    "duration": 22,
+    "modified": "2025-01-07T09:05:36Z",
+    "repo": "https://github.com/hummingbird-project/swift-websocket.git",
+    "runid": 12647794335,
+    "stars": 54,
+    "status": "failure"
+  },
   "hylo-lang/Durian": {
     "created": "2025-01-07T07:54:55Z",
     "duration": 5,
