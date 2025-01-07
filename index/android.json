@@ -23149,10 +23149,10 @@
   },
   "qoncept/swift-npy": {
     "created": "2025-01-07T01:06:05Z",
-    "duration": 5,
-    "modified": "2025-01-07T01:06:05Z",
+    "duration": 7,
+    "modified": "2025-01-07T17:27:47Z",
     "repo": "https://github.com/qoncept/swift-npy.git",
-    "runid": 12641986754,
+    "runid": 12656035496,
     "stars": 34,
     "status": "failure"
   },
