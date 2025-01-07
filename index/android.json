@@ -851,6 +851,15 @@
     "runid": 12636850547,
     "status": "success"
   },
+  "Digipolitan/localization-toolkit": {
+    "created": "2025-01-07T01:22:56Z",
+    "duration": 6,
+    "modified": "2025-01-07T01:22:56Z",
+    "repo": "https://github.com/Digipolitan/localization-toolkit.git",
+    "runid": 12641986754,
+    "stars": 0,
+    "status": "success"
+  },
   "Digipolitan/localization-toolkit-object-mapper": {
     "created": "2025-01-06T22:45:08Z",
     "duration": 10,
