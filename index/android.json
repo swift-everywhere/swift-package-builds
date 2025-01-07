@@ -22385,6 +22385,15 @@
     "stars": 2581,
     "status": "failure"
   },
+  "swiftlang/swift-foundation": {
+    "created": "2025-01-07T12:08:50Z",
+    "duration": 265,
+    "modified": "2025-01-07T12:08:50Z",
+    "repo": "https://github.com/swiftlang/swift-foundation.git",
+    "runid": 12650476881,
+    "stars": 2435,
+    "status": "success"
+  },
   "swiftlang/swift-foundation-icu": {
     "created": "2025-01-07T00:13:25Z",
     "duration": 198,
