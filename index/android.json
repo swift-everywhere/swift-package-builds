@@ -681,6 +681,15 @@
     "stars": 0,
     "status": "failure"
   },
+  "Appsaurus/VaporExtensions": {
+    "created": "2025-01-07T13:16:51Z",
+    "duration": 25,
+    "modified": "2025-01-07T13:16:51Z",
+    "repo": "https://github.com/Appsaurus/VaporExtensions.git",
+    "runid": 12651715076,
+    "stars": 1,
+    "status": "failure"
+  },
   "Appsaurus/VaporTestUtils": {
     "created": "2025-01-07T01:41:12Z",
     "duration": 29,
