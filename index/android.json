@@ -8097,6 +8097,15 @@
     "stars": 6,
     "status": "success"
   },
+  "dparnell/swift-parser-generator": {
+    "created": "2025-01-07T06:59:19Z",
+    "duration": 7,
+    "modified": "2025-01-07T06:59:19Z",
+    "repo": "https://github.com/dparnell/swift-parser-generator.git",
+    "runid": 12646377141,
+    "stars": 74,
+    "status": "success"
+  },
   "dral3x/StringsLint": {
     "created": "2025-01-07T06:58:28Z",
     "duration": 11,
