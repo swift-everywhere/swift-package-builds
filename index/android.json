@@ -1738,10 +1738,10 @@
   },
   "CuratoOpenSource/InjectableLoggers": {
     "created": "2025-01-07T02:20:24Z",
-    "duration": 8,
-    "modified": "2025-01-07T02:20:24Z",
+    "duration": 9,
+    "modified": "2025-01-07T19:33:21Z",
     "repo": "https://github.com/CuratoOpenSource/InjectableLoggers.git",
-    "runid": 12643524602,
+    "runid": 12657790358,
     "stars": 5,
     "status": "success"
   },
