@@ -8113,6 +8113,15 @@
     "stars": 6400,
     "status": "success"
   },
+  "Swinject/SwinjectAutoregistration": {
+    "created": "2025-01-07T14:19:28Z",
+    "duration": 13,
+    "modified": "2025-01-07T14:19:28Z",
+    "repo": "https://github.com/Swinject/SwinjectAutoregistration.git",
+    "runid": 12652509868,
+    "stars": 255,
+    "status": "success"
+  },
   "Swonkie/RawTerm": {
     "created": "2025-01-06T23:38:58Z",
     "duration": 3,
