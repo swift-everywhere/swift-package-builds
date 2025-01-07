@@ -185,6 +185,15 @@
     "stars": 116,
     "status": "failure"
   },
+  "21GramConsulting/MediaType": {
+    "created": "2025-01-07T09:44:53Z",
+    "duration": 20,
+    "modified": "2025-01-07T09:44:53Z",
+    "repo": "https://github.com/21GramConsulting/MediaType.git",
+    "runid": 12648641718,
+    "stars": 79,
+    "status": "success"
+  },
   "2C2P/PGWUISDK-SwiftPackage": {
     "created": "2025-01-06T23:01:50Z",
     "duration": 11,
