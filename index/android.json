@@ -22573,10 +22573,10 @@
   },
   "piotrkowalczuk/ntypes": {
     "created": "2025-01-07T05:51:21Z",
-    "duration": 25,
-    "modified": "2025-01-07T05:51:21Z",
+    "duration": 23,
+    "modified": "2025-01-07T17:11:44Z",
     "repo": "https://github.com/piotrkowalczuk/ntypes.git",
-    "runid": 12645653000,
+    "runid": 12655360195,
     "stars": 6,
     "status": "failure"
   },
