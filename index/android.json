@@ -22928,6 +22928,15 @@
     "stars": 0,
     "status": "failure"
   },
+  "shamatar/EthereumAddress": {
+    "created": "2025-01-07T13:49:48Z",
+    "duration": 11,
+    "modified": "2025-01-07T13:49:48Z",
+    "repo": "https://github.com/shamatar/EthereumAddress.git",
+    "runid": 12652509868,
+    "stars": 1,
+    "status": "failure"
+  },
   "shamatar/SwiftRLP": {
     "created": "2025-01-07T10:08:15Z",
     "duration": 6,
