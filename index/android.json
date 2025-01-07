@@ -19520,6 +19520,15 @@
     "runid": 12638963153,
     "status": "failure"
   },
+  "stencilproject/Stencil": {
+    "created": "2025-01-07T10:25:46Z",
+    "duration": 9,
+    "modified": "2025-01-07T10:25:46Z",
+    "repo": "https://github.com/stencilproject/Stencil.git",
+    "runid": 12649615878,
+    "stars": 2351,
+    "status": "failure"
+  },
   "stephencelis/SQLite.swift": {
     "created": "2025-01-07T01:55:43Z",
     "duration": 10,
