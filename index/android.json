@@ -21916,6 +21916,15 @@
     "stars": 7,
     "status": "success"
   },
+  "swiftlang/swift-syntax": {
+    "created": "2025-01-07T11:42:37Z",
+    "duration": 78,
+    "modified": "2025-01-07T11:42:37Z",
+    "repo": "https://github.com/swiftlang/swift-syntax.git",
+    "runid": 12650476881,
+    "stars": 3294,
+    "status": "success"
+  },
   "swiftlang/swift-testing": {
     "created": "2025-01-07T09:39:57Z",
     "duration": 82,
