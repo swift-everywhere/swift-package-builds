@@ -17162,6 +17162,15 @@
     "stars": 8,
     "status": "success"
   },
+  "schwmi/JWT": {
+    "created": "2025-01-07T09:09:55Z",
+    "duration": 21,
+    "modified": "2025-01-07T09:09:55Z",
+    "repo": "https://github.com/schwmi/JWT.git",
+    "runid": 12647794335,
+    "stars": 1,
+    "status": "failure"
+  },
   "scinfu/SwiftSoup": {
     "created": "2025-01-07T03:28:20Z",
     "duration": 9,
