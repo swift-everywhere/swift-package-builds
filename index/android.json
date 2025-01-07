@@ -294,6 +294,15 @@
     "stars": 130,
     "status": "failure"
   },
+  "ActuallyTaylor/SwiftHTMLToMarkdown": {
+    "created": "2025-01-07T13:03:30Z",
+    "duration": 11,
+    "modified": "2025-01-07T13:03:30Z",
+    "repo": "https://github.com/ActuallyTaylor/SwiftHTMLToMarkdown.git",
+    "runid": 12651715076,
+    "stars": 35,
+    "status": "success"
+  },
   "AdaEngine/SPIRV-Cross": {
     "created": "2025-01-06T18:06:03Z",
     "duration": 20,
