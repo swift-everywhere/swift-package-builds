@@ -2838,6 +2838,15 @@
     "stars": 7,
     "status": "success"
   },
+  "OpenSwiftUIProject/OpenSwiftUI": {
+    "created": "2025-01-07T03:37:19Z",
+    "duration": 27,
+    "modified": "2025-01-07T03:37:19Z",
+    "repo": "https://github.com/OpenSwiftUIProject/OpenSwiftUI.git",
+    "runid": 12644606839,
+    "stars": 1100,
+    "status": "failure"
+  },
   "OperatorFoundation/Bits": {
     "created": "2025-01-07T02:38:55Z",
     "duration": 14,
