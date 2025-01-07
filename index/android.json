@@ -3501,9 +3501,10 @@
   "OperatorFoundation/Datable": {
     "created": "2025-01-06T20:01:55Z",
     "duration": 15,
-    "modified": "2025-01-06T20:01:55Z",
+    "modified": "2025-01-07T06:10:53Z",
     "repo": "https://github.com/OperatorFoundation/Datable.git",
-    "runid": 12638963153,
+    "runid": 12645653000,
+    "stars": 2,
     "status": "success"
   },
   "OperatorFoundation/PacketStream": {
