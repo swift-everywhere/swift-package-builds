@@ -11317,6 +11317,15 @@
     "stars": 2,
     "status": "failure"
   },
+  "kudit/Compatibility": {
+    "created": "2025-01-07T07:11:29Z",
+    "duration": 8,
+    "modified": "2025-01-07T07:11:29Z",
+    "repo": "https://github.com/kudit/Compatibility.git",
+    "runid": 12646377141,
+    "stars": 2,
+    "status": "failure"
+  },
   "kudit/Device": {
     "created": "2025-01-06T17:23:58Z",
     "duration": 9,
