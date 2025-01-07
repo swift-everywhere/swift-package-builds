@@ -2370,6 +2370,15 @@
     "stars": 2,
     "status": "success"
   },
+  "Frizlab/URLRequestOperation": {
+    "created": "2025-01-07T11:06:55Z",
+    "duration": 104,
+    "modified": "2025-01-07T11:06:55Z",
+    "repo": "https://github.com/Frizlab/URLRequestOperation.git",
+    "runid": 12649615878,
+    "stars": 2,
+    "status": "failure"
+  },
   "Frizlab/XibLoc": {
     "created": "2025-01-07T03:07:36Z",
     "duration": 79,
