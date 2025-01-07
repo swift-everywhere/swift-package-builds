@@ -13542,6 +13542,15 @@
     "runid": 12638963153,
     "status": "success"
   },
+  "ladislas/SwiftEventCenter": {
+    "created": "2025-01-07T09:32:16Z",
+    "duration": 6,
+    "modified": "2025-01-07T09:32:16Z",
+    "repo": "https://github.com/ladislas/SwiftEventCenter.git",
+    "runid": 12648641718,
+    "stars": 3,
+    "status": "success"
+  },
   "ladvoc/BijectiveDictionary": {
     "created": "2025-01-06T21:38:23Z",
     "duration": 4,
