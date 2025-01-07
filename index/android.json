@@ -12969,6 +12969,15 @@
     "stars": 763,
     "status": "failure"
   },
+  "kylef/Spectre": {
+    "created": "2025-01-07T08:50:22Z",
+    "duration": 7,
+    "modified": "2025-01-07T08:50:22Z",
+    "repo": "https://github.com/kylef/Spectre.git",
+    "runid": 12647794335,
+    "stars": 404,
+    "status": "failure"
+  },
   "kylef/URITemplate.swift": {
     "created": "2025-01-07T08:42:57Z",
     "duration": 9,
