@@ -9463,6 +9463,15 @@
     "stars": 61,
     "status": "success"
   },
+  "brainfinance/StackdriverLogging": {
+    "created": "2025-01-07T11:50:27Z",
+    "duration": 29,
+    "modified": "2025-01-07T11:50:27Z",
+    "repo": "https://github.com/brainfinance/StackdriverLogging.git",
+    "runid": 12650476881,
+    "stars": 21,
+    "status": "failure"
+  },
   "brantonb/RunningPace": {
     "created": "2025-01-06T21:31:09Z",
     "duration": 6,
