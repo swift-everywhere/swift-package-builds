@@ -106,7 +106,7 @@ jobs:
             REPO="https://github.com/${DIR}.git"
             echo "Building: ${REPO} (https://swiftpackageindex.com/${DIR})"
 
-            # skip a build that was already run 
+            # skip a build that we have already run 
             jq -e --arg DIR "$DIR" '.[$DIR]."stars"' ${INDEX} && continue || true
 
             mkdir -p logs/"${DIR}"
@@ -132,6 +132,9 @@ jobs:
 
             # clean out the repository after building
             rm -rf repositories/"${DIR}"
+
+            # fetch any changes that may have occured since we last updated
+            git pull
 
             # create a record of the package if it doesn't already exist
             jq --arg DIR "$DIR" --arg REPO "$REPO" '.[$DIR] |= if . == null then {"repo": $REPO, "created": (now | todate)} else . end' $INDEX > $INDEX.new && mv ${INDEX}.new ${INDEX}
@@ -160,8 +163,6 @@ jobs:
 
             cd $(dirname ${INDEX})
 
-            # fetch any changes that may have occured since we last updated
-            git pull
             git diff $(basename $INDEX)
             git add $(basename $INDEX)
             git commit -m "${PLATFORM} $STATUS for $REPO" .
