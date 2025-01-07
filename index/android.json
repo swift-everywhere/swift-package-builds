@@ -15715,10 +15715,10 @@
   },
   "gradyzhuo/EventStoreDB-Swift": {
     "created": "2025-01-07T05:25:02Z",
-    "duration": 20,
-    "modified": "2025-01-07T05:25:02Z",
+    "duration": 17,
+    "modified": "2025-01-07T21:59:23Z",
     "repo": "https://github.com/gradyzhuo/EventStoreDB-Swift.git",
-    "runid": 12645653000,
+    "runid": 12659472889,
     "stars": 2,
     "status": "failure"
   },
