@@ -2713,6 +2713,15 @@
     "stars": 3,
     "status": "success"
   },
+  "SwiftPackageIndex/Plot": {
+    "created": "2025-01-07T01:06:30Z",
+    "duration": 8,
+    "modified": "2025-01-07T01:06:30Z",
+    "repo": "https://github.com/SwiftPackageIndex/Plot.git",
+    "runid": 12641986754,
+    "stars": 2,
+    "status": "success"
+  },
   "SwiftPackageIndex/ReadyForSwift6Test": {
     "created": "2025-01-06T22:14:06Z",
     "duration": 2,
