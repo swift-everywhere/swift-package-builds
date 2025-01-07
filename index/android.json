@@ -18883,10 +18883,10 @@
   },
   "liamnichols/swift-fixture": {
     "created": "2025-01-07T03:51:34Z",
-    "duration": 109,
-    "modified": "2025-01-07T03:51:34Z",
+    "duration": 108,
+    "modified": "2025-01-07T18:19:21Z",
     "repo": "https://github.com/liamnichols/swift-fixture.git",
-    "runid": 12644606839,
+    "runid": 12656035496,
     "stars": 11,
     "status": "failure"
   },
