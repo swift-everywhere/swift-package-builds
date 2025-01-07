@@ -22990,6 +22990,15 @@
     "stars": 10,
     "status": "success"
   },
+  "wacumov/xml2json": {
+    "created": "2025-01-07T10:51:57Z",
+    "duration": 4,
+    "modified": "2025-01-07T10:51:57Z",
+    "repo": "https://github.com/wacumov/xml2json.git",
+    "runid": 12649615878,
+    "stars": 2,
+    "status": "success"
+  },
   "wadetregaskis/FoundationExtensions": {
     "created": "2025-01-07T10:26:53Z",
     "duration": 7,
