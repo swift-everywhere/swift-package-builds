@@ -6273,6 +6273,15 @@
     "stars": 2325,
     "status": "failure"
   },
+  "asoderman/JSONDecoder": {
+    "created": "2025-01-07T06:56:32Z",
+    "duration": 4,
+    "modified": "2025-01-07T06:56:32Z",
+    "repo": "https://github.com/asoderman/JSONDecoder.git",
+    "runid": 12646377141,
+    "stars": 4,
+    "status": "success"
+  },
   "astzweig/swift-digits": {
     "created": "2025-01-06T22:39:41Z",
     "duration": 3,
