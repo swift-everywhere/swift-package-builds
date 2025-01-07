@@ -12629,9 +12629,10 @@
   "kodecocodes/spm-tutorial": {
     "created": "2025-01-06T19:43:24Z",
     "duration": 3,
-    "modified": "2025-01-06T19:43:24Z",
+    "modified": "2025-01-07T08:36:19Z",
     "repo": "https://github.com/kodecocodes/spm-tutorial.git",
-    "runid": 12638963153,
+    "runid": 12647794335,
+    "stars": 4,
     "status": "failure"
   },
   "koher/AsyncK": {
