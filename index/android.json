@@ -7668,6 +7668,15 @@
     "stars": 3,
     "status": "success"
   },
+  "SwiftPackageIndex/DependencyResolution": {
+    "created": "2025-01-07T13:52:26Z",
+    "duration": 4,
+    "modified": "2025-01-07T13:52:26Z",
+    "repo": "https://github.com/SwiftPackageIndex/DependencyResolution.git",
+    "runid": 12652509868,
+    "stars": 1,
+    "status": "success"
+  },
   "SwiftPackageIndex/Plot": {
     "created": "2025-01-07T01:06:30Z",
     "duration": 8,
