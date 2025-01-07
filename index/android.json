@@ -1376,6 +1376,15 @@
     "stars": 59,
     "status": "failure"
   },
+  "DevYeom/OneWay": {
+    "created": "2025-01-07T07:35:40Z",
+    "duration": 10,
+    "modified": "2025-01-07T07:35:40Z",
+    "repo": "https://github.com/DevYeom/OneWay.git",
+    "runid": 12646951061,
+    "stars": 87,
+    "status": "success"
+  },
   "Digipolitan/framework-swift-template": {
     "created": "2025-01-06T17:07:46Z",
     "duration": 5,
