@@ -20221,6 +20221,15 @@
     "stars": 56,
     "status": "failure"
   },
+  "vapor-community/PassKit": {
+    "created": "2025-01-07T09:15:26Z",
+    "duration": 40,
+    "modified": "2025-01-07T09:15:26Z",
+    "repo": "https://github.com/vapor-community/PassKit.git",
+    "runid": 12647794335,
+    "stars": 72,
+    "status": "failure"
+  },
   "vapor-community/Zip": {
     "created": "2025-01-06T22:02:28Z",
     "duration": 6,
