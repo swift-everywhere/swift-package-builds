@@ -21029,6 +21029,15 @@
     "stars": 41,
     "status": "failure"
   },
+  "nerzh/SwiftFileUtils": {
+    "created": "2025-01-07T15:02:06Z",
+    "duration": 9,
+    "modified": "2025-01-07T15:02:06Z",
+    "repo": "https://github.com/nerzh/SwiftFileUtils.git",
+    "runid": 12652509868,
+    "stars": 0,
+    "status": "failure"
+  },
   "nerzh/swift-custom-logger": {
     "created": "2025-01-07T10:59:02Z",
     "duration": 9,
