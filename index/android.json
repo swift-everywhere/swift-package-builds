@@ -4788,6 +4788,15 @@
     "stars": 0,
     "status": "success"
   },
+  "gscalzo/SwiftCubicSpline": {
+    "created": "2025-01-07T00:28:05Z",
+    "duration": 3,
+    "modified": "2025-01-07T00:28:05Z",
+    "repo": "https://github.com/gscalzo/SwiftCubicSpline.git",
+    "runid": 12641986754,
+    "stars": 27,
+    "status": "failure"
+  },
   "guillermomuntaner/Burritos": {
     "created": "2025-01-06T21:46:52Z",
     "duration": 7,
