@@ -3244,10 +3244,11 @@
   },
   "NozeIO/swift-nio-redis-client": {
     "created": "2025-01-06T20:19:32Z",
-    "duration": 25,
-    "modified": "2025-01-06T20:19:32Z",
+    "duration": 26,
+    "modified": "2025-01-07T05:50:20Z",
     "repo": "https://github.com/NozeIO/swift-nio-redis-client.git",
-    "runid": 12638963153,
+    "runid": 12645653000,
+    "stars": 7,
     "status": "failure"
   },
   "Obbut/ExtraEncodable": {
