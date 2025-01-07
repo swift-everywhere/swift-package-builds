@@ -749,6 +749,15 @@
     "stars": 39,
     "status": "success"
   },
+  "Dev1an/Swift-Atem": {
+    "created": "2025-01-07T00:25:39Z",
+    "duration": 3,
+    "modified": "2025-01-07T00:25:39Z",
+    "repo": "https://github.com/Dev1an/Swift-Atem.git",
+    "runid": 12641986754,
+    "stars": 59,
+    "status": "failure"
+  },
   "Digipolitan/framework-swift-template": {
     "created": "2025-01-06T17:07:46Z",
     "duration": 5,
