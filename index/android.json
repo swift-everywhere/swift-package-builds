@@ -10409,10 +10409,11 @@
   },
   "samalone/nio-async-websockets": {
     "created": "2025-01-06T19:26:52Z",
-    "duration": 18,
-    "modified": "2025-01-06T19:26:52Z",
+    "duration": 20,
+    "modified": "2025-01-07T03:02:59Z",
     "repo": "https://github.com/samalone/nio-async-websockets.git",
-    "runid": 12638963153,
+    "runid": 12644277556,
+    "stars": 1,
     "status": "failure"
   },
   "samalone/websocket-actor-system": {
