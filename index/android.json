@@ -15479,6 +15479,15 @@
     "runid": 12637148220,
     "status": "success"
   },
+  "rosecoder/retryable-task": {
+    "created": "2025-01-07T07:59:00Z",
+    "duration": 6,
+    "modified": "2025-01-07T07:59:00Z",
+    "repo": "https://github.com/rosecoder/retryable-task.git",
+    "runid": 12646951061,
+    "stars": 0,
+    "status": "failure"
+  },
   "rushairer/ZoomableImageView": {
     "created": "2025-01-07T00:51:47Z",
     "duration": 3,
