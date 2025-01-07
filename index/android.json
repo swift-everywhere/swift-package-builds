@@ -691,10 +691,11 @@
   },
   "BlackWild/swift-encore": {
     "created": "2025-01-06T17:39:16Z",
-    "duration": 6,
-    "modified": "2025-01-06T17:39:16Z",
+    "duration": 7,
+    "modified": "2025-01-07T05:58:17Z",
     "repo": "https://github.com/BlackWild/swift-encore.git",
-    "runid": 12637148220,
+    "runid": 12645653000,
+    "stars": 0,
     "status": "failure"
   },
   "Boilertalk/TelegramBot.swift": {
