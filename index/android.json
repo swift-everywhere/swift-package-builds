@@ -4285,6 +4285,15 @@
     "stars": 1,
     "status": "failure"
   },
+  "LuizZak/GPEngine": {
+    "created": "2025-01-07T13:48:26Z",
+    "duration": 8,
+    "modified": "2025-01-07T13:48:27Z",
+    "repo": "https://github.com/LuizZak/GPEngine.git",
+    "runid": 12652509868,
+    "stars": 8,
+    "status": "success"
+  },
   "LuizZak/Geometria": {
     "created": "2025-01-07T12:45:38Z",
     "duration": 46,
