@@ -444,6 +444,15 @@
     "stars": 0,
     "status": "success"
   },
+  "Balancingrock/SwifterSockets": {
+    "created": "2025-01-07T02:03:51Z",
+    "duration": 7,
+    "modified": "2025-01-07T02:03:51Z",
+    "repo": "https://github.com/Balancingrock/SwifterSockets.git",
+    "runid": 12643524602,
+    "stars": 59,
+    "status": "failure"
+  },
   "Balancingrock/VJson": {
     "created": "2025-01-06T19:56:47Z",
     "duration": 8,
