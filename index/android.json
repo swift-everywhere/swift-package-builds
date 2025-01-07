@@ -22426,6 +22426,15 @@
     "stars": 0,
     "status": "failure"
   },
+  "theMomax/swift-docc-plugin": {
+    "created": "2025-01-07T11:34:28Z",
+    "duration": 19,
+    "modified": "2025-01-07T11:34:28Z",
+    "repo": "https://github.com/theMomax/swift-docc-plugin.git",
+    "runid": 12650476881,
+    "stars": 2,
+    "status": "success"
+  },
   "thebarndog/swift-dotenv": {
     "created": "2025-01-07T05:19:53Z",
     "duration": 6,
