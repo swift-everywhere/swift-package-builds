@@ -3786,6 +3786,15 @@
     "stars": 20,
     "status": "success"
   },
+  "JosephDuffy/HashableByKeyPath": {
+    "created": "2025-01-07T14:44:28Z",
+    "duration": 5,
+    "modified": "2025-01-07T14:44:28Z",
+    "repo": "https://github.com/JosephDuffy/HashableByKeyPath.git",
+    "runid": 12652509868,
+    "stars": 10,
+    "status": "success"
+  },
   "JosephDuffy/HashableMacro": {
     "created": "2025-01-06T21:30:57Z",
     "duration": 93,
