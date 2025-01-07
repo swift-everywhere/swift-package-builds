@@ -7716,6 +7716,15 @@
     "runid": 12638963153,
     "status": "success"
   },
+  "brightdigit/IPSWDownloads": {
+    "created": "2025-01-07T08:29:22Z",
+    "duration": 19,
+    "modified": "2025-01-07T08:29:22Z",
+    "repo": "https://github.com/brightdigit/IPSWDownloads.git",
+    "runid": 12647794335,
+    "stars": 9,
+    "status": "failure"
+  },
   "brightdigit/MistKit": {
     "created": "2025-01-07T02:12:11Z",
     "duration": 68,
