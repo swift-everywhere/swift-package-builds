@@ -16364,6 +16364,15 @@
     "stars": 0,
     "status": "success"
   },
+  "shaps80/swift-markdown": {
+    "created": "2025-01-07T08:19:19Z",
+    "duration": 21,
+    "modified": "2025-01-07T08:19:19Z",
+    "repo": "https://github.com/shaps80/swift-markdown.git",
+    "runid": 12646951061,
+    "stars": 0,
+    "status": "failure"
+  },
   "sharplet/Regex": {
     "created": "2025-01-06T20:11:42Z",
     "duration": 6,
