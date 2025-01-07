@@ -13501,10 +13501,10 @@
   },
   "dgrzeszczak/KeyedCodable": {
     "created": "2025-01-07T11:50:37Z",
-    "duration": 8,
-    "modified": "2025-01-07T11:50:37Z",
+    "duration": 7,
+    "modified": "2025-01-07T19:09:46Z",
     "repo": "https://github.com/dgrzeszczak/KeyedCodable.git",
-    "runid": 12650476881,
+    "runid": 12657091582,
     "stars": 285,
     "status": "success"
   },
