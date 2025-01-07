@@ -6526,10 +6526,10 @@
   },
   "Purchasely/Purchasely-iOS": {
     "created": "2025-01-07T01:43:10Z",
-    "duration": 4,
-    "modified": "2025-01-07T01:43:10Z",
+    "duration": 3,
+    "modified": "2025-01-07T20:56:58Z",
     "repo": "https://github.com/Purchasely/Purchasely-iOS.git",
-    "runid": 12643524602,
+    "runid": 12658681935,
     "stars": 28,
     "status": "success"
   },
