@@ -29453,6 +29453,15 @@
     "stars": 7,
     "status": "failure"
   },
+  "yumemi-inc/danger-swift-shoki": {
+    "created": "2025-01-07T15:01:04Z",
+    "duration": 17,
+    "modified": "2025-01-07T15:01:04Z",
+    "repo": "https://github.com/yumemi-inc/danger-swift-shoki.git",
+    "runid": 12652509868,
+    "stars": 4,
+    "status": "failure"
+  },
   "yutailang0119/FileScanKit": {
     "created": "2025-01-06T19:25:38Z",
     "duration": 9,
