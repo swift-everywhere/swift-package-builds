@@ -7105,6 +7105,15 @@
     "runid": 12638963153,
     "status": "failure"
   },
+  "erica/show": {
+    "created": "2025-01-07T04:14:23Z",
+    "duration": 8,
+    "modified": "2025-01-07T04:14:23Z",
+    "repo": "https://github.com/erica/show.git",
+    "runid": 12644606839,
+    "stars": 3,
+    "status": "failure"
+  },
   "ericlewis/swift-log-variadic-bootstrap": {
     "created": "2025-01-06T20:36:45Z",
     "duration": 6,
