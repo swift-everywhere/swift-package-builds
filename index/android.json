@@ -2873,6 +2873,15 @@
     "runid": 12638963153,
     "status": "failure"
   },
+  "Lighter-swift/Lighter": {
+    "created": "2025-01-07T07:16:54Z",
+    "duration": 14,
+    "modified": "2025-01-07T07:16:54Z",
+    "repo": "https://github.com/Lighter-swift/Lighter.git",
+    "runid": 12646377141,
+    "stars": 472,
+    "status": "failure"
+  },
   "LinusSkucas/ShortcutsKit": {
     "created": "2025-01-07T00:24:17Z",
     "duration": 8,
