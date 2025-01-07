@@ -1679,6 +1679,15 @@
     "stars": 37,
     "status": "failure"
   },
+  "Joannis/VaporSMTPKit": {
+    "created": "2025-01-07T03:14:18Z",
+    "duration": 27,
+    "modified": "2025-01-07T03:14:18Z",
+    "repo": "https://github.com/Joannis/VaporSMTPKit.git",
+    "runid": 12644277556,
+    "stars": 60,
+    "status": "failure"
+  },
   "Joannis/swift-nio-ssh": {
     "created": "2025-01-06T22:16:54Z",
     "duration": 46,
