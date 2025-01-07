@@ -10249,6 +10249,15 @@
     "stars": 8,
     "status": "success"
   },
+  "mattia/swift-secrecy": {
+    "created": "2025-01-07T05:03:04Z",
+    "duration": 4,
+    "modified": "2025-01-07T05:03:04Z",
+    "repo": "https://github.com/mattia/swift-secrecy.git",
+    "runid": 12645351961,
+    "stars": 18,
+    "status": "success"
+  },
   "mattmassicotte/ConcurrencyRecipes": {
     "created": "2025-01-07T00:43:09Z",
     "duration": 6,
