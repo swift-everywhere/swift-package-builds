@@ -1132,6 +1132,15 @@
     "runid": 12638963153,
     "status": "success"
   },
+  "Einstore/GitHubKit": {
+    "created": "2025-01-07T03:32:34Z",
+    "duration": 6,
+    "modified": "2025-01-07T03:32:34Z",
+    "repo": "https://github.com/Einstore/GitHubKit.git",
+    "runid": 12644606839,
+    "stars": 17,
+    "status": "failure"
+  },
   "Einstore/HTTPMediaTypes": {
     "created": "2025-01-06T19:53:47Z",
     "duration": 6,
