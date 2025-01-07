@@ -11309,6 +11309,15 @@
     "stars": 23,
     "status": "failure"
   },
+  "dgrzeszczak/KeyedCodable": {
+    "created": "2025-01-07T11:50:37Z",
+    "duration": 8,
+    "modified": "2025-01-07T11:50:37Z",
+    "repo": "https://github.com/dgrzeszczak/KeyedCodable.git",
+    "runid": 12650476881,
+    "stars": 285,
+    "status": "success"
+  },
   "diegocidm4/iDNIe": {
     "created": "2025-01-07T03:47:39Z",
     "duration": 47,
