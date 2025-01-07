@@ -2778,10 +2778,11 @@
   },
   "SwiftPackageIndex/ReleaseNotes": {
     "created": "2025-01-06T17:12:00Z",
-    "duration": 19,
-    "modified": "2025-01-06T17:12:00Z",
+    "duration": 15,
+    "modified": "2025-01-07T01:16:15Z",
     "repo": "https://github.com/SwiftPackageIndex/ReleaseNotes.git",
-    "runid": 12636850547,
+    "runid": 12641986754,
+    "stars": 19,
     "status": "failure"
   },
   "SwiftPackageIndex/SemanticVersion": {
