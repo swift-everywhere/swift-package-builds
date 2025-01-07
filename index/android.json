@@ -5987,6 +5987,15 @@
     "runid": 12638963153,
     "status": "success"
   },
+  "kaishin/Gifu": {
+    "created": "2025-01-07T00:58:04Z",
+    "duration": 4,
+    "modified": "2025-01-07T00:58:04Z",
+    "repo": "https://github.com/kaishin/Gifu.git",
+    "runid": 12641986754,
+    "stars": 3106,
+    "status": "success"
+  },
   "kandelvijaya/FastDiff": {
     "created": "2025-01-06T23:37:02Z",
     "duration": 7,
