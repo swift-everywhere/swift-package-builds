@@ -6031,6 +6031,15 @@
     "stars": 22,
     "status": "success"
   },
+  "invia-flights/swift-feature-toggles": {
+    "created": "2025-01-07T01:12:22Z",
+    "duration": 14,
+    "modified": "2025-01-07T01:12:22Z",
+    "repo": "https://github.com/invia-flights/swift-feature-toggles.git",
+    "runid": 12641986754,
+    "stars": 1,
+    "status": "success"
+  },
   "invia-flights/swift-xcode-cloud-snapshot-testing": {
     "created": "2025-01-06T18:05:34Z",
     "duration": 9,
