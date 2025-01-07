@@ -8021,6 +8021,15 @@
     "stars": 1,
     "status": "success"
   },
+  "std-swift/Encoding": {
+    "created": "2025-01-07T00:37:10Z",
+    "duration": 4,
+    "modified": "2025-01-07T00:37:10Z",
+    "repo": "https://github.com/std-swift/Encoding.git",
+    "runid": 12641986754,
+    "stars": 0,
+    "status": "success"
+  },
   "stefanspringer1/SwiftXML": {
     "created": "2025-01-06T22:49:50Z",
     "duration": 14,
