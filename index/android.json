@@ -5327,6 +5327,15 @@
     "stars": 1,
     "status": "failure"
   },
+  "SusanDoggie/libwebp": {
+    "created": "2025-01-07T08:20:15Z",
+    "duration": 2,
+    "modified": "2025-01-07T08:20:15Z",
+    "repo": "https://github.com/SusanDoggie/libwebp.git",
+    "runid": 12646951061,
+    "stars": 0,
+    "status": "failure"
+  },
   "SwifQL/Bridges": {
     "created": "2025-01-07T05:10:12Z",
     "duration": 76,
