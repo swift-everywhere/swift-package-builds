@@ -12573,6 +12573,15 @@
     "stars": 1,
     "status": "success"
   },
+  "john-mueller/HyphenationPublishPlugin": {
+    "created": "2025-01-07T09:30:32Z",
+    "duration": 25,
+    "modified": "2025-01-07T09:30:32Z",
+    "repo": "https://github.com/john-mueller/HyphenationPublishPlugin.git",
+    "runid": 12648641718,
+    "stars": 2,
+    "status": "failure"
+  },
   "john-mueller/TidyHTMLPublishStep": {
     "created": "2025-01-07T08:44:53Z",
     "duration": 24,
