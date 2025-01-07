@@ -1765,10 +1765,10 @@
   },
   "CuriositySoftware/swift-property-name": {
     "created": "2025-01-06T20:22:39Z",
-    "duration": 126,
-    "modified": "2025-01-07T14:02:47Z",
+    "duration": 129,
+    "modified": "2025-01-07T19:54:23Z",
     "repo": "https://github.com/CuriositySoftware/swift-property-name.git",
-    "runid": 12652509868,
+    "runid": 12658091539,
     "stars": 4,
     "status": "success"
   },
