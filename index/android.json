@@ -7448,6 +7448,15 @@
     "stars": 1,
     "status": "success"
   },
+  "davecom/SwiftCSP": {
+    "created": "2025-01-07T06:16:10Z",
+    "duration": 4,
+    "modified": "2025-01-07T06:16:10Z",
+    "repo": "https://github.com/davecom/SwiftCSP.git",
+    "runid": 12645653000,
+    "stars": 81,
+    "status": "success"
+  },
   "davecom/SwiftPriorityQueue": {
     "created": "2025-01-06T21:34:30Z",
     "duration": 4,
