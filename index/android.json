@@ -7043,6 +7043,15 @@
     "stars": 118,
     "status": "failure"
   },
+  "funcmike/rabbitmq-nio": {
+    "created": "2025-01-07T03:44:51Z",
+    "duration": 12,
+    "modified": "2025-01-07T03:44:51Z",
+    "repo": "https://github.com/funcmike/rabbitmq-nio.git",
+    "runid": 12644606839,
+    "stars": 46,
+    "status": "failure"
+  },
   "funky-monkey/IsoCountryCodes": {
     "created": "2025-01-07T00:19:05Z",
     "duration": 6,
