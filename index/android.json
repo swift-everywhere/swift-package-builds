@@ -17528,6 +17528,15 @@
     "stars": 3,
     "status": "success"
   },
+  "krisk/fuse-swift": {
+    "created": "2025-01-07T14:04:09Z",
+    "duration": 7,
+    "modified": "2025-01-07T14:04:09Z",
+    "repo": "https://github.com/krisk/fuse-swift.git",
+    "runid": 12652509868,
+    "stars": 938,
+    "status": "success"
+  },
   "krugazor/DictionaryCoding": {
     "created": "2025-01-06T23:31:04Z",
     "duration": 6,
