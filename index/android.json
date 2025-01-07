@@ -1083,6 +1083,15 @@
     "stars": 68,
     "status": "success"
   },
+  "Flight-School/RegularExpressionDecoder": {
+    "created": "2025-01-07T01:53:09Z",
+    "duration": 7,
+    "modified": "2025-01-07T01:53:09Z",
+    "repo": "https://github.com/Flight-School/RegularExpressionDecoder.git",
+    "runid": 12643524602,
+    "stars": 175,
+    "status": "success"
+  },
   "Flight-School/SwiftAntlr4": {
     "created": "2025-01-06T22:37:22Z",
     "duration": 33,
