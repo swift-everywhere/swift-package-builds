@@ -15863,6 +15863,15 @@
     "stars": 0,
     "status": "failure"
   },
+  "navanchauhan/swift-chess-neo": {
+    "created": "2025-01-07T10:11:35Z",
+    "duration": 8,
+    "modified": "2025-01-07T10:11:35Z",
+    "repo": "https://github.com/navanchauhan/swift-chess-neo.git",
+    "runid": 12648641718,
+    "stars": 1,
+    "status": "success"
+  },
   "navanchauhan/swift-gopher": {
     "created": "2025-01-06T20:29:27Z",
     "duration": 28,
