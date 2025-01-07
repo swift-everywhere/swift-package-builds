@@ -262,6 +262,15 @@
     "stars": 1,
     "status": "failure"
   },
+  "AliSoftware/Reusable": {
+    "created": "2025-01-07T02:00:55Z",
+    "duration": 4,
+    "modified": "2025-01-07T02:00:55Z",
+    "repo": "https://github.com/AliSoftware/Reusable.git",
+    "runid": 12643524602,
+    "stars": 3003,
+    "status": "success"
+  },
   "Alviere/alviere-accounts-ios": {
     "created": "2025-01-07T00:06:49Z",
     "duration": 61,
