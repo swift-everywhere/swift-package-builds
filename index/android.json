@@ -8272,10 +8272,10 @@
   },
   "SwiftPackageIndex/ShellQuote": {
     "created": "2025-01-06T22:09:37Z",
-    "duration": 6,
-    "modified": "2025-01-06T22:09:37Z",
+    "duration": 7,
+    "modified": "2025-01-07T16:54:21Z",
     "repo": "https://github.com/SwiftPackageIndex/ShellQuote.git",
-    "runid": 12640899049,
+    "runid": 12655360195,
     "stars": 0,
     "status": "success"
   },
