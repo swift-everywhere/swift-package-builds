@@ -8586,6 +8586,15 @@
     "stars": 36,
     "status": "failure"
   },
+  "apple/swift-homomorphic-encryption": {
+    "created": "2025-01-07T12:02:31Z",
+    "duration": 47,
+    "modified": "2025-01-07T12:02:31Z",
+    "repo": "https://github.com/apple/swift-homomorphic-encryption.git",
+    "runid": 12650476881,
+    "stars": 436,
+    "status": "failure"
+  },
   "apple/swift-http-structured-headers": {
     "created": "2025-01-07T01:11:29Z",
     "duration": 4,
