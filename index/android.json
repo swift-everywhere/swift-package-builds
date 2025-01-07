@@ -21879,10 +21879,11 @@
   },
   "teco-project/teco-core": {
     "created": "2025-01-06T20:39:16Z",
-    "duration": 16,
-    "modified": "2025-01-06T20:39:16Z",
+    "duration": 19,
+    "modified": "2025-01-07T11:11:01Z",
     "repo": "https://github.com/teco-project/teco-core.git",
-    "runid": 12638963153,
+    "runid": 12649615878,
+    "stars": 2,
     "status": "failure"
   },
   "terhechte/swift-x11-example": {
