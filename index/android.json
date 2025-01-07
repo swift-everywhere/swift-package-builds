@@ -24428,9 +24428,9 @@
   "sersoft-gmbh/swift-filestreamer": {
     "created": "2025-01-07T03:37:52Z",
     "duration": 15,
-    "modified": "2025-01-07T03:37:52Z",
+    "modified": "2025-01-07T22:54:19Z",
     "repo": "https://github.com/sersoft-gmbh/swift-filestreamer.git",
-    "runid": 12644606839,
+    "runid": 12660245106,
     "stars": 2,
     "status": "failure"
   },
