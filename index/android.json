@@ -6872,6 +6872,15 @@
     "stars": 1609,
     "status": "failure"
   },
+  "RxSwiftCommunity/RxNimble": {
+    "created": "2025-01-07T14:20:39Z",
+    "duration": 19,
+    "modified": "2025-01-07T14:20:39Z",
+    "repo": "https://github.com/RxSwiftCommunity/RxNimble.git",
+    "runid": 12652509868,
+    "stars": 265,
+    "status": "failure"
+  },
   "RxSwiftCommunity/RxOptional": {
     "created": "2025-01-07T02:41:35Z",
     "duration": 17,
