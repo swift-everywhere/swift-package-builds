@@ -5470,6 +5470,15 @@
     "stars": 3379,
     "status": "success"
   },
+  "apple/swift-asn1": {
+    "created": "2025-01-07T05:44:43Z",
+    "duration": 8,
+    "modified": "2025-01-07T05:44:44Z",
+    "repo": "https://github.com/apple/swift-asn1.git",
+    "runid": 12645653000,
+    "stars": 142,
+    "status": "success"
+  },
   "apple/swift-certificates": {
     "created": "2025-01-07T02:15:27Z",
     "duration": 49,
