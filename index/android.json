@@ -6661,9 +6661,10 @@
   "ctreffs/SwiftImGui": {
     "created": "2025-01-06T20:24:59Z",
     "duration": 12,
-    "modified": "2025-01-06T20:24:59Z",
+    "modified": "2025-01-07T05:49:44Z",
     "repo": "https://github.com/ctreffs/SwiftImGui.git",
-    "runid": 12638963153,
+    "runid": 12645653000,
+    "stars": 156,
     "status": "failure"
   },
   "ctreffs/SwiftNFD": {
