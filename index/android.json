@@ -18499,10 +18499,11 @@
   },
   "pointfreeco/swift-case-paths": {
     "created": "2025-01-06T20:55:27Z",
-    "duration": 77,
-    "modified": "2025-01-06T20:55:27Z",
+    "duration": 79,
+    "modified": "2025-01-07T11:13:12Z",
     "repo": "https://github.com/pointfreeco/swift-case-paths.git",
-    "runid": 12638963153,
+    "runid": 12649615878,
+    "stars": 938,
     "status": "success"
   },
   "pointfreeco/swift-clocks": {
