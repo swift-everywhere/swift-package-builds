@@ -4925,6 +4925,15 @@
     "stars": 3,
     "status": "failure"
   },
+  "SDWebImage/libavif-Xcode": {
+    "created": "2025-01-07T08:16:20Z",
+    "duration": 29,
+    "modified": "2025-01-07T08:16:21Z",
+    "repo": "https://github.com/SDWebImage/libavif-Xcode.git",
+    "runid": 12646951061,
+    "stars": 17,
+    "status": "failure"
+  },
   "SDWebImage/libdav1d-Xcode": {
     "created": "2025-01-07T07:18:56Z",
     "duration": 1,
