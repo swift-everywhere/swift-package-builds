@@ -2543,6 +2543,15 @@
     "runid": 12638963153,
     "status": "failure"
   },
+  "SDGGiesbrecht/SDGInterface": {
+    "created": "2025-01-07T01:18:56Z",
+    "duration": 29,
+    "modified": "2025-01-07T01:18:56Z",
+    "repo": "https://github.com/SDGGiesbrecht/SDGInterface.git",
+    "runid": 12641986754,
+    "stars": 6,
+    "status": "failure"
+  },
   "SDGGiesbrecht/SDGKeyboardDesign": {
     "created": "2025-01-06T20:24:12Z",
     "duration": 27,
