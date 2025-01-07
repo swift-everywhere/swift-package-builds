@@ -1057,6 +1057,15 @@
     "stars": 1,
     "status": "failure"
   },
+  "CaptureContext/swift-capture": {
+    "created": "2025-01-07T12:30:15Z",
+    "duration": 17,
+    "modified": "2025-01-07T12:30:15Z",
+    "repo": "https://github.com/CaptureContext/swift-capture.git",
+    "runid": 12650476881,
+    "stars": 7,
+    "status": "success"
+  },
   "CaptureContext/swift-prelude": {
     "created": "2025-01-07T10:09:24Z",
     "duration": 12,
