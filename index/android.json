@@ -12154,6 +12154,15 @@
     "stars": 16,
     "status": "failure"
   },
+  "vapor-community/ferno": {
+    "created": "2025-01-07T03:01:36Z",
+    "duration": 43,
+    "modified": "2025-01-07T03:01:36Z",
+    "repo": "https://github.com/vapor-community/ferno.git",
+    "runid": 12644277556,
+    "stars": 72,
+    "status": "failure"
+  },
   "vapor-community/google-cloud-kit": {
     "created": "2025-01-06T20:35:01Z",
     "duration": 82,
