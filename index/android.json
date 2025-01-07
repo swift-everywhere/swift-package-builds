@@ -2718,6 +2718,15 @@
     "runid": 12638963153,
     "status": "success"
   },
+  "RakuyoKit/RaAPIWrapper": {
+    "created": "2025-01-07T02:29:39Z",
+    "duration": 16,
+    "modified": "2025-01-07T02:29:39Z",
+    "repo": "https://github.com/RakuyoKit/RaAPIWrapper.git",
+    "runid": 12643524602,
+    "stars": 14,
+    "status": "failure"
+  },
   "RakuyoKit/swift": {
     "created": "2025-01-06T17:29:45Z",
     "duration": 13,
