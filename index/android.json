@@ -10368,6 +10368,15 @@
     "stars": 1278,
     "status": "failure"
   },
+  "hummingbird-project/hummingbird-auth": {
+    "created": "2025-01-07T07:36:11Z",
+    "duration": 29,
+    "modified": "2025-01-07T07:36:11Z",
+    "repo": "https://github.com/hummingbird-project/hummingbird-auth.git",
+    "runid": 12646951061,
+    "stars": 38,
+    "status": "failure"
+  },
   "hummingbird-project/hummingbird-core": {
     "created": "2025-01-06T23:03:08Z",
     "duration": 58,
