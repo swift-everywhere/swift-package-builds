@@ -12337,6 +12337,15 @@
     "stars": 1,
     "status": "failure"
   },
+  "my-mail-ru/swift-CRC32": {
+    "created": "2025-01-07T06:55:45Z",
+    "duration": 4,
+    "modified": "2025-01-07T06:55:45Z",
+    "repo": "https://github.com/my-mail-ru/swift-CRC32.git",
+    "runid": 12646377141,
+    "stars": 3,
+    "status": "success"
+  },
   "my-mail-ru/swift-URI": {
     "created": "2025-01-06T17:42:48Z",
     "duration": 4,
