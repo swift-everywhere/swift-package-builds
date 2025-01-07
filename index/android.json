@@ -7311,6 +7311,15 @@
     "stars": 40,
     "status": "success"
   },
+  "e-sites/Francium": {
+    "created": "2025-01-07T05:28:43Z",
+    "duration": 6,
+    "modified": "2025-01-07T05:28:44Z",
+    "repo": "https://github.com/e-sites/Francium.git",
+    "runid": 12645653000,
+    "stars": 1,
+    "status": "failure"
+  },
   "edonv/Clamping": {
     "created": "2025-01-06T23:29:54Z",
     "duration": 6,
