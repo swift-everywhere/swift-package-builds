@@ -6388,6 +6388,15 @@
     "stars": 35,
     "status": "success"
   },
+  "RussBaz/VaporHX": {
+    "created": "2025-01-07T13:15:52Z",
+    "duration": 31,
+    "modified": "2025-01-07T13:15:52Z",
+    "repo": "https://github.com/RussBaz/VaporHX.git",
+    "runid": 12651715076,
+    "stars": 46,
+    "status": "failure"
+  },
   "RussBaz/cuid2": {
     "created": "2025-01-06T20:36:29Z",
     "duration": 18,
