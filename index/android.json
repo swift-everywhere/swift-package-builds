@@ -8488,10 +8488,10 @@
   },
   "Swinject/SwinjectAutoregistration": {
     "created": "2025-01-07T14:19:28Z",
-    "duration": 13,
-    "modified": "2025-01-07T20:10:30Z",
+    "duration": 12,
+    "modified": "2025-01-07T23:30:38Z",
     "repo": "https://github.com/Swinject/SwinjectAutoregistration.git",
-    "runid": 12658091539,
+    "runid": 12660929108,
     "stars": 255,
     "status": "success"
   },
