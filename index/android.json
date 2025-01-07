@@ -2057,6 +2057,15 @@
     "stars": 1,
     "status": "failure"
   },
+  "Frizlab/UBJSONSerialization": {
+    "created": "2025-01-07T08:33:02Z",
+    "duration": 12,
+    "modified": "2025-01-07T08:33:02Z",
+    "repo": "https://github.com/Frizlab/UBJSONSerialization.git",
+    "runid": 12647794335,
+    "stars": 2,
+    "status": "success"
+  },
   "Frizlab/XibLoc": {
     "created": "2025-01-07T03:07:36Z",
     "duration": 79,
