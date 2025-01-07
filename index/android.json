@@ -6235,6 +6235,15 @@
     "stars": 5962,
     "status": "failure"
   },
+  "SwiftyLab/AsyncObjects": {
+    "created": "2025-01-07T09:54:57Z",
+    "duration": 31,
+    "modified": "2025-01-07T09:54:57Z",
+    "repo": "https://github.com/SwiftyLab/AsyncObjects.git",
+    "runid": 12648641718,
+    "stars": 54,
+    "status": "failure"
+  },
   "SwiftyLab/DynamicCodableKit": {
     "created": "2025-01-06T19:59:50Z",
     "duration": 19,
