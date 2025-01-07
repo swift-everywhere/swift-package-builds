@@ -13415,6 +13415,15 @@
     "stars": 152,
     "status": "failure"
   },
+  "swift-server/async-http-client": {
+    "created": "2025-01-07T05:08:43Z",
+    "duration": 13,
+    "modified": "2025-01-07T05:08:43Z",
+    "repo": "https://github.com/swift-server/async-http-client.git",
+    "runid": 12645351961,
+    "stars": 937,
+    "status": "failure"
+  },
   "swift-server/security": {
     "created": "2025-01-07T03:38:00Z",
     "duration": 7,
