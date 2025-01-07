@@ -10939,10 +10939,11 @@
   },
   "brightdigit/AssetLib": {
     "created": "2025-01-06T19:39:32Z",
-    "duration": 39,
-    "modified": "2025-01-06T19:39:32Z",
+    "duration": 23,
+    "modified": "2025-01-07T14:22:02Z",
     "repo": "https://github.com/brightdigit/AssetLib.git",
-    "runid": 12638963153,
+    "runid": 12652509868,
+    "stars": 8,
     "status": "failure"
   },
   "brightdigit/AviaryInsights": {
