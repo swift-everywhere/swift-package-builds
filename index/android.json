@@ -5807,6 +5807,15 @@
     "stars": 4821,
     "status": "success"
   },
+  "Quick/Quick": {
+    "created": "2025-01-07T12:46:48Z",
+    "duration": 21,
+    "modified": "2025-01-07T12:46:49Z",
+    "repo": "https://github.com/Quick/Quick.git",
+    "runid": 12651715076,
+    "stars": 9803,
+    "status": "failure"
+  },
   "Quick/swift-fakes": {
     "created": "2025-01-06T20:33:38Z",
     "duration": 23,
