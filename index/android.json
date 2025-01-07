@@ -2949,6 +2949,15 @@
     "stars": 4,
     "status": "success"
   },
+  "KS1019/AssertSwiftCLI": {
+    "created": "2025-01-07T10:00:03Z",
+    "duration": 9,
+    "modified": "2025-01-07T10:00:03Z",
+    "repo": "https://github.com/KS1019/AssertSwiftCLI.git",
+    "runid": 12648641718,
+    "stars": 0,
+    "status": "failure"
+  },
   "KS1019/Hondana": {
     "created": "2025-01-07T08:04:15Z",
     "duration": 14,
