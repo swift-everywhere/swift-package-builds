@@ -95,6 +95,15 @@
     "stars": 30,
     "status": "success"
   },
+  "0xWDG/Inspect": {
+    "created": "2025-01-07T07:11:20Z",
+    "duration": 6,
+    "modified": "2025-01-07T07:11:20Z",
+    "repo": "https://github.com/0xWDG/Inspect.git",
+    "runid": 12646377141,
+    "stars": 3,
+    "status": "failure"
+  },
   "0xWDG/PHPFramework": {
     "created": "2025-01-06T22:54:39Z",
     "duration": 9,
