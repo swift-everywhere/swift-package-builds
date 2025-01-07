@@ -10537,6 +10537,15 @@
     "stars": 0,
     "status": "failure"
   },
+  "mikeger/XcodeSelectiveTesting": {
+    "created": "2025-01-07T05:13:31Z",
+    "duration": 17,
+    "modified": "2025-01-07T05:13:31Z",
+    "repo": "https://github.com/mikeger/XcodeSelectiveTesting.git",
+    "runid": 12645351961,
+    "stars": 196,
+    "status": "failure"
+  },
   "milend/hmap": {
     "created": "2025-01-06T20:44:54Z",
     "duration": 7,
