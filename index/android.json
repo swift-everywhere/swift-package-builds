@@ -13343,6 +13343,15 @@
     "stars": 12,
     "status": "failure"
   },
+  "tesseract-one/CSecp256k1.swift": {
+    "created": "2025-01-07T04:15:09Z",
+    "duration": 1,
+    "modified": "2025-01-07T04:15:09Z",
+    "repo": "https://github.com/tesseract-one/CSecp256k1.swift.git",
+    "runid": 12644606839,
+    "stars": 0,
+    "status": "success"
+  },
   "tevelee/Tuxedo": {
     "created": "2025-01-06T20:31:04Z",
     "duration": 16,
