@@ -14764,6 +14764,15 @@
     "stars": 0,
     "status": "success"
   },
+  "theBreadCompany/swiftbar": {
+    "created": "2025-01-07T05:46:14Z",
+    "duration": 7,
+    "modified": "2025-01-07T05:46:14Z",
+    "repo": "https://github.com/theBreadCompany/swiftbar.git",
+    "runid": 12645653000,
+    "stars": 0,
+    "status": "failure"
+  },
   "thebarndog/swift-dotenv": {
     "created": "2025-01-07T05:19:53Z",
     "duration": 6,
