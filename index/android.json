@@ -12552,6 +12552,15 @@
     "stars": 49,
     "status": "failure"
   },
+  "swift-server/swift-aws-lambda-runtime": {
+    "created": "2025-01-07T04:04:30Z",
+    "duration": 28,
+    "modified": "2025-01-07T04:04:30Z",
+    "repo": "https://github.com/swift-server/swift-aws-lambda-runtime.git",
+    "runid": 12644606839,
+    "stars": 1159,
+    "status": "failure"
+  },
   "swift-server/swift-openapi-async-http-client": {
     "created": "2025-01-07T03:42:20Z",
     "duration": 55,
