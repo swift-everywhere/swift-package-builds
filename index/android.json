@@ -6207,6 +6207,15 @@
     "stars": 0,
     "status": "success"
   },
+  "dankogai/swift-combinatorics": {
+    "created": "2025-01-07T04:03:27Z",
+    "duration": 4,
+    "modified": "2025-01-07T04:03:27Z",
+    "repo": "https://github.com/dankogai/swift-combinatorics.git",
+    "runid": 12644606839,
+    "stars": 12,
+    "status": "failure"
+  },
   "dankogai/swift-int2x": {
     "created": "2025-01-07T00:00:46Z",
     "duration": 4,
