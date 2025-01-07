@@ -6932,6 +6932,15 @@
     "stars": 108,
     "status": "success"
   },
+  "sendbird/sendbird-uikit-ios-spm": {
+    "created": "2025-01-07T00:05:26Z",
+    "duration": 10,
+    "modified": "2025-01-07T00:05:26Z",
+    "repo": "https://github.com/sendbird/sendbird-uikit-ios-spm.git",
+    "runid": 12641986754,
+    "stars": 3,
+    "status": "success"
+  },
   "sendyhalim/Swort": {
     "created": "2025-01-06T23:26:35Z",
     "duration": 5,
