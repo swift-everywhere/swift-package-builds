@@ -19077,6 +19077,15 @@
     "stars": 1,
     "status": "failure"
   },
+  "nschum/SwiftHamcrest": {
+    "created": "2025-01-07T12:51:37Z",
+    "duration": 107,
+    "modified": "2025-01-07T12:51:37Z",
+    "repo": "https://github.com/nschum/SwiftHamcrest.git",
+    "runid": 12651715076,
+    "stars": 262,
+    "status": "failure"
+  },
   "nsomar/Guaka": {
     "created": "2025-01-06T19:45:33Z",
     "duration": 5,
