@@ -12548,10 +12548,11 @@
   },
   "ezefranca/check-permissions": {
     "created": "2025-01-06T20:29:04Z",
-    "duration": 13,
-    "modified": "2025-01-06T20:29:04Z",
+    "duration": 16,
+    "modified": "2025-01-07T12:28:58Z",
     "repo": "https://github.com/ezefranca/check-permissions.git",
-    "runid": 12638963153,
+    "runid": 12650476881,
+    "stars": 2,
     "status": "failure"
   },
   "ezfe/swift-nbt": {
