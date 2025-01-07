@@ -2955,6 +2955,15 @@
     "stars": 100,
     "status": "failure"
   },
+  "MasterJ93/SwiftCBOR": {
+    "created": "2025-01-07T06:32:22Z",
+    "duration": 24,
+    "modified": "2025-01-07T06:32:22Z",
+    "repo": "https://github.com/MasterJ93/SwiftCBOR.git",
+    "runid": 12646377141,
+    "stars": 0,
+    "status": "failure"
+  },
   "MaxDesiatov/Typology": {
     "created": "2025-01-07T05:14:10Z",
     "duration": 15,
