@@ -6770,6 +6770,15 @@
     "runid": 12638963153,
     "status": "success"
   },
+  "richardpiazza/Occurrence": {
+    "created": "2025-01-07T00:05:42Z",
+    "duration": 7,
+    "modified": "2025-01-07T00:05:42Z",
+    "repo": "https://github.com/richardpiazza/Occurrence.git",
+    "runid": 12641986754,
+    "stars": 0,
+    "status": "failure"
+  },
   "richardpiazza/SOSwift": {
     "created": "2025-01-06T21:37:34Z",
     "duration": 13,
