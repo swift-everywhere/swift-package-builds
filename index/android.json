@@ -4960,6 +4960,15 @@
     "stars": 1,
     "status": "success"
   },
+  "PerfectSideRepos/Perfect-RegEx": {
+    "created": "2025-01-07T11:02:58Z",
+    "duration": 4,
+    "modified": "2025-01-07T11:02:58Z",
+    "repo": "https://github.com/PerfectSideRepos/Perfect-RegEx.git",
+    "runid": 12649615878,
+    "stars": 7,
+    "status": "failure"
+  },
   "PerfectlySoft/Perfect-COpenSSL": {
     "created": "2025-01-06T17:23:41Z",
     "duration": 10,
