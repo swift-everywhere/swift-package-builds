@@ -17361,6 +17361,15 @@
     "stars": 1,
     "status": "success"
   },
+  "staqio/StaqWallet": {
+    "created": "2025-01-07T08:36:34Z",
+    "duration": 14,
+    "modified": "2025-01-07T08:36:34Z",
+    "repo": "https://github.com/staqio/StaqWallet.git",
+    "runid": 12647794335,
+    "stars": 0,
+    "status": "success"
+  },
   "staqio/TrustlessSDK": {
     "created": "2025-01-07T07:26:47Z",
     "duration": 2,
