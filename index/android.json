@@ -5276,6 +5276,15 @@
     "runid": 12638963153,
     "status": "success"
   },
+  "allegro/swift-junit": {
+    "created": "2025-01-07T05:52:09Z",
+    "duration": 10,
+    "modified": "2025-01-07T05:52:09Z",
+    "repo": "https://github.com/allegro/swift-junit.git",
+    "runid": 12645653000,
+    "stars": 30,
+    "status": "success"
+  },
   "allegro/swiftbox": {
     "created": "2025-01-06T17:30:30Z",
     "duration": 15,
