@@ -11872,6 +11872,15 @@
     "stars": 152,
     "status": "failure"
   },
+  "swift-server/security": {
+    "created": "2025-01-07T03:38:00Z",
+    "duration": 7,
+    "modified": "2025-01-07T03:38:00Z",
+    "repo": "https://github.com/swift-server/security.git",
+    "runid": 12644606839,
+    "stars": 49,
+    "status": "failure"
+  },
   "swift-server/swift-openapi-vapor": {
     "created": "2025-01-07T01:11:59Z",
     "duration": 29,
