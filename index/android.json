@@ -25723,10 +25723,10 @@
   },
   "swift-cloud/MongoDB": {
     "created": "2025-01-07T07:55:29Z",
-    "duration": 28,
-    "modified": "2025-01-07T19:37:04Z",
+    "duration": 26,
+    "modified": "2025-01-07T21:54:59Z",
     "repo": "https://github.com/swift-cloud/MongoDB.git",
-    "runid": 12658091539,
+    "runid": 12659472889,
     "stars": 7,
     "status": "failure"
   },
