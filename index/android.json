@@ -24308,6 +24308,15 @@
     "stars": 130,
     "status": "failure"
   },
+  "vapor-community/telesign-kit": {
+    "created": "2025-01-07T12:14:54Z",
+    "duration": 67,
+    "modified": "2025-01-07T12:14:54Z",
+    "repo": "https://github.com/vapor-community/telesign-kit.git",
+    "runid": 12650476881,
+    "stars": 0,
+    "status": "failure"
+  },
   "vapor-community/vapor-aws-lambda-runtime": {
     "created": "2025-01-06T17:33:42Z",
     "duration": 29,
