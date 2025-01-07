@@ -19642,6 +19642,15 @@
     "stars": 2,
     "status": "success"
   },
+  "rkreutz/UIntX": {
+    "created": "2025-01-07T11:32:34Z",
+    "duration": 8,
+    "modified": "2025-01-07T11:32:34Z",
+    "repo": "https://github.com/rkreutz/UIntX.git",
+    "runid": 12650476881,
+    "stars": 0,
+    "status": "failure"
+  },
   "rmichelberger/Inject": {
     "created": "2025-01-06T23:15:18Z",
     "duration": 3,
