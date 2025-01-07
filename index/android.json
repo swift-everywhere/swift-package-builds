@@ -431,6 +431,15 @@
     "stars": 0,
     "status": "success"
   },
+  "Appsaurus/SwiftTestUtils": {
+    "created": "2025-01-07T05:47:42Z",
+    "duration": 7,
+    "modified": "2025-01-07T05:47:42Z",
+    "repo": "https://github.com/Appsaurus/SwiftTestUtils.git",
+    "runid": 12645653000,
+    "stars": 0,
+    "status": "failure"
+  },
   "Appsaurus/VaporTestUtils": {
     "created": "2025-01-07T01:41:12Z",
     "duration": 29,
