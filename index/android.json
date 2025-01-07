@@ -13496,6 +13496,15 @@
     "stars": 2,
     "status": "failure"
   },
+  "mtj0928/SGFKit": {
+    "created": "2025-01-07T08:01:46Z",
+    "duration": 16,
+    "modified": "2025-01-07T08:01:46Z",
+    "repo": "https://github.com/mtj0928/SGFKit.git",
+    "runid": 12646951061,
+    "stars": 7,
+    "status": "success"
+  },
   "mtj0928/swift-codeowners": {
     "created": "2025-01-07T03:49:44Z",
     "duration": 7,
