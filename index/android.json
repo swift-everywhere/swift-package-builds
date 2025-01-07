@@ -9079,6 +9079,15 @@
     "stars": 23,
     "status": "failure"
   },
+  "cpageler93/api-client": {
+    "created": "2025-01-07T10:06:15Z",
+    "duration": 7,
+    "modified": "2025-01-07T10:06:15Z",
+    "repo": "https://github.com/cpageler93/api-client.git",
+    "runid": 12648641718,
+    "stars": 3,
+    "status": "failure"
+  },
   "cpisciotta/xcbeautify": {
     "created": "2025-01-07T07:58:50Z",
     "duration": 18,
