@@ -12282,6 +12282,15 @@
     "stars": 1801,
     "status": "failure"
   },
+  "my-mail-ru/swift-Benchmark": {
+    "created": "2025-01-07T06:53:23Z",
+    "duration": 5,
+    "modified": "2025-01-07T06:53:23Z",
+    "repo": "https://github.com/my-mail-ru/swift-Benchmark.git",
+    "runid": 12646377141,
+    "stars": 1,
+    "status": "failure"
+  },
   "my-mail-ru/swift-URI": {
     "created": "2025-01-06T17:42:48Z",
     "duration": 4,
