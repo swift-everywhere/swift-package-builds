@@ -15643,10 +15643,10 @@
   },
   "google/interop-ios-for-google-sdks": {
     "created": "2025-01-07T11:36:37Z",
-    "duration": 2,
-    "modified": "2025-01-07T11:36:37Z",
+    "duration": 1,
+    "modified": "2025-01-07T19:04:15Z",
     "repo": "https://github.com/google/interop-ios-for-google-sdks.git",
-    "runid": 12650476881,
+    "runid": 12657091582,
     "stars": 11,
     "status": "success"
   },
