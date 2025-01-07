@@ -10517,6 +10517,15 @@
     "stars": 16,
     "status": "failure"
   },
+  "awslabs/aws-sdk-swift": {
+    "created": "2025-01-07T14:46:16Z",
+    "duration": 77,
+    "modified": "2025-01-07T14:46:17Z",
+    "repo": "https://github.com/awslabs/aws-sdk-swift.git",
+    "runid": 12652509868,
+    "stars": 408,
+    "status": "failure"
+  },
   "aydenp/PassEncoder": {
     "created": "2025-01-06T19:41:25Z",
     "duration": 14,
