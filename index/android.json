@@ -9000,6 +9000,15 @@
     "stars": 0,
     "status": "failure"
   },
+  "bytehubio/BigInt": {
+    "created": "2025-01-07T10:16:18Z",
+    "duration": 8,
+    "modified": "2025-01-07T10:16:18Z",
+    "repo": "https://github.com/bytehubio/BigInt.git",
+    "runid": 12648641718,
+    "stars": 1,
+    "status": "success"
+  },
   "calebkleveter/Argon2": {
     "created": "2025-01-06T22:11:08Z",
     "duration": 1,
