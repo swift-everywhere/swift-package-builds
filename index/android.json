@@ -5724,6 +5724,15 @@
     "stars": 60,
     "status": "failure"
   },
+  "bow-swift/bow-lite": {
+    "created": "2025-01-07T04:53:15Z",
+    "duration": 18,
+    "modified": "2025-01-07T04:53:15Z",
+    "repo": "https://github.com/bow-swift/bow-lite.git",
+    "runid": 12645351961,
+    "stars": 29,
+    "status": "failure"
+  },
   "bradhowes/Knob": {
     "created": "2025-01-06T21:25:42Z",
     "duration": 9,
