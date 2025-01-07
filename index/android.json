@@ -5562,6 +5562,15 @@
     "stars": 33,
     "status": "success"
   },
+  "adam-fowler/compress-nio": {
+    "created": "2025-01-07T07:10:51Z",
+    "duration": 24,
+    "modified": "2025-01-07T07:10:51Z",
+    "repo": "https://github.com/adam-fowler/compress-nio.git",
+    "runid": 12646377141,
+    "stars": 23,
+    "status": "success"
+  },
   "adam-fowler/dictionary-encoder": {
     "created": "2025-01-06T23:16:10Z",
     "duration": 7,
