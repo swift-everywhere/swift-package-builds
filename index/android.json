@@ -6434,6 +6434,15 @@
     "runid": 12637757100,
     "status": "success"
   },
+  "cashapp/knit": {
+    "created": "2025-01-07T05:44:21Z",
+    "duration": 94,
+    "modified": "2025-01-07T05:44:21Z",
+    "repo": "https://github.com/cashapp/knit.git",
+    "runid": 12645653000,
+    "stars": 10,
+    "status": "success"
+  },
   "cesarferreira/SwiftEventBus": {
     "created": "2025-01-07T03:53:20Z",
     "duration": 6,
