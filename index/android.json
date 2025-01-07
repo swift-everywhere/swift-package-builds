@@ -18917,10 +18917,11 @@
   },
   "vapor-community/CSRF": {
     "created": "2025-01-06T19:59:29Z",
-    "duration": 32,
-    "modified": "2025-01-06T19:59:29Z",
+    "duration": 33,
+    "modified": "2025-01-07T08:21:55Z",
     "repo": "https://github.com/vapor-community/CSRF.git",
-    "runid": 12638963153,
+    "runid": 12646951061,
+    "stars": 41,
     "status": "failure"
   },
   "vapor-community/Imperial": {
