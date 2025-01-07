@@ -21322,10 +21322,10 @@
   },
   "nikola-mladenovic/AwsSwiftSign": {
     "created": "2025-01-06T17:40:39Z",
-    "duration": 14,
-    "modified": "2025-01-07T06:06:22Z",
+    "duration": 15,
+    "modified": "2025-01-07T20:12:20Z",
     "repo": "https://github.com/nikola-mladenovic/AwsSwiftSign.git",
-    "runid": 12645653000,
+    "runid": 12658091539,
     "stars": 6,
     "status": "failure"
   },
