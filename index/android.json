@@ -5074,6 +5074,15 @@
     "stars": 1,
     "status": "success"
   },
+  "OpenSwiftUIProject/OpenGraph": {
+    "created": "2025-01-07T12:23:14Z",
+    "duration": 12,
+    "modified": "2025-01-07T12:23:14Z",
+    "repo": "https://github.com/OpenSwiftUIProject/OpenGraph.git",
+    "runid": 12650476881,
+    "stars": 69,
+    "status": "failure"
+  },
   "OpenSwiftUIProject/OpenSwiftUI": {
     "created": "2025-01-07T03:37:19Z",
     "duration": 27,
