@@ -9636,6 +9636,15 @@
     "stars": 2,
     "status": "success"
   },
+  "dagronf/BytesParser": {
+    "created": "2025-01-07T10:38:09Z",
+    "duration": 17,
+    "modified": "2025-01-07T10:38:09Z",
+    "repo": "https://github.com/dagronf/BytesParser.git",
+    "runid": 12649615878,
+    "stars": 3,
+    "status": "success"
+  },
   "dagronf/ColorPaletteCodable": {
     "created": "2025-01-07T09:45:35Z",
     "duration": 40,
