@@ -12904,6 +12904,15 @@
     "stars": 1,
     "status": "success"
   },
+  "happn-app/CollectionConcurrencyKit": {
+    "created": "2025-01-07T11:03:29Z",
+    "duration": 6,
+    "modified": "2025-01-07T11:03:29Z",
+    "repo": "https://github.com/happn-app/CollectionConcurrencyKit.git",
+    "runid": 12649615878,
+    "stars": 3,
+    "status": "success"
+  },
   "happn-app/HTTPCoders": {
     "created": "2025-01-07T10:51:29Z",
     "duration": 14,
