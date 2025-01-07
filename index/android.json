@@ -10404,6 +10404,15 @@
     "stars": 8,
     "status": "failure"
   },
+  "johnfairh/swift-sass": {
+    "created": "2025-01-07T06:56:08Z",
+    "duration": 21,
+    "modified": "2025-01-07T06:56:08Z",
+    "repo": "https://github.com/johnfairh/swift-sass.git",
+    "runid": 12646377141,
+    "stars": 11,
+    "status": "failure"
+  },
   "johngarrett/HyperSwift": {
     "created": "2025-01-07T05:49:31Z",
     "duration": 8,
