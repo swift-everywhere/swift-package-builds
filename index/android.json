@@ -1308,9 +1308,10 @@
   "Ether-CLI/Manifest": {
     "created": "2025-01-06T20:10:13Z",
     "duration": 9,
-    "modified": "2025-01-06T20:10:13Z",
+    "modified": "2025-01-07T05:26:38Z",
     "repo": "https://github.com/Ether-CLI/Manifest.git",
-    "runid": 12638963153,
+    "runid": 12645653000,
+    "stars": 0,
     "status": "success"
   },
   "Everything-as-UI/CoreUI": {
