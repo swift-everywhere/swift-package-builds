@@ -7738,6 +7738,15 @@
     "runid": 12638963153,
     "status": "failure"
   },
+  "finsig/json": {
+    "created": "2025-01-07T05:16:20Z",
+    "duration": 6,
+    "modified": "2025-01-07T05:16:20Z",
+    "repo": "https://github.com/finsig/json.git",
+    "runid": 12645351961,
+    "stars": 0,
+    "status": "success"
+  },
   "firebase/nanopb": {
     "created": "2025-01-06T17:39:52Z",
     "duration": 1,
