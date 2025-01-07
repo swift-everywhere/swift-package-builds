@@ -7563,6 +7563,15 @@
     "runid": 12637148220,
     "status": "failure"
   },
+  "swiftlang/swift-foundation-icu": {
+    "created": "2025-01-07T00:13:25Z",
+    "duration": 198,
+    "modified": "2025-01-07T00:13:25Z",
+    "repo": "https://github.com/swiftlang/swift-foundation-icu.git",
+    "runid": 12641986754,
+    "stars": 61,
+    "status": "success"
+  },
   "swiftlang/swift-markdown": {
     "created": "2025-01-06T17:46:36Z",
     "duration": 23,
