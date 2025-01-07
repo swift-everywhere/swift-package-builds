@@ -11927,6 +11927,15 @@
     "stars": 49,
     "status": "failure"
   },
+  "swift-server/swift-openapi-async-http-client": {
+    "created": "2025-01-07T03:42:20Z",
+    "duration": 55,
+    "modified": "2025-01-07T03:42:20Z",
+    "repo": "https://github.com/swift-server/swift-openapi-async-http-client.git",
+    "runid": 12644606839,
+    "stars": 54,
+    "status": "failure"
+  },
   "swift-server/swift-openapi-vapor": {
     "created": "2025-01-07T01:11:59Z",
     "duration": 29,
