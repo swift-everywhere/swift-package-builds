@@ -102,7 +102,19 @@ jobs:
           mkdir repositories
           mkdir logs
 
+          BUILD_START=`date +%s`
+
           for DIR in $(cat ${PACKAGES} | jq -r '.[]' | sort -R) ; do
+            BUILD_NOW=`date +%s`
+
+            # since this workflow runs every hour, stop after we have been
+            # running for 45 minutes
+            BUILD_DURATION=$[BUILD_NOW - BUILD_START]
+            if [ ${BUILD_DURATION} -gt $[60 * 45] ]; then
+              echo "Stopping after BUILD_DURATION: ${BUILD_DURATION}"
+              break
+            fi
+
             REPO="https://github.com/${DIR}.git"
             echo "Building: ${REPO} (https://swiftpackageindex.com/${DIR})"
 
