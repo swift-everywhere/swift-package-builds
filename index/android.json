@@ -7159,6 +7159,15 @@
     "stars": 2457,
     "status": "failure"
   },
+  "akashivskyy/quick-swift-check": {
+    "created": "2025-01-07T10:15:10Z",
+    "duration": 21,
+    "modified": "2025-01-07T10:15:10Z",
+    "repo": "https://github.com/akashivskyy/quick-swift-check.git",
+    "runid": 12648641718,
+    "stars": 12,
+    "status": "failure"
+  },
   "akbashev/cluster-event-sourcing": {
     "created": "2025-01-06T23:25:11Z",
     "duration": 25,
