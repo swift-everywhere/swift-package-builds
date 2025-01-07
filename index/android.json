@@ -12684,6 +12684,15 @@
     "stars": 2,
     "status": "success"
   },
+  "mrwerdo/Geometry": {
+    "created": "2025-01-07T07:15:23Z",
+    "duration": 9,
+    "modified": "2025-01-07T07:15:23Z",
+    "repo": "https://github.com/mrwerdo/Geometry.git",
+    "runid": 12646377141,
+    "stars": 2,
+    "status": "failure"
+  },
   "mtj0928/swift-codeowners": {
     "created": "2025-01-07T03:49:44Z",
     "duration": 7,
