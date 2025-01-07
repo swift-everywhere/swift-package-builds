@@ -10555,6 +10555,15 @@
     "stars": 7043,
     "status": "failure"
   },
+  "groue/Semaphore": {
+    "created": "2025-01-07T08:17:30Z",
+    "duration": 7,
+    "modified": "2025-01-07T08:17:30Z",
+    "repo": "https://github.com/groue/Semaphore.git",
+    "runid": 12646951061,
+    "stars": 538,
+    "status": "success"
+  },
   "grpc/grpc-swift": {
     "created": "2025-01-07T07:58:14Z",
     "duration": 14,
