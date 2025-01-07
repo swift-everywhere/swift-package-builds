@@ -6878,6 +6878,15 @@
     "stars": 3863,
     "status": "success"
   },
+  "apple/swift-collections-benchmark": {
+    "created": "2025-01-07T08:31:27Z",
+    "duration": 7,
+    "modified": "2025-01-07T08:31:27Z",
+    "repo": "https://github.com/apple/swift-collections-benchmark.git",
+    "runid": 12647794335,
+    "stars": 350,
+    "status": "failure"
+  },
   "apple/swift-crypto": {
     "created": "2025-01-06T21:20:55Z",
     "duration": 78,
