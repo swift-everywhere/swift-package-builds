@@ -22200,6 +22200,15 @@
     "stars": 853,
     "status": "success"
   },
+  "pointfreeco/swift-overture": {
+    "created": "2025-01-07T14:34:56Z",
+    "duration": 35,
+    "modified": "2025-01-07T14:34:56Z",
+    "repo": "https://github.com/pointfreeco/swift-overture.git",
+    "runid": 12652509868,
+    "stars": 1140,
+    "status": "success"
+  },
   "pointfreeco/swift-parsing": {
     "created": "2025-01-07T12:31:59Z",
     "duration": 18,
