@@ -10766,9 +10766,9 @@
   "bdewey/static-libgit2": {
     "created": "2025-01-06T17:42:23Z",
     "duration": 8,
-    "modified": "2025-01-07T16:25:19Z",
+    "modified": "2025-01-07T18:23:44Z",
     "repo": "https://github.com/bdewey/static-libgit2.git",
-    "runid": 12655041616,
+    "runid": 12656035496,
     "stars": 23,
     "status": "success"
   },
