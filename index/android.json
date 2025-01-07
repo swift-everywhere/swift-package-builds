@@ -4280,6 +4280,15 @@
     "stars": 0,
     "status": "success"
   },
+  "SwiftGFX/SwiftMath": {
+    "created": "2025-01-07T05:27:37Z",
+    "duration": 12,
+    "modified": "2025-01-07T05:27:37Z",
+    "repo": "https://github.com/SwiftGFX/SwiftMath.git",
+    "runid": 12645653000,
+    "stars": 63,
+    "status": "failure"
+  },
   "SwiftGL/Image": {
     "created": "2025-01-07T01:24:59Z",
     "duration": 6,
