@@ -12165,6 +12165,15 @@
     "stars": 3491,
     "status": "success"
   },
+  "tigerpixel/Currier": {
+    "created": "2025-01-07T03:19:52Z",
+    "duration": 5,
+    "modified": "2025-01-07T03:19:52Z",
+    "repo": "https://github.com/tigerpixel/Currier.git",
+    "runid": 12644277556,
+    "stars": 1,
+    "status": "success"
+  },
   "tigerpixel/PGNParser": {
     "created": "2025-01-06T19:35:15Z",
     "duration": 8,
