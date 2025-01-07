@@ -12183,6 +12183,15 @@
     "stars": 2,
     "status": "success"
   },
+  "dehesa/CodableCSV": {
+    "created": "2025-01-07T13:28:25Z",
+    "duration": 13,
+    "modified": "2025-01-07T13:28:25Z",
+    "repo": "https://github.com/dehesa/CodableCSV.git",
+    "runid": 12652509868,
+    "stars": 465,
+    "status": "success"
+  },
   "dejanskledar/SerializedSwift": {
     "created": "2025-01-07T00:58:11Z",
     "duration": 6,
