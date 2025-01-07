@@ -27864,6 +27864,15 @@
     "stars": 41,
     "status": "failure"
   },
+  "vapor-community/HTMLKit": {
+    "created": "2025-01-07T14:55:24Z",
+    "duration": 46,
+    "modified": "2025-01-07T14:55:24Z",
+    "repo": "https://github.com/vapor-community/HTMLKit.git",
+    "runid": 12652509868,
+    "stars": 415,
+    "status": "failure"
+  },
   "vapor-community/Imperial": {
     "created": "2025-01-06T20:50:33Z",
     "duration": 35,
