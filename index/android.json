@@ -1487,6 +1487,15 @@
     "runid": 12638963153,
     "status": "failure"
   },
+  "LinusSkucas/ShortcutsKit": {
+    "created": "2025-01-07T00:24:17Z",
+    "duration": 8,
+    "modified": "2025-01-07T00:24:17Z",
+    "repo": "https://github.com/LinusSkucas/ShortcutsKit.git",
+    "runid": 12641986754,
+    "stars": 7,
+    "status": "success"
+  },
   "LucianoPAlmeida/variable-injector": {
     "created": "2025-01-06T23:34:40Z",
     "duration": 17,
