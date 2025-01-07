@@ -21476,6 +21476,15 @@
     "stars": 1,
     "status": "failure"
   },
+  "schwmi/Marvin": {
+    "created": "2025-01-07T12:52:34Z",
+    "duration": 20,
+    "modified": "2025-01-07T12:52:34Z",
+    "repo": "https://github.com/schwmi/Marvin.git",
+    "runid": 12651715076,
+    "stars": 1,
+    "status": "failure"
+  },
   "scinfu/SwiftSoup": {
     "created": "2025-01-07T03:28:20Z",
     "duration": 9,
