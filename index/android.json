@@ -8071,6 +8071,15 @@
     "runid": 12638963153,
     "status": "failure"
   },
+  "qoncept/swift-npy": {
+    "created": "2025-01-07T01:06:05Z",
+    "duration": 5,
+    "modified": "2025-01-07T01:06:05Z",
+    "repo": "https://github.com/qoncept/swift-npy.git",
+    "runid": 12641986754,
+    "stars": 34,
+    "status": "failure"
+  },
   "quickthyme/qroute": {
     "created": "2025-01-06T20:36:50Z",
     "duration": 4,
