@@ -7703,9 +7703,10 @@
   "apple/example-package-fisheryates": {
     "created": "2025-01-06T19:49:51Z",
     "duration": 4,
-    "modified": "2025-01-06T19:49:51Z",
+    "modified": "2025-01-07T10:28:34Z",
     "repo": "https://github.com/apple/example-package-fisheryates.git",
-    "runid": 12638963153,
+    "runid": 12649615878,
+    "stars": 186,
     "status": "failure"
   },
   "apple/example-package-playingcard": {
