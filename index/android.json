@@ -4192,6 +4192,15 @@
     "stars": 4,
     "status": "failure"
   },
+  "SwiftWebResources/jQuery-Swift": {
+    "created": "2025-01-07T04:46:29Z",
+    "duration": 1,
+    "modified": "2025-01-07T04:46:29Z",
+    "repo": "https://github.com/SwiftWebResources/jQuery-Swift.git",
+    "runid": 12645351961,
+    "stars": 0,
+    "status": "failure"
+  },
   "SwiftWebUI/SwiftWebUI": {
     "created": "2025-01-06T23:54:40Z",
     "duration": 33,
