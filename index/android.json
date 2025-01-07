@@ -17680,6 +17680,15 @@
     "stars": 3,
     "status": "success"
   },
+  "mozilla-mobile/firefox-ios": {
+    "created": "2025-01-07T12:18:52Z",
+    "duration": 44,
+    "modified": "2025-01-07T12:18:52Z",
+    "repo": "https://github.com/mozilla-mobile/firefox-ios.git",
+    "runid": 12650476881,
+    "stars": 12302,
+    "status": "failure"
+  },
   "mpangburn/FunctionKit": {
     "created": "2025-01-07T04:06:39Z",
     "duration": 7,
