@@ -19887,6 +19887,15 @@
     "stars": 853,
     "status": "success"
   },
+  "pointfreeco/swift-parsing": {
+    "created": "2025-01-07T12:31:59Z",
+    "duration": 18,
+    "modified": "2025-01-07T12:31:59Z",
+    "repo": "https://github.com/pointfreeco/swift-parsing.git",
+    "runid": 12650476881,
+    "stars": 889,
+    "status": "failure"
+  },
   "pointfreeco/swift-prelude": {
     "created": "2025-01-07T04:01:13Z",
     "duration": 11,
