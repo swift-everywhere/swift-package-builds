@@ -7217,6 +7217,15 @@
     "stars": 90,
     "status": "failure"
   },
+  "request-dl/swift-openapi-request-dl-nio": {
+    "created": "2025-01-07T00:30:03Z",
+    "duration": 25,
+    "modified": "2025-01-07T00:30:03Z",
+    "repo": "https://github.com/request-dl/swift-openapi-request-dl-nio.git",
+    "runid": 12641986754,
+    "stars": 6,
+    "status": "failure"
+  },
   "reswifq/redis-client": {
     "created": "2025-01-06T22:54:06Z",
     "duration": 7,
