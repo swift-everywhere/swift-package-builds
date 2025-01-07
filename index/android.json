@@ -790,6 +790,15 @@
     "stars": 1,
     "status": "success"
   },
+  "ArtSabintsev/Guitar": {
+    "created": "2025-01-07T14:26:49Z",
+    "duration": 7,
+    "modified": "2025-01-07T14:26:49Z",
+    "repo": "https://github.com/ArtSabintsev/Guitar.git",
+    "runid": 12652509868,
+    "stars": 659,
+    "status": "failure"
+  },
   "Asana/locheck": {
     "created": "2025-01-06T20:58:20Z",
     "duration": 10,
