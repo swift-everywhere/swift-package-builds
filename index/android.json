@@ -27270,6 +27270,15 @@
     "stars": 1,
     "status": "success"
   },
+  "turbolent/ParserCombinators": {
+    "created": "2025-01-07T14:46:52Z",
+    "duration": 10,
+    "modified": "2025-01-07T14:46:52Z",
+    "repo": "https://github.com/turbolent/ParserCombinators.git",
+    "runid": 12652509868,
+    "stars": 3,
+    "status": "success"
+  },
   "turbolent/ParserDescription": {
     "created": "2025-01-06T20:26:47Z",
     "duration": 8,
