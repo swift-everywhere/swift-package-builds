@@ -6509,6 +6509,15 @@
     "stars": 0,
     "status": "success"
   },
+  "STREGAsGate/GameMath": {
+    "created": "2025-01-07T12:43:56Z",
+    "duration": 9,
+    "modified": "2025-01-07T12:43:56Z",
+    "repo": "https://github.com/STREGAsGate/GameMath.git",
+    "runid": 12651715076,
+    "stars": 51,
+    "status": "failure"
+  },
   "STREGAsGate/Raylib": {
     "created": "2025-01-06T20:43:57Z",
     "duration": 3,
