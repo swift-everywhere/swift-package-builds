@@ -7912,10 +7912,10 @@
   },
   "SusanDoggie/Doggie": {
     "created": "2025-01-07T10:57:14Z",
-    "duration": 46,
-    "modified": "2025-01-07T10:57:14Z",
+    "duration": 45,
+    "modified": "2025-01-07T18:49:27Z",
     "repo": "https://github.com/SusanDoggie/Doggie.git",
-    "runid": 12649615878,
+    "runid": 12657091582,
     "stars": 171,
     "status": "failure"
   },
