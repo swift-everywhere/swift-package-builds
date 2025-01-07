@@ -1930,6 +1930,15 @@
     "stars": 0,
     "status": "success"
   },
+  "EmergeTools/FlyingFox": {
+    "created": "2025-01-07T11:23:41Z",
+    "duration": 8,
+    "modified": "2025-01-07T11:23:42Z",
+    "repo": "https://github.com/EmergeTools/FlyingFox.git",
+    "runid": 12650476881,
+    "stars": 2,
+    "status": "failure"
+  },
   "EmergeTools/SimpleDebugger": {
     "created": "2025-01-06T21:34:18Z",
     "duration": 1,
