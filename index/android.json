@@ -10534,10 +10534,11 @@
   },
   "cx-org/CombineX": {
     "created": "2025-01-06T20:25:30Z",
-    "duration": 12,
-    "modified": "2025-01-06T20:25:30Z",
+    "duration": 14,
+    "modified": "2025-01-07T12:16:12Z",
     "repo": "https://github.com/cx-org/CombineX.git",
-    "runid": 12638963153,
+    "runid": 12650476881,
+    "stars": 624,
     "status": "failure"
   },
   "d-exclaimation/pioneer": {
