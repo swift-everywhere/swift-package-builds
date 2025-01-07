@@ -9135,6 +9135,15 @@
     "stars": 152,
     "status": "failure"
   },
+  "swift-server/swift-openapi-vapor": {
+    "created": "2025-01-07T01:11:59Z",
+    "duration": 29,
+    "modified": "2025-01-07T01:11:59Z",
+    "repo": "https://github.com/swift-server/swift-openapi-vapor.git",
+    "runid": 12641986754,
+    "stars": 84,
+    "status": "failure"
+  },
   "swift-server/swift-service-lifecycle": {
     "created": "2025-01-06T23:59:28Z",
     "duration": 8,
