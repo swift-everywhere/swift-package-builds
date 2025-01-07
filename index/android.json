@@ -8314,6 +8314,15 @@
     "runid": 12637148220,
     "status": "success"
   },
+  "gradyzhuo/EventStoreDB-Swift": {
+    "created": "2025-01-07T05:25:02Z",
+    "duration": 20,
+    "modified": "2025-01-07T05:25:02Z",
+    "repo": "https://github.com/gradyzhuo/EventStoreDB-Swift.git",
+    "runid": 12645653000,
+    "stars": 2,
+    "status": "failure"
+  },
   "grdsdev/MultipartFormData": {
     "created": "2025-01-06T19:42:13Z",
     "duration": 5,
