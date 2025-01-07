@@ -20386,6 +20386,15 @@
     "stars": 1,
     "status": "failure"
   },
+  "nsagora/peppermint": {
+    "created": "2025-01-07T14:04:55Z",
+    "duration": 17,
+    "modified": "2025-01-07T14:04:55Z",
+    "repo": "https://github.com/nsagora/peppermint.git",
+    "runid": 12652509868,
+    "stars": 48,
+    "status": "success"
+  },
   "nschum/SwiftHamcrest": {
     "created": "2025-01-07T12:51:37Z",
     "duration": 107,
