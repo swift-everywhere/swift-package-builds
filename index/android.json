@@ -9495,6 +9495,15 @@
     "stars": 3117,
     "status": "success"
   },
+  "apple/swift-async-dns-resolver": {
+    "created": "2025-01-07T14:06:29Z",
+    "duration": 7,
+    "modified": "2025-01-07T14:06:29Z",
+    "repo": "https://github.com/apple/swift-async-dns-resolver.git",
+    "runid": 12652509868,
+    "stars": 102,
+    "status": "failure"
+  },
   "apple/swift-atomics": {
     "created": "2025-01-07T12:02:57Z",
     "duration": 6,
