@@ -4919,6 +4919,15 @@
     "stars": 9,
     "status": "failure"
   },
+  "Maxim-Lanskoy/ShellOut": {
+    "created": "2025-01-07T14:31:07Z",
+    "duration": 7,
+    "modified": "2025-01-07T14:31:07Z",
+    "repo": "https://github.com/Maxim-Lanskoy/ShellOut.git",
+    "runid": 12652509868,
+    "stars": 0,
+    "status": "success"
+  },
   "MaximBazarov/Inject": {
     "created": "2025-01-07T05:55:05Z",
     "duration": 7,
