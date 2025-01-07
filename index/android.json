@@ -6863,6 +6863,15 @@
     "stars": 5,
     "status": "failure"
   },
+  "abdel-17/swift-rational": {
+    "created": "2025-01-07T10:03:01Z",
+    "duration": 13,
+    "modified": "2025-01-07T10:03:01Z",
+    "repo": "https://github.com/abdel-17/swift-rational.git",
+    "runid": 12648641718,
+    "stars": 4,
+    "status": "success"
+  },
   "abdullahselek/Lighty": {
     "created": "2025-01-07T04:06:31Z",
     "duration": 6,
