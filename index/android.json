@@ -4523,6 +4523,15 @@
     "runid": 12637148220,
     "status": "success"
   },
+  "entonio/Nuggle": {
+    "created": "2025-01-07T00:42:16Z",
+    "duration": 6,
+    "modified": "2025-01-07T00:42:16Z",
+    "repo": "https://github.com/entonio/Nuggle.git",
+    "runid": 12641986754,
+    "stars": 1,
+    "status": "success"
+  },
   "envoy/Ambassador": {
     "created": "2025-01-06T22:54:21Z",
     "duration": 7,
