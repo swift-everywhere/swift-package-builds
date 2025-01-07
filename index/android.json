@@ -18053,6 +18053,15 @@
     "stars": 1,
     "status": "success"
   },
+  "phimage/NotarizationInfo": {
+    "created": "2025-01-07T10:58:08Z",
+    "duration": 7,
+    "modified": "2025-01-07T10:58:08Z",
+    "repo": "https://github.com/phimage/NotarizationInfo.git",
+    "runid": 12649615878,
+    "stars": 1,
+    "status": "success"
+  },
   "phimage/XcodeProjKit": {
     "created": "2025-01-07T00:03:22Z",
     "duration": 7,
