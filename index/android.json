@@ -7745,6 +7745,15 @@
     "stars": 55,
     "status": "success"
   },
+  "gavrilaf/Seagull": {
+    "created": "2025-01-07T04:52:42Z",
+    "duration": 5,
+    "modified": "2025-01-07T04:52:42Z",
+    "repo": "https://github.com/gavrilaf/Seagull.git",
+    "runid": 12645351961,
+    "stars": 3,
+    "status": "failure"
+  },
   "gavrilaf/SgRouter": {
     "created": "2025-01-06T21:23:23Z",
     "duration": 9,
