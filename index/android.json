@@ -2136,6 +2136,15 @@
     "stars": 1,
     "status": "success"
   },
+  "FluidGroup/JAYSON": {
+    "created": "2025-01-07T10:28:42Z",
+    "duration": 7,
+    "modified": "2025-01-07T10:28:42Z",
+    "repo": "https://github.com/FluidGroup/JAYSON.git",
+    "runid": 12649615878,
+    "stars": 255,
+    "status": "failure"
+  },
   "FluidGroup/ResultBuilderKit": {
     "created": "2025-01-06T21:18:26Z",
     "duration": 3,
