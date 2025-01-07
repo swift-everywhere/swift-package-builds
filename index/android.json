@@ -12510,6 +12510,15 @@
     "stars": 33,
     "status": "success"
   },
+  "witekbobrowski/EPUBKit": {
+    "created": "2025-01-07T03:00:00Z",
+    "duration": 11,
+    "modified": "2025-01-07T03:00:00Z",
+    "repo": "https://github.com/witekbobrowski/EPUBKit.git",
+    "runid": 12644277556,
+    "stars": 204,
+    "status": "failure"
+  },
   "wlisac/swift-log-slack": {
     "created": "2025-01-06T23:41:09Z",
     "duration": 4,
