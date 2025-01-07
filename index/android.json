@@ -3254,6 +3254,15 @@
     "stars": 19,
     "status": "failure"
   },
+  "SwiftPackageIndex/SPIManifest": {
+    "created": "2025-01-07T02:22:39Z",
+    "duration": 13,
+    "modified": "2025-01-07T02:22:39Z",
+    "repo": "https://github.com/SwiftPackageIndex/SPIManifest.git",
+    "runid": 12643524602,
+    "stars": 7,
+    "status": "success"
+  },
   "SwiftPackageIndex/SemanticVersion": {
     "created": "2025-01-06T20:19:54Z",
     "duration": 6,
