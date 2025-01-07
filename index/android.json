@@ -3115,6 +3115,15 @@
     "stars": 1,
     "status": "failure"
   },
+  "PromiseKit/Foundation": {
+    "created": "2025-01-07T03:55:26Z",
+    "duration": 14,
+    "modified": "2025-01-07T03:55:26Z",
+    "repo": "https://github.com/PromiseKit/Foundation.git",
+    "runid": 12644606839,
+    "stars": 40,
+    "status": "failure"
+  },
   "Prosumma/Iatheto": {
     "created": "2025-01-07T03:53:04Z",
     "duration": 6,
