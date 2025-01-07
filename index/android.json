@@ -235,10 +235,11 @@
   },
   "Alexander-Ignition/OSLogging": {
     "created": "2025-01-06T20:01:26Z",
-    "duration": 5,
-    "modified": "2025-01-06T20:01:26Z",
+    "duration": 4,
+    "modified": "2025-01-07T00:42:02Z",
     "repo": "https://github.com/Alexander-Ignition/OSLogging.git",
-    "runid": 12638963153,
+    "runid": 12641986754,
+    "stars": 1,
     "status": "failure"
   },
   "Alviere/alviere-accounts-ios": {
