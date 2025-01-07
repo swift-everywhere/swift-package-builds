@@ -13086,6 +13086,15 @@
     "stars": 15,
     "status": "success"
   },
+  "petrpavlik/swift-sentry": {
+    "created": "2025-01-07T06:39:04Z",
+    "duration": 50,
+    "modified": "2025-01-07T06:39:04Z",
+    "repo": "https://github.com/petrpavlik/swift-sentry.git",
+    "runid": 12646377141,
+    "stars": 1,
+    "status": "failure"
+  },
   "ph1ps/swift-concurrency-deadline": {
     "created": "2025-01-07T03:49:11Z",
     "duration": 6,
