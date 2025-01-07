@@ -5224,6 +5224,15 @@
     "stars": 17,
     "status": "failure"
   },
+  "jkrukowski/SQLiteVec": {
+    "created": "2025-01-07T00:24:28Z",
+    "duration": 10,
+    "modified": "2025-01-07T00:24:28Z",
+    "repo": "https://github.com/jkrukowski/SQLiteVec.git",
+    "runid": 12641986754,
+    "stars": 18,
+    "status": "success"
+  },
   "johnbona/disque": {
     "created": "2025-01-06T23:12:19Z",
     "duration": 5,
