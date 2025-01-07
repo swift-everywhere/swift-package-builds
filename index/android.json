@@ -18452,6 +18452,15 @@
     "stars": 3,
     "status": "success"
   },
+  "lhoward/AsyncExtensions": {
+    "created": "2025-01-07T14:39:44Z",
+    "duration": 11,
+    "modified": "2025-01-07T14:39:44Z",
+    "repo": "https://github.com/lhoward/AsyncExtensions.git",
+    "runid": 12652509868,
+    "stars": 0,
+    "status": "failure"
+  },
   "li3zhen1/WithSpecializedGenericMacro": {
     "created": "2025-01-07T07:03:56Z",
     "duration": 102,
