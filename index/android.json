@@ -19125,6 +19125,15 @@
     "stars": 74,
     "status": "failure"
   },
+  "ml-archive/keychain": {
+    "created": "2025-01-07T13:54:06Z",
+    "duration": 37,
+    "modified": "2025-01-07T13:54:06Z",
+    "repo": "https://github.com/ml-archive/keychain.git",
+    "runid": 12652509868,
+    "stars": 40,
+    "status": "failure"
+  },
   "ml-archive/n-meta": {
     "created": "2025-01-07T09:28:29Z",
     "duration": 32,
