@@ -8335,6 +8335,15 @@
     "stars": 2048,
     "status": "failure"
   },
+  "tuist/swift-openapi-runtime": {
+    "created": "2025-01-07T00:25:56Z",
+    "duration": 16,
+    "modified": "2025-01-07T00:25:56Z",
+    "repo": "https://github.com/tuist/swift-openapi-runtime.git",
+    "runid": 12641986754,
+    "stars": 2,
+    "status": "success"
+  },
   "turbolent/OrderedSet": {
     "created": "2025-01-06T17:12:41Z",
     "duration": 4,
