@@ -13145,6 +13145,15 @@
     "stars": 17,
     "status": "failure"
   },
+  "sbooth/CWavPack": {
+    "created": "2025-01-07T05:49:04Z",
+    "duration": 1,
+    "modified": "2025-01-07T05:49:04Z",
+    "repo": "https://github.com/sbooth/CWavPack.git",
+    "runid": 12645653000,
+    "stars": 1,
+    "status": "success"
+  },
   "sbooth/JulianDayNumber": {
     "created": "2025-01-06T20:03:04Z",
     "duration": 7,
