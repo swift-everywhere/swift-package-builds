@@ -3428,6 +3428,15 @@
     "stars": 23,
     "status": "failure"
   },
+  "PerfectlySoft/Perfect-XML": {
+    "created": "2025-01-07T05:40:47Z",
+    "duration": 360,
+    "modified": "2025-01-07T05:40:47Z",
+    "repo": "https://github.com/PerfectlySoft/Perfect-XML.git",
+    "runid": 12645653000,
+    "stars": 16,
+    "status": "failure"
+  },
   "PersistX/Schemata": {
     "created": "2025-01-07T01:19:22Z",
     "duration": 7,
