@@ -3728,10 +3728,11 @@
   },
   "apple/swift-metrics": {
     "created": "2025-01-06T20:30:18Z",
-    "duration": 3,
-    "modified": "2025-01-06T20:30:18Z",
+    "duration": 4,
+    "modified": "2025-01-07T01:53:46Z",
     "repo": "https://github.com/apple/swift-metrics.git",
-    "runid": 12638963153,
+    "runid": 12643524602,
+    "stars": 664,
     "status": "failure"
   },
   "apple/swift-metrics-extras": {
