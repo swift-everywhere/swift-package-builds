@@ -23448,10 +23448,11 @@
   },
   "uraimo/RCWL-0516-Radar.swift": {
     "created": "2025-01-06T19:56:08Z",
-    "duration": 8,
-    "modified": "2025-01-06T19:56:08Z",
+    "duration": 9,
+    "modified": "2025-01-07T11:49:09Z",
     "repo": "https://github.com/uraimo/RCWL-0516-Radar.swift.git",
-    "runid": 12638963153,
+    "runid": 12650476881,
+    "stars": 5,
     "status": "failure"
   },
   "uraimo/SG90Servo.swift": {
