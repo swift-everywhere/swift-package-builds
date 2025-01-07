@@ -8711,6 +8711,15 @@
     "stars": 7,
     "status": "success"
   },
+  "lvsti/NimbleMockSix": {
+    "created": "2025-01-07T03:26:40Z",
+    "duration": 11,
+    "modified": "2025-01-07T03:26:40Z",
+    "repo": "https://github.com/lvsti/NimbleMockSix.git",
+    "runid": 12644606839,
+    "stars": 4,
+    "status": "failure"
+  },
   "m-housh/FSMCSVModels": {
     "created": "2025-01-06T22:11:19Z",
     "duration": 6,
