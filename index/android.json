@@ -8584,6 +8584,15 @@
     "stars": 62,
     "status": "failure"
   },
+  "tapsandswipes/StorablePropertyWrapper": {
+    "created": "2025-01-07T00:44:33Z",
+    "duration": 6,
+    "modified": "2025-01-07T00:44:34Z",
+    "repo": "https://github.com/tapsandswipes/StorablePropertyWrapper.git",
+    "runid": 12641986754,
+    "stars": 2,
+    "status": "success"
+  },
   "tattn/DIAttribute": {
     "created": "2025-01-06T21:42:43Z",
     "duration": 6,
