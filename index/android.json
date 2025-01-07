@@ -25343,6 +25343,15 @@
     "stars": 16,
     "status": "failure"
   },
+  "vapor-community/debugging": {
+    "created": "2025-01-07T13:07:22Z",
+    "duration": 4,
+    "modified": "2025-01-07T13:07:22Z",
+    "repo": "https://github.com/vapor-community/debugging.git",
+    "runid": 12651715076,
+    "stars": 10,
+    "status": "success"
+  },
   "vapor-community/ferno": {
     "created": "2025-01-07T03:01:36Z",
     "duration": 43,
