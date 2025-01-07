@@ -12561,6 +12561,15 @@
     "stars": 1,
     "status": "success"
   },
+  "sersoft-gmbh/xmlwrangler": {
+    "created": "2025-01-07T05:04:12Z",
+    "duration": 16,
+    "modified": "2025-01-07T05:04:12Z",
+    "repo": "https://github.com/sersoft-gmbh/xmlwrangler.git",
+    "runid": 12645351961,
+    "stars": 3,
+    "status": "success"
+  },
   "setoelkahfi/JomloTableView": {
     "created": "2025-01-06T19:46:46Z",
     "duration": 6,
