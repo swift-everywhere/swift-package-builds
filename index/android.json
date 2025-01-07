@@ -1834,6 +1834,15 @@
     "stars": 0,
     "status": "failure"
   },
+  "JARMourato/Kodable": {
+    "created": "2025-01-07T04:21:16Z",
+    "duration": 13,
+    "modified": "2025-01-07T04:21:16Z",
+    "repo": "https://github.com/JARMourato/Kodable.git",
+    "runid": 12644606839,
+    "stars": 83,
+    "status": "success"
+  },
   "JJC1138/tiny-events": {
     "created": "2025-01-07T01:57:41Z",
     "duration": 4,
