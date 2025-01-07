@@ -9136,10 +9136,10 @@
   },
   "adam-fowler/aws-signer-v4": {
     "created": "2025-01-07T12:49:11Z",
-    "duration": 34,
-    "modified": "2025-01-07T12:49:11Z",
+    "duration": 35,
+    "modified": "2025-01-07T22:48:56Z",
     "repo": "https://github.com/adam-fowler/aws-signer-v4.git",
-    "runid": 12651715076,
+    "runid": 12660245106,
     "stars": 27,
     "status": "failure"
   },
