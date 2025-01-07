@@ -3783,6 +3783,15 @@
     "stars": 163,
     "status": "failure"
   },
+  "apple/swift-protobuf": {
+    "created": "2025-01-07T01:49:08Z",
+    "duration": 33,
+    "modified": "2025-01-07T01:49:08Z",
+    "repo": "https://github.com/apple/swift-protobuf.git",
+    "runid": 12643524602,
+    "stars": 4604,
+    "status": "success"
+  },
   "apple/swift-service-discovery": {
     "created": "2025-01-07T00:23:43Z",
     "duration": 10,
