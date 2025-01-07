@@ -23930,6 +23930,15 @@
     "stars": 468,
     "status": "failure"
   },
+  "vapor/core": {
+    "created": "2025-01-07T11:51:07Z",
+    "duration": 5,
+    "modified": "2025-01-07T11:51:07Z",
+    "repo": "https://github.com/vapor/core.git",
+    "runid": 12650476881,
+    "stars": 82,
+    "status": "failure"
+  },
   "vapor/database-kit": {
     "created": "2025-01-07T03:13:48Z",
     "duration": 2,
