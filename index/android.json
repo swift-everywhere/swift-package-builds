@@ -8311,6 +8311,15 @@
     "stars": 18,
     "status": "failure"
   },
+  "Thomvis/BrightFutures": {
+    "created": "2025-01-07T14:30:58Z",
+    "duration": 8,
+    "modified": "2025-01-07T14:30:58Z",
+    "repo": "https://github.com/Thomvis/BrightFutures.git",
+    "runid": 12652509868,
+    "stars": 1901,
+    "status": "success"
+  },
   "Timac/SunCalc": {
     "created": "2025-01-07T00:35:24Z",
     "duration": 7,
