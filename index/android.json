@@ -3373,6 +3373,15 @@
     "stars": 3,
     "status": "success"
   },
+  "Ryu0118/swift-dependencies-macro": {
+    "created": "2025-01-07T03:42:39Z",
+    "duration": 18,
+    "modified": "2025-01-07T03:42:39Z",
+    "repo": "https://github.com/Ryu0118/swift-dependencies-macro.git",
+    "runid": 12644606839,
+    "stars": 17,
+    "status": "failure"
+  },
   "Ryu0118/swift-typed-date": {
     "created": "2025-01-07T02:32:49Z",
     "duration": 188,
