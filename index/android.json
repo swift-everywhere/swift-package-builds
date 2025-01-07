@@ -10118,6 +10118,15 @@
     "stars": 1,
     "status": "success"
   },
+  "p-x9/RunScriptPlugin": {
+    "created": "2025-01-07T03:32:47Z",
+    "duration": 12,
+    "modified": "2025-01-07T03:32:47Z",
+    "repo": "https://github.com/p-x9/RunScriptPlugin.git",
+    "runid": 12644606839,
+    "stars": 33,
+    "status": "failure"
+  },
   "pNre/Sketching": {
     "created": "2025-01-06T21:34:25Z",
     "duration": 6,
