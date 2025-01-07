@@ -25344,6 +25344,15 @@
     "stars": 0,
     "status": "failure"
   },
+  "synesthesia-it/Murray": {
+    "created": "2025-01-07T14:13:37Z",
+    "duration": 22,
+    "modified": "2025-01-07T14:13:37Z",
+    "repo": "https://github.com/synesthesia-it/Murray.git",
+    "runid": 12652509868,
+    "stars": 55,
+    "status": "failure"
+  },
   "t-ae/rng-extension": {
     "created": "2025-01-07T03:37:31Z",
     "duration": 6,
