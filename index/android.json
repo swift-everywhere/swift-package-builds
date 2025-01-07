@@ -4264,6 +4264,15 @@
     "stars": 0,
     "status": "success"
   },
+  "MarSe32m/sebbu-c-libuv": {
+    "created": "2025-01-07T13:07:36Z",
+    "duration": 1,
+    "modified": "2025-01-07T13:07:36Z",
+    "repo": "https://github.com/MarSe32m/sebbu-c-libuv.git",
+    "runid": 12651715076,
+    "stars": 0,
+    "status": "failure"
+  },
   "MarSe32m/sebbu-concurrency": {
     "created": "2025-01-06T21:52:29Z",
     "duration": 10,
