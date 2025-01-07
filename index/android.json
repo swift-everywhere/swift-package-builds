@@ -2823,6 +2823,15 @@
     "runid": 12638963153,
     "status": "success"
   },
+  "MihaelIsaev/NIOCronScheduler": {
+    "created": "2025-01-07T05:46:56Z",
+    "duration": 28,
+    "modified": "2025-01-07T05:46:56Z",
+    "repo": "https://github.com/MihaelIsaev/NIOCronScheduler.git",
+    "runid": 12645653000,
+    "stars": 24,
+    "status": "failure"
+  },
   "MihaelIsaev/SwifCron": {
     "created": "2025-01-07T03:08:15Z",
     "duration": 7,
