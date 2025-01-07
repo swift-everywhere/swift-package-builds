@@ -25585,6 +25585,15 @@
     "stars": 99,
     "status": "failure"
   },
+  "svdo/swift-netutils": {
+    "created": "2025-01-07T15:07:49Z",
+    "duration": 15,
+    "modified": "2025-01-07T15:07:49Z",
+    "repo": "https://github.com/svdo/swift-netutils.git",
+    "runid": 12652509868,
+    "stars": 112,
+    "status": "failure"
+  },
   "sweetclimusic/MyLibrary": {
     "created": "2025-01-06T17:43:41Z",
     "duration": 3,
