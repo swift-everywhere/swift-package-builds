@@ -12246,6 +12246,15 @@
     "stars": 0,
     "status": "success"
   },
+  "flexlixrup/pulsar-client-swift": {
+    "created": "2025-01-07T11:36:14Z",
+    "duration": 70,
+    "modified": "2025-01-07T11:36:14Z",
+    "repo": "https://github.com/flexlixrup/pulsar-client-swift.git",
+    "runid": 12650476881,
+    "stars": 4,
+    "status": "failure"
+  },
   "flintprocessor/ANSIEscapeCode": {
     "created": "2025-01-07T07:37:49Z",
     "duration": 8,
