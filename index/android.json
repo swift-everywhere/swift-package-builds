@@ -21862,10 +21862,10 @@
   },
   "open-portfolio/FINporter": {
     "created": "2025-01-07T09:56:17Z",
-    "duration": 14,
-    "modified": "2025-01-07T18:20:36Z",
+    "duration": 12,
+    "modified": "2025-01-07T23:41:31Z",
     "repo": "https://github.com/open-portfolio/FINporter.git",
-    "runid": 12656035496,
+    "runid": 12660929108,
     "stars": 1,
     "status": "success"
   },
