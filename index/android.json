@@ -27568,11 +27568,11 @@
   },
   "tuist/XcodeProj": {
     "created": "2025-01-06T22:13:14Z",
-    "duration": 9,
-    "modified": "2025-01-06T22:13:14Z",
+    "duration": 11,
+    "modified": "2025-01-07T19:57:31Z",
     "repo": "https://github.com/tuist/XcodeProj.git",
-    "runid": 12640899049,
-    "stars": 2048,
+    "runid": 12658091539,
+    "stars": 2047,
     "status": "failure"
   },
   "tuist/swift-glob": {
