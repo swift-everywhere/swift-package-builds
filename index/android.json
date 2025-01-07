@@ -16715,6 +16715,15 @@
     "stars": 0,
     "status": "success"
   },
+  "simonedelmann/crud-kit": {
+    "created": "2025-01-07T08:31:58Z",
+    "duration": 22,
+    "modified": "2025-01-07T08:31:58Z",
+    "repo": "https://github.com/simonedelmann/crud-kit.git",
+    "runid": 12647794335,
+    "stars": 56,
+    "status": "failure"
+  },
   "sindresorhus/LaunchAtLogin-Modern": {
     "created": "2025-01-06T23:40:57Z",
     "duration": 3,
