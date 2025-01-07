@@ -10786,6 +10786,15 @@
     "runid": 12638963153,
     "status": "success"
   },
+  "seznam/swift-unisocket": {
+    "created": "2025-01-07T03:12:58Z",
+    "duration": 9,
+    "modified": "2025-01-07T03:12:58Z",
+    "repo": "https://github.com/seznam/swift-unisocket.git",
+    "runid": 12644277556,
+    "stars": 1,
+    "status": "failure"
+  },
   "shaps80/swift-cmark": {
     "created": "2025-01-06T21:14:28Z",
     "duration": 2,
