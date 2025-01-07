@@ -3957,6 +3957,15 @@
     "stars": 0,
     "status": "success"
   },
+  "SwiftPackageRepository/ISO639.swift": {
+    "created": "2025-01-07T03:57:08Z",
+    "duration": 7,
+    "modified": "2025-01-07T03:57:08Z",
+    "repo": "https://github.com/SwiftPackageRepository/ISO639.swift.git",
+    "runid": 12644606839,
+    "stars": 1,
+    "status": "success"
+  },
   "SwiftScream/swift-environment-decoder": {
     "created": "2025-01-06T22:57:37Z",
     "duration": 16,
