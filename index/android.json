@@ -9873,6 +9873,15 @@
     "stars": 30,
     "status": "failure"
   },
+  "appwrite/sdk-for-apple": {
+    "created": "2025-01-07T14:08:31Z",
+    "duration": 50,
+    "modified": "2025-01-07T14:08:31Z",
+    "repo": "https://github.com/appwrite/sdk-for-apple.git",
+    "runid": 12652509868,
+    "stars": 106,
+    "status": "failure"
+  },
   "appwrite/sdk-for-swift": {
     "created": "2025-01-07T10:47:52Z",
     "duration": 50,
