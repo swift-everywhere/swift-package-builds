@@ -416,9 +416,10 @@
   "BeAppOnline/Cancellable": {
     "created": "2025-01-06T17:11:40Z",
     "duration": 3,
-    "modified": "2025-01-06T17:11:40Z",
+    "modified": "2025-01-07T00:40:04Z",
     "repo": "https://github.com/BeAppOnline/Cancellable.git",
-    "runid": 12636850547,
+    "runid": 12641986754,
+    "stars": 0,
     "status": "success"
   },
   "BenchR267/Parsel": {
