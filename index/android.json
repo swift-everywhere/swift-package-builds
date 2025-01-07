@@ -13217,6 +13217,15 @@
     "stars": 0,
     "status": "success"
   },
+  "greymass/swift-scrypt": {
+    "created": "2025-01-07T11:52:24Z",
+    "duration": 4,
+    "modified": "2025-01-07T11:52:24Z",
+    "repo": "https://github.com/greymass/swift-scrypt.git",
+    "runid": 12650476881,
+    "stars": 14,
+    "status": "failure"
+  },
   "gringoireDM/EnumKit": {
     "created": "2025-01-06T23:38:15Z",
     "duration": 6,
