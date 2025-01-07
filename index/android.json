@@ -22743,6 +22743,15 @@
     "stars": 16,
     "status": "failure"
   },
+  "vapor-community/stripe-kit": {
+    "created": "2025-01-07T11:01:24Z",
+    "duration": 67,
+    "modified": "2025-01-07T11:01:24Z",
+    "repo": "https://github.com/vapor-community/stripe-kit.git",
+    "runid": 12649615878,
+    "stars": 130,
+    "status": "failure"
+  },
   "vapor-community/vapor-aws-lambda-runtime": {
     "created": "2025-01-06T17:33:42Z",
     "duration": 29,
