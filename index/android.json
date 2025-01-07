@@ -8287,6 +8287,15 @@
     "stars": 75,
     "status": "failure"
   },
+  "wolfmcnally/WolfFoundation": {
+    "created": "2025-01-07T00:07:06Z",
+    "duration": 8,
+    "modified": "2025-01-07T00:07:06Z",
+    "repo": "https://github.com/wolfmcnally/WolfFoundation.git",
+    "runid": 12641986754,
+    "stars": 0,
+    "status": "failure"
+  },
   "wolfmcnally/WolfNumerics": {
     "created": "2025-01-06T17:35:38Z",
     "duration": 7,
