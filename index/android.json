@@ -6613,10 +6613,11 @@
   },
   "dastrobu/argtree": {
     "created": "2025-01-06T19:45:27Z",
-    "duration": 5,
-    "modified": "2025-01-06T19:45:27Z",
+    "duration": 4,
+    "modified": "2025-01-07T04:57:51Z",
     "repo": "https://github.com/dastrobu/argtree.git",
-    "runid": 12638963153,
+    "runid": 12645351961,
+    "stars": 2,
     "status": "failure"
   },
   "dastrobu/vincenty": {
