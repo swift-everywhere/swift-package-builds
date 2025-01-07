@@ -10396,10 +10396,10 @@
   },
   "apple/swift-tools-support-async": {
     "created": "2025-01-07T07:32:49Z",
-    "duration": 8,
-    "modified": "2025-01-07T07:32:49Z",
+    "duration": 12,
+    "modified": "2025-01-07T20:14:45Z",
     "repo": "https://github.com/apple/swift-tools-support-async.git",
-    "runid": 12646951061,
+    "runid": 12658091539,
     "stars": 30,
     "status": "failure"
   },
