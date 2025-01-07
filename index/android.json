@@ -11480,6 +11480,15 @@
     "stars": 1,
     "status": "success"
   },
+  "toffaletti/SwiftKSUID": {
+    "created": "2025-01-07T02:48:24Z",
+    "duration": 36,
+    "modified": "2025-01-07T02:48:24Z",
+    "repo": "https://github.com/toffaletti/SwiftKSUID.git",
+    "runid": 12643524602,
+    "stars": 1,
+    "status": "failure"
+  },
   "tosbaha/SMLib": {
     "created": "2025-01-07T00:23:06Z",
     "duration": 6,
