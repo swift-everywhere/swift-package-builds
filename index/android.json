@@ -17477,6 +17477,15 @@
     "stars": 10,
     "status": "failure"
   },
+  "kasei/swift-serd": {
+    "created": "2025-01-07T14:26:03Z",
+    "duration": 1,
+    "modified": "2025-01-07T14:26:03Z",
+    "repo": "https://github.com/kasei/swift-serd.git",
+    "runid": 12652509868,
+    "stars": 3,
+    "status": "success"
+  },
   "kasei/swift-sparql-syntax": {
     "created": "2025-01-06T22:06:35Z",
     "duration": 18,
