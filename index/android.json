@@ -3584,6 +3584,15 @@
     "stars": 3,
     "status": "failure"
   },
+  "RedMadRobot/synopsis": {
+    "created": "2025-01-07T05:02:52Z",
+    "duration": 13,
+    "modified": "2025-01-07T05:02:52Z",
+    "repo": "https://github.com/RedMadRobot/synopsis.git",
+    "runid": 12645351961,
+    "stars": 13,
+    "status": "failure"
+  },
   "RiftValleySoftware/RVS_GeneralObserver": {
     "created": "2025-01-06T23:00:47Z",
     "duration": 6,
