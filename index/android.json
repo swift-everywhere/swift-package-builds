@@ -5857,6 +5857,15 @@
     "stars": 11,
     "status": "success"
   },
+  "getGuaka/Args": {
+    "created": "2025-01-07T01:57:52Z",
+    "duration": 10,
+    "modified": "2025-01-07T01:57:52Z",
+    "repo": "https://github.com/getGuaka/Args.git",
+    "runid": 12643524602,
+    "stars": 1,
+    "status": "success"
+  },
   "getGuaka/Regex": {
     "created": "2025-01-06T17:24:32Z",
     "duration": 3,
