@@ -12113,6 +12113,15 @@
     "stars": 0,
     "status": "failure"
   },
+  "joshuawright11/papyrus": {
+    "created": "2025-01-07T08:34:33Z",
+    "duration": 82,
+    "modified": "2025-01-07T08:34:33Z",
+    "repo": "https://github.com/joshuawright11/papyrus.git",
+    "runid": 12647794335,
+    "stars": 295,
+    "status": "failure"
+  },
   "jp-fan-app/swift-client": {
     "created": "2025-01-06T17:24:28Z",
     "duration": 9,
