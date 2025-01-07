@@ -5284,11 +5284,11 @@
   },
   "MobileNativeFoundation/XCLogParser": {
     "created": "2025-01-07T00:34:31Z",
-    "duration": 14,
-    "modified": "2025-01-07T00:34:31Z",
+    "duration": 16,
+    "modified": "2025-01-07T18:34:44Z",
     "repo": "https://github.com/MobileNativeFoundation/XCLogParser.git",
-    "runid": 12641986754,
-    "stars": 1756,
+    "runid": 12657091582,
+    "stars": 1758,
     "status": "failure"
   },
   "Molbie/Outlaw": {
