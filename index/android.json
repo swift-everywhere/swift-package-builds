@@ -2257,6 +2257,15 @@
     "stars": 23,
     "status": "failure"
   },
+  "Gerzer/JSONParser": {
+    "created": "2025-01-07T09:06:25Z",
+    "duration": 8,
+    "modified": "2025-01-07T09:06:25Z",
+    "repo": "https://github.com/Gerzer/JSONParser.git",
+    "runid": 12647794335,
+    "stars": 5,
+    "status": "success"
+  },
   "Gerzer/LogicParser": {
     "created": "2025-01-06T17:39:50Z",
     "duration": 9,
