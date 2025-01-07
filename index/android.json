@@ -3381,6 +3381,15 @@
     "runid": 12638963153,
     "status": "success"
   },
+  "brightdigit/Ngrokit": {
+    "created": "2025-01-07T00:24:08Z",
+    "duration": 5,
+    "modified": "2025-01-07T00:24:08Z",
+    "repo": "https://github.com/brightdigit/Ngrokit.git",
+    "runid": 12641986754,
+    "stars": 1,
+    "status": "failure"
+  },
   "brightdigit/PrchNIO": {
     "created": "2025-01-06T21:24:21Z",
     "duration": 55,
