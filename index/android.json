@@ -10833,6 +10833,15 @@
     "stars": 29,
     "status": "failure"
   },
+  "davdroman/PreciseDecimal": {
+    "created": "2025-01-07T11:48:08Z",
+    "duration": 11,
+    "modified": "2025-01-07T11:48:08Z",
+    "repo": "https://github.com/davdroman/PreciseDecimal.git",
+    "runid": 12650476881,
+    "stars": 31,
+    "status": "success"
+  },
   "davdroman/swift-builders": {
     "created": "2025-01-07T06:41:51Z",
     "duration": 10,
