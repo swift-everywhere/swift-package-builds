@@ -17432,6 +17432,15 @@
     "stars": 15,
     "status": "failure"
   },
+  "tayloraswift/swift-jpeg": {
+    "created": "2025-01-07T08:00:39Z",
+    "duration": 27,
+    "modified": "2025-01-07T08:00:39Z",
+    "repo": "https://github.com/tayloraswift/swift-jpeg.git",
+    "runid": 12646951061,
+    "stars": 152,
+    "status": "success"
+  },
   "tayloraswift/swift-json": {
     "created": "2025-01-07T07:13:31Z",
     "duration": 13,
