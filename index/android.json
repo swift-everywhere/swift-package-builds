@@ -11378,6 +11378,15 @@
     "stars": 4,
     "status": "failure"
   },
+  "dankogai/swift-bignum": {
+    "created": "2025-01-07T13:00:23Z",
+    "duration": 9,
+    "modified": "2025-01-07T13:00:23Z",
+    "repo": "https://github.com/dankogai/swift-bignum.git",
+    "runid": 12651715076,
+    "stars": 28,
+    "status": "failure"
+  },
   "dankogai/swift-combinatorics": {
     "created": "2025-01-07T04:03:27Z",
     "duration": 4,
