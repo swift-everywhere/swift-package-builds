@@ -16243,6 +16243,15 @@
     "stars": 4,
     "status": "failure"
   },
+  "polpielladev/reading-time": {
+    "created": "2025-01-07T09:07:50Z",
+    "duration": 35,
+    "modified": "2025-01-07T09:07:50Z",
+    "repo": "https://github.com/polpielladev/reading-time.git",
+    "runid": 12647794335,
+    "stars": 7,
+    "status": "failure"
+  },
   "postmates/PMJSON": {
     "created": "2025-01-06T22:30:08Z",
     "duration": 8,
