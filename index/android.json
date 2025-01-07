@@ -14159,6 +14159,15 @@
     "stars": 349,
     "status": "failure"
   },
+  "jkolb/FieryCrucible": {
+    "created": "2025-01-07T11:19:11Z",
+    "duration": 4,
+    "modified": "2025-01-07T11:19:11Z",
+    "repo": "https://github.com/jkolb/FieryCrucible.git",
+    "runid": 12650476881,
+    "stars": 118,
+    "status": "success"
+  },
   "jkolb/FranticApparatus": {
     "created": "2025-01-07T06:54:03Z",
     "duration": 7,
