@@ -831,6 +831,15 @@
     "stars": 0,
     "status": "success"
   },
+  "DiscordBM/DiscordBM": {
+    "created": "2025-01-07T00:45:38Z",
+    "duration": 43,
+    "modified": "2025-01-07T00:45:38Z",
+    "repo": "https://github.com/DiscordBM/DiscordBM.git",
+    "runid": 12641986754,
+    "stars": 91,
+    "status": "failure"
+  },
   "DoccZz/DocCArchive": {
     "created": "2025-01-06T21:42:57Z",
     "duration": 8,
