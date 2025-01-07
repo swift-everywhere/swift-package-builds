@@ -14989,6 +14989,15 @@
     "stars": 5,
     "status": "success"
   },
+  "jordanbaird/Prism": {
+    "created": "2025-01-07T12:01:21Z",
+    "duration": 6,
+    "modified": "2025-01-07T12:01:21Z",
+    "repo": "https://github.com/jordanbaird/Prism.git",
+    "runid": 12650476881,
+    "stars": 21,
+    "status": "failure"
+  },
   "jordanbaird/Restore": {
     "created": "2025-01-07T03:45:39Z",
     "duration": 14,
