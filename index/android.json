@@ -12629,6 +12629,15 @@
     "stars": 46,
     "status": "failure"
   },
+  "segmentio/JSONSafeEncoding-Swift": {
+    "created": "2025-01-07T05:15:22Z",
+    "duration": 7,
+    "modified": "2025-01-07T05:15:22Z",
+    "repo": "https://github.com/segmentio/JSONSafeEncoding-Swift.git",
+    "runid": 12645351961,
+    "stars": 4,
+    "status": "success"
+  },
   "sendbird/sendbird-uikit-ios": {
     "created": "2025-01-06T21:10:56Z",
     "duration": 13,
