@@ -12331,10 +12331,10 @@
   },
   "d-exclaimation/pioneer": {
     "created": "2025-01-06T18:04:48Z",
-    "duration": 35,
-    "modified": "2025-01-07T04:46:15Z",
+    "duration": 31,
+    "modified": "2025-01-07T18:17:00Z",
     "repo": "https://github.com/d-exclaimation/pioneer.git",
-    "runid": 12645351961,
+    "runid": 12656035496,
     "stars": 42,
     "status": "failure"
   },
