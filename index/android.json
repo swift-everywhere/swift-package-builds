@@ -21319,10 +21319,11 @@
   },
   "stackotter/swift-bundler": {
     "created": "2025-01-06T20:08:04Z",
-    "duration": 52,
-    "modified": "2025-01-06T20:08:04Z",
+    "duration": 59,
+    "modified": "2025-01-07T11:52:18Z",
     "repo": "https://github.com/stackotter/swift-bundler.git",
-    "runid": 12638963153,
+    "runid": 12650476881,
+    "stars": 317,
     "status": "failure"
   },
   "stackotter/swift-cmark-gfm": {
