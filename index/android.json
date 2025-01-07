@@ -18753,6 +18753,15 @@
     "stars": 2048,
     "status": "failure"
   },
+  "tuist/swift-glob": {
+    "created": "2025-01-07T08:31:19Z",
+    "duration": 8,
+    "modified": "2025-01-07T08:31:19Z",
+    "repo": "https://github.com/tuist/swift-glob.git",
+    "runid": 12647794335,
+    "stars": 0,
+    "status": "success"
+  },
   "tuist/swift-openapi-runtime": {
     "created": "2025-01-07T00:25:56Z",
     "duration": 16,
