@@ -12428,6 +12428,15 @@
     "stars": 2,
     "status": "failure"
   },
+  "foscomputerservices/FOSUtilities": {
+    "created": "2025-01-07T11:46:24Z",
+    "duration": 129,
+    "modified": "2025-01-07T11:46:24Z",
+    "repo": "https://github.com/foscomputerservices/FOSUtilities.git",
+    "runid": 12650476881,
+    "stars": 1,
+    "status": "failure"
+  },
   "foulkesjohn/CSVEncoder": {
     "created": "2025-01-07T10:56:12Z",
     "duration": 7,
