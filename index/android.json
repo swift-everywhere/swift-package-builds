@@ -1884,6 +1884,15 @@
     "stars": 1,
     "status": "success"
   },
+  "Frizlab/officectl-model": {
+    "created": "2025-01-07T07:34:57Z",
+    "duration": 12,
+    "modified": "2025-01-07T07:34:57Z",
+    "repo": "https://github.com/Frizlab/officectl-model.git",
+    "runid": 12646951061,
+    "stars": 1,
+    "status": "failure"
+  },
   "Frizlab/swift-action": {
     "created": "2025-01-07T03:01:51Z",
     "duration": 5,
