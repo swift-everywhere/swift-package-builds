@@ -20828,10 +20828,11 @@
   },
   "ordo-one/package-benchmark": {
     "created": "2025-01-06T20:06:03Z",
-    "duration": 15,
-    "modified": "2025-01-06T20:06:03Z",
+    "duration": 20,
+    "modified": "2025-01-07T14:00:16Z",
     "repo": "https://github.com/ordo-one/package-benchmark.git",
-    "runid": 12638963153,
+    "runid": 12652509868,
+    "stars": 333,
     "status": "failure"
   },
   "ordo-one/package-concurrency-helpers": {
