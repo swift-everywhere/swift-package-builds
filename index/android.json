@@ -6260,6 +6260,15 @@
     "stars": 2,
     "status": "failure"
   },
+  "YOCKOW/SwiftPredicate": {
+    "created": "2025-01-07T09:01:37Z",
+    "duration": 10,
+    "modified": "2025-01-07T09:01:37Z",
+    "repo": "https://github.com/YOCKOW/SwiftPredicate.git",
+    "runid": 12647794335,
+    "stars": 2,
+    "status": "failure"
+  },
   "YOCKOW/SwiftTimeSpecification": {
     "created": "2025-01-06T22:36:40Z",
     "duration": 6,
