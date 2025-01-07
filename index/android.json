@@ -9978,9 +9978,10 @@
   "ordo-one/package-frostflake": {
     "created": "2025-01-06T19:41:08Z",
     "duration": 17,
-    "modified": "2025-01-06T19:41:08Z",
+    "modified": "2025-01-07T03:30:26Z",
     "repo": "https://github.com/ordo-one/package-frostflake.git",
-    "runid": 12638963153,
+    "runid": 12644606839,
+    "stars": 24,
     "status": "failure"
   },
   "orlandos-nl/BSON": {
