@@ -1640,6 +1640,15 @@
     "stars": 124,
     "status": "failure"
   },
+  "DominikHorn/ASN1Parser": {
+    "created": "2025-01-07T09:08:20Z",
+    "duration": 10,
+    "modified": "2025-01-07T09:08:20Z",
+    "repo": "https://github.com/DominikHorn/ASN1Parser.git",
+    "runid": 12647794335,
+    "stars": 8,
+    "status": "success"
+  },
   "DrAma999/BitWiser": {
     "created": "2025-01-07T01:05:51Z",
     "duration": 7,
