@@ -6079,6 +6079,15 @@
     "stars": 12,
     "status": "failure"
   },
+  "hummingbird-project/hummingbird-lambda": {
+    "created": "2025-01-07T01:38:30Z",
+    "duration": 38,
+    "modified": "2025-01-07T01:38:30Z",
+    "repo": "https://github.com/hummingbird-project/hummingbird-lambda.git",
+    "runid": 12643524602,
+    "stars": 28,
+    "status": "failure"
+  },
   "hummingbird-project/hummingbird-redis": {
     "created": "2025-01-06T19:42:41Z",
     "duration": 27,
