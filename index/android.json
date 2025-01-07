@@ -27199,10 +27199,10 @@
   },
   "thoughtbot/Curry": {
     "created": "2025-01-07T08:39:06Z",
-    "duration": 55,
-    "modified": "2025-01-07T08:39:06Z",
+    "duration": 54,
+    "modified": "2025-01-07T18:03:09Z",
     "repo": "https://github.com/thoughtbot/Curry.git",
-    "runid": 12647794335,
+    "runid": 12656035496,
     "stars": 495,
     "status": "success"
   },
