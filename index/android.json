@@ -2159,6 +2159,15 @@
     "stars": 9,
     "status": "success"
   },
+  "Kitura/SwiftyRequest": {
+    "created": "2025-01-07T03:56:18Z",
+    "duration": 51,
+    "modified": "2025-01-07T03:56:18Z",
+    "repo": "https://github.com/Kitura/SwiftyRequest.git",
+    "runid": 12644606839,
+    "stars": 110,
+    "status": "failure"
+  },
   "Kitura/swift-html-entities": {
     "created": "2025-01-06T22:43:06Z",
     "duration": 4,
