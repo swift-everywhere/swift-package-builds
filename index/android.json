@@ -9369,9 +9369,10 @@
   "onevcat/Rainbow": {
     "created": "2025-01-06T20:58:07Z",
     "duration": 7,
-    "modified": "2025-01-06T20:58:07Z",
+    "modified": "2025-01-07T02:56:52Z",
     "repo": "https://github.com/onevcat/Rainbow.git",
-    "runid": 12638963153,
+    "runid": 12644277556,
+    "stars": 1862,
     "status": "failure"
   },
   "open-meteo/sdk": {
