@@ -5811,6 +5811,15 @@
     "runid": 12637148220,
     "status": "failure"
   },
+  "johnsusek/fluxus": {
+    "created": "2025-01-07T00:54:19Z",
+    "duration": 3,
+    "modified": "2025-01-07T00:54:19Z",
+    "repo": "https://github.com/johnsusek/fluxus.git",
+    "runid": 12641986754,
+    "stars": 84,
+    "status": "success"
+  },
   "jollyjinx/JLog": {
     "created": "2025-01-06T21:57:12Z",
     "duration": 9,
