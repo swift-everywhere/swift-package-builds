@@ -9682,6 +9682,15 @@
     "stars": 4,
     "status": "failure"
   },
+  "bow-swift/bow": {
+    "created": "2025-01-07T12:28:20Z",
+    "duration": 27,
+    "modified": "2025-01-07T12:28:20Z",
+    "repo": "https://github.com/bow-swift/bow.git",
+    "runid": 12650476881,
+    "stars": 648,
+    "status": "failure"
+  },
   "bow-swift/bow-lite": {
     "created": "2025-01-07T04:53:15Z",
     "duration": 18,
