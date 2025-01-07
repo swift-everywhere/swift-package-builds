@@ -1314,10 +1314,11 @@
   },
   "Frizlab/RetryingOperation": {
     "created": "2025-01-06T19:58:39Z",
-    "duration": 94,
-    "modified": "2025-01-06T19:58:39Z",
+    "duration": 98,
+    "modified": "2025-01-07T02:47:37Z",
     "repo": "https://github.com/Frizlab/RetryingOperation.git",
-    "runid": 12638963153,
+    "runid": 12643524602,
+    "stars": 1,
     "status": "success"
   },
   "Frizlab/SemiSingleton": {
