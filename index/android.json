@@ -10604,6 +10604,15 @@
     "stars": 2,
     "status": "success"
   },
+  "stackotter/swift-css-parser": {
+    "created": "2025-01-07T02:43:06Z",
+    "duration": 2,
+    "modified": "2025-01-07T02:43:06Z",
+    "repo": "https://github.com/stackotter/swift-css-parser.git",
+    "runid": 12643524602,
+    "stars": 13,
+    "status": "failure"
+  },
   "stackotter/swift-macro-toolkit": {
     "created": "2025-01-06T21:09:58Z",
     "duration": 118,
