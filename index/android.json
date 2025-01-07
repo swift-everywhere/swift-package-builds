@@ -4160,6 +4160,15 @@
     "stars": 10,
     "status": "success"
   },
+  "bdrelling/KippleTools": {
+    "created": "2025-01-07T02:03:25Z",
+    "duration": 30,
+    "modified": "2025-01-07T02:03:25Z",
+    "repo": "https://github.com/bdrelling/KippleTools.git",
+    "runid": 12643524602,
+    "stars": 10,
+    "status": "failure"
+  },
   "bdrelling/Structure": {
     "created": "2025-01-06T22:31:05Z",
     "duration": 55,
