@@ -4894,6 +4894,15 @@
     "stars": 3,
     "status": "failure"
   },
+  "NozeIO/swift-nio-irc-eliza": {
+    "created": "2025-01-07T12:23:46Z",
+    "duration": 30,
+    "modified": "2025-01-07T12:23:47Z",
+    "repo": "https://github.com/NozeIO/swift-nio-irc-eliza.git",
+    "runid": 12650476881,
+    "stars": 4,
+    "status": "failure"
+  },
   "NozeIO/swift-nio-irc-server": {
     "created": "2025-01-06T20:28:34Z",
     "duration": 33,
