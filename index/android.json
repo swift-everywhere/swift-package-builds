@@ -326,6 +326,15 @@
     "stars": 2,
     "status": "success"
   },
+  "Alviere/alviere-payments-ios": {
+    "created": "2025-01-07T04:14:14Z",
+    "duration": 36,
+    "modified": "2025-01-07T04:14:14Z",
+    "repo": "https://github.com/Alviere/alviere-payments-ios.git",
+    "runid": 12644606839,
+    "stars": 3,
+    "status": "failure"
+  },
   "AlwaysRightInstitute/Mustache": {
     "created": "2025-01-06T23:23:31Z",
     "duration": 6,
