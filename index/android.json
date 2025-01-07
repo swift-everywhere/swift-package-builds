@@ -11861,6 +11861,15 @@
     "stars": 3,
     "status": "failure"
   },
+  "leacode/Earth": {
+    "created": "2025-01-07T07:36:19Z",
+    "duration": 7,
+    "modified": "2025-01-07T07:36:19Z",
+    "repo": "https://github.com/leacode/Earth.git",
+    "runid": 12646951061,
+    "stars": 29,
+    "status": "success"
+  },
   "leif-ibsen/Digest": {
     "created": "2025-01-07T02:08:31Z",
     "duration": 7,
