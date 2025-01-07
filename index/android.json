@@ -7355,6 +7355,15 @@
     "stars": 35,
     "status": "failure"
   },
+  "mezhevikin/Localized": {
+    "created": "2025-01-07T01:23:33Z",
+    "duration": 6,
+    "modified": "2025-01-07T01:23:33Z",
+    "repo": "https://github.com/mezhevikin/Localized.git",
+    "runid": 12641986754,
+    "stars": 0,
+    "status": "success"
+  },
   "mgadda/swift-parse": {
     "created": "2025-01-06T20:45:16Z",
     "duration": 7,
