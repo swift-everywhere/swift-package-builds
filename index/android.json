@@ -20066,10 +20066,11 @@
   },
   "swiftlang/swift-sdk-generator": {
     "created": "2025-01-06T20:17:17Z",
-    "duration": 22,
-    "modified": "2025-01-06T20:17:17Z",
+    "duration": 23,
+    "modified": "2025-01-07T10:23:23Z",
     "repo": "https://github.com/swiftlang/swift-sdk-generator.git",
-    "runid": 12638963153,
+    "runid": 12649615878,
+    "stars": 186,
     "status": "failure"
   },
   "swiftlang/swift-se0288-is-power": {
