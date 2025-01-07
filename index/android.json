@@ -8039,10 +8039,11 @@
   },
   "apple/swift-nio-ssh": {
     "created": "2025-01-06T20:59:33Z",
-    "duration": 42,
-    "modified": "2025-01-06T20:59:33Z",
+    "duration": 47,
+    "modified": "2025-01-07T10:41:59Z",
     "repo": "https://github.com/apple/swift-nio-ssh.git",
-    "runid": 12638963153,
+    "runid": 12649615878,
+    "stars": 411,
     "status": "failure"
   },
   "apple/swift-nio-ssl": {
