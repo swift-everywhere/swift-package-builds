@@ -17613,10 +17613,11 @@
   },
   "yonaskolb/XcodeGen": {
     "created": "2025-01-06T19:47:52Z",
-    "duration": 22,
-    "modified": "2025-01-06T19:47:52Z",
+    "duration": 26,
+    "modified": "2025-01-07T07:02:02Z",
     "repo": "https://github.com/yonaskolb/XcodeGen.git",
-    "runid": 12638963153,
+    "runid": 12646377141,
+    "stars": 7137,
     "status": "failure"
   },
   "yshrkt/Elapse": {
