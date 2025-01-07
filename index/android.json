@@ -15340,6 +15340,15 @@
     "stars": 0,
     "status": "success"
   },
+  "laosb/WithValueless": {
+    "created": "2025-01-07T11:23:21Z",
+    "duration": 98,
+    "modified": "2025-01-07T11:23:21Z",
+    "repo": "https://github.com/laosb/WithValueless.git",
+    "runid": 12650476881,
+    "stars": 0,
+    "status": "failure"
+  },
   "lapfelix/SimpleCLI": {
     "created": "2025-01-07T03:06:12Z",
     "duration": 7,
