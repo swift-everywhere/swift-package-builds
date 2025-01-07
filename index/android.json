@@ -14737,6 +14737,15 @@
     "stars": 3,
     "status": "success"
   },
+  "richardpiazza/LCARSDisplayKit": {
+    "created": "2025-01-07T07:30:36Z",
+    "duration": 14,
+    "modified": "2025-01-07T07:30:36Z",
+    "repo": "https://github.com/richardpiazza/LCARSDisplayKit.git",
+    "runid": 12646951061,
+    "stars": 5,
+    "status": "failure"
+  },
   "richardpiazza/LocaleSupport": {
     "created": "2025-01-06T19:46:38Z",
     "duration": 7,
