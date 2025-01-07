@@ -7354,10 +7354,10 @@
   },
   "SDGGiesbrecht/swift-format": {
     "created": "2025-01-06T20:45:38Z",
-    "duration": 11,
-    "modified": "2025-01-07T10:54:15Z",
+    "duration": 12,
+    "modified": "2025-01-07T18:45:54Z",
     "repo": "https://github.com/SDGGiesbrecht/swift-format.git",
-    "runid": 12649615878,
+    "runid": 12657091582,
     "stars": 0,
     "status": "failure"
   },
