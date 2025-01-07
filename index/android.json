@@ -8436,6 +8436,15 @@
     "stars": 1,
     "status": "success"
   },
+  "bradhowes/swift-math-parser": {
+    "created": "2025-01-07T10:05:36Z",
+    "duration": 119,
+    "modified": "2025-01-07T10:05:36Z",
+    "repo": "https://github.com/bradhowes/swift-math-parser.git",
+    "runid": 12648641718,
+    "stars": 61,
+    "status": "success"
+  },
   "brantonb/RunningPace": {
     "created": "2025-01-06T21:31:09Z",
     "duration": 6,
