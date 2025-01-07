@@ -1185,6 +1185,15 @@
     "runid": 12638963153,
     "status": "success"
   },
+  "Einstore/NIOErrorKit": {
+    "created": "2025-01-07T04:01:18Z",
+    "duration": 4,
+    "modified": "2025-01-07T04:01:18Z",
+    "repo": "https://github.com/Einstore/NIOErrorKit.git",
+    "runid": 12644606839,
+    "stars": 1,
+    "status": "failure"
+  },
   "EmergeTools/SimpleDebugger": {
     "created": "2025-01-06T21:34:18Z",
     "duration": 1,
