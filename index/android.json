@@ -1328,6 +1328,15 @@
     "stars": 13,
     "status": "failure"
   },
+  "ChimeHQ/Glyph": {
+    "created": "2025-01-07T14:13:13Z",
+    "duration": 5,
+    "modified": "2025-01-07T14:13:13Z",
+    "repo": "https://github.com/ChimeHQ/Glyph.git",
+    "runid": 12652509868,
+    "stars": 31,
+    "status": "success"
+  },
   "ChimeHQ/JSONRPC": {
     "created": "2025-01-07T08:46:49Z",
     "duration": 7,
