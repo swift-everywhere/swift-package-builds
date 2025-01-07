@@ -25616,9 +25616,9 @@
   "svdo/swift-netutils": {
     "created": "2025-01-07T15:07:49Z",
     "duration": 15,
-    "modified": "2025-01-07T15:07:49Z",
+    "modified": "2025-01-07T17:42:42Z",
     "repo": "https://github.com/svdo/swift-netutils.git",
-    "runid": 12652509868,
+    "runid": 12656035496,
     "stars": 112,
     "status": "failure"
   },
