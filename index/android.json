@@ -2896,6 +2896,15 @@
     "stars": 0,
     "status": "failure"
   },
+  "alephao/swift-http-types-htmx": {
+    "created": "2025-01-07T00:37:05Z",
+    "duration": 5,
+    "modified": "2025-01-07T00:37:05Z",
+    "repo": "https://github.com/alephao/swift-http-types-htmx.git",
+    "runid": 12641986754,
+    "stars": 18,
+    "status": "failure"
+  },
   "alessiorubicini/SwiftSessions": {
     "created": "2025-01-06T20:56:28Z",
     "duration": 25,
