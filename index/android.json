@@ -7548,6 +7548,15 @@
     "runid": 12638963153,
     "status": "success"
   },
+  "koher/PromiseK": {
+    "created": "2025-01-07T02:20:42Z",
+    "duration": 7,
+    "modified": "2025-01-07T02:20:42Z",
+    "repo": "https://github.com/koher/PromiseK.git",
+    "runid": 12643524602,
+    "stars": 46,
+    "status": "success"
+  },
   "koher/SwiftResult": {
     "created": "2025-01-06T22:05:21Z",
     "duration": 3,
