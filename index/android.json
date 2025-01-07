@@ -26029,10 +26029,10 @@
   },
   "swift-serverless/BreezeLambdaDynamoDBAPI": {
     "created": "2025-01-07T08:06:27Z",
-    "duration": 127,
-    "modified": "2025-01-07T08:06:27Z",
+    "duration": 121,
+    "modified": "2025-01-07T23:51:41Z",
     "repo": "https://github.com/swift-serverless/BreezeLambdaDynamoDBAPI.git",
-    "runid": 12646951061,
+    "runid": 12660929108,
     "stars": 0,
     "status": "failure"
   },
