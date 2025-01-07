@@ -28841,6 +28841,15 @@
     "stars": 11,
     "status": "failure"
   },
+  "wangzhizhou/MojangAPI": {
+    "created": "2025-01-07T15:03:46Z",
+    "duration": 70,
+    "modified": "2025-01-07T15:03:46Z",
+    "repo": "https://github.com/wangzhizhou/MojangAPI.git",
+    "runid": 12652509868,
+    "stars": 0,
+    "status": "failure"
+  },
   "wangzhizhou/PaperMC": {
     "created": "2025-01-06T20:36:12Z",
     "duration": 69,
