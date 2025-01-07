@@ -17227,10 +17227,10 @@
   },
   "jeffctown/xcframework": {
     "created": "2025-01-07T12:22:21Z",
-    "duration": 33,
-    "modified": "2025-01-07T12:22:21Z",
+    "duration": 32,
+    "modified": "2025-01-07T21:34:10Z",
     "repo": "https://github.com/jeffctown/xcframework.git",
-    "runid": 12650476881,
+    "runid": 12659472889,
     "stars": 73,
     "status": "success"
   },
