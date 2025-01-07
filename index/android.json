@@ -23482,6 +23482,15 @@
     "stars": 0,
     "status": "failure"
   },
+  "stackotter/XcodeGen": {
+    "created": "2025-01-07T13:43:58Z",
+    "duration": 22,
+    "modified": "2025-01-07T13:43:58Z",
+    "repo": "https://github.com/stackotter/XcodeGen.git",
+    "runid": 12652509868,
+    "stars": 0,
+    "status": "failure"
+  },
   "stackotter/delta-logger": {
     "created": "2025-01-07T13:28:42Z",
     "duration": 6,
