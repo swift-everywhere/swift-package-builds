@@ -4259,6 +4259,15 @@
     "stars": 0,
     "status": "success"
   },
+  "Nef10/SwiftBeanCountCLI": {
+    "created": "2025-01-07T10:44:38Z",
+    "duration": 15,
+    "modified": "2025-01-07T10:44:38Z",
+    "repo": "https://github.com/Nef10/SwiftBeanCountCLI.git",
+    "runid": 12649615878,
+    "stars": 2,
+    "status": "failure"
+  },
   "Nef10/SwiftBeanCountImporter": {
     "created": "2025-01-06T20:16:29Z",
     "duration": 35,
