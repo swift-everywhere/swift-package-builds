@@ -681,6 +681,15 @@
     "runid": 12638963153,
     "status": "failure"
   },
+  "BinaryBirds/swift-template": {
+    "created": "2025-01-07T06:05:25Z",
+    "duration": 9,
+    "modified": "2025-01-07T06:05:25Z",
+    "repo": "https://github.com/BinaryBirds/swift-template.git",
+    "runid": 12645653000,
+    "stars": 46,
+    "status": "failure"
+  },
   "BinaryBirds/vapor-spec": {
     "created": "2025-01-07T01:42:20Z",
     "duration": 26,
