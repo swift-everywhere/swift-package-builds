@@ -6039,6 +6039,15 @@
     "runid": 12637757100,
     "status": "success"
   },
+  "iainsmith/SwiftGherkin": {
+    "created": "2025-01-07T01:20:32Z",
+    "duration": 10,
+    "modified": "2025-01-07T01:20:32Z",
+    "repo": "https://github.com/iainsmith/SwiftGherkin.git",
+    "runid": 12641986754,
+    "stars": 28,
+    "status": "success"
+  },
   "iainsmith/async-http-client": {
     "created": "2025-01-06T23:40:16Z",
     "duration": 56,
