@@ -6505,6 +6505,15 @@
     "stars": 10,
     "status": "failure"
   },
+  "beMappy/Mappy-Swift": {
+    "created": "2025-01-07T06:58:03Z",
+    "duration": 39,
+    "modified": "2025-01-07T06:58:03Z",
+    "repo": "https://github.com/beMappy/Mappy-Swift.git",
+    "runid": 12646377141,
+    "stars": 0,
+    "status": "success"
+  },
   "beMappy/RealmSwift": {
     "created": "2025-01-06T19:49:39Z",
     "duration": 14,
