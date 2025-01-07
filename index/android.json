@@ -10355,6 +10355,15 @@
     "stars": 6,
     "status": "failure"
   },
+  "argentlabs/web3.swift": {
+    "created": "2025-01-07T14:55:59Z",
+    "duration": 19,
+    "modified": "2025-01-07T14:55:59Z",
+    "repo": "https://github.com/argentlabs/web3.swift.git",
+    "runid": 12652509868,
+    "stars": 679,
+    "status": "failure"
+  },
   "arguiot/Euler": {
     "created": "2025-01-07T01:57:36Z",
     "duration": 10,
