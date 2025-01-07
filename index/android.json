@@ -8948,6 +8948,15 @@
     "runid": 12638963153,
     "status": "success"
   },
+  "juri/subtweak": {
+    "created": "2025-01-07T04:20:54Z",
+    "duration": 20,
+    "modified": "2025-01-07T04:20:54Z",
+    "repo": "https://github.com/juri/subtweak.git",
+    "runid": 12644606839,
+    "stars": 1,
+    "status": "failure"
+  },
   "juri/tui-fuzzy-finder": {
     "created": "2025-01-07T00:07:23Z",
     "duration": 9,
