@@ -8872,6 +8872,15 @@
     "stars": 0,
     "status": "failure"
   },
+  "futuredapp/futured-macros": {
+    "created": "2025-01-07T06:41:05Z",
+    "duration": 94,
+    "modified": "2025-01-07T06:41:05Z",
+    "repo": "https://github.com/futuredapp/futured-macros.git",
+    "runid": 12646377141,
+    "stars": 0,
+    "status": "success"
+  },
   "fwcd/swift-utils": {
     "created": "2025-01-06T22:03:40Z",
     "duration": 15,
