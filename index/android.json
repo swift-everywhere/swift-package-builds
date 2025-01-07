@@ -6250,10 +6250,11 @@
   },
   "allegro/swiftbox": {
     "created": "2025-01-06T17:30:30Z",
-    "duration": 15,
-    "modified": "2025-01-06T17:30:30Z",
+    "duration": 17,
+    "modified": "2025-01-07T08:00:10Z",
     "repo": "https://github.com/allegro/swiftbox.git",
-    "runid": 12637148220,
+    "runid": 12646951061,
+    "stars": 20,
     "status": "failure"
   },
   "alloyapple/Goose": {
