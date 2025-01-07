@@ -1177,6 +1177,15 @@
     "stars": 20,
     "status": "failure"
   },
+  "DarthStrom/Moxie": {
+    "created": "2025-01-07T06:46:18Z",
+    "duration": 5,
+    "modified": "2025-01-07T06:46:18Z",
+    "repo": "https://github.com/DarthStrom/Moxie.git",
+    "runid": 12646377141,
+    "stars": 3,
+    "status": "success"
+  },
   "DataDog/swift-jsonapi": {
     "created": "2025-01-07T04:49:58Z",
     "duration": 106,
