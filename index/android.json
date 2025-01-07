@@ -6200,6 +6200,15 @@
     "stars": 5,
     "status": "success"
   },
+  "makoni/couchdb-vapor": {
+    "created": "2025-01-07T00:39:03Z",
+    "duration": 27,
+    "modified": "2025-01-07T00:39:03Z",
+    "repo": "https://github.com/makoni/couchdb-vapor.git",
+    "runid": 12641986754,
+    "stars": 14,
+    "status": "failure"
+  },
   "makoni/parsable": {
     "created": "2025-01-06T20:48:51Z",
     "duration": 14,
