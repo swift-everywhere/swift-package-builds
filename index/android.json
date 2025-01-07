@@ -10438,6 +10438,15 @@
     "runid": 12638963153,
     "status": "failure"
   },
+  "swift-quic/swift-quic": {
+    "created": "2025-01-07T02:22:25Z",
+    "duration": 65,
+    "modified": "2025-01-07T02:22:25Z",
+    "repo": "https://github.com/swift-quic/swift-quic.git",
+    "runid": 12643524602,
+    "stars": 36,
+    "status": "failure"
+  },
   "swift-server-community/APNSwift": {
     "created": "2025-01-07T00:23:32Z",
     "duration": 25,
