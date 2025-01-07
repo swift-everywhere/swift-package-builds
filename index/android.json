@@ -2597,10 +2597,11 @@
   },
   "Gerzer/LogicParser": {
     "created": "2025-01-06T17:39:50Z",
-    "duration": 9,
-    "modified": "2025-01-06T17:39:50Z",
+    "duration": 11,
+    "modified": "2025-01-07T11:30:01Z",
     "repo": "https://github.com/Gerzer/LogicParser.git",
-    "runid": 12637148220,
+    "runid": 12650476881,
+    "stars": 2,
     "status": "success"
   },
   "GetStream/stream-chat-vapor-swift": {
