@@ -2747,10 +2747,11 @@
   },
   "LiarPrincess/Violet": {
     "created": "2025-01-06T20:52:45Z",
-    "duration": 14,
-    "modified": "2025-01-06T20:52:45Z",
+    "duration": 15,
+    "modified": "2025-01-07T06:53:16Z",
     "repo": "https://github.com/LiarPrincess/Violet.git",
-    "runid": 12638963153,
+    "runid": 12646377141,
+    "stars": 187,
     "status": "failure"
   },
   "Lickability/ObservableConverter": {
