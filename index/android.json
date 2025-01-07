@@ -5262,6 +5262,15 @@
     "stars": 1,
     "status": "success"
   },
+  "PerfectlySoft/Perfect-INIParser": {
+    "created": "2025-01-07T12:00:15Z",
+    "duration": 8,
+    "modified": "2025-01-07T12:00:15Z",
+    "repo": "https://github.com/PerfectlySoft/Perfect-INIParser.git",
+    "runid": 12650476881,
+    "stars": 15,
+    "status": "success"
+  },
   "PerfectlySoft/Perfect-LinuxBridge": {
     "created": "2025-01-07T11:56:20Z",
     "duration": 2,
