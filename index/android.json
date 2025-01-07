@@ -15882,6 +15882,15 @@
     "stars": 0,
     "status": "success"
   },
+  "johnfairh/SourceMapper": {
+    "created": "2025-01-07T13:14:36Z",
+    "duration": 8,
+    "modified": "2025-01-07T13:14:36Z",
+    "repo": "https://github.com/johnfairh/SourceMapper.git",
+    "runid": 12651715076,
+    "stars": 2,
+    "status": "failure"
+  },
   "johnfairh/steamworks-swift": {
     "created": "2025-01-07T00:53:04Z",
     "duration": 16,
