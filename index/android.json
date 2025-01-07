@@ -20833,6 +20833,15 @@
     "stars": 0,
     "status": "success"
   },
+  "valentinradu/Trellis": {
+    "created": "2025-01-07T09:52:28Z",
+    "duration": 8,
+    "modified": "2025-01-07T09:52:28Z",
+    "repo": "https://github.com/valentinradu/Trellis.git",
+    "runid": 12648641718,
+    "stars": 33,
+    "status": "failure"
+  },
   "valeriyvan/RaspberryPiSenseHat": {
     "created": "2025-01-07T00:57:34Z",
     "duration": 6,
