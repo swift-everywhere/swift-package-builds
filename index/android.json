@@ -19864,6 +19864,15 @@
     "stars": 94,
     "status": "success"
   },
+  "swift-extras/swift-extras-json": {
+    "created": "2025-01-07T10:28:48Z",
+    "duration": 5,
+    "modified": "2025-01-07T10:28:49Z",
+    "repo": "https://github.com/swift-extras/swift-extras-json.git",
+    "runid": 12649615878,
+    "stars": 348,
+    "status": "success"
+  },
   "swift-libp2p/swift-bases": {
     "created": "2025-01-07T07:16:10Z",
     "duration": 11,
