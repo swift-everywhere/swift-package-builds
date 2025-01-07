@@ -9559,10 +9559,10 @@
   },
   "alexito4/ReadingTimePublishPlugin": {
     "created": "2025-01-07T00:59:19Z",
-    "duration": 16,
-    "modified": "2025-01-07T00:59:19Z",
+    "duration": 22,
+    "modified": "2025-01-07T18:16:27Z",
     "repo": "https://github.com/alexito4/ReadingTimePublishPlugin.git",
-    "runid": 12641986754,
+    "runid": 12656035496,
     "stars": 30,
     "status": "failure"
   },
