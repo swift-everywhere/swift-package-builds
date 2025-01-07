@@ -23626,6 +23626,15 @@
     "stars": 8,
     "status": "failure"
   },
+  "tuist/SwiftyESBuild": {
+    "created": "2025-01-07T12:13:35Z",
+    "duration": 35,
+    "modified": "2025-01-07T12:13:35Z",
+    "repo": "https://github.com/tuist/SwiftyESBuild.git",
+    "runid": 12650476881,
+    "stars": 14,
+    "status": "failure"
+  },
   "tuist/SwiftyTailwind": {
     "created": "2025-01-07T01:24:37Z",
     "duration": 26,
