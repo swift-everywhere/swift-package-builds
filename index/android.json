@@ -14375,6 +14375,15 @@
     "stars": 4,
     "status": "success"
   },
+  "heroesofcode/CLI-Table-Swift": {
+    "created": "2025-01-07T12:45:47Z",
+    "duration": 8,
+    "modified": "2025-01-07T12:45:47Z",
+    "repo": "https://github.com/heroesofcode/CLI-Table-Swift.git",
+    "runid": 12651715076,
+    "stars": 1,
+    "status": "failure"
+  },
   "heroesofcode/SwiftFileTools": {
     "created": "2025-01-07T06:34:20Z",
     "duration": 9,
