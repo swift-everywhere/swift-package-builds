@@ -7738,6 +7738,15 @@
     "runid": 12638963153,
     "status": "failure"
   },
+  "tayloraswift/swift-unidoc": {
+    "created": "2025-01-07T00:14:30Z",
+    "duration": 64,
+    "modified": "2025-01-07T00:14:30Z",
+    "repo": "https://github.com/tayloraswift/swift-unidoc.git",
+    "runid": 12641986754,
+    "stars": 63,
+    "status": "failure"
+  },
   "tayloraswift/swift-unixtime": {
     "created": "2025-01-06T19:37:59Z",
     "duration": 6,
