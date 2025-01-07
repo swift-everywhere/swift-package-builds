@@ -8970,6 +8970,15 @@
     "stars": 7,
     "status": "failure"
   },
+  "vapor-community/bcrypt": {
+    "created": "2025-01-07T00:38:11Z",
+    "duration": 6,
+    "modified": "2025-01-07T00:38:11Z",
+    "repo": "https://github.com/vapor-community/bcrypt.git",
+    "runid": 12641986754,
+    "stars": 34,
+    "status": "failure"
+  },
   "vapor-community/google-cloud-kit": {
     "created": "2025-01-06T20:35:01Z",
     "duration": 82,
