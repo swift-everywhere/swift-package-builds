@@ -4760,6 +4760,15 @@
     "stars": 64,
     "status": "success"
   },
+  "PerfectlySoft/Perfect-CZlib-src": {
+    "created": "2025-01-07T10:13:02Z",
+    "duration": 2,
+    "modified": "2025-01-07T10:13:02Z",
+    "repo": "https://github.com/PerfectlySoft/Perfect-CZlib-src.git",
+    "runid": 12648641718,
+    "stars": 3,
+    "status": "success"
+  },
   "PerfectlySoft/Perfect-CloudFormation": {
     "created": "2025-01-07T00:22:56Z",
     "duration": 6,
