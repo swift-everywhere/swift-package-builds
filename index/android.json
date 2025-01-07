@@ -9232,10 +9232,11 @@
   },
   "wangzhizhou/PaperMC": {
     "created": "2025-01-06T20:36:12Z",
-    "duration": 70,
-    "modified": "2025-01-06T20:36:12Z",
+    "duration": 69,
+    "modified": "2025-01-07T00:41:21Z",
     "repo": "https://github.com/wangzhizhou/PaperMC.git",
-    "runid": 12638963153,
+    "runid": 12641986754,
+    "stars": 0,
     "status": "failure"
   },
   "wayfair-archive/prelude": {
