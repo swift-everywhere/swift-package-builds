@@ -4807,6 +4807,15 @@
     "stars": 995,
     "status": "success"
   },
+  "fromkk/ColorSet": {
+    "created": "2025-01-07T00:44:40Z",
+    "duration": 6,
+    "modified": "2025-01-07T00:44:40Z",
+    "repo": "https://github.com/fromkk/ColorSet.git",
+    "runid": 12641986754,
+    "stars": 24,
+    "status": "success"
+  },
   "frugoman/SwiftMocks": {
     "created": "2025-01-06T22:43:00Z",
     "duration": 92,
