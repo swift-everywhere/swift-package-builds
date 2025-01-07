@@ -13282,6 +13282,15 @@
     "stars": 89,
     "status": "failure"
   },
+  "pointfreeco/swift-navigation": {
+    "created": "2025-01-07T06:41:40Z",
+    "duration": 32,
+    "modified": "2025-01-07T06:41:40Z",
+    "repo": "https://github.com/pointfreeco/swift-navigation.git",
+    "runid": 12646377141,
+    "stars": 2041,
+    "status": "failure"
+  },
   "pointfreeco/swift-nonempty": {
     "created": "2025-01-06T17:12:05Z",
     "duration": 5,
