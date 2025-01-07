@@ -2912,6 +2912,15 @@
     "stars": 1,
     "status": "failure"
   },
+  "IanKeen/MacroKit": {
+    "created": "2025-01-07T12:25:36Z",
+    "duration": 98,
+    "modified": "2025-01-07T12:25:36Z",
+    "repo": "https://github.com/IanKeen/MacroKit.git",
+    "runid": 12650476881,
+    "stars": 140,
+    "status": "success"
+  },
   "IndiePitcher/indiepitcher-swift": {
     "created": "2025-01-06T17:28:14Z",
     "duration": 14,
