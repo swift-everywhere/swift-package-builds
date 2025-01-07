@@ -10771,6 +10771,15 @@
     "runid": 12638963153,
     "status": "success"
   },
+  "zunda-pixel/cloudflare-swift": {
+    "created": "2025-01-07T01:22:49Z",
+    "duration": 38,
+    "modified": "2025-01-07T01:22:49Z",
+    "repo": "https://github.com/zunda-pixel/cloudflare-swift.git",
+    "runid": 12641986754,
+    "stars": 2,
+    "status": "failure"
+  },
   "zunda-pixel/devicecheckkit": {
     "created": "2025-01-06T23:34:22Z",
     "duration": 13,
