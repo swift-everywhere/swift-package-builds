@@ -4448,6 +4448,15 @@
     "stars": 10,
     "status": "failure"
   },
+  "RussBaz/swift-uv": {
+    "created": "2025-01-07T07:17:35Z",
+    "duration": 5,
+    "modified": "2025-01-07T07:17:35Z",
+    "repo": "https://github.com/RussBaz/swift-uv.git",
+    "runid": 12646377141,
+    "stars": 6,
+    "status": "failure"
+  },
   "RxSwiftCommunity/RxDataSources": {
     "created": "2025-01-07T03:55:11Z",
     "duration": 14,
