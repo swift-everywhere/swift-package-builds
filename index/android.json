@@ -14383,10 +14383,10 @@
   },
   "entonio/Tabular": {
     "created": "2025-01-07T01:16:31Z",
-    "duration": 11,
-    "modified": "2025-01-07T01:16:31Z",
+    "duration": 14,
+    "modified": "2025-01-07T20:50:07Z",
     "repo": "https://github.com/entonio/Tabular.git",
-    "runid": 12641986754,
+    "runid": 12658681935,
     "stars": 6,
     "status": "failure"
   },
