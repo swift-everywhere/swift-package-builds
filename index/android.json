@@ -22285,6 +22285,15 @@
     "stars": 194,
     "status": "failure"
   },
+  "yonaskolb/Mint": {
+    "created": "2025-01-07T10:10:15Z",
+    "duration": 14,
+    "modified": "2025-01-07T10:10:15Z",
+    "repo": "https://github.com/yonaskolb/Mint.git",
+    "runid": 12648641718,
+    "stars": 2306,
+    "status": "failure"
+  },
   "yonaskolb/SwagGen": {
     "created": "2025-01-07T05:23:24Z",
     "duration": 21,
