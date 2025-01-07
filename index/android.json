@@ -9409,6 +9409,15 @@
     "stars": 8,
     "status": "success"
   },
+  "mapbox/mapbox-common-ios": {
+    "created": "2025-01-07T03:57:19Z",
+    "duration": 10,
+    "modified": "2025-01-07T03:57:19Z",
+    "repo": "https://github.com/mapbox/mapbox-common-ios.git",
+    "runid": 12644606839,
+    "stars": 31,
+    "status": "failure"
+  },
   "mapbox/mapbox-core-maps-ios": {
     "created": "2025-01-06T20:05:11Z",
     "duration": 16,
