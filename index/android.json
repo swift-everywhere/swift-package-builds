@@ -5273,6 +5273,15 @@
     "stars": 1,
     "status": "failure"
   },
+  "TBXark/swift-telegram-bot-api": {
+    "created": "2025-01-07T07:17:29Z",
+    "duration": 33,
+    "modified": "2025-01-07T07:17:29Z",
+    "repo": "https://github.com/TBXark/swift-telegram-bot-api.git",
+    "runid": 12646377141,
+    "stars": 3,
+    "status": "success"
+  },
   "ThatsJustCheesy/InAnyCase": {
     "created": "2025-01-07T00:02:49Z",
     "duration": 8,
