@@ -4881,6 +4881,15 @@
     "runid": 12638963153,
     "status": "failure"
   },
+  "SDGGiesbrecht/swift-cmark": {
+    "created": "2025-01-07T08:13:11Z",
+    "duration": 3,
+    "modified": "2025-01-07T08:13:11Z",
+    "repo": "https://github.com/SDGGiesbrecht/swift-cmark.git",
+    "runid": 12646951061,
+    "stars": 0,
+    "status": "success"
+  },
   "SDGGiesbrecht/swift-crypto": {
     "created": "2025-01-07T02:01:53Z",
     "duration": 25,
