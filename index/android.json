@@ -15727,6 +15727,15 @@
     "stars": 0,
     "status": "failure"
   },
+  "stackotter/swift-arg-parser": {
+    "created": "2025-01-07T07:26:32Z",
+    "duration": 10,
+    "modified": "2025-01-07T07:26:32Z",
+    "repo": "https://github.com/stackotter/swift-arg-parser.git",
+    "runid": 12646951061,
+    "stars": 1,
+    "status": "failure"
+  },
   "stackotter/swift-bundler": {
     "created": "2025-01-06T20:08:04Z",
     "duration": 52,
