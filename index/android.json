@@ -5693,6 +5693,15 @@
     "runid": 12638963153,
     "status": "failure"
   },
+  "hebertialmeida/ModelGen": {
+    "created": "2025-01-07T01:11:10Z",
+    "duration": 12,
+    "modified": "2025-01-07T01:11:10Z",
+    "repo": "https://github.com/hebertialmeida/ModelGen.git",
+    "runid": 12641986754,
+    "stars": 46,
+    "status": "failure"
+  },
   "heckj/CASimEngine": {
     "created": "2025-01-06T20:53:50Z",
     "duration": 50,
