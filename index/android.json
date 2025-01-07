@@ -18972,6 +18972,15 @@
     "stars": 5,
     "status": "success"
   },
+  "magyarosibotond/AttributedStringTag": {
+    "created": "2025-01-07T14:38:24Z",
+    "duration": 7,
+    "modified": "2025-01-07T14:38:24Z",
+    "repo": "https://github.com/magyarosibotond/AttributedStringTag.git",
+    "runid": 12652509868,
+    "stars": 1,
+    "status": "success"
+  },
   "makoni/couchdb-vapor": {
     "created": "2025-01-07T00:39:03Z",
     "duration": 27,
