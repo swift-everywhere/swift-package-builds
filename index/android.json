@@ -6367,6 +6367,15 @@
     "runid": 12636850547,
     "status": "success"
   },
+  "phimage/XcodeProjKit": {
+    "created": "2025-01-07T00:03:22Z",
+    "duration": 7,
+    "modified": "2025-01-07T00:03:22Z",
+    "repo": "https://github.com/phimage/XcodeProjKit.git",
+    "runid": 12641986754,
+    "stars": 16,
+    "status": "failure"
+  },
   "phisakel/gtfs-db-swift": {
     "created": "2025-01-06T20:33:15Z",
     "duration": 35,
