@@ -3171,6 +3171,15 @@
     "stars": 0,
     "status": "success"
   },
+  "OperatorFoundation/swift-ast": {
+    "created": "2025-01-07T04:51:45Z",
+    "duration": 15,
+    "modified": "2025-01-07T04:51:45Z",
+    "repo": "https://github.com/OperatorFoundation/swift-ast.git",
+    "runid": 12645351961,
+    "stars": 0,
+    "status": "failure"
+  },
   "OperatorFoundation/swift-netutils": {
     "created": "2025-01-06T20:49:06Z",
     "duration": 14,
