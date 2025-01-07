@@ -14529,6 +14529,15 @@
     "stars": 0,
     "status": "success"
   },
+  "fwcd/swift-binary-coder": {
+    "created": "2025-01-07T14:12:49Z",
+    "duration": 14,
+    "modified": "2025-01-07T14:12:49Z",
+    "repo": "https://github.com/fwcd/swift-binary-coder.git",
+    "runid": 12652509868,
+    "stars": 3,
+    "status": "success"
+  },
   "fwcd/swift-cairo": {
     "created": "2025-01-07T14:08:41Z",
     "duration": 8,
