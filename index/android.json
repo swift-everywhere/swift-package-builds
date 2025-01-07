@@ -14756,6 +14756,15 @@
     "runid": 12638963153,
     "status": "success"
   },
+  "sloik/FuncKeyPath": {
+    "created": "2025-01-07T06:59:02Z",
+    "duration": 4,
+    "modified": "2025-01-07T06:59:02Z",
+    "repo": "https://github.com/sloik/FuncKeyPath.git",
+    "runid": 12646377141,
+    "stars": 1,
+    "status": "success"
+  },
   "sloik/FunctionalAPI": {
     "created": "2025-01-06T21:51:43Z",
     "duration": 14,
