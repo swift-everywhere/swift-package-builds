@@ -16413,6 +16413,15 @@
     "stars": 0,
     "status": "success"
   },
+  "hummingbird-community/hummingbird-elementary": {
+    "created": "2025-01-07T15:05:07Z",
+    "duration": 30,
+    "modified": "2025-01-07T15:05:07Z",
+    "repo": "https://github.com/hummingbird-community/hummingbird-elementary.git",
+    "runid": 12652509868,
+    "stars": 12,
+    "status": "failure"
+  },
   "hummingbird-project/hummingbird": {
     "created": "2025-01-07T03:00:52Z",
     "duration": 26,
