@@ -1110,6 +1110,15 @@
     "runid": 12638963153,
     "status": "success"
   },
+  "Frizlab/SemiSingleton": {
+    "created": "2025-01-07T01:10:57Z",
+    "duration": 93,
+    "modified": "2025-01-07T01:10:57Z",
+    "repo": "https://github.com/Frizlab/SemiSingleton.git",
+    "runid": 12641986754,
+    "stars": 1,
+    "status": "failure"
+  },
   "Frizlab/swift-fraction-number": {
     "created": "2025-01-06T20:02:34Z",
     "duration": 6,
