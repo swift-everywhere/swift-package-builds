@@ -5772,10 +5772,11 @@
   },
   "makoni/parsable": {
     "created": "2025-01-06T20:48:51Z",
-    "duration": 15,
-    "modified": "2025-01-06T20:48:51Z",
+    "duration": 14,
+    "modified": "2025-01-07T00:21:56Z",
     "repo": "https://github.com/makoni/parsable.git",
-    "runid": 12638963153,
+    "runid": 12641986754,
+    "stars": 1,
     "status": "success"
   },
   "maniramezan/UserDefaultMacro": {
