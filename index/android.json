@@ -23841,6 +23841,15 @@
     "stars": 1,
     "status": "failure"
   },
+  "skelpo/CSV": {
+    "created": "2025-01-07T14:22:11Z",
+    "duration": 8,
+    "modified": "2025-01-07T14:22:11Z",
+    "repo": "https://github.com/skelpo/CSV.git",
+    "runid": 12652509868,
+    "stars": 32,
+    "status": "failure"
+  },
   "skelpo/Countries": {
     "created": "2025-01-07T12:04:22Z",
     "duration": 8,
