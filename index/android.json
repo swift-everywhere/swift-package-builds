@@ -3356,6 +3356,15 @@
     "stars": 191,
     "status": "success"
   },
+  "Jomy10/Plugins": {
+    "created": "2025-01-07T13:10:49Z",
+    "duration": 7,
+    "modified": "2025-01-07T13:10:49Z",
+    "repo": "https://github.com/Jomy10/Plugins.git",
+    "runid": 12651715076,
+    "stars": 0,
+    "status": "failure"
+  },
   "Jomy10/SwiftCurses": {
     "created": "2025-01-07T03:07:40Z",
     "duration": 2,
