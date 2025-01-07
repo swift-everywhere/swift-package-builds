@@ -9535,6 +9535,15 @@
     "stars": 0,
     "status": "failure"
   },
+  "jollyjinx/SwiftLibModbus": {
+    "created": "2025-01-07T05:34:26Z",
+    "duration": 6,
+    "modified": "2025-01-07T05:34:26Z",
+    "repo": "https://github.com/jollyjinx/SwiftLibModbus.git",
+    "runid": 12645653000,
+    "stars": 4,
+    "status": "failure"
+  },
   "jollyjinx/modbus-2-mqtt-bridge": {
     "created": "2025-01-06T22:04:46Z",
     "duration": 45,
