@@ -7401,6 +7401,15 @@
     "stars": 46,
     "status": "success"
   },
+  "ekscrypto/SwiftPublicSuffixList": {
+    "created": "2025-01-07T05:30:37Z",
+    "duration": 6,
+    "modified": "2025-01-07T05:30:37Z",
+    "repo": "https://github.com/ekscrypto/SwiftPublicSuffixList.git",
+    "runid": 12645653000,
+    "stars": 4,
+    "status": "success"
+  },
   "el-hoshino/DangerSwiftHammer": {
     "created": "2025-01-06T22:14:21Z",
     "duration": 14,
