@@ -17830,6 +17830,15 @@
     "stars": 0,
     "status": "failure"
   },
+  "markbattistella/image-zoom-publish-plugin": {
+    "created": "2025-01-07T13:15:20Z",
+    "duration": 19,
+    "modified": "2025-01-07T13:15:20Z",
+    "repo": "https://github.com/markbattistella/image-zoom-publish-plugin.git",
+    "runid": 12651715076,
+    "stars": 0,
+    "status": "failure"
+  },
   "markbattistella/relative-urls-publish-plugin": {
     "created": "2025-01-07T05:32:50Z",
     "duration": 17,
