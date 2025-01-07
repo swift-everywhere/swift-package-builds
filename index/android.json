@@ -2837,6 +2837,15 @@
     "stars": 14,
     "status": "success"
   },
+  "Gabardone/GlobalDependencies": {
+    "created": "2025-01-07T13:46:53Z",
+    "duration": 107,
+    "modified": "2025-01-07T13:46:54Z",
+    "repo": "https://github.com/Gabardone/GlobalDependencies.git",
+    "runid": 12652509868,
+    "stars": 4,
+    "status": "success"
+  },
   "Gabardone/StronglyTypedID": {
     "created": "2025-01-07T05:12:16Z",
     "duration": 74,
