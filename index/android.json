@@ -370,10 +370,10 @@
   },
   "AdaEngine/SPIRV-Cross": {
     "created": "2025-01-06T18:06:03Z",
-    "duration": 20,
-    "modified": "2025-01-06T21:19:35Z",
+    "duration": 24,
+    "modified": "2025-01-07T21:35:44Z",
     "repo": "https://github.com/AdaEngine/SPIRV-Cross.git",
-    "runid": 12640312681,
+    "runid": 12659472889,
     "stars": 0,
     "status": "success"
   },
