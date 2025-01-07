@@ -2986,6 +2986,15 @@
     "stars": 219,
     "status": "failure"
   },
+  "RxSwiftCommunity/RxOptional": {
+    "created": "2025-01-07T02:41:35Z",
+    "duration": 17,
+    "modified": "2025-01-07T02:41:35Z",
+    "repo": "https://github.com/RxSwiftCommunity/RxOptional.git",
+    "runid": 12643524602,
+    "stars": 699,
+    "status": "failure"
+  },
   "RxSwiftCommunity/RxSwiftExt": {
     "created": "2025-01-07T00:30:19Z",
     "duration": 14,
