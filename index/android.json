@@ -3470,6 +3470,15 @@
     "stars": 0,
     "status": "success"
   },
+  "JensRavens/Interstellar": {
+    "created": "2025-01-07T14:26:12Z",
+    "duration": 7,
+    "modified": "2025-01-07T14:26:12Z",
+    "repo": "https://github.com/JensRavens/Interstellar.git",
+    "runid": 12652509868,
+    "stars": 1080,
+    "status": "failure"
+  },
   "JimmyMAndersson/StatKit": {
     "created": "2025-01-07T11:09:13Z",
     "duration": 11,
