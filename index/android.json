@@ -2246,6 +2246,15 @@
     "stars": 3,
     "status": "success"
   },
+  "FlineDev/AnyLint": {
+    "created": "2025-01-07T11:50:59Z",
+    "duration": 12,
+    "modified": "2025-01-07T11:51:00Z",
+    "repo": "https://github.com/FlineDev/AnyLint.git",
+    "runid": 12650476881,
+    "stars": 115,
+    "status": "failure"
+  },
   "FlineDev/FreemiumKit": {
     "created": "2025-01-06T19:43:41Z",
     "duration": 9,
