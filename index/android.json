@@ -4178,10 +4178,10 @@
   "Kitura/Kitura": {
     "created": "2025-01-06T19:53:40Z",
     "duration": 24,
-    "modified": "2025-01-07T06:24:26Z",
+    "modified": "2025-01-07T19:05:45Z",
     "repo": "https://github.com/Kitura/Kitura.git",
-    "runid": 12645653000,
-    "stars": 7628,
+    "runid": 12657091582,
+    "stars": 7627,
     "status": "failure"
   },
   "Kitura/Kitura-Cache": {
