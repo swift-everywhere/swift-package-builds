@@ -4807,6 +4807,15 @@
     "stars": 7,
     "status": "failure"
   },
+  "Swift-CowBox/Swift-CowBox": {
+    "created": "2025-01-07T07:00:30Z",
+    "duration": 69,
+    "modified": "2025-01-07T07:00:31Z",
+    "repo": "https://github.com/Swift-CowBox/Swift-CowBox.git",
+    "runid": 12646377141,
+    "stars": 60,
+    "status": "success"
+  },
   "SwiftDocOrg/swift-cmark": {
     "created": "2025-01-06T23:17:33Z",
     "duration": 2,
