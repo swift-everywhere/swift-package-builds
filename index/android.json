@@ -232,6 +232,15 @@
     "runid": 12638963153,
     "status": "failure"
   },
+  "Alviere/alviere-accounts-ios": {
+    "created": "2025-01-07T00:06:49Z",
+    "duration": 61,
+    "modified": "2025-01-07T00:06:49Z",
+    "repo": "https://github.com/Alviere/alviere-accounts-ios.git",
+    "runid": 12641986754,
+    "stars": 1,
+    "status": "failure"
+  },
   "Alviere/alviere-cards-ios": {
     "created": "2025-01-06T21:59:35Z",
     "duration": 4,
