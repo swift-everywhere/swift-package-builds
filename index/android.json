@@ -14665,6 +14665,15 @@
     "stars": 42,
     "status": "success"
   },
+  "tuist/GraphViz": {
+    "created": "2025-01-07T05:25:49Z",
+    "duration": 8,
+    "modified": "2025-01-07T05:25:49Z",
+    "repo": "https://github.com/tuist/GraphViz.git",
+    "runid": 12645653000,
+    "stars": 3,
+    "status": "success"
+  },
   "tuist/ProjectAutomation": {
     "created": "2025-01-07T01:23:02Z",
     "duration": 5,
