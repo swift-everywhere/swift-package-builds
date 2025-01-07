@@ -24400,10 +24400,10 @@
   },
   "sersoft-gmbh/device-input": {
     "created": "2025-01-06T22:45:57Z",
-    "duration": 13,
-    "modified": "2025-01-06T22:45:57Z",
+    "duration": 15,
+    "modified": "2025-01-07T18:08:48Z",
     "repo": "https://github.com/sersoft-gmbh/device-input.git",
-    "runid": 12641431024,
+    "runid": 12656035496,
     "stars": 2,
     "status": "failure"
   },
