@@ -8102,6 +8102,15 @@
     "stars": 52,
     "status": "failure"
   },
+  "kattouf/ProgressLine": {
+    "created": "2025-01-07T03:11:54Z",
+    "duration": 12,
+    "modified": "2025-01-07T03:11:54Z",
+    "repo": "https://github.com/kattouf/ProgressLine.git",
+    "runid": 12644277556,
+    "stars": 174,
+    "status": "failure"
+  },
   "kawoou/AnyDate": {
     "created": "2025-01-06T22:32:32Z",
     "duration": 7,
