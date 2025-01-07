@@ -14527,10 +14527,10 @@
   },
   "ezefranca/check-permissions": {
     "created": "2025-01-06T20:29:04Z",
-    "duration": 16,
-    "modified": "2025-01-07T12:28:58Z",
+    "duration": 15,
+    "modified": "2025-01-07T19:05:19Z",
     "repo": "https://github.com/ezefranca/check-permissions.git",
-    "runid": 12650476881,
+    "runid": 12657091582,
     "stars": 2,
     "status": "failure"
   },
