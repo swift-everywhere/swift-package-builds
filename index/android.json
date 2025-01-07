@@ -18865,10 +18865,10 @@
   },
   "li3zhen1/WithSpecializedGenericMacro": {
     "created": "2025-01-07T07:03:56Z",
-    "duration": 102,
-    "modified": "2025-01-07T07:03:56Z",
+    "duration": 103,
+    "modified": "2025-01-07T18:58:12Z",
     "repo": "https://github.com/li3zhen1/WithSpecializedGenericMacro.git",
-    "runid": 12646377141,
+    "runid": 12657091582,
     "stars": 2,
     "status": "failure"
   },
