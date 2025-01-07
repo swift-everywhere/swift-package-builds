@@ -3560,6 +3560,15 @@
     "stars": 0,
     "status": "success"
   },
+  "NiftyTreeStudios/Nifty-Dice-Roller-cmd": {
+    "created": "2025-01-07T07:15:34Z",
+    "duration": 9,
+    "modified": "2025-01-07T07:15:34Z",
+    "repo": "https://github.com/NiftyTreeStudios/Nifty-Dice-Roller-cmd.git",
+    "runid": 12646377141,
+    "stars": 0,
+    "status": "failure"
+  },
   "NikSativa/CodableKit": {
     "created": "2025-01-06T19:54:27Z",
     "duration": 7,
