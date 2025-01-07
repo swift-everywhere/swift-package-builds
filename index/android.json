@@ -8326,6 +8326,15 @@
     "stars": 1,
     "status": "failure"
   },
+  "brightdigit/swift-test-codecov": {
+    "created": "2025-01-07T09:31:05Z",
+    "duration": 8,
+    "modified": "2025-01-07T09:31:05Z",
+    "repo": "https://github.com/brightdigit/swift-test-codecov.git",
+    "runid": 12648641718,
+    "stars": 0,
+    "status": "failure"
+  },
   "broadwaylamb/GottaGoFast": {
     "created": "2025-01-07T00:53:35Z",
     "duration": 9,
