@@ -5702,6 +5702,15 @@
     "stars": 1,
     "status": "success"
   },
+  "Prosumma/Parsimonious": {
+    "created": "2025-01-07T13:00:04Z",
+    "duration": 8,
+    "modified": "2025-01-07T13:00:04Z",
+    "repo": "https://github.com/Prosumma/Parsimonious.git",
+    "runid": 12651715076,
+    "stars": 1,
+    "status": "success"
+  },
   "Purchasely/Purchasely-iOS": {
     "created": "2025-01-07T01:43:10Z",
     "duration": 4,
