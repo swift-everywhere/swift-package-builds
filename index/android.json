@@ -9636,6 +9636,15 @@
     "stars": 13,
     "status": "success"
   },
+  "duhnnie/LastFM.swift": {
+    "created": "2025-01-07T09:01:26Z",
+    "duration": 24,
+    "modified": "2025-01-07T09:01:26Z",
+    "repo": "https://github.com/duhnnie/LastFM.swift.git",
+    "runid": 12647794335,
+    "stars": 2,
+    "status": "failure"
+  },
   "duhnnie/SwiftRestClient": {
     "created": "2025-01-06T17:45:46Z",
     "duration": 6,
