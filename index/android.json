@@ -28648,10 +28648,10 @@
   },
   "vapor/validation": {
     "created": "2025-01-07T08:07:59Z",
-    "duration": 6,
-    "modified": "2025-01-07T08:07:59Z",
+    "duration": 5,
+    "modified": "2025-01-07T18:42:26Z",
     "repo": "https://github.com/vapor/validation.git",
-    "runid": 12646951061,
+    "runid": 12657091582,
     "stars": 55,
     "status": "failure"
   },
