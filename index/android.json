@@ -12413,6 +12413,15 @@
     "stars": 949,
     "status": "failure"
   },
+  "kenmaz/SwiftOutline": {
+    "created": "2025-01-07T08:32:30Z",
+    "duration": 9,
+    "modified": "2025-01-07T08:32:30Z",
+    "repo": "https://github.com/kenmaz/SwiftOutline.git",
+    "runid": 12647794335,
+    "stars": 54,
+    "status": "failure"
+  },
   "kennethlaskoski/KL": {
     "created": "2025-01-06T23:05:36Z",
     "duration": 6,
