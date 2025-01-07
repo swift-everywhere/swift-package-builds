@@ -2092,6 +2092,15 @@
     "stars": 64,
     "status": "failure"
   },
+  "PureSwift/swift-system": {
+    "created": "2025-01-07T00:37:23Z",
+    "duration": 5,
+    "modified": "2025-01-07T00:37:23Z",
+    "repo": "https://github.com/PureSwift/swift-system.git",
+    "runid": 12641986754,
+    "stars": 4,
+    "status": "failure"
+  },
   "Quick/swift-fakes": {
     "created": "2025-01-06T20:33:38Z",
     "duration": 23,
