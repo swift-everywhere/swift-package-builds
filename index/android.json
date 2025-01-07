@@ -13045,6 +13045,15 @@
     "runid": 12638963153,
     "status": "failure"
   },
+  "pvieito/PythonKit": {
+    "created": "2025-01-07T06:09:42Z",
+    "duration": 4,
+    "modified": "2025-01-07T06:09:42Z",
+    "repo": "https://github.com/pvieito/PythonKit.git",
+    "runid": 12645653000,
+    "stars": 1913,
+    "status": "failure"
+  },
   "pvzig/SKClient": {
     "created": "2025-01-07T03:12:04Z",
     "duration": 9,
