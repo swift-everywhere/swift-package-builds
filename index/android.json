@@ -8584,10 +8584,11 @@
   },
   "apple/example-package-deckofplayingcards": {
     "created": "2025-01-06T18:08:15Z",
-    "duration": 4,
-    "modified": "2025-01-06T18:08:15Z",
+    "duration": 6,
+    "modified": "2025-01-07T12:32:37Z",
     "repo": "https://github.com/apple/example-package-deckofplayingcards.git",
-    "runid": 12637757100,
+    "runid": 12650476881,
+    "stars": 188,
     "status": "success"
   },
   "apple/example-package-figlet": {
