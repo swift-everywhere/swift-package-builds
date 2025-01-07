@@ -2388,6 +2388,15 @@
     "stars": 1,
     "status": "failure"
   },
+  "Purchasely/Purchasely-iOS": {
+    "created": "2025-01-07T01:43:10Z",
+    "duration": 4,
+    "modified": "2025-01-07T01:43:10Z",
+    "repo": "https://github.com/Purchasely/Purchasely-iOS.git",
+    "runid": 12643524602,
+    "stars": 28,
+    "status": "success"
+  },
   "PureMVC/puremvc-swift-standard-framework": {
     "created": "2025-01-07T00:54:26Z",
     "duration": 6,
