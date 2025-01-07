@@ -20351,6 +20351,15 @@
     "stars": 0,
     "status": "success"
   },
+  "simonbs/tree-sitter": {
+    "created": "2025-01-07T11:32:25Z",
+    "duration": 3,
+    "modified": "2025-01-07T11:32:25Z",
+    "repo": "https://github.com/simonbs/tree-sitter.git",
+    "runid": 12650476881,
+    "stars": 4,
+    "status": "success"
+  },
   "simonedelmann/crud-kit": {
     "created": "2025-01-07T08:31:58Z",
     "duration": 22,
