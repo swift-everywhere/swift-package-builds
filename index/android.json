@@ -4258,10 +4258,10 @@
   },
   "Kitura/KituraContracts": {
     "created": "2025-01-07T11:26:53Z",
-    "duration": 12,
-    "modified": "2025-01-07T11:26:53Z",
+    "duration": 10,
+    "modified": "2025-01-07T23:41:42Z",
     "repo": "https://github.com/Kitura/KituraContracts.git",
-    "runid": 12650476881,
+    "runid": 12660929108,
     "stars": 13,
     "status": "failure"
   },
