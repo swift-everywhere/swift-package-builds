@@ -383,6 +383,15 @@
     "stars": 1,
     "status": "failure"
   },
+  "AliMark71/SegmentTreeKit": {
+    "created": "2025-01-07T10:43:13Z",
+    "duration": 7,
+    "modified": "2025-01-07T10:43:13Z",
+    "repo": "https://github.com/AliMark71/SegmentTreeKit.git",
+    "runid": 12649615878,
+    "stars": 3,
+    "status": "success"
+  },
   "AliSoftware/Dip": {
     "created": "2025-01-07T06:05:41Z",
     "duration": 4,
