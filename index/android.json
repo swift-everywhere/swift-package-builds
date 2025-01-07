@@ -19616,6 +19616,15 @@
     "stars": 129,
     "status": "success"
   },
+  "yonaskolb/Genesis": {
+    "created": "2025-01-07T08:17:19Z",
+    "duration": 21,
+    "modified": "2025-01-07T08:17:19Z",
+    "repo": "https://github.com/yonaskolb/Genesis.git",
+    "runid": 12646951061,
+    "stars": 194,
+    "status": "failure"
+  },
   "yonaskolb/SwagGen": {
     "created": "2025-01-07T05:23:24Z",
     "duration": 21,
