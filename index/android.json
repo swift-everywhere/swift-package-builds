@@ -5244,6 +5244,15 @@
     "stars": 1,
     "status": "success"
   },
+  "PerfectlySoft/Perfect-LinuxBridge": {
+    "created": "2025-01-07T11:56:20Z",
+    "duration": 2,
+    "modified": "2025-01-07T11:56:20Z",
+    "repo": "https://github.com/PerfectlySoft/Perfect-LinuxBridge.git",
+    "runid": 12650476881,
+    "stars": 5,
+    "status": "failure"
+  },
   "PerfectlySoft/Perfect-MIME": {
     "created": "2025-01-07T10:16:23Z",
     "duration": 4,
