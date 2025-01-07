@@ -25669,10 +25669,10 @@
   },
   "swhitty/SwiftDraw": {
     "created": "2025-01-06T18:07:54Z",
-    "duration": 80,
-    "modified": "2025-01-07T02:45:17Z",
+    "duration": 79,
+    "modified": "2025-01-07T17:15:14Z",
     "repo": "https://github.com/swhitty/SwiftDraw.git",
-    "runid": 12643524602,
+    "runid": 12655360195,
     "stars": 438,
     "status": "failure"
   },
