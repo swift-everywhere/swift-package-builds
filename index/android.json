@@ -28402,6 +28402,15 @@
     "stars": 26,
     "status": "failure"
   },
+  "vapor/fluent-mysql-driver": {
+    "created": "2025-01-07T15:07:31Z",
+    "duration": 100,
+    "modified": "2025-01-07T15:07:31Z",
+    "repo": "https://github.com/vapor/fluent-mysql-driver.git",
+    "runid": 12652509868,
+    "stars": 78,
+    "status": "failure"
+  },
   "vapor/fluent-postgres-driver": {
     "created": "2025-01-07T09:56:57Z",
     "duration": 29,
