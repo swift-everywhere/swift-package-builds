@@ -567,6 +567,15 @@
     "stars": 7,
     "status": "success"
   },
+  "AvdLee/Poes": {
+    "created": "2025-01-07T07:06:17Z",
+    "duration": 8,
+    "modified": "2025-01-07T07:06:17Z",
+    "repo": "https://github.com/AvdLee/Poes.git",
+    "runid": 12646377141,
+    "stars": 460,
+    "status": "failure"
+  },
   "AvdLee/appstoreconnect-swift-sdk": {
     "created": "2025-01-06T22:32:06Z",
     "duration": 29,
