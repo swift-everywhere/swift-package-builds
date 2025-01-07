@@ -14216,6 +14216,15 @@
     "runid": 12638963153,
     "status": "success"
   },
+  "halcyonmobile/RestBird": {
+    "created": "2025-01-07T12:58:18Z",
+    "duration": 10,
+    "modified": "2025-01-07T12:58:18Z",
+    "repo": "https://github.com/halcyonmobile/RestBird.git",
+    "runid": 12651715076,
+    "stars": 23,
+    "status": "failure"
+  },
   "hallee/simple-haptics": {
     "created": "2025-01-06T22:11:12Z",
     "duration": 3,
