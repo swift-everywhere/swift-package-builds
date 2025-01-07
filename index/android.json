@@ -18904,6 +18904,15 @@
     "stars": 43,
     "status": "failure"
   },
+  "vapor/validation": {
+    "created": "2025-01-07T08:07:59Z",
+    "duration": 6,
+    "modified": "2025-01-07T08:07:59Z",
+    "repo": "https://github.com/vapor/validation.git",
+    "runid": 12646951061,
+    "stars": 55,
+    "status": "failure"
+  },
   "vapor/vapor": {
     "created": "2025-01-07T07:28:33Z",
     "duration": 30,
