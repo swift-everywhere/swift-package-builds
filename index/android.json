@@ -6481,10 +6481,10 @@
   },
   "Ponyboy47/Termios": {
     "created": "2025-01-06T21:31:02Z",
-    "duration": 4,
-    "modified": "2025-01-06T21:31:02Z",
+    "duration": 6,
+    "modified": "2025-01-07T22:32:52Z",
     "repo": "https://github.com/Ponyboy47/Termios.git",
-    "runid": 12640552194,
+    "runid": 12660245106,
     "stars": 1,
     "status": "failure"
   },
