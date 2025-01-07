@@ -1420,6 +1420,15 @@
     "stars": 97,
     "status": "success"
   },
+  "ChimeHQ/LanguageServer": {
+    "created": "2025-01-07T14:39:13Z",
+    "duration": 22,
+    "modified": "2025-01-07T14:39:13Z",
+    "repo": "https://github.com/ChimeHQ/LanguageServer.git",
+    "runid": 12652509868,
+    "stars": 11,
+    "status": "success"
+  },
   "ChimeHQ/LanguageServerProtocol": {
     "created": "2025-01-07T08:54:28Z",
     "duration": 18,
