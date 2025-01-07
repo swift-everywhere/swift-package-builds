@@ -5363,6 +5363,15 @@
     "stars": 7,
     "status": "failure"
   },
+  "fumoboy007/swift-retry": {
+    "created": "2025-01-07T01:15:17Z",
+    "duration": 13,
+    "modified": "2025-01-07T01:15:17Z",
+    "repo": "https://github.com/fumoboy007/swift-retry.git",
+    "runid": 12641986754,
+    "stars": 118,
+    "status": "failure"
+  },
   "funky-monkey/IsoCountryCodes": {
     "created": "2025-01-07T00:19:05Z",
     "duration": 6,
