@@ -5023,10 +5023,10 @@
   },
   "MasterJ93/SwiftCBOR": {
     "created": "2025-01-07T06:32:22Z",
-    "duration": 24,
-    "modified": "2025-01-07T06:32:22Z",
+    "duration": 25,
+    "modified": "2025-01-07T16:21:54Z",
     "repo": "https://github.com/MasterJ93/SwiftCBOR.git",
-    "runid": 12646377141,
+    "runid": 12655041616,
     "stars": 0,
     "status": "failure"
   },
