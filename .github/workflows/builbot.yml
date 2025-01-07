@@ -134,7 +134,7 @@ jobs:
             rm -rf repositories/"${DIR}"
 
             # fetch any changes that may have occured since we last updated
-            git pull
+            git -C $(dirname ${INDEX}) pull
 
             # create a record of the package if it doesn't already exist
             jq --arg DIR "$DIR" --arg REPO "$REPO" '.[$DIR] |= if . == null then {"repo": $REPO, "created": (now | todate)} else . end' $INDEX > $INDEX.new && mv ${INDEX}.new ${INDEX}
