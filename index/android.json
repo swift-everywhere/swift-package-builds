@@ -11815,6 +11815,15 @@
     "runid": 12638963153,
     "status": "failure"
   },
+  "swiftlang/swift-se0288-is-power": {
+    "created": "2025-01-07T03:28:25Z",
+    "duration": 4,
+    "modified": "2025-01-07T03:28:25Z",
+    "repo": "https://github.com/swiftlang/swift-se0288-is-power.git",
+    "runid": 12644606839,
+    "stars": 7,
+    "status": "success"
+  },
   "swiftlang/swift-tools-support-core": {
     "created": "2025-01-06T23:30:53Z",
     "duration": 9,
