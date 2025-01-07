@@ -7833,6 +7833,15 @@
     "stars": 2,
     "status": "failure"
   },
+  "fourplusone/TerraformKit": {
+    "created": "2025-01-07T05:19:37Z",
+    "duration": 8,
+    "modified": "2025-01-07T05:19:37Z",
+    "repo": "https://github.com/fourplusone/TerraformKit.git",
+    "runid": 12645653000,
+    "stars": 2,
+    "status": "failure"
+  },
   "fpseverino/apple-maps-kit": {
     "created": "2025-01-06T21:16:23Z",
     "duration": 71,
