@@ -15647,6 +15647,15 @@
     "stars": 1,
     "status": "success"
   },
+  "yonaskolb/SwagGen": {
+    "created": "2025-01-07T05:23:24Z",
+    "duration": 21,
+    "modified": "2025-01-07T05:23:24Z",
+    "repo": "https://github.com/yonaskolb/SwagGen.git",
+    "runid": 12645653000,
+    "stars": 627,
+    "status": "failure"
+  },
   "yonaskolb/XcodeGen": {
     "created": "2025-01-06T19:47:52Z",
     "duration": 22,
