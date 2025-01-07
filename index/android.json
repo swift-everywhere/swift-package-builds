@@ -12462,6 +12462,15 @@
     "stars": 601,
     "status": "success"
   },
+  "dokun1/openwhisk-swift-sdk": {
+    "created": "2025-01-07T13:21:42Z",
+    "duration": 12,
+    "modified": "2025-01-07T13:21:42Z",
+    "repo": "https://github.com/dokun1/openwhisk-swift-sdk.git",
+    "runid": 12651715076,
+    "stars": 2,
+    "status": "failure"
+  },
   "dominicegginton/nanoseconds": {
     "created": "2025-01-07T00:45:52Z",
     "duration": 6,
