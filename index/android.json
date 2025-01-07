@@ -1715,6 +1715,15 @@
     "stars": 191,
     "status": "success"
   },
+  "Jomy10/SwiftCurses": {
+    "created": "2025-01-07T03:07:40Z",
+    "duration": 2,
+    "modified": "2025-01-07T03:07:40Z",
+    "repo": "https://github.com/Jomy10/SwiftCurses.git",
+    "runid": 12644277556,
+    "stars": 5,
+    "status": "failure"
+  },
   "JosephDuffy/HashableMacro": {
     "created": "2025-01-06T21:30:57Z",
     "duration": 93,
