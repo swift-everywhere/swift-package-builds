@@ -15341,6 +15341,15 @@
     "stars": 2,
     "status": "failure"
   },
+  "peek-travel/swift-currency": {
+    "created": "2025-01-07T08:36:06Z",
+    "duration": 20,
+    "modified": "2025-01-07T08:36:06Z",
+    "repo": "https://github.com/peek-travel/swift-currency.git",
+    "runid": 12647794335,
+    "stars": 110,
+    "status": "success"
+  },
   "pelagornis/plcommand": {
     "created": "2025-01-06T21:06:56Z",
     "duration": 13,
