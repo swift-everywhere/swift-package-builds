@@ -9984,6 +9984,15 @@
     "stars": 139,
     "status": "failure"
   },
+  "broomburgo/Narratore": {
+    "created": "2025-01-07T12:03:51Z",
+    "duration": 6,
+    "modified": "2025-01-07T12:03:51Z",
+    "repo": "https://github.com/broomburgo/Narratore.git",
+    "runid": 12650476881,
+    "stars": 46,
+    "status": "success"
+  },
   "brutella/XCollectionData": {
     "created": "2025-01-07T06:39:26Z",
     "duration": 7,
