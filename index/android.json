@@ -5636,6 +5636,15 @@
     "stars": 332,
     "status": "success"
   },
+  "crspybits/SwiftAWSSignatureV4": {
+    "created": "2025-01-07T03:42:55Z",
+    "duration": 9,
+    "modified": "2025-01-07T03:42:55Z",
+    "repo": "https://github.com/crspybits/SwiftAWSSignatureV4.git",
+    "runid": 12644606839,
+    "stars": 0,
+    "status": "failure"
+  },
   "cszatmary/DiscreteMathematics": {
     "created": "2025-01-06T17:31:02Z",
     "duration": 11,
