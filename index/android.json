@@ -3799,6 +3799,15 @@
     "stars": 0,
     "status": "failure"
   },
+  "MarSe32m/sebbu-cryptography": {
+    "created": "2025-01-07T10:28:13Z",
+    "duration": 22,
+    "modified": "2025-01-07T10:28:13Z",
+    "repo": "https://github.com/MarSe32m/sebbu-cryptography.git",
+    "runid": 12649615878,
+    "stars": 0,
+    "status": "failure"
+  },
   "MarSe32m/sebbu-networking": {
     "created": "2025-01-07T02:25:01Z",
     "duration": 4,
