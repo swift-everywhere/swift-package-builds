@@ -7786,10 +7786,10 @@
   },
   "SomeRandomiOSDev/SwiftyCast": {
     "created": "2025-01-07T06:38:12Z",
-    "duration": 3,
-    "modified": "2025-01-07T06:38:12Z",
+    "duration": 4,
+    "modified": "2025-01-07T20:50:29Z",
     "repo": "https://github.com/SomeRandomiOSDev/SwiftyCast.git",
-    "runid": 12646377141,
+    "runid": 12658681935,
     "stars": 1,
     "status": "success"
   },
