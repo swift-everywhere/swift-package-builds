@@ -6153,6 +6153,15 @@
     "stars": 1,
     "status": "success"
   },
+  "greymass/secp256k1": {
+    "created": "2025-01-07T02:06:29Z",
+    "duration": 4,
+    "modified": "2025-01-07T02:06:29Z",
+    "repo": "https://github.com/greymass/secp256k1.git",
+    "runid": 12643524602,
+    "stars": 0,
+    "status": "success"
+  },
   "gringoireDM/EnumKit": {
     "created": "2025-01-06T23:38:15Z",
     "duration": 6,
