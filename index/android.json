@@ -1743,6 +1743,15 @@
     "runid": 12638963153,
     "status": "failure"
   },
+  "MobileNativeFoundation/XCLogParser": {
+    "created": "2025-01-07T00:34:31Z",
+    "duration": 14,
+    "modified": "2025-01-07T00:34:31Z",
+    "repo": "https://github.com/MobileNativeFoundation/XCLogParser.git",
+    "runid": 12641986754,
+    "stars": 1756,
+    "status": "failure"
+  },
   "MrAsterisco/LimitedOrderedSet": {
     "created": "2025-01-07T00:20:45Z",
     "duration": 6,
