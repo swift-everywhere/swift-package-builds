@@ -25606,10 +25606,10 @@
   },
   "svdo/ReRxSwift": {
     "created": "2025-01-07T07:34:24Z",
-    "duration": 24,
-    "modified": "2025-01-07T07:34:24Z",
+    "duration": 23,
+    "modified": "2025-01-07T21:00:22Z",
     "repo": "https://github.com/svdo/ReRxSwift.git",
-    "runid": 12646951061,
+    "runid": 12658681935,
     "stars": 99,
     "status": "failure"
   },
