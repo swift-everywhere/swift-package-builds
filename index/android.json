@@ -14742,6 +14742,15 @@
     "stars": 1,
     "status": "success"
   },
+  "kabiroberai/WasmKit": {
+    "created": "2025-01-07T11:26:19Z",
+    "duration": 39,
+    "modified": "2025-01-07T11:26:19Z",
+    "repo": "https://github.com/kabiroberai/WasmKit.git",
+    "runid": 12650476881,
+    "stars": 2,
+    "status": "failure"
+  },
   "kaishin/Gifu": {
     "created": "2025-01-07T00:58:04Z",
     "duration": 4,
