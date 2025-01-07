@@ -10870,6 +10870,15 @@
     "stars": 45,
     "status": "failure"
   },
+  "dougpenny/SwiftyJamfPro": {
+    "created": "2025-01-07T10:57:55Z",
+    "duration": 8,
+    "modified": "2025-01-07T10:57:55Z",
+    "repo": "https://github.com/dougpenny/SwiftyJamfPro.git",
+    "runid": 12649615878,
+    "stars": 1,
+    "status": "success"
+  },
   "dougpenny/SwiftyPSCore": {
     "created": "2025-01-07T06:46:12Z",
     "duration": 8,
