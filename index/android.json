@@ -2845,6 +2845,15 @@
     "runid": 12638963153,
     "status": "success"
   },
+  "XCEssentials/XCERequirement": {
+    "created": "2025-01-07T01:01:41Z",
+    "duration": 3,
+    "modified": "2025-01-07T01:01:41Z",
+    "repo": "https://github.com/XCEssentials/XCERequirement.git",
+    "runid": 12641986754,
+    "stars": 0,
+    "status": "success"
+  },
   "XcodesOrg/swift-srp": {
     "created": "2025-01-06T23:32:27Z",
     "duration": 22,
