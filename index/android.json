@@ -23363,6 +23363,15 @@
     "stars": 111,
     "status": "failure"
   },
+  "shibapm/capriccio": {
+    "created": "2025-01-07T14:04:37Z",
+    "duration": 26,
+    "modified": "2025-01-07T14:04:37Z",
+    "repo": "https://github.com/shibapm/capriccio.git",
+    "runid": 12652509868,
+    "stars": 20,
+    "status": "failure"
+  },
   "shield-ai-technology/shieldcredit-spm": {
     "created": "2025-01-06T22:01:56Z",
     "duration": 2,
