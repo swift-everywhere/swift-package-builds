@@ -15341,6 +15341,15 @@
     "stars": 829,
     "status": "success"
   },
+  "getsidetrack/vapor-telemetrydeck": {
+    "created": "2025-01-07T15:00:19Z",
+    "duration": 31,
+    "modified": "2025-01-07T15:00:20Z",
+    "repo": "https://github.com/getsidetrack/vapor-telemetrydeck.git",
+    "runid": 12652509868,
+    "stars": 8,
+    "status": "failure"
+  },
   "ggruen/SwiftNetrc": {
     "created": "2025-01-07T08:52:02Z",
     "duration": 7,
