@@ -6136,10 +6136,11 @@
   },
   "SwiftyLinkerKit/SwiftyLinkerKit": {
     "created": "2025-01-06T20:52:13Z",
-    "duration": 8,
-    "modified": "2025-01-06T20:52:13Z",
+    "duration": 9,
+    "modified": "2025-01-07T09:44:04Z",
     "repo": "https://github.com/SwiftyLinkerKit/SwiftyLinkerKit.git",
-    "runid": 12638963153,
+    "runid": 12648641718,
+    "stars": 7,
     "status": "failure"
   },
   "SwiftyLinkerKit/SwiftyTM1637": {
