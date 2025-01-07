@@ -10214,6 +10214,15 @@
     "stars": 21,
     "status": "success"
   },
+  "drmohundro/SWXMLHash": {
+    "created": "2025-01-07T09:58:19Z",
+    "duration": 11,
+    "modified": "2025-01-07T09:58:19Z",
+    "repo": "https://github.com/drmohundro/SWXMLHash.git",
+    "runid": 12648641718,
+    "stars": 1417,
+    "status": "failure"
+  },
   "dscyrescotti/CodableX": {
     "created": "2025-01-07T06:09:50Z",
     "duration": 7,
