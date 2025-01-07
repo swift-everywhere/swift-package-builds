@@ -18633,6 +18633,15 @@
     "stars": 8031,
     "status": "failure"
   },
+  "nicklockwood/VectorMath": {
+    "created": "2025-01-07T12:37:14Z",
+    "duration": 191,
+    "modified": "2025-01-07T12:37:14Z",
+    "repo": "https://github.com/nicklockwood/VectorMath.git",
+    "runid": 12650476881,
+    "stars": 367,
+    "status": "failure"
+  },
   "nikola-mladenovic/AwsSwiftDynamoDBsdk": {
     "created": "2025-01-06T20:38:37Z",
     "duration": 14,
