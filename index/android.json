@@ -13467,6 +13467,15 @@
     "runid": 12636850547,
     "status": "failure"
   },
+  "twostraws/CodeScanner": {
+    "created": "2025-01-07T04:04:58Z",
+    "duration": 4,
+    "modified": "2025-01-07T04:04:58Z",
+    "repo": "https://github.com/twostraws/CodeScanner.git",
+    "runid": 12644606839,
+    "stars": 1070,
+    "status": "success"
+  },
   "twostraws/Ignite": {
     "created": "2025-01-06T20:49:58Z",
     "duration": 43,
