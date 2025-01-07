@@ -14868,6 +14868,15 @@
     "stars": 472,
     "status": "failure"
   },
+  "pointfreeco/swift-sharing": {
+    "created": "2025-01-07T08:01:29Z",
+    "duration": 34,
+    "modified": "2025-01-07T08:01:29Z",
+    "repo": "https://github.com/pointfreeco/swift-sharing.git",
+    "runid": 12646951061,
+    "stars": 418,
+    "status": "success"
+  },
   "pointfreeco/swift-url-routing": {
     "created": "2025-01-06T23:37:35Z",
     "duration": 32,
