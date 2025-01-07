@@ -2737,6 +2737,15 @@
     "stars": 2182,
     "status": "success"
   },
+  "Macro-swift/Macro": {
+    "created": "2025-01-07T06:05:15Z",
+    "duration": 30,
+    "modified": "2025-01-07T06:05:15Z",
+    "repo": "https://github.com/Macro-swift/Macro.git",
+    "runid": 12645653000,
+    "stars": 37,
+    "status": "failure"
+  },
   "Macro-swift/MacroApp": {
     "created": "2025-01-07T05:49:23Z",
     "duration": 18,
