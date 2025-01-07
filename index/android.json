@@ -1881,6 +1881,15 @@
     "stars": 124,
     "status": "failure"
   },
+  "DominikGrodl/ObservationExtras": {
+    "created": "2025-01-07T12:27:28Z",
+    "duration": 93,
+    "modified": "2025-01-07T12:27:28Z",
+    "repo": "https://github.com/DominikGrodl/ObservationExtras.git",
+    "runid": 12650476881,
+    "stars": 1,
+    "status": "success"
+  },
   "DominikHorn/ASN1Parser": {
     "created": "2025-01-07T09:08:20Z",
     "duration": 10,
