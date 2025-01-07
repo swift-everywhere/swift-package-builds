@@ -5884,6 +5884,15 @@
     "stars": 21,
     "status": "success"
   },
+  "Oops-AB/swedish-pnr": {
+    "created": "2025-01-07T15:00:46Z",
+    "duration": 7,
+    "modified": "2025-01-07T15:00:46Z",
+    "repo": "https://github.com/Oops-AB/swedish-pnr.git",
+    "runid": 12652509868,
+    "stars": 0,
+    "status": "success"
+  },
   "OpenCombine/OpenCombine": {
     "created": "2025-01-06T19:40:27Z",
     "duration": 14,
