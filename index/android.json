@@ -14753,6 +14753,15 @@
     "stars": 15,
     "status": "success"
   },
+  "petrpavlik/MixpanelVapor": {
+    "created": "2025-01-07T08:03:52Z",
+    "duration": 34,
+    "modified": "2025-01-07T08:03:52Z",
+    "repo": "https://github.com/petrpavlik/MixpanelVapor.git",
+    "runid": 12646951061,
+    "stars": 5,
+    "status": "failure"
+  },
   "petrpavlik/swift-sentry": {
     "created": "2025-01-07T06:39:04Z",
     "duration": 50,
