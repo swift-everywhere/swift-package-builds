@@ -20849,6 +20849,15 @@
     "stars": 2,
     "status": "success"
   },
+  "pakLebah/ANSITerminal": {
+    "created": "2025-01-07T13:48:16Z",
+    "duration": 4,
+    "modified": "2025-01-07T13:48:16Z",
+    "repo": "https://github.com/pakLebah/ANSITerminal.git",
+    "runid": 12652509868,
+    "stars": 94,
+    "status": "failure"
+  },
   "palle-k/Covfefe": {
     "created": "2025-01-06T21:31:40Z",
     "duration": 7,
