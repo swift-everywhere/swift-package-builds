@@ -12307,10 +12307,11 @@
   },
   "ferranpujolcamins/DotSwift": {
     "created": "2025-01-06T17:05:35Z",
-    "duration": 12,
-    "modified": "2025-01-06T17:05:35Z",
+    "duration": 10,
+    "modified": "2025-01-07T11:55:38Z",
     "repo": "https://github.com/ferranpujolcamins/DotSwift.git",
-    "runid": 12636850547,
+    "runid": 12650476881,
+    "stars": 3,
     "status": "success"
   },
   "finestructure/Parser": {
