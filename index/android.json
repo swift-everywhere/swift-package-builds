@@ -991,6 +991,15 @@
     "stars": 1,
     "status": "failure"
   },
+  "CaptureContext/swift-prelude": {
+    "created": "2025-01-07T10:09:24Z",
+    "duration": 12,
+    "modified": "2025-01-07T10:09:24Z",
+    "repo": "https://github.com/CaptureContext/swift-prelude.git",
+    "runid": 12648641718,
+    "stars": 2,
+    "status": "failure"
+  },
   "Carthage/Commandant": {
     "created": "2025-01-06T19:27:03Z",
     "duration": 10,
