@@ -10931,10 +10931,11 @@
   },
   "wabiverse/KrakenPlugs": {
     "created": "2025-01-06T17:42:15Z",
-    "duration": 7,
-    "modified": "2025-01-06T17:42:15Z",
+    "duration": 9,
+    "modified": "2025-01-07T01:53:33Z",
     "repo": "https://github.com/wabiverse/KrakenPlugs.git",
-    "runid": 12637148220,
+    "runid": 12643524602,
+    "stars": 0,
     "status": "success"
   },
   "wacumov/WordNetDecoder": {
