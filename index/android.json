@@ -3686,10 +3686,11 @@
   },
   "bojan/Thingy": {
     "created": "2025-01-06T19:46:54Z",
-    "duration": 7,
-    "modified": "2025-01-06T19:46:54Z",
+    "duration": 6,
+    "modified": "2025-01-07T00:59:45Z",
     "repo": "https://github.com/bojan/Thingy.git",
-    "runid": 12638963153,
+    "runid": 12641986754,
+    "stars": 60,
     "status": "failure"
   },
   "bradhowes/Knob": {
