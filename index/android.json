@@ -1934,10 +1934,11 @@
   },
   "Kitura/Kitura-Cache": {
     "created": "2025-01-06T20:25:17Z",
-    "duration": 6,
-    "modified": "2025-01-06T20:25:17Z",
+    "duration": 7,
+    "modified": "2025-01-07T03:09:28Z",
     "repo": "https://github.com/Kitura/Kitura-Cache.git",
-    "runid": 12638963153,
+    "runid": 12644277556,
+    "stars": 10,
     "status": "success"
   },
   "Kitura/Kitura-Markdown": {
