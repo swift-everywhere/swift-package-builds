@@ -3052,6 +3052,15 @@
     "stars": 881,
     "status": "success"
   },
+  "JohnSundell/Splash": {
+    "created": "2025-01-07T11:10:41Z",
+    "duration": 7,
+    "modified": "2025-01-07T11:10:41Z",
+    "repo": "https://github.com/JohnSundell/Splash.git",
+    "runid": 12649615878,
+    "stars": 1779,
+    "status": "failure"
+  },
   "JohnSundell/Sweep": {
     "created": "2025-01-06T17:30:36Z",
     "duration": 7,
