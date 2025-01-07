@@ -1107,6 +1107,15 @@
     "stars": 57,
     "status": "success"
   },
+  "ChimeHQ/Neon": {
+    "created": "2025-01-07T10:10:38Z",
+    "duration": 22,
+    "modified": "2025-01-07T10:10:38Z",
+    "repo": "https://github.com/ChimeHQ/Neon.git",
+    "runid": 12648641718,
+    "stars": 334,
+    "status": "success"
+  },
   "ChimeHQ/OperationPlus": {
     "created": "2025-01-07T01:37:44Z",
     "duration": 10,
