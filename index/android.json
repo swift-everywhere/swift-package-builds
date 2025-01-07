@@ -13864,6 +13864,15 @@
     "stars": 6,
     "status": "success"
   },
+  "rb-de0/Poppo": {
+    "created": "2025-01-07T06:58:15Z",
+    "duration": 10,
+    "modified": "2025-01-07T06:58:15Z",
+    "repo": "https://github.com/rb-de0/Poppo.git",
+    "runid": 12646377141,
+    "stars": 1,
+    "status": "failure"
+  },
   "rbruinier/SwiftMicroPNG": {
     "created": "2025-01-07T00:36:59Z",
     "duration": 3,
