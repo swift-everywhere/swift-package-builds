@@ -24525,6 +24525,15 @@
     "stars": 0,
     "status": "success"
   },
+  "tomasf/SwiftSCAD": {
+    "created": "2025-01-07T13:06:40Z",
+    "duration": 6,
+    "modified": "2025-01-07T13:06:40Z",
+    "repo": "https://github.com/tomasf/SwiftSCAD.git",
+    "runid": 12651715076,
+    "stars": 7,
+    "status": "failure"
+  },
   "tomlokhorst/Promissum": {
     "created": "2025-01-07T07:38:48Z",
     "duration": 7,
