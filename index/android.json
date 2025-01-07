@@ -11870,6 +11870,15 @@
     "stars": 14,
     "status": "success"
   },
+  "dodobrands/DBXCResultParser-Sonar": {
+    "created": "2025-01-07T12:40:46Z",
+    "duration": 25,
+    "modified": "2025-01-07T12:40:46Z",
+    "repo": "https://github.com/dodobrands/DBXCResultParser-Sonar.git",
+    "runid": 12651715076,
+    "stars": 1,
+    "status": "success"
+  },
   "dokun1/Vaux": {
     "created": "2025-01-07T08:46:58Z",
     "duration": 8,
