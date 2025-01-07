@@ -3526,6 +3526,15 @@
     "runid": 12638963153,
     "status": "failure"
   },
+  "apple/swift-nio-transport-services": {
+    "created": "2025-01-07T01:15:59Z",
+    "duration": 26,
+    "modified": "2025-01-07T01:15:59Z",
+    "repo": "https://github.com/apple/swift-nio-transport-services.git",
+    "runid": 12641986754,
+    "stars": 293,
+    "status": "failure"
+  },
   "apple/swift-openapi-generator": {
     "created": "2025-01-06T17:32:51Z",
     "duration": 54,
