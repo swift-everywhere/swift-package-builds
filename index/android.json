@@ -226,6 +226,15 @@
     "stars": 0,
     "status": "success"
   },
+  "AgoraIO/AgoraLite_iOS": {
+    "created": "2025-01-07T01:03:04Z",
+    "duration": 8,
+    "modified": "2025-01-07T01:03:04Z",
+    "repo": "https://github.com/AgoraIO/AgoraLite_iOS.git",
+    "runid": 12641986754,
+    "stars": 0,
+    "status": "success"
+  },
   "Alamofire/Alamofire": {
     "created": "2025-01-06T20:06:20Z",
     "duration": 10,
