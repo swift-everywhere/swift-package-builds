@@ -8666,6 +8666,15 @@
     "stars": 616,
     "status": "failure"
   },
+  "exyte/FlagAndCountryCode": {
+    "created": "2025-01-07T07:05:30Z",
+    "duration": 7,
+    "modified": "2025-01-07T07:05:30Z",
+    "repo": "https://github.com/exyte/FlagAndCountryCode.git",
+    "runid": 12646377141,
+    "stars": 62,
+    "status": "success"
+  },
   "ezefranca/check-permissions": {
     "created": "2025-01-06T20:29:04Z",
     "duration": 13,
