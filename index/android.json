@@ -6765,6 +6765,15 @@
     "stars": 0,
     "status": "success"
   },
+  "danthorpe/swift-utilities": {
+    "created": "2025-01-07T05:16:13Z",
+    "duration": 27,
+    "modified": "2025-01-07T05:16:13Z",
+    "repo": "https://github.com/danthorpe/swift-utilities.git",
+    "runid": 12645351961,
+    "stars": 0,
+    "status": "failure"
+  },
   "darjeelingsteve/hopoate": {
     "created": "2025-01-07T01:04:16Z",
     "duration": 7,
