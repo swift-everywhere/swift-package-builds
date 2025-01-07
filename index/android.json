@@ -18711,6 +18711,15 @@
     "stars": 3491,
     "status": "success"
   },
+  "thoughtbot/Curry": {
+    "created": "2025-01-07T08:39:06Z",
+    "duration": 55,
+    "modified": "2025-01-07T08:39:06Z",
+    "repo": "https://github.com/thoughtbot/Curry.git",
+    "runid": 12647794335,
+    "stars": 495,
+    "status": "success"
+  },
   "tichise/TILogger": {
     "created": "2025-01-07T08:35:05Z",
     "duration": 6,
