@@ -9170,6 +9170,15 @@
     "stars": 3,
     "status": "success"
   },
+  "flipside5/SoS": {
+    "created": "2025-01-07T07:24:47Z",
+    "duration": 12,
+    "modified": "2025-01-07T07:24:47Z",
+    "repo": "https://github.com/flipside5/SoS.git",
+    "runid": 12646951061,
+    "stars": 3,
+    "status": "failure"
+  },
   "florianreinhart/Geodesy": {
     "created": "2025-01-06T19:34:17Z",
     "duration": 453,
