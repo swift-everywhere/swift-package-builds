@@ -19439,6 +19439,15 @@
     "stars": 45,
     "status": "success"
   },
+  "open-meteo/om-file-format": {
+    "created": "2025-01-07T12:59:35Z",
+    "duration": 76,
+    "modified": "2025-01-07T12:59:36Z",
+    "repo": "https://github.com/open-meteo/om-file-format.git",
+    "runid": 12651715076,
+    "stars": 0,
+    "status": "failure"
+  },
   "open-meteo/sdk": {
     "created": "2025-01-06T23:30:31Z",
     "duration": 13,
