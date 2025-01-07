@@ -18936,6 +18936,15 @@
     "stars": 11,
     "status": "success"
   },
+  "skelpo/Storage": {
+    "created": "2025-01-07T10:23:40Z",
+    "duration": 3,
+    "modified": "2025-01-07T10:23:41Z",
+    "repo": "https://github.com/skelpo/Storage.git",
+    "runid": 12649615878,
+    "stars": 7,
+    "status": "failure"
+  },
   "skelpo/SwiftyDates": {
     "created": "2025-01-07T03:35:49Z",
     "duration": 7,
