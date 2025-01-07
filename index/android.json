@@ -7918,6 +7918,15 @@
     "stars": 82,
     "status": "success"
   },
+  "algolia/algoliasearch-client-swift": {
+    "created": "2025-01-07T11:30:43Z",
+    "duration": 31,
+    "modified": "2025-01-07T11:30:43Z",
+    "repo": "https://github.com/algolia/algoliasearch-client-swift.git",
+    "runid": 12650476881,
+    "stars": 205,
+    "status": "failure"
+  },
   "allegro/swift-junit": {
     "created": "2025-01-07T05:52:09Z",
     "duration": 10,
