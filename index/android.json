@@ -6171,6 +6171,15 @@
     "stars": 2,
     "status": "success"
   },
+  "SusanDoggie/brotli": {
+    "created": "2025-01-07T10:41:11Z",
+    "duration": 2,
+    "modified": "2025-01-07T10:41:11Z",
+    "repo": "https://github.com/SusanDoggie/brotli.git",
+    "runid": 12649615878,
+    "stars": 0,
+    "status": "failure"
+  },
   "SusanDoggie/libjpeg": {
     "created": "2025-01-07T06:02:00Z",
     "duration": 1,
