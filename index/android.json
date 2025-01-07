@@ -1042,6 +1042,15 @@
     "stars": 32,
     "status": "success"
   },
+  "ChimeHQ/JSONRPC": {
+    "created": "2025-01-07T08:46:49Z",
+    "duration": 7,
+    "modified": "2025-01-07T08:46:50Z",
+    "repo": "https://github.com/ChimeHQ/JSONRPC.git",
+    "runid": 12647794335,
+    "stars": 32,
+    "status": "failure"
+  },
   "ChimeHQ/LanguageClient": {
     "created": "2025-01-07T02:35:46Z",
     "duration": 27,
