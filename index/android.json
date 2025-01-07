@@ -10240,6 +10240,15 @@
     "runid": 12638963153,
     "status": "failure"
   },
+  "pvzig/SKClient": {
+    "created": "2025-01-07T03:12:04Z",
+    "duration": 9,
+    "modified": "2025-01-07T03:12:05Z",
+    "repo": "https://github.com/pvzig/SKClient.git",
+    "runid": 12644277556,
+    "stars": 0,
+    "status": "failure"
+  },
   "pvzig/SKCore": {
     "created": "2025-01-07T01:24:10Z",
     "duration": 7,
