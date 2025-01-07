@@ -22223,6 +22223,15 @@
     "stars": 0,
     "status": "failure"
   },
+  "xcode-actions/swift-sh": {
+    "created": "2025-01-07T10:11:17Z",
+    "duration": 20,
+    "modified": "2025-01-07T10:11:17Z",
+    "repo": "https://github.com/xcode-actions/swift-sh.git",
+    "runid": 12648641718,
+    "stars": 2,
+    "status": "failure"
+  },
   "xing/jungle": {
     "created": "2025-01-07T08:09:05Z",
     "duration": 11,
