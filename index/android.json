@@ -2465,6 +2465,15 @@
     "stars": 110,
     "status": "failure"
   },
+  "Kitura/TypeDecoder": {
+    "created": "2025-01-07T06:01:11Z",
+    "duration": 7,
+    "modified": "2025-01-07T06:01:11Z",
+    "repo": "https://github.com/Kitura/TypeDecoder.git",
+    "runid": 12645653000,
+    "stars": 37,
+    "status": "success"
+  },
   "Kitura/swift-html-entities": {
     "created": "2025-01-06T22:43:06Z",
     "duration": 4,
