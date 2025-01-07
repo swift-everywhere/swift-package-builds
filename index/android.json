@@ -11450,6 +11450,15 @@
     "stars": 17,
     "status": "success"
   },
+  "handya/OhhAuth": {
+    "created": "2025-01-07T09:23:28Z",
+    "duration": 23,
+    "modified": "2025-01-07T09:23:28Z",
+    "repo": "https://github.com/handya/OhhAuth.git",
+    "runid": 12648641718,
+    "stars": 0,
+    "status": "failure"
+  },
   "handya/TwitterVapor": {
     "created": "2025-01-07T00:04:16Z",
     "duration": 26,
