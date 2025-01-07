@@ -7471,6 +7471,15 @@
     "stars": 6,
     "status": "failure"
   },
+  "johnno1962/SwiftRegex5": {
+    "created": "2025-01-07T02:45:33Z",
+    "duration": 7,
+    "modified": "2025-01-07T02:45:33Z",
+    "repo": "https://github.com/johnno1962/SwiftRegex5.git",
+    "runid": 12643524602,
+    "stars": 32,
+    "status": "success"
+  },
   "johnnzhou/swift-nio": {
     "created": "2025-01-06T17:41:25Z",
     "duration": 34,
