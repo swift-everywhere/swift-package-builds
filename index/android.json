@@ -10230,6 +10230,15 @@
     "stars": 18,
     "status": "success"
   },
+  "jkrukowski/SwiftMistral": {
+    "created": "2025-01-07T06:45:50Z",
+    "duration": 69,
+    "modified": "2025-01-07T06:45:50Z",
+    "repo": "https://github.com/jkrukowski/SwiftMistral.git",
+    "runid": 12646377141,
+    "stars": 6,
+    "status": "failure"
+  },
   "jlarmstrongiv/bunny-sdk-swift": {
     "created": "2025-01-07T02:58:14Z",
     "duration": 4,
