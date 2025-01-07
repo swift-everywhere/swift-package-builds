@@ -9711,6 +9711,15 @@
     "runid": 12638963153,
     "status": "failure"
   },
+  "stephencelis/SQLite.swift": {
+    "created": "2025-01-07T01:55:43Z",
+    "duration": 10,
+    "modified": "2025-01-07T01:55:43Z",
+    "repo": "https://github.com/stephencelis/SQLite.swift.git",
+    "runid": 12643524602,
+    "stars": 9779,
+    "status": "failure"
+  },
   "supabase-community/storage-swift": {
     "created": "2025-01-06T21:21:10Z",
     "duration": 7,
