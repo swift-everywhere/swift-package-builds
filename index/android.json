@@ -6685,6 +6685,15 @@
     "stars": 55,
     "status": "failure"
   },
+  "WendellXY/CodableKit": {
+    "created": "2025-01-07T10:14:47Z",
+    "duration": 90,
+    "modified": "2025-01-07T10:14:47Z",
+    "repo": "https://github.com/WendellXY/CodableKit.git",
+    "runid": 12648641718,
+    "stars": 9,
+    "status": "success"
+  },
   "WikipediaBrown/SFSymbolsKit": {
     "created": "2025-01-07T08:12:48Z",
     "duration": 15,
