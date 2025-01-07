@@ -29267,6 +29267,15 @@
     "stars": 1,
     "status": "failure"
   },
+  "zunda-pixel/firebase-swift": {
+    "created": "2025-01-07T14:41:18Z",
+    "duration": 7,
+    "modified": "2025-01-07T14:41:18Z",
+    "repo": "https://github.com/zunda-pixel/firebase-swift.git",
+    "runid": 12652509868,
+    "stars": 1,
+    "status": "failure"
+  },
   "zunda-pixel/googleads-swift": {
     "created": "2025-01-07T13:16:25Z",
     "duration": 15,
