@@ -10854,6 +10854,15 @@
     "stars": 75,
     "status": "success"
   },
+  "mattpolzin/OpenAPIDiff": {
+    "created": "2025-01-07T05:42:45Z",
+    "duration": 13,
+    "modified": "2025-01-07T05:42:45Z",
+    "repo": "https://github.com/mattpolzin/OpenAPIDiff.git",
+    "runid": 12645653000,
+    "stars": 8,
+    "status": "failure"
+  },
   "mattpolzin/OpenAPIKit": {
     "created": "2025-01-06T19:37:52Z",
     "duration": 35,
