@@ -3690,6 +3690,15 @@
     "runid": 12638963153,
     "status": "success"
   },
+  "bealex/Macaroni": {
+    "created": "2025-01-07T01:06:46Z",
+    "duration": 7,
+    "modified": "2025-01-07T01:06:46Z",
+    "repo": "https://github.com/bealex/Macaroni.git",
+    "runid": 12641986754,
+    "stars": 13,
+    "status": "success"
+  },
   "bengottlieb/marcel": {
     "created": "2025-01-06T23:42:37Z",
     "duration": 6,
