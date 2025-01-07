@@ -22847,6 +22847,15 @@
     "stars": 1159,
     "status": "failure"
   },
+  "swift-server/swift-backtrace": {
+    "created": "2025-01-07T12:44:34Z",
+    "duration": 14,
+    "modified": "2025-01-07T12:44:34Z",
+    "repo": "https://github.com/swift-server/swift-backtrace.git",
+    "runid": 12651715076,
+    "stars": 294,
+    "status": "failure"
+  },
   "swift-server/swift-openapi-async-http-client": {
     "created": "2025-01-07T03:42:20Z",
     "duration": 55,
