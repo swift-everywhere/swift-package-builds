@@ -4425,6 +4425,15 @@
     "stars": 472,
     "status": "failure"
   },
+  "LimeThaw/emu": {
+    "created": "2025-01-07T14:36:54Z",
+    "duration": 8,
+    "modified": "2025-01-07T14:36:54Z",
+    "repo": "https://github.com/LimeThaw/emu.git",
+    "runid": 12652509868,
+    "stars": 1,
+    "status": "failure"
+  },
   "LinusSkucas/ShortcutsKit": {
     "created": "2025-01-07T00:24:17Z",
     "duration": 8,
