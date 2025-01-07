@@ -11479,6 +11479,15 @@
     "stars": 43,
     "status": "success"
   },
+  "tgrapperon/swift-dependencies-additions": {
+    "created": "2025-01-07T02:55:10Z",
+    "duration": 34,
+    "modified": "2025-01-07T02:55:10Z",
+    "repo": "https://github.com/tgrapperon/swift-dependencies-additions.git",
+    "runid": 12644277556,
+    "stars": 307,
+    "status": "failure"
+  },
   "tgu/BinaryCoder": {
     "created": "2025-01-06T17:43:58Z",
     "duration": 8,
