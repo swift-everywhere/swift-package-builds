@@ -19119,6 +19119,15 @@
     "stars": 42,
     "status": "success"
   },
+  "tuist/FileSystem": {
+    "created": "2025-01-07T08:48:16Z",
+    "duration": 20,
+    "modified": "2025-01-07T08:48:17Z",
+    "repo": "https://github.com/tuist/FileSystem.git",
+    "runid": 12647794335,
+    "stars": 22,
+    "status": "failure"
+  },
   "tuist/GraphViz": {
     "created": "2025-01-07T05:25:49Z",
     "duration": 8,
