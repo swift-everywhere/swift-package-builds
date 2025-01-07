@@ -16471,11 +16471,11 @@
   },
   "hummingbird-project/hummingbird": {
     "created": "2025-01-07T03:00:52Z",
-    "duration": 26,
-    "modified": "2025-01-07T03:00:52Z",
+    "duration": 24,
+    "modified": "2025-01-07T21:49:19Z",
     "repo": "https://github.com/hummingbird-project/hummingbird.git",
-    "runid": 12644277556,
-    "stars": 1278,
+    "runid": 12659472889,
+    "stars": 1279,
     "status": "failure"
   },
   "hummingbird-project/hummingbird-auth": {
