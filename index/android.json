@@ -3045,6 +3045,15 @@
     "stars": 9,
     "status": "failure"
   },
+  "Neo4j-Swift/Neo4j-Swift": {
+    "created": "2025-01-07T05:30:22Z",
+    "duration": 60,
+    "modified": "2025-01-07T05:30:22Z",
+    "repo": "https://github.com/Neo4j-Swift/Neo4j-Swift.git",
+    "runid": 12645653000,
+    "stars": 91,
+    "status": "failure"
+  },
   "Neo4j-Swift/PackStream-Swift": {
     "created": "2025-01-07T01:47:04Z",
     "duration": 7,
