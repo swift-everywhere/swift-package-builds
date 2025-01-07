@@ -4778,6 +4778,15 @@
     "stars": 0,
     "status": "success"
   },
+  "SwiftFiddle/swiftfiddle-web": {
+    "created": "2025-01-07T06:47:24Z",
+    "duration": 35,
+    "modified": "2025-01-07T06:47:24Z",
+    "repo": "https://github.com/SwiftFiddle/swiftfiddle-web.git",
+    "runid": 12646377141,
+    "stars": 216,
+    "status": "failure"
+  },
   "SwiftGFX/SwiftMath": {
     "created": "2025-01-07T05:27:37Z",
     "duration": 12,
