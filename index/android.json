@@ -4475,6 +4475,15 @@
     "stars": 2,
     "status": "success"
   },
+  "SusanDoggie/libjpeg": {
+    "created": "2025-01-07T06:02:00Z",
+    "duration": 1,
+    "modified": "2025-01-07T06:02:00Z",
+    "repo": "https://github.com/SusanDoggie/libjpeg.git",
+    "runid": 12645653000,
+    "stars": 1,
+    "status": "failure"
+  },
   "SwifQL/Bridges": {
     "created": "2025-01-07T05:10:12Z",
     "duration": 76,
