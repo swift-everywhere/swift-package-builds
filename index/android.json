@@ -6548,6 +6548,15 @@
     "stars": 3,
     "status": "success"
   },
+  "SwiftyLinkerKit/LinkerKitIRCBot": {
+    "created": "2025-01-07T10:36:38Z",
+    "duration": 17,
+    "modified": "2025-01-07T10:36:38Z",
+    "repo": "https://github.com/SwiftyLinkerKit/LinkerKitIRCBot.git",
+    "runid": 12649615878,
+    "stars": 1,
+    "status": "failure"
+  },
   "SwiftyLinkerKit/SwiftyLinkerKit": {
     "created": "2025-01-06T20:52:13Z",
     "duration": 9,
