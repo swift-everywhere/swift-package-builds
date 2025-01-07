@@ -9082,6 +9082,15 @@
     "stars": 8,
     "status": "failure"
   },
+  "jonreid/ExpectToEventuallyEqual": {
+    "created": "2025-01-07T05:01:20Z",
+    "duration": 6,
+    "modified": "2025-01-07T05:01:20Z",
+    "repo": "https://github.com/jonreid/ExpectToEventuallyEqual.git",
+    "runid": 12645351961,
+    "stars": 5,
+    "status": "success"
+  },
   "jordanbaird/Restore": {
     "created": "2025-01-07T03:45:39Z",
     "duration": 14,
