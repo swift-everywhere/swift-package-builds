@@ -8786,6 +8786,15 @@
     "stars": 26,
     "status": "failure"
   },
+  "vapor/leaf": {
+    "created": "2025-01-07T00:32:33Z",
+    "duration": 27,
+    "modified": "2025-01-07T00:32:33Z",
+    "repo": "https://github.com/vapor/leaf.git",
+    "runid": 12641986754,
+    "stars": 446,
+    "status": "failure"
+  },
   "vapor/multipart-kit": {
     "created": "2025-01-07T00:25:21Z",
     "duration": 35,
