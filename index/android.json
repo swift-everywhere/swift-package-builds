@@ -6797,9 +6797,9 @@
   "ReadEval/ContentSecurityPolicy": {
     "created": "2025-01-07T02:35:07Z",
     "duration": 7,
-    "modified": "2025-01-07T17:22:12Z",
+    "modified": "2025-01-07T19:41:12Z",
     "repo": "https://github.com/ReadEval/ContentSecurityPolicy.git",
-    "runid": 12656035496,
+    "runid": 12658091539,
     "stars": 11,
     "status": "success"
   },
