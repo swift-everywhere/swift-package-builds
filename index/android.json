@@ -10081,6 +10081,15 @@
     "stars": 7,
     "status": "success"
   },
+  "cellular/cellular-swift": {
+    "created": "2025-01-07T12:01:05Z",
+    "duration": 7,
+    "modified": "2025-01-07T12:01:05Z",
+    "repo": "https://github.com/cellular/cellular-swift.git",
+    "runid": 12650476881,
+    "stars": 2,
+    "status": "success"
+  },
   "cenkbilgen/StringsCatalogKit": {
     "created": "2025-01-07T07:33:10Z",
     "duration": 11,
