@@ -3768,6 +3768,15 @@
     "stars": 23,
     "status": "success"
   },
+  "broadwaylamb/GottaGoFast": {
+    "created": "2025-01-07T00:53:35Z",
+    "duration": 9,
+    "modified": "2025-01-07T00:53:35Z",
+    "repo": "https://github.com/broadwaylamb/GottaGoFast.git",
+    "runid": 12641986754,
+    "stars": 1,
+    "status": "failure"
+  },
   "brokenhandsio/cmark-gfm": {
     "created": "2025-01-06T18:06:06Z",
     "duration": 2,
