@@ -5546,6 +5546,15 @@
     "runid": 12638963153,
     "status": "failure"
   },
+  "lucaswkuipers/SafeTypes": {
+    "created": "2025-01-07T00:09:58Z",
+    "duration": 4,
+    "modified": "2025-01-07T00:09:58Z",
+    "repo": "https://github.com/lucaswkuipers/SafeTypes.git",
+    "runid": 12641986754,
+    "stars": 11,
+    "status": "success"
+  },
   "m-housh/FSMCSVModels": {
     "created": "2025-01-06T22:11:19Z",
     "duration": 6,
