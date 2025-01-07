@@ -22878,6 +22878,15 @@
     "stars": 2306,
     "status": "failure"
   },
+  "yonaskolb/Stringly": {
+    "created": "2025-01-07T10:33:05Z",
+    "duration": 18,
+    "modified": "2025-01-07T10:33:05Z",
+    "repo": "https://github.com/yonaskolb/Stringly.git",
+    "runid": 12649615878,
+    "stars": 18,
+    "status": "failure"
+  },
   "yonaskolb/SwagGen": {
     "created": "2025-01-07T05:23:24Z",
     "duration": 21,
