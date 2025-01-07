@@ -5796,6 +5796,15 @@
     "stars": 57,
     "status": "failure"
   },
+  "mattpolzin/swift-test-codecov": {
+    "created": "2025-01-07T00:16:50Z",
+    "duration": 9,
+    "modified": "2025-01-07T00:16:50Z",
+    "repo": "https://github.com/mattpolzin/swift-test-codecov.git",
+    "runid": 12641986754,
+    "stars": 49,
+    "status": "failure"
+  },
   "meech-ward/Focus": {
     "created": "2025-01-06T17:39:03Z",
     "duration": 7,
