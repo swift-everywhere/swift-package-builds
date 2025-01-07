@@ -21432,9 +21432,10 @@
   "tevelee/Tuxedo": {
     "created": "2025-01-06T20:31:04Z",
     "duration": 16,
-    "modified": "2025-01-06T20:31:04Z",
+    "modified": "2025-01-07T10:53:49Z",
     "repo": "https://github.com/tevelee/Tuxedo.git",
-    "runid": 12638963153,
+    "runid": 12649615878,
+    "stars": 88,
     "status": "failure"
   },
   "tevelee/swift-graphs": {
