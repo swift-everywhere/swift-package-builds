@@ -5252,9 +5252,10 @@
   "aus-der-Technik/SwiftyNats": {
     "created": "2025-01-06T19:46:26Z",
     "duration": 27,
-    "modified": "2025-01-06T19:46:26Z",
+    "modified": "2025-01-07T04:09:13Z",
     "repo": "https://github.com/aus-der-Technik/SwiftyNats.git",
-    "runid": 12638963153,
+    "runid": 12644606839,
+    "stars": 30,
     "status": "failure"
   },
   "aws-amplify/aws-sdk-ios-spm": {
