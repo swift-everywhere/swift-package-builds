@@ -11180,6 +11180,15 @@
     "stars": 190,
     "status": "failure"
   },
+  "vapor/redis": {
+    "created": "2025-01-07T02:07:48Z",
+    "duration": 35,
+    "modified": "2025-01-07T02:07:48Z",
+    "repo": "https://github.com/vapor/redis.git",
+    "runid": 12643524602,
+    "stars": 460,
+    "status": "failure"
+  },
   "vapor/redis-kit": {
     "created": "2025-01-07T01:06:22Z",
     "duration": 15,
