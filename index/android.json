@@ -8253,9 +8253,10 @@
   "erica/lns": {
     "created": "2025-01-06T20:25:40Z",
     "duration": 9,
-    "modified": "2025-01-06T20:25:40Z",
+    "modified": "2025-01-07T06:31:39Z",
     "repo": "https://github.com/erica/lns.git",
-    "runid": 12638963153,
+    "runid": 12646377141,
+    "stars": 11,
     "status": "failure"
   },
   "erica/show": {
