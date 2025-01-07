@@ -5158,11 +5158,11 @@
   },
   "MihaelIsaev/FCM": {
     "created": "2025-01-07T10:22:21Z",
-    "duration": 55,
-    "modified": "2025-01-07T10:22:21Z",
+    "duration": 40,
+    "modified": "2025-01-07T22:23:01Z",
     "repo": "https://github.com/MihaelIsaev/FCM.git",
-    "runid": 12649615878,
-    "stars": 127,
+    "runid": 12660245106,
+    "stars": 128,
     "status": "failure"
   },
   "MihaelIsaev/Localizer": {
