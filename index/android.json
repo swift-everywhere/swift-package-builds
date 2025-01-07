@@ -14920,6 +14920,15 @@
     "stars": 25,
     "status": "success"
   },
+  "yuchan-archive/multiple-package-sample": {
+    "created": "2025-01-07T04:52:36Z",
+    "duration": 2,
+    "modified": "2025-01-07T04:52:36Z",
+    "repo": "https://github.com/yuchan-archive/multiple-package-sample.git",
+    "runid": 12645351961,
+    "stars": 1,
+    "status": "failure"
+  },
   "yukanamori/RandomPasswordGenerator": {
     "created": "2025-01-06T21:06:41Z",
     "duration": 6,
