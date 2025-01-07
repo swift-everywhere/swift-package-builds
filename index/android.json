@@ -5621,6 +5621,15 @@
     "runid": 12637757100,
     "status": "success"
   },
+  "cesarferreira/SwiftEventBus": {
+    "created": "2025-01-07T03:53:20Z",
+    "duration": 6,
+    "modified": "2025-01-07T03:53:20Z",
+    "repo": "https://github.com/cesarferreira/SwiftEventBus.git",
+    "runid": 12644606839,
+    "stars": 1111,
+    "status": "success"
+  },
   "cherrywoods/swift-meta-serialization": {
     "created": "2025-01-06T19:54:44Z",
     "duration": 16,
