@@ -3873,6 +3873,15 @@
     "stars": 2,
     "status": "failure"
   },
+  "capnslipp/NilCoalescingAssignmentOperators": {
+    "created": "2025-01-07T00:57:59Z",
+    "duration": 3,
+    "modified": "2025-01-07T00:57:59Z",
+    "repo": "https://github.com/capnslipp/NilCoalescingAssignmentOperators.git",
+    "runid": 12641986754,
+    "stars": 2,
+    "status": "success"
+  },
   "capnslipp/Tribool": {
     "created": "2025-01-06T18:10:00Z",
     "duration": 6,
