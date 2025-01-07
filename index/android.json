@@ -14527,6 +14527,15 @@
     "stars": 1,
     "status": "success"
   },
+  "myhealthily/sublimate": {
+    "created": "2025-01-07T08:51:53Z",
+    "duration": 25,
+    "modified": "2025-01-07T08:51:53Z",
+    "repo": "https://github.com/myhealthily/sublimate.git",
+    "runid": 12647794335,
+    "stars": 64,
+    "status": "failure"
+  },
   "nakajima/LilHTML": {
     "created": "2025-01-07T05:57:18Z",
     "duration": 7,
