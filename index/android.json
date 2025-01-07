@@ -14312,6 +14312,15 @@
     "stars": 0,
     "status": "success"
   },
+  "thebarndog/swift-dotenv": {
+    "created": "2025-01-07T05:19:53Z",
+    "duration": 6,
+    "modified": "2025-01-07T05:19:53Z",
+    "repo": "https://github.com/thebarndog/swift-dotenv.git",
+    "runid": 12645653000,
+    "stars": 33,
+    "status": "failure"
+  },
   "theblixguy/Once": {
     "created": "2025-01-06T21:05:39Z",
     "duration": 5,
