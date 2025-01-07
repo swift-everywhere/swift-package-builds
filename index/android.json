@@ -1660,6 +1660,15 @@
     "stars": 19,
     "status": "failure"
   },
+  "Kitura/Kitura-StencilTemplateEngine": {
+    "created": "2025-01-07T01:40:42Z",
+    "duration": 10,
+    "modified": "2025-01-07T01:40:42Z",
+    "repo": "https://github.com/Kitura/Kitura-StencilTemplateEngine.git",
+    "runid": 12643524602,
+    "stars": 27,
+    "status": "failure"
+  },
   "Kitura/LoggerAPI": {
     "created": "2025-01-06T22:53:06Z",
     "duration": 8,
