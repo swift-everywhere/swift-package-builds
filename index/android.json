@@ -2704,6 +2704,15 @@
     "stars": 100,
     "status": "failure"
   },
+  "MaxDesiatov/Typology": {
+    "created": "2025-01-07T05:14:10Z",
+    "duration": 15,
+    "modified": "2025-01-07T05:14:10Z",
+    "repo": "https://github.com/MaxDesiatov/Typology.git",
+    "runid": 12645351961,
+    "stars": 81,
+    "status": "failure"
+  },
   "MaxHaertwig/ANTLR4-Swift": {
     "created": "2025-01-06T23:38:08Z",
     "duration": 13,
