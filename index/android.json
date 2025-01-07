@@ -5913,6 +5913,15 @@
     "stars": 3,
     "status": "failure"
   },
+  "dn-m/Math": {
+    "created": "2025-01-07T03:09:07Z",
+    "duration": 12,
+    "modified": "2025-01-07T03:09:07Z",
+    "repo": "https://github.com/dn-m/Math.git",
+    "runid": 12644277556,
+    "stars": 3,
+    "status": "failure"
+  },
   "dominicegginton/nanoseconds": {
     "created": "2025-01-07T00:45:52Z",
     "duration": 6,
