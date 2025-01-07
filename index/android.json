@@ -6917,6 +6917,15 @@
     "stars": 2,
     "status": "success"
   },
+  "edonv/swift-http-field-types": {
+    "created": "2025-01-07T04:46:21Z",
+    "duration": 5,
+    "modified": "2025-01-07T04:46:21Z",
+    "repo": "https://github.com/edonv/swift-http-field-types.git",
+    "runid": 12645351961,
+    "stars": 0,
+    "status": "failure"
+  },
   "edsonlima19/Constants": {
     "created": "2025-01-07T04:09:34Z",
     "duration": 4,
