@@ -68,6 +68,15 @@
     "runid": 12637757100,
     "status": "success"
   },
+  "0xLet/SwiftFu": {
+    "created": "2025-01-07T01:12:07Z",
+    "duration": 7,
+    "modified": "2025-01-07T01:12:07Z",
+    "repo": "https://github.com/0xLet/SwiftFu.git",
+    "runid": 12641986754,
+    "stars": 12,
+    "status": "failure"
+  },
   "0xWDG/PHPFramework": {
     "created": "2025-01-06T22:54:39Z",
     "duration": 9,
