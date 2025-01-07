@@ -13674,6 +13674,15 @@
     "stars": 0,
     "status": "failure"
   },
+  "ilyapuchka/URLFormat": {
+    "created": "2025-01-07T11:14:49Z",
+    "duration": 12,
+    "modified": "2025-01-07T11:14:49Z",
+    "repo": "https://github.com/ilyapuchka/URLFormat.git",
+    "runid": 12649615878,
+    "stars": 212,
+    "status": "success"
+  },
   "ilyapuchka/common-parsers": {
     "created": "2025-01-07T09:43:17Z",
     "duration": 9,
