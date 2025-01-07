@@ -17746,6 +17746,15 @@
     "stars": 1016,
     "status": "success"
   },
+  "taji-taji/DangerSwiftPeriphery": {
+    "created": "2025-01-07T08:21:12Z",
+    "duration": 20,
+    "modified": "2025-01-07T08:21:12Z",
+    "repo": "https://github.com/taji-taji/DangerSwiftPeriphery.git",
+    "runid": 12646951061,
+    "stars": 11,
+    "status": "failure"
+  },
   "taji-taji/SemanticVersioning": {
     "created": "2025-01-07T03:18:00Z",
     "duration": 94,
