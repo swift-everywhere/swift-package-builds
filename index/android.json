@@ -14128,6 +14128,15 @@
     "stars": 50,
     "status": "failure"
   },
+  "jagreenwood/open-weather-kit": {
+    "created": "2025-01-07T11:38:37Z",
+    "duration": 20,
+    "modified": "2025-01-07T11:38:37Z",
+    "repo": "https://github.com/jagreenwood/open-weather-kit.git",
+    "runid": 12650476881,
+    "stars": 27,
+    "status": "failure"
+  },
   "jagreenwood/swift-log-datadog": {
     "created": "2025-01-07T01:55:32Z",
     "duration": 51,
