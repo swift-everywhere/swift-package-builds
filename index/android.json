@@ -693,6 +693,15 @@
     "stars": 158,
     "status": "success"
   },
+  "Bersaelor/SwiftyHYGDB": {
+    "created": "2025-01-07T07:12:10Z",
+    "duration": 8,
+    "modified": "2025-01-07T07:12:10Z",
+    "repo": "https://github.com/Bersaelor/SwiftyHYGDB.git",
+    "runid": 12646377141,
+    "stars": 9,
+    "status": "failure"
+  },
   "BikeCalc/swift-measures": {
     "created": "2025-01-06T23:10:56Z",
     "duration": 15,
