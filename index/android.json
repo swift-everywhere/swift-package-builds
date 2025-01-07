@@ -8423,6 +8423,15 @@
     "runid": 12637148220,
     "status": "success"
   },
+  "kasei/diomede": {
+    "created": "2025-01-07T03:44:38Z",
+    "duration": 23,
+    "modified": "2025-01-07T03:44:38Z",
+    "repo": "https://github.com/kasei/diomede.git",
+    "runid": 12644606839,
+    "stars": 10,
+    "status": "failure"
+  },
   "kasei/swift-sparql-syntax": {
     "created": "2025-01-06T22:06:35Z",
     "duration": 18,
