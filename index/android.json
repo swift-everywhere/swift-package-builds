@@ -6319,10 +6319,10 @@
   },
   "PerfectlySoft/Perfect-SQLite": {
     "created": "2025-01-06T22:11:29Z",
-    "duration": 9,
-    "modified": "2025-01-06T22:11:29Z",
+    "duration": 11,
+    "modified": "2025-01-07T21:57:48Z",
     "repo": "https://github.com/PerfectlySoft/Perfect-SQLite.git",
-    "runid": 12640899049,
+    "runid": 12659472889,
     "stars": 50,
     "status": "failure"
   },
