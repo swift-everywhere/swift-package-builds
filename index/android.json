@@ -12023,6 +12023,15 @@
     "stars": 0,
     "status": "failure"
   },
+  "dreymonde/Delegated": {
+    "created": "2025-01-07T12:42:47Z",
+    "duration": 3,
+    "modified": "2025-01-07T12:42:47Z",
+    "repo": "https://github.com/dreymonde/Delegated.git",
+    "runid": 12651715076,
+    "stars": 703,
+    "status": "success"
+  },
   "dreymonde/NiceNotifications": {
     "created": "2025-01-07T09:56:27Z",
     "duration": 9,
