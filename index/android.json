@@ -573,6 +573,15 @@
     "stars": 6,
     "status": "success"
   },
+  "AppLovin/AppLovin-MAX-Swift-Package": {
+    "created": "2025-01-07T12:45:53Z",
+    "duration": 5,
+    "modified": "2025-01-07T12:45:53Z",
+    "repo": "https://github.com/AppLovin/AppLovin-MAX-Swift-Package.git",
+    "runid": 12651715076,
+    "stars": 9,
+    "status": "success"
+  },
   "Appsaurus/Avatars": {
     "created": "2025-01-06T17:26:56Z",
     "duration": 8,
