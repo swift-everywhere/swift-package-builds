@@ -8489,6 +8489,15 @@
     "stars": 380,
     "status": "failure"
   },
+  "devxoul/RxJSON": {
+    "created": "2025-01-07T07:40:21Z",
+    "duration": 12,
+    "modified": "2025-01-07T07:40:21Z",
+    "repo": "https://github.com/devxoul/RxJSON.git",
+    "runid": 12646951061,
+    "stars": 33,
+    "status": "failure"
+  },
   "devxoul/Stubber": {
     "created": "2025-01-06T20:29:50Z",
     "duration": 7,
