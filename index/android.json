@@ -3097,6 +3097,15 @@
     "stars": 1,
     "status": "failure"
   },
+  "Prosumma/Iatheto": {
+    "created": "2025-01-07T03:53:04Z",
+    "duration": 6,
+    "modified": "2025-01-07T03:53:04Z",
+    "repo": "https://github.com/Prosumma/Iatheto.git",
+    "runid": 12644606839,
+    "stars": 1,
+    "status": "success"
+  },
   "Purchasely/Purchasely-iOS": {
     "created": "2025-01-07T01:43:10Z",
     "duration": 4,
