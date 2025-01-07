@@ -23464,10 +23464,10 @@
   },
   "rhx/gir2swift": {
     "created": "2025-01-06T22:31:15Z",
-    "duration": 9,
-    "modified": "2025-01-06T22:31:15Z",
+    "duration": 11,
+    "modified": "2025-01-07T16:47:47Z",
     "repo": "https://github.com/rhx/gir2swift.git",
-    "runid": 12641431024,
+    "runid": 12655360195,
     "stars": 24,
     "status": "failure"
   },
