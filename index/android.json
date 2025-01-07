@@ -1279,6 +1279,15 @@
     "stars": 1,
     "status": "success"
   },
+  "GoodHatsLLC/StateTree": {
+    "created": "2025-01-07T01:47:38Z",
+    "duration": 25,
+    "modified": "2025-01-07T01:47:38Z",
+    "repo": "https://github.com/GoodHatsLLC/StateTree.git",
+    "runid": 12643524602,
+    "stars": 6,
+    "status": "failure"
+  },
   "GoogleCloudPlatform/recaptcha-enterprise-mobile-sdk": {
     "created": "2025-01-07T00:47:44Z",
     "duration": 8,
