@@ -20485,6 +20485,15 @@
     "stars": 0,
     "status": "success"
   },
+  "sloik/EitherSwift": {
+    "created": "2025-01-07T11:30:11Z",
+    "duration": 7,
+    "modified": "2025-01-07T11:30:11Z",
+    "repo": "https://github.com/sloik/EitherSwift.git",
+    "runid": 12650476881,
+    "stars": 2,
+    "status": "success"
+  },
   "sloik/ExTests": {
     "created": "2025-01-06T20:25:54Z",
     "duration": 7,
