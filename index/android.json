@@ -3133,10 +3133,10 @@
   },
   "Genaro-Chris/swift-concurrency-primitives": {
     "created": "2025-01-07T00:30:40Z",
-    "duration": 6,
-    "modified": "2025-01-07T00:30:40Z",
+    "duration": 7,
+    "modified": "2025-01-07T17:09:21Z",
     "repo": "https://github.com/Genaro-Chris/swift-concurrency-primitives.git",
-    "runid": 12641986754,
+    "runid": 12655360195,
     "stars": 10,
     "status": "failure"
   },
