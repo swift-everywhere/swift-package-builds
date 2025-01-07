@@ -19993,6 +19993,15 @@
     "stars": 106,
     "status": "failure"
   },
+  "vapor-community/vapor-elementary": {
+    "created": "2025-01-07T09:02:11Z",
+    "duration": 33,
+    "modified": "2025-01-07T09:02:11Z",
+    "repo": "https://github.com/vapor-community/vapor-elementary.git",
+    "runid": 12647794335,
+    "stars": 4,
+    "status": "failure"
+  },
   "vapor-community/vapor-sitemap": {
     "created": "2025-01-06T17:38:14Z",
     "duration": 33,
