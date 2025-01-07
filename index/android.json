@@ -27308,6 +27308,15 @@
     "stars": 204,
     "status": "failure"
   },
+  "wlisac/environment": {
+    "created": "2025-01-07T13:53:27Z",
+    "duration": 7,
+    "modified": "2025-01-07T13:53:27Z",
+    "repo": "https://github.com/wlisac/environment.git",
+    "runid": 12652509868,
+    "stars": 30,
+    "status": "failure"
+  },
   "wlisac/swift-log-slack": {
     "created": "2025-01-06T23:41:09Z",
     "duration": 4,
