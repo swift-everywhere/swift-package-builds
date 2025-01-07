@@ -2154,10 +2154,11 @@
   },
   "IBM/swift-sdk-core": {
     "created": "2025-01-06T20:15:23Z",
-    "duration": 7,
-    "modified": "2025-01-06T20:15:23Z",
+    "duration": 8,
+    "modified": "2025-01-07T07:15:58Z",
     "repo": "https://github.com/IBM/swift-sdk-core.git",
-    "runid": 12638963153,
+    "runid": 12646377141,
+    "stars": 4,
     "status": "failure"
   },
   "IndiePitcher/indiepitcher-swift": {
