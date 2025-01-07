@@ -12796,6 +12796,15 @@
     "stars": 0,
     "status": "failure"
   },
+  "futuredapp/FTAPIKit": {
+    "created": "2025-01-07T11:54:33Z",
+    "duration": 7,
+    "modified": "2025-01-07T11:54:33Z",
+    "repo": "https://github.com/futuredapp/FTAPIKit.git",
+    "runid": 12650476881,
+    "stars": 20,
+    "status": "failure"
+  },
   "futuredapp/futured-macros": {
     "created": "2025-01-07T06:41:05Z",
     "duration": 94,
