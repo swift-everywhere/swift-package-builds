@@ -12344,6 +12344,15 @@
     "runid": 12638963153,
     "status": "success"
   },
+  "onevcat/FengNiao": {
+    "created": "2025-01-07T06:10:10Z",
+    "duration": 10,
+    "modified": "2025-01-07T06:10:10Z",
+    "repo": "https://github.com/onevcat/FengNiao.git",
+    "runid": 12645653000,
+    "stars": 3429,
+    "status": "failure"
+  },
   "onevcat/Rainbow": {
     "created": "2025-01-06T20:58:07Z",
     "duration": 7,
