@@ -6602,6 +6602,15 @@
     "stars": 22,
     "status": "success"
   },
+  "asensei/vapor-auth-jwt": {
+    "created": "2025-01-07T07:33:51Z",
+    "duration": 31,
+    "modified": "2025-01-07T07:33:51Z",
+    "repo": "https://github.com/asensei/vapor-auth-jwt.git",
+    "runid": 12646951061,
+    "stars": 5,
+    "status": "failure"
+  },
   "asensei/vapor-fluent-mongo": {
     "created": "2025-01-06T19:26:25Z",
     "duration": 50,
