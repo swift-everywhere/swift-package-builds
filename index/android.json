@@ -3205,10 +3205,10 @@
   },
   "GettEngineering/Prism": {
     "created": "2025-01-07T00:24:45Z",
-    "duration": 16,
-    "modified": "2025-01-07T00:24:45Z",
+    "duration": 19,
+    "modified": "2025-01-07T18:44:00Z",
     "repo": "https://github.com/GettEngineering/Prism.git",
-    "runid": 12641986754,
+    "runid": 12657091582,
     "stars": 362,
     "status": "failure"
   },
