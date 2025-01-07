@@ -11070,6 +11070,15 @@
     "stars": 62,
     "status": "failure"
   },
+  "netreconlab/ParseCertificateAuthority": {
+    "created": "2025-01-07T05:16:51Z",
+    "duration": 20,
+    "modified": "2025-01-07T05:16:51Z",
+    "repo": "https://github.com/netreconlab/ParseCertificateAuthority.git",
+    "runid": 12645351961,
+    "stars": 2,
+    "status": "failure"
+  },
   "nextincrement/simple-asn1-reader-writer": {
     "created": "2025-01-06T23:12:31Z",
     "duration": 6,
