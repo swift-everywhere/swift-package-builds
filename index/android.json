@@ -3333,6 +3333,15 @@
     "runid": 12638963153,
     "status": "success"
   },
+  "SocketMobile/swift-package-capturesdk": {
+    "created": "2025-01-07T03:05:55Z",
+    "duration": 17,
+    "modified": "2025-01-07T03:05:55Z",
+    "repo": "https://github.com/SocketMobile/swift-package-capturesdk.git",
+    "runid": 12644277556,
+    "stars": 9,
+    "status": "failure"
+  },
   "SoftwareEngineerChris/MonetaryAmount": {
     "created": "2025-01-06T23:17:44Z",
     "duration": 10,
