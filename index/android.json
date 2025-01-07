@@ -18651,6 +18651,15 @@
     "stars": 4,
     "status": "success"
   },
+  "realm/SwiftLint": {
+    "created": "2025-01-07T10:58:47Z",
+    "duration": 23,
+    "modified": "2025-01-07T10:58:47Z",
+    "repo": "https://github.com/realm/SwiftLint.git",
+    "runid": 12649615878,
+    "stars": 18753,
+    "status": "failure"
+  },
   "recp/cglm": {
     "created": "2025-01-07T06:42:10Z",
     "duration": 5,
