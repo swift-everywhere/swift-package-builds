@@ -10751,6 +10751,15 @@
     "stars": 58,
     "status": "failure"
   },
+  "vapor/fluent": {
+    "created": "2025-01-07T01:53:01Z",
+    "duration": 36,
+    "modified": "2025-01-07T01:53:01Z",
+    "repo": "https://github.com/vapor/fluent.git",
+    "runid": 12643524602,
+    "stars": 1333,
+    "status": "failure"
+  },
   "vapor/fluent-mongo-driver": {
     "created": "2025-01-06T22:01:35Z",
     "duration": 21,
