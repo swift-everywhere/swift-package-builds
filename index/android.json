@@ -14388,6 +14388,15 @@
     "stars": 1468,
     "status": "success"
   },
+  "malcommac/SwiftMsgPack": {
+    "created": "2025-01-07T09:51:44Z",
+    "duration": 7,
+    "modified": "2025-01-07T09:51:44Z",
+    "repo": "https://github.com/malcommac/SwiftMsgPack.git",
+    "runid": 12648641718,
+    "stars": 155,
+    "status": "success"
+  },
   "malcommac/SwiftScanner": {
     "created": "2025-01-07T08:19:42Z",
     "duration": 7,
