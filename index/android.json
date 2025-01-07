@@ -14695,6 +14695,15 @@
     "stars": 9779,
     "status": "failure"
   },
+  "steven851007/XcodeMergeDriver": {
+    "created": "2025-01-07T06:33:57Z",
+    "duration": 11,
+    "modified": "2025-01-07T06:33:57Z",
+    "repo": "https://github.com/steven851007/XcodeMergeDriver.git",
+    "runid": 12646377141,
+    "stars": 20,
+    "status": "failure"
+  },
   "supabase-community/storage-swift": {
     "created": "2025-01-06T21:21:10Z",
     "duration": 7,
