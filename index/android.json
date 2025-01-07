@@ -5162,6 +5162,15 @@
     "runid": 12637148220,
     "status": "failure"
   },
+  "apple/swift-openapi-runtime": {
+    "created": "2025-01-07T04:17:42Z",
+    "duration": 14,
+    "modified": "2025-01-07T04:17:42Z",
+    "repo": "https://github.com/apple/swift-openapi-runtime.git",
+    "runid": 12644606839,
+    "stars": 189,
+    "status": "success"
+  },
   "apple/swift-openapi-urlsession": {
     "created": "2025-01-06T22:08:42Z",
     "duration": 19,
