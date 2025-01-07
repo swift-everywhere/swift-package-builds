@@ -28312,6 +28312,15 @@
     "stars": 8,
     "status": "success"
   },
+  "yumemi-inc/RepresentableKit": {
+    "created": "2025-01-07T14:12:33Z",
+    "duration": 4,
+    "modified": "2025-01-07T14:12:33Z",
+    "repo": "https://github.com/yumemi-inc/RepresentableKit.git",
+    "runid": 12652509868,
+    "stars": 68,
+    "status": "success"
+  },
   "yumemi-inc/danger-swift-eda": {
     "created": "2025-01-06T22:07:16Z",
     "duration": 16,
