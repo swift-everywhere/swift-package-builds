@@ -16075,10 +16075,10 @@
   },
   "happn-app/SemiSingleton": {
     "created": "2025-01-06T22:56:08Z",
-    "duration": 5,
-    "modified": "2025-01-06T22:56:08Z",
+    "duration": 6,
+    "modified": "2025-01-07T22:01:45Z",
     "repo": "https://github.com/happn-app/SemiSingleton.git",
-    "runid": 12641431024,
+    "runid": 12659472889,
     "stars": 2,
     "status": "failure"
   },
