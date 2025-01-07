@@ -9407,6 +9407,15 @@
     "runid": 12637148220,
     "status": "success"
   },
+  "fireblade-engine/ecs": {
+    "created": "2025-01-07T07:45:08Z",
+    "duration": 18,
+    "modified": "2025-01-07T07:45:08Z",
+    "repo": "https://github.com/fireblade-engine/ecs.git",
+    "runid": 12646951061,
+    "stars": 114,
+    "status": "success"
+  },
   "fireblade-engine/math": {
     "created": "2025-01-06T21:18:21Z",
     "duration": 6,
