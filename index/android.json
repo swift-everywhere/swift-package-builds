@@ -14228,6 +14228,15 @@
     "stars": 20,
     "status": "failure"
   },
+  "futuredapp/FTTestingKit": {
+    "created": "2025-01-07T13:48:57Z",
+    "duration": 21,
+    "modified": "2025-01-07T13:48:57Z",
+    "repo": "https://github.com/futuredapp/FTTestingKit.git",
+    "runid": 12652509868,
+    "stars": 1,
+    "status": "success"
+  },
   "futuredapp/futured-macros": {
     "created": "2025-01-07T06:41:05Z",
     "duration": 94,
