@@ -3214,10 +3214,10 @@
   },
   "GiacomoLeopizzi/agora-dynamic-key-swift": {
     "created": "2025-01-06T17:31:56Z",
-    "duration": 53,
-    "modified": "2025-01-06T23:52:09Z",
+    "duration": 54,
+    "modified": "2025-01-07T17:05:38Z",
     "repo": "https://github.com/GiacomoLeopizzi/agora-dynamic-key-swift.git",
-    "runid": 12641986754,
+    "runid": 12655360195,
     "stars": 0,
     "status": "failure"
   },
