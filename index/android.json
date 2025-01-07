@@ -10360,10 +10360,10 @@
   },
   "apple/swift-service-discovery": {
     "created": "2025-01-07T00:23:43Z",
-    "duration": 10,
-    "modified": "2025-01-07T00:23:43Z",
+    "duration": 11,
+    "modified": "2025-01-07T18:23:24Z",
     "repo": "https://github.com/apple/swift-service-discovery.git",
-    "runid": 12641986754,
+    "runid": 12656035496,
     "stars": 220,
     "status": "success"
   },
