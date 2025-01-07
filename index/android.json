@@ -5877,6 +5877,15 @@
     "stars": 0,
     "status": "failure"
   },
+  "PicoMLX/PicoAIProxy": {
+    "created": "2025-01-07T13:42:24Z",
+    "duration": 40,
+    "modified": "2025-01-07T13:42:24Z",
+    "repo": "https://github.com/PicoMLX/PicoAIProxy.git",
+    "runid": 12652509868,
+    "stars": 120,
+    "status": "failure"
+  },
   "Plan-V-Studio/DocumentData": {
     "created": "2025-01-07T08:12:22Z",
     "duration": 94,
