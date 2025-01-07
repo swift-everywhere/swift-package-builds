@@ -11747,6 +11747,15 @@
     "stars": 75,
     "status": "success"
   },
+  "dn-m/Structure": {
+    "created": "2025-01-07T12:29:48Z",
+    "duration": 10,
+    "modified": "2025-01-07T12:29:48Z",
+    "repo": "https://github.com/dn-m/Structure.git",
+    "runid": 12650476881,
+    "stars": 5,
+    "status": "success"
+  },
   "dodobrands/DBThreadSafe-ios": {
     "created": "2025-01-07T05:30:30Z",
     "duration": 6,
