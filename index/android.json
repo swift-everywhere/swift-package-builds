@@ -7853,6 +7853,15 @@
     "stars": 61,
     "status": "failure"
   },
+  "sobabear/CoreEngine": {
+    "created": "2025-01-07T00:36:04Z",
+    "duration": 6,
+    "modified": "2025-01-07T00:36:04Z",
+    "repo": "https://github.com/sobabear/CoreEngine.git",
+    "runid": 12641986754,
+    "stars": 44,
+    "status": "success"
+  },
   "soffes/HotKey": {
     "created": "2025-01-06T21:56:55Z",
     "duration": 4,
