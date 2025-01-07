@@ -4527,6 +4527,15 @@
     "stars": 58,
     "status": "failure"
   },
+  "SwiftOnTheServer/SwiftDotEnv": {
+    "created": "2025-01-07T05:58:46Z",
+    "duration": 7,
+    "modified": "2025-01-07T05:58:46Z",
+    "repo": "https://github.com/SwiftOnTheServer/SwiftDotEnv.git",
+    "runid": 12645653000,
+    "stars": 66,
+    "status": "failure"
+  },
   "SwiftPackageIndex/CanonicalPackageURL": {
     "created": "2025-01-06T21:27:00Z",
     "duration": 18,
