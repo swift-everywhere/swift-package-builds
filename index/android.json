@@ -27957,6 +27957,15 @@
     "stars": 43,
     "status": "failure"
   },
+  "zecdev/zcash-swift-payment-uri": {
+    "created": "2025-01-07T13:59:02Z",
+    "duration": 19,
+    "modified": "2025-01-07T13:59:02Z",
+    "repo": "https://github.com/zecdev/zcash-swift-payment-uri.git",
+    "runid": 12652509868,
+    "stars": 2,
+    "status": "failure"
+  },
   "zef/Retry": {
     "created": "2025-01-06T20:29:43Z",
     "duration": 6,
