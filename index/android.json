@@ -9314,10 +9314,11 @@
   },
   "elegantchaos/Arguments": {
     "created": "2025-01-06T19:45:44Z",
-    "duration": 10,
-    "modified": "2025-01-06T19:45:44Z",
+    "duration": 11,
+    "modified": "2025-01-07T08:19:34Z",
     "repo": "https://github.com/elegantchaos/Arguments.git",
-    "runid": 12638963153,
+    "runid": 12646951061,
+    "stars": 0,
     "status": "success"
   },
   "elegantchaos/BuilderConfiguration": {
