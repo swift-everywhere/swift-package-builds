@@ -6130,10 +6130,11 @@
   },
   "daikimat/depermaid": {
     "created": "2025-01-06T18:08:10Z",
-    "duration": 2,
-    "modified": "2025-01-06T18:08:10Z",
+    "duration": 3,
+    "modified": "2025-01-07T04:08:11Z",
     "repo": "https://github.com/daikimat/depermaid.git",
-    "runid": 12637757100,
+    "runid": 12644606839,
+    "stars": 28,
     "status": "success"
   },
   "damuellen/Gnuplot.swift": {
