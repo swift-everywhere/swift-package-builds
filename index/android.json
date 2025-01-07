@@ -8620,6 +8620,15 @@
     "runid": 12637148220,
     "status": "failure"
   },
+  "kudit/ParticleEffects": {
+    "created": "2025-01-07T03:39:50Z",
+    "duration": 8,
+    "modified": "2025-01-07T03:39:50Z",
+    "repo": "https://github.com/kudit/ParticleEffects.git",
+    "runid": 12644606839,
+    "stars": 8,
+    "status": "failure"
+  },
   "kylef-archive/fd": {
     "created": "2025-01-07T01:18:19Z",
     "duration": 18,
