@@ -10342,6 +10342,15 @@
     "stars": 8,
     "status": "success"
   },
+  "mattgallagher/CwlDemangle": {
+    "created": "2025-01-07T05:13:55Z",
+    "duration": 10,
+    "modified": "2025-01-07T05:13:55Z",
+    "repo": "https://github.com/mattgallagher/CwlDemangle.git",
+    "runid": 12645351961,
+    "stars": 121,
+    "status": "success"
+  },
   "mattia/swift-secrecy": {
     "created": "2025-01-07T05:03:04Z",
     "duration": 4,
