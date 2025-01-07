@@ -14550,6 +14550,15 @@
     "stars": 171,
     "status": "success"
   },
+  "malcommac/UAParserSwift": {
+    "created": "2025-01-07T09:59:03Z",
+    "duration": 7,
+    "modified": "2025-01-07T09:59:03Z",
+    "repo": "https://github.com/malcommac/UAParserSwift.git",
+    "runid": 12648641718,
+    "stars": 40,
+    "status": "success"
+  },
   "maniramezan/UserDefaultMacro": {
     "created": "2025-01-06T23:56:45Z",
     "duration": 101,
