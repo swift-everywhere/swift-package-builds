@@ -14129,6 +14129,15 @@
     "stars": 10,
     "status": "failure"
   },
+  "neoneye/SwiftyRelativePath": {
+    "created": "2025-01-07T08:23:05Z",
+    "duration": 6,
+    "modified": "2025-01-07T08:23:05Z",
+    "repo": "https://github.com/neoneye/SwiftyRelativePath.git",
+    "runid": 12646951061,
+    "stars": 9,
+    "status": "success"
+  },
   "neothXT/ListableProperties": {
     "created": "2025-01-06T23:14:02Z",
     "duration": 90,
