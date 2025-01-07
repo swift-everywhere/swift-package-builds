@@ -3273,6 +3273,15 @@
     "stars": 941,
     "status": "failure"
   },
+  "GraphQLSwift/Graphiti": {
+    "created": "2025-01-07T14:40:50Z",
+    "duration": 28,
+    "modified": "2025-01-07T14:40:50Z",
+    "repo": "https://github.com/GraphQLSwift/Graphiti.git",
+    "runid": 12652509868,
+    "stars": 534,
+    "status": "failure"
+  },
   "GratefulGuru/SieveCache": {
     "created": "2025-01-07T14:00:24Z",
     "duration": 7,
