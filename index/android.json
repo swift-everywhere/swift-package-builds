@@ -1377,6 +1377,15 @@
     "stars": 13,
     "status": "success"
   },
+  "Flagsmith/flagsmith-ios-client": {
+    "created": "2025-01-07T05:32:27Z",
+    "duration": 42,
+    "modified": "2025-01-07T05:32:27Z",
+    "repo": "https://github.com/Flagsmith/flagsmith-ios-client.git",
+    "runid": 12645653000,
+    "stars": 17,
+    "status": "success"
+  },
   "Fleuronic/Cubby": {
     "created": "2025-01-06T19:38:16Z",
     "duration": 11,
