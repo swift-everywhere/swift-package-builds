@@ -5064,6 +5064,15 @@
     "stars": 2,
     "status": "success"
   },
+  "OperatorFoundation/InternetProtocols": {
+    "created": "2025-01-07T11:57:46Z",
+    "duration": 22,
+    "modified": "2025-01-07T11:57:46Z",
+    "repo": "https://github.com/OperatorFoundation/InternetProtocols.git",
+    "runid": 12650476881,
+    "stars": 1,
+    "status": "failure"
+  },
   "OperatorFoundation/NetworkLinux": {
     "created": "2025-01-07T11:07:45Z",
     "duration": 11,
