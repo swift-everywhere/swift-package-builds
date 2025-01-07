@@ -8555,6 +8555,15 @@
     "stars": 36,
     "status": "failure"
   },
+  "username0x0a/SwiftyDijkstra": {
+    "created": "2025-01-07T00:29:12Z",
+    "duration": 6,
+    "modified": "2025-01-07T00:29:12Z",
+    "repo": "https://github.com/username0x0a/SwiftyDijkstra.git",
+    "runid": 12641986754,
+    "stars": 4,
+    "status": "success"
+  },
   "utahiosmac/Marshal": {
     "created": "2025-01-07T00:03:14Z",
     "duration": 6,
