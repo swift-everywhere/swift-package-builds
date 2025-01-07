@@ -8010,10 +8010,11 @@
   },
   "getsentry/sentry-cocoa": {
     "created": "2025-01-06T20:02:56Z",
-    "duration": 11,
-    "modified": "2025-01-06T20:02:56Z",
+    "duration": 10,
+    "modified": "2025-01-07T05:08:54Z",
     "repo": "https://github.com/getsentry/sentry-cocoa.git",
-    "runid": 12638963153,
+    "runid": 12645351961,
+    "stars": 829,
     "status": "success"
   },
   "gh123man/Async-Channels": {
