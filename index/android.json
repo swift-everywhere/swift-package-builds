@@ -5499,6 +5499,15 @@
     "stars": 7,
     "status": "failure"
   },
+  "SwifQL/VaporFluentDriver": {
+    "created": "2025-01-07T08:40:39Z",
+    "duration": 45,
+    "modified": "2025-01-07T08:40:39Z",
+    "repo": "https://github.com/SwifQL/VaporFluentDriver.git",
+    "runid": 12647794335,
+    "stars": 4,
+    "status": "failure"
+  },
   "Swift-CoreUI/Locator": {
     "created": "2025-01-07T07:10:16Z",
     "duration": 7,
