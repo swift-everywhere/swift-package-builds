@@ -16270,6 +16270,15 @@
     "stars": 11,
     "status": "success"
   },
+  "microsoft/fluentui-apple": {
+    "created": "2025-01-07T11:05:01Z",
+    "duration": 4,
+    "modified": "2025-01-07T11:05:01Z",
+    "repo": "https://github.com/microsoft/fluentui-apple.git",
+    "runid": 12649615878,
+    "stars": 915,
+    "status": "success"
+  },
   "might-fail/swift-might-fail": {
     "created": "2025-01-07T06:44:28Z",
     "duration": 4,
