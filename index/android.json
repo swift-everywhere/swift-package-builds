@@ -24133,6 +24133,15 @@
     "stars": 952,
     "status": "success"
   },
+  "soto-project/HypertextApplicationLanguage": {
+    "created": "2025-01-07T14:19:46Z",
+    "duration": 7,
+    "modified": "2025-01-07T14:19:46Z",
+    "repo": "https://github.com/soto-project/HypertextApplicationLanguage.git",
+    "runid": 12652509868,
+    "stars": 2,
+    "status": "success"
+  },
   "soto-project/Perfect-INIParser": {
     "created": "2025-01-06T21:18:34Z",
     "duration": 6,
