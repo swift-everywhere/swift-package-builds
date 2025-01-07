@@ -5892,10 +5892,11 @@
   },
   "apple/swift-nio-ssl": {
     "created": "2025-01-06T20:47:34Z",
-    "duration": 94,
-    "modified": "2025-01-06T20:47:34Z",
+    "duration": 93,
+    "modified": "2025-01-07T06:15:08Z",
     "repo": "https://github.com/apple/swift-nio-ssl.git",
-    "runid": 12638963153,
+    "runid": 12645653000,
+    "stars": 393,
     "status": "failure"
   },
   "apple/swift-nio-transport-services": {
