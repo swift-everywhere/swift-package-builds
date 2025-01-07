@@ -4240,6 +4240,15 @@
     "stars": 12,
     "status": "success"
   },
+  "PerfectlySoft/Perfect-CRUD": {
+    "created": "2025-01-07T08:28:21Z",
+    "duration": 9,
+    "modified": "2025-01-07T08:28:21Z",
+    "repo": "https://github.com/PerfectlySoft/Perfect-CRUD.git",
+    "runid": 12647794335,
+    "stars": 64,
+    "status": "success"
+  },
   "PerfectlySoft/Perfect-CloudFormation": {
     "created": "2025-01-07T00:22:56Z",
     "duration": 6,
