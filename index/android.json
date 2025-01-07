@@ -14349,6 +14349,15 @@
     "stars": 403,
     "status": "failure"
   },
+  "swiftwasm/JavaScriptKit": {
+    "created": "2025-01-07T05:49:01Z",
+    "duration": 8,
+    "modified": "2025-01-07T05:49:01Z",
+    "repo": "https://github.com/swiftwasm/JavaScriptKit.git",
+    "runid": 12645653000,
+    "stars": 711,
+    "status": "failure"
+  },
   "swiftwasm/WebAPIKit": {
     "created": "2025-01-07T01:01:29Z",
     "duration": 53,
