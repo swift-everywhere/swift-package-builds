@@ -21286,11 +21286,11 @@
   },
   "nicklockwood/SwiftFormat": {
     "created": "2025-01-06T21:18:03Z",
-    "duration": 23,
-    "modified": "2025-01-06T21:18:04Z",
+    "duration": 29,
+    "modified": "2025-01-07T16:58:43Z",
     "repo": "https://github.com/nicklockwood/SwiftFormat.git",
-    "runid": 12640312681,
-    "stars": 8031,
+    "runid": 12655360195,
+    "stars": 8034,
     "status": "failure"
   },
   "nicklockwood/Tribute": {
