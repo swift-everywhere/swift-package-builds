@@ -11501,6 +11501,15 @@
     "stars": 94,
     "status": "success"
   },
+  "swift-libp2p/swift-cid": {
+    "created": "2025-01-07T03:20:16Z",
+    "duration": 23,
+    "modified": "2025-01-07T03:20:17Z",
+    "repo": "https://github.com/swift-libp2p/swift-cid.git",
+    "runid": 12644277556,
+    "stars": 2,
+    "status": "failure"
+  },
   "swift-libp2p/swift-multibase": {
     "created": "2025-01-06T20:26:16Z",
     "duration": 11,
