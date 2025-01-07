@@ -7896,6 +7896,15 @@
     "stars": 46,
     "status": "failure"
   },
+  "ZeeQL/ZeeQL3Combine": {
+    "created": "2025-01-07T12:56:43Z",
+    "duration": 11,
+    "modified": "2025-01-07T12:56:43Z",
+    "repo": "https://github.com/ZeeQL/ZeeQL3Combine.git",
+    "runid": 12651715076,
+    "stars": 1,
+    "status": "failure"
+  },
   "ZeeQL/ZeeQL3Freddy": {
     "created": "2025-01-07T07:05:46Z",
     "duration": 14,
