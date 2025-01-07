@@ -15269,6 +15269,15 @@
     "stars": 2,
     "status": "success"
   },
+  "open-telemetry/opentelemetry-swift": {
+    "created": "2025-01-07T08:56:45Z",
+    "duration": 23,
+    "modified": "2025-01-07T08:56:45Z",
+    "repo": "https://github.com/open-telemetry/opentelemetry-swift.git",
+    "runid": 12647794335,
+    "stars": 230,
+    "status": "failure"
+  },
   "openalloc/SwiftCompactor": {
     "created": "2025-01-06T22:00:45Z",
     "duration": 7,
