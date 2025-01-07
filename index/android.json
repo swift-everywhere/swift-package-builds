@@ -9446,6 +9446,15 @@
     "stars": 4,
     "status": "failure"
   },
+  "bitmark-inc/tweetnacl-swiftwrap": {
+    "created": "2025-01-07T12:02:40Z",
+    "duration": 8,
+    "modified": "2025-01-07T12:02:40Z",
+    "repo": "https://github.com/bitmark-inc/tweetnacl-swiftwrap.git",
+    "runid": 12650476881,
+    "stars": 21,
+    "status": "failure"
+  },
   "bjtj/swift-http-server": {
     "created": "2025-01-06T23:27:44Z",
     "duration": 7,
