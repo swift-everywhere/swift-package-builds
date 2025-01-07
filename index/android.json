@@ -18265,6 +18265,15 @@
     "stars": 1174,
     "status": "success"
   },
+  "lynixliu/SwiftAvroCore": {
+    "created": "2025-01-07T14:07:29Z",
+    "duration": 8,
+    "modified": "2025-01-07T14:07:29Z",
+    "repo": "https://github.com/lynixliu/SwiftAvroCore.git",
+    "runid": 12652509868,
+    "stars": 21,
+    "status": "failure"
+  },
   "lyricalsoul/Plug": {
     "created": "2025-01-07T05:24:16Z",
     "duration": 52,
