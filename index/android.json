@@ -12197,6 +12197,15 @@
     "runid": 12638963153,
     "status": "failure"
   },
+  "terhechte/swift-x11-example": {
+    "created": "2025-01-07T03:31:25Z",
+    "duration": 5,
+    "modified": "2025-01-07T03:31:25Z",
+    "repo": "https://github.com/terhechte/swift-x11-example.git",
+    "runid": 12644606839,
+    "stars": 12,
+    "status": "failure"
+  },
   "tevelee/Tuxedo": {
     "created": "2025-01-06T20:31:04Z",
     "duration": 16,
