@@ -13780,6 +13780,15 @@
     "stars": 14,
     "status": "failure"
   },
+  "scottrhoyt/SwiftyTextTable": {
+    "created": "2025-01-07T06:15:43Z",
+    "duration": 7,
+    "modified": "2025-01-07T06:15:43Z",
+    "repo": "https://github.com/scottrhoyt/SwiftyTextTable.git",
+    "runid": 12645653000,
+    "stars": 321,
+    "status": "success"
+  },
   "sdidla/Hatch": {
     "created": "2025-01-07T03:11:20Z",
     "duration": 63,
