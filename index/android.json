@@ -2251,10 +2251,10 @@
   },
   "DominikGrodl/ObservationExtras": {
     "created": "2025-01-07T12:27:28Z",
-    "duration": 93,
-    "modified": "2025-01-07T12:27:28Z",
+    "duration": 91,
+    "modified": "2025-01-07T20:48:56Z",
     "repo": "https://github.com/DominikGrodl/ObservationExtras.git",
-    "runid": 12650476881,
+    "runid": 12658681935,
     "stars": 1,
     "status": "success"
   },
