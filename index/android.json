@@ -12383,6 +12383,15 @@
     "stars": 1,
     "status": "failure"
   },
+  "tomquist/CoreJSON": {
+    "created": "2025-01-07T03:31:19Z",
+    "duration": 7,
+    "modified": "2025-01-07T03:31:19Z",
+    "repo": "https://github.com/tomquist/CoreJSON.git",
+    "runid": 12644606839,
+    "stars": 4,
+    "status": "success"
+  },
   "tosbaha/SMLib": {
     "created": "2025-01-07T00:23:06Z",
     "duration": 6,
