@@ -2953,6 +2953,15 @@
     "stars": 0,
     "status": "success"
   },
+  "JimmyMAndersson/StatKit": {
+    "created": "2025-01-07T11:09:13Z",
+    "duration": 11,
+    "modified": "2025-01-07T11:09:13Z",
+    "repo": "https://github.com/JimmyMAndersson/StatKit.git",
+    "runid": 12649615878,
+    "stars": 86,
+    "status": "failure"
+  },
   "Joannis/SMTPKitten": {
     "created": "2025-01-07T01:59:00Z",
     "duration": 67,
