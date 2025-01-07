@@ -14189,6 +14189,15 @@
     "runid": 12638963153,
     "status": "failure"
   },
+  "vapor-community/Lingo-Vapor": {
+    "created": "2025-01-07T04:50:34Z",
+    "duration": 35,
+    "modified": "2025-01-07T04:50:34Z",
+    "repo": "https://github.com/vapor-community/Lingo-Vapor.git",
+    "runid": 12645351961,
+    "stars": 56,
+    "status": "failure"
+  },
   "vapor-community/Zip": {
     "created": "2025-01-06T22:02:28Z",
     "duration": 6,
