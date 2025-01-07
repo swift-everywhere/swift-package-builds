@@ -6197,10 +6197,11 @@
   },
   "lovetodream/postgres-nio-macros": {
     "created": "2025-01-06T19:56:31Z",
-    "duration": 22,
-    "modified": "2025-01-06T19:56:31Z",
+    "duration": 20,
+    "modified": "2025-01-07T00:42:37Z",
     "repo": "https://github.com/lovetodream/postgres-nio-macros.git",
-    "runid": 12638963153,
+    "runid": 12641986754,
+    "stars": 7,
     "status": "failure"
   },
   "lucaswkuipers/SafeTypes": {
