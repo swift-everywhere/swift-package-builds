@@ -4469,6 +4469,15 @@
     "stars": 5,
     "status": "failure"
   },
+  "abdullahselek/Lighty": {
+    "created": "2025-01-07T04:06:31Z",
+    "duration": 6,
+    "modified": "2025-01-07T04:06:31Z",
+    "repo": "https://github.com/abdullahselek/Lighty.git",
+    "runid": 12644606839,
+    "stars": 52,
+    "status": "failure"
+  },
   "adam-fowler/async-collections": {
     "created": "2025-01-07T03:46:50Z",
     "duration": 25,
