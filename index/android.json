@@ -5149,6 +5149,15 @@
     "stars": 186,
     "status": "success"
   },
+  "PureSwift/CJavaVM": {
+    "created": "2025-01-07T10:45:53Z",
+    "duration": 2,
+    "modified": "2025-01-07T10:45:53Z",
+    "repo": "https://github.com/PureSwift/CJavaVM.git",
+    "runid": 12649615878,
+    "stars": 0,
+    "status": "success"
+  },
   "PureSwift/GATT": {
     "created": "2025-01-06T21:17:31Z",
     "duration": 58,
