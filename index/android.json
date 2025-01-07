@@ -3912,6 +3912,15 @@
     "stars": 13,
     "status": "failure"
   },
+  "aestesis/Cairo": {
+    "created": "2025-01-07T02:57:42Z",
+    "duration": 11,
+    "modified": "2025-01-07T02:57:42Z",
+    "repo": "https://github.com/aestesis/Cairo.git",
+    "runid": 12644277556,
+    "stars": 0,
+    "status": "failure"
+  },
   "aestesis/Cpng": {
     "created": "2025-01-06T21:41:05Z",
     "duration": 1,
