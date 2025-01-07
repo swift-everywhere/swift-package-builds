@@ -6359,6 +6359,15 @@
     "stars": 1,
     "status": "failure"
   },
+  "bdrelling/instruments.fyi": {
+    "created": "2025-01-07T06:37:13Z",
+    "duration": 38,
+    "modified": "2025-01-07T06:37:13Z",
+    "repo": "https://github.com/bdrelling/instruments.fyi.git",
+    "runid": 12646377141,
+    "stars": 10,
+    "status": "failure"
+  },
   "beMappy/RealmSwift": {
     "created": "2025-01-06T19:49:39Z",
     "duration": 14,
