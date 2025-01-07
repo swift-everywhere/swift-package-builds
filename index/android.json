@@ -2357,10 +2357,11 @@
   },
   "NobodyNada/Serializer": {
     "created": "2025-01-06T20:45:45Z",
-    "duration": 6,
-    "modified": "2025-01-06T20:45:45Z",
+    "duration": 8,
+    "modified": "2025-01-07T02:18:53Z",
     "repo": "https://github.com/NobodyNada/Serializer.git",
-    "runid": 12638963153,
+    "runid": 12643524602,
+    "stars": 3,
     "status": "success"
   },
   "Northwind-swift/NorthwindSQLite.swift": {
