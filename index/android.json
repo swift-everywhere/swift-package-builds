@@ -19450,6 +19450,15 @@
     "stars": 2,
     "status": "success"
   },
+  "tuist/swift-openapi-urlsession": {
+    "created": "2025-01-07T09:02:32Z",
+    "duration": 20,
+    "modified": "2025-01-07T09:02:32Z",
+    "repo": "https://github.com/tuist/swift-openapi-urlsession.git",
+    "runid": 12647794335,
+    "stars": 2,
+    "status": "success"
+  },
   "turbolent/DiffedAssertEqual": {
     "created": "2025-01-07T05:18:32Z",
     "duration": 7,
