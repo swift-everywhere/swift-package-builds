@@ -9860,6 +9860,15 @@
     "stars": 1,
     "status": "failure"
   },
+  "elegantchaos/Hardware": {
+    "created": "2025-01-07T09:04:10Z",
+    "duration": 15,
+    "modified": "2025-01-07T09:04:10Z",
+    "repo": "https://github.com/elegantchaos/Hardware.git",
+    "runid": 12647794335,
+    "stars": 2,
+    "status": "failure"
+  },
   "elegantchaos/JSONSession": {
     "created": "2025-01-06T20:52:04Z",
     "duration": 37,
