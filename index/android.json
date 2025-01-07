@@ -17842,6 +17842,15 @@
     "stars": 2,
     "status": "failure"
   },
+  "mxcl/Chalk": {
+    "created": "2025-01-07T12:18:05Z",
+    "duration": 7,
+    "modified": "2025-01-07T12:18:05Z",
+    "repo": "https://github.com/mxcl/Chalk.git",
+    "runid": 12650476881,
+    "stars": 221,
+    "status": "failure"
+  },
   "mxcl/LegibleError": {
     "created": "2025-01-06T17:42:07Z",
     "duration": 6,
