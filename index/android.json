@@ -5919,6 +5919,15 @@
     "stars": 6,
     "status": "success"
   },
+  "a2/MessagePack.swift": {
+    "created": "2025-01-07T08:07:32Z",
+    "duration": 7,
+    "modified": "2025-01-07T08:07:32Z",
+    "repo": "https://github.com/a2/MessagePack.swift.git",
+    "runid": 12646951061,
+    "stars": 286,
+    "status": "success"
+  },
   "a2/swift-shortcuts": {
     "created": "2025-01-06T23:28:40Z",
     "duration": 9,
