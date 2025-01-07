@@ -8770,10 +8770,11 @@
   },
   "vapor-community/wkhtmltopdf": {
     "created": "2025-01-06T20:00:34Z",
-    "duration": 25,
-    "modified": "2025-01-06T20:00:34Z",
+    "duration": 24,
+    "modified": "2025-01-07T00:32:05Z",
     "repo": "https://github.com/vapor-community/wkhtmltopdf.git",
-    "runid": 12638963153,
+    "runid": 12641986754,
+    "stars": 58,
     "status": "failure"
   },
   "vapor/fluent-mongo-driver": {
