@@ -16747,6 +16747,15 @@
     "stars": 22,
     "status": "failure"
   },
+  "tayloraswift/swift-highlight": {
+    "created": "2025-01-07T07:28:38Z",
+    "duration": 4,
+    "modified": "2025-01-07T07:28:39Z",
+    "repo": "https://github.com/tayloraswift/swift-highlight.git",
+    "runid": 12646951061,
+    "stars": 6,
+    "status": "success"
+  },
   "tayloraswift/swift-ip": {
     "created": "2025-01-07T00:21:10Z",
     "duration": 24,
