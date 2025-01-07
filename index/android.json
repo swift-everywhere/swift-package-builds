@@ -700,6 +700,15 @@
     "stars": 0,
     "status": "success"
   },
+  "Appsaurus/CodableExtensions": {
+    "created": "2025-01-07T14:27:03Z",
+    "duration": 13,
+    "modified": "2025-01-07T14:27:03Z",
+    "repo": "https://github.com/Appsaurus/CodableExtensions.git",
+    "runid": 12652509868,
+    "stars": 0,
+    "status": "failure"
+  },
   "Appsaurus/Fakery": {
     "created": "2025-01-06T23:19:09Z",
     "duration": 9,
