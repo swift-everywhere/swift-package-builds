@@ -23068,6 +23068,15 @@
     "stars": 0,
     "status": "success"
   },
+  "sbooth/CXXTagLib": {
+    "created": "2025-01-07T14:12:16Z",
+    "duration": 50,
+    "modified": "2025-01-07T14:12:16Z",
+    "repo": "https://github.com/sbooth/CXXTagLib.git",
+    "runid": 12652509868,
+    "stars": 3,
+    "status": "success"
+  },
   "sbooth/CZoneDetect": {
     "created": "2025-01-07T08:13:07Z",
     "duration": 1,
