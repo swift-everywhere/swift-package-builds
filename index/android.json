@@ -16399,10 +16399,10 @@
   },
   "hootsuite/emit": {
     "created": "2025-01-06T17:24:12Z",
-    "duration": 6,
-    "modified": "2025-01-07T00:22:49Z",
+    "duration": 7,
+    "modified": "2025-01-07T17:01:14Z",
     "repo": "https://github.com/hootsuite/emit.git",
-    "runid": 12641986754,
+    "runid": 12655360195,
     "stars": 6,
     "status": "success"
   },
