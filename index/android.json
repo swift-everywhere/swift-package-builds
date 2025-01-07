@@ -10549,6 +10549,15 @@
     "stars": 21,
     "status": "success"
   },
+  "mongodb/mongo-swift-driver": {
+    "created": "2025-01-07T05:01:42Z",
+    "duration": 21,
+    "modified": "2025-01-07T05:01:42Z",
+    "repo": "https://github.com/mongodb/mongo-swift-driver.git",
+    "runid": 12645351961,
+    "stars": 344,
+    "status": "failure"
+  },
   "mono0926/Version": {
     "created": "2025-01-07T01:08:30Z",
     "duration": 6,
