@@ -28522,10 +28522,10 @@
   },
   "vapor/mysql-nio": {
     "created": "2025-01-07T10:01:53Z",
-    "duration": 80,
-    "modified": "2025-01-07T10:01:54Z",
+    "duration": 76,
+    "modified": "2025-01-07T20:55:39Z",
     "repo": "https://github.com/vapor/mysql-nio.git",
-    "runid": 12648641718,
+    "runid": 12658681935,
     "stars": 92,
     "status": "failure"
   },
