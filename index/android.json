@@ -17124,6 +17124,15 @@
     "stars": 11,
     "status": "failure"
   },
+  "slashmo/swift-otel-xray": {
+    "created": "2025-01-07T08:47:27Z",
+    "duration": 27,
+    "modified": "2025-01-07T08:47:27Z",
+    "repo": "https://github.com/slashmo/swift-otel-xray.git",
+    "runid": 12647794335,
+    "stars": 9,
+    "status": "failure"
+  },
   "slashmo/swift-w3c-trace-context": {
     "created": "2025-01-07T00:39:19Z",
     "duration": 8,
