@@ -5437,6 +5437,15 @@
     "stars": 10,
     "status": "failure"
   },
+  "ZeeQL/ZeeQL3Freddy": {
+    "created": "2025-01-07T07:05:46Z",
+    "duration": 14,
+    "modified": "2025-01-07T07:05:47Z",
+    "repo": "https://github.com/ZeeQL/ZeeQL3Freddy.git",
+    "runid": 12646377141,
+    "stars": 0,
+    "status": "failure"
+  },
   "ZevEisenberg/TestCleaner": {
     "created": "2025-01-07T06:32:31Z",
     "duration": 7,
