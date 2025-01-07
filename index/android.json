@@ -2804,6 +2804,15 @@
     "stars": 0,
     "status": "success"
   },
+  "LuizZak/swift-bezier": {
+    "created": "2025-01-07T06:44:39Z",
+    "duration": 10,
+    "modified": "2025-01-07T06:44:39Z",
+    "repo": "https://github.com/LuizZak/swift-bezier.git",
+    "runid": 12646377141,
+    "stars": 1,
+    "status": "failure"
+  },
   "MAVISBroadcast/AMF": {
     "created": "2025-01-06T20:16:54Z",
     "duration": 8,
