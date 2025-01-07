@@ -6527,6 +6527,15 @@
     "runid": 12638963153,
     "status": "success"
   },
+  "mattmassicotte/XCLint": {
+    "created": "2025-01-07T00:49:02Z",
+    "duration": 13,
+    "modified": "2025-01-07T00:49:03Z",
+    "repo": "https://github.com/mattmassicotte/XCLint.git",
+    "runid": 12641986754,
+    "stars": 115,
+    "status": "failure"
+  },
   "mattpolzin/JSONAPI": {
     "created": "2025-01-06T22:53:18Z",
     "duration": 11,
