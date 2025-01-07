@@ -17842,6 +17842,15 @@
     "stars": 5,
     "status": "success"
   },
+  "music-notation-swift/music-notation": {
+    "created": "2025-01-07T12:20:09Z",
+    "duration": 8,
+    "modified": "2025-01-07T12:20:09Z",
+    "repo": "https://github.com/music-notation-swift/music-notation.git",
+    "runid": 12650476881,
+    "stars": 118,
+    "status": "failure"
+  },
   "music-notation-swift/music-notation-import-guitarpro": {
     "created": "2025-01-06T17:45:24Z",
     "duration": 13,
