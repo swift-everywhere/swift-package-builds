@@ -13184,10 +13184,11 @@
   },
   "gor-gyolchanyan-swift/introspection-kit": {
     "created": "2025-01-06T17:40:43Z",
-    "duration": 3,
-    "modified": "2025-01-06T17:40:43Z",
+    "duration": 5,
+    "modified": "2025-01-07T11:54:23Z",
     "repo": "https://github.com/gor-gyolchanyan-swift/introspection-kit.git",
-    "runid": 12637148220,
+    "runid": 12650476881,
+    "stars": 18,
     "status": "success"
   },
   "gradyzhuo/EventStoreDB-Swift": {
