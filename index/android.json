@@ -17823,6 +17823,15 @@
     "stars": 32,
     "status": "success"
   },
+  "swiftwasm/WasmKit": {
+    "created": "2025-01-07T08:30:04Z",
+    "duration": 23,
+    "modified": "2025-01-07T08:30:04Z",
+    "repo": "https://github.com/swiftwasm/WasmKit.git",
+    "runid": 12647794335,
+    "stars": 248,
+    "status": "failure"
+  },
   "swiftwasm/WebAPIKit": {
     "created": "2025-01-07T01:01:29Z",
     "duration": 53,
