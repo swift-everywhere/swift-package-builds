@@ -7139,6 +7139,15 @@
     "stars": 0,
     "status": "success"
   },
+  "hummingbird-project/hummingbird": {
+    "created": "2025-01-07T03:00:52Z",
+    "duration": 26,
+    "modified": "2025-01-07T03:00:52Z",
+    "repo": "https://github.com/hummingbird-project/hummingbird.git",
+    "runid": 12644277556,
+    "stars": 1278,
+    "status": "failure"
+  },
   "hummingbird-project/hummingbird-core": {
     "created": "2025-01-06T23:03:08Z",
     "duration": 58,
