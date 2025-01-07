@@ -18182,6 +18182,15 @@
     "stars": 1208,
     "status": "failure"
   },
+  "swiftlang/swift-docc-plugin": {
+    "created": "2025-01-07T08:50:55Z",
+    "duration": 20,
+    "modified": "2025-01-07T08:50:55Z",
+    "repo": "https://github.com/swiftlang/swift-docc-plugin.git",
+    "runid": 12647794335,
+    "stars": 327,
+    "status": "success"
+  },
   "swiftlang/swift-driver": {
     "created": "2025-01-06T17:29:31Z",
     "duration": 71,
