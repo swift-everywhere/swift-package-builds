@@ -5434,6 +5434,15 @@
     "stars": 10,
     "status": "failure"
   },
+  "grype/RWLock-Swift": {
+    "created": "2025-01-07T01:05:13Z",
+    "duration": 5,
+    "modified": "2025-01-07T01:05:13Z",
+    "repo": "https://github.com/grype/RWLock-Swift.git",
+    "runid": 12641986754,
+    "stars": 1,
+    "status": "success"
+  },
   "grype/SwiftAnnouncements": {
     "created": "2025-01-06T19:53:06Z",
     "duration": 10,
