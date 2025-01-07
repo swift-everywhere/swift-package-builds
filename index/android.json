@@ -2507,6 +2507,15 @@
     "stars": 5,
     "status": "failure"
   },
+  "Kaiede/RPiLight": {
+    "created": "2025-01-07T07:14:28Z",
+    "duration": 16,
+    "modified": "2025-01-07T07:14:28Z",
+    "repo": "https://github.com/Kaiede/RPiLight.git",
+    "runid": 12646377141,
+    "stars": 8,
+    "status": "failure"
+  },
   "KazaKago/StoreFlowable.swift": {
     "created": "2025-01-07T05:57:43Z",
     "duration": 9,
