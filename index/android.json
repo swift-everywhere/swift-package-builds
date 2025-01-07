@@ -13600,10 +13600,10 @@
   },
   "dodobrands/DBXCResultParser-Sonar": {
     "created": "2025-01-07T12:40:46Z",
-    "duration": 28,
-    "modified": "2025-01-07T16:23:48Z",
+    "duration": 37,
+    "modified": "2025-01-07T22:23:41Z",
     "repo": "https://github.com/dodobrands/DBXCResultParser-Sonar.git",
-    "runid": 12655041616,
+    "runid": 12660245106,
     "stars": 1,
     "status": "success"
   },
