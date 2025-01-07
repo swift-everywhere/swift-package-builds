@@ -2464,6 +2464,15 @@
     "stars": 58,
     "status": "success"
   },
+  "Ze0nC/SwiftPygmentsPublishPlugin": {
+    "created": "2025-01-07T00:03:02Z",
+    "duration": 12,
+    "modified": "2025-01-07T00:03:02Z",
+    "repo": "https://github.com/Ze0nC/SwiftPygmentsPublishPlugin.git",
+    "runid": 12641986754,
+    "stars": 10,
+    "status": "failure"
+  },
   "Zollerboy1/BigDecimal": {
     "created": "2025-01-06T20:56:48Z",
     "duration": 11,
