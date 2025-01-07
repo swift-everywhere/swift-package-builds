@@ -13044,6 +13044,15 @@
     "stars": 21,
     "status": "success"
   },
+  "voynovia/JRPCSwiftNio": {
+    "created": "2025-01-07T03:27:28Z",
+    "duration": 3,
+    "modified": "2025-01-07T03:27:29Z",
+    "repo": "https://github.com/voynovia/JRPCSwiftNio.git",
+    "runid": 12644606839,
+    "stars": 2,
+    "status": "failure"
+  },
   "vsanthanam/WeakReference": {
     "created": "2025-01-06T17:42:58Z",
     "duration": 9,
