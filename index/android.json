@@ -4735,10 +4735,10 @@
   },
   "LuizZak/swift-bezier": {
     "created": "2025-01-07T06:44:39Z",
-    "duration": 10,
-    "modified": "2025-01-07T06:44:39Z",
+    "duration": 8,
+    "modified": "2025-01-07T17:10:30Z",
     "repo": "https://github.com/LuizZak/swift-bezier.git",
-    "runid": 12646377141,
+    "runid": 12655360195,
     "stars": 1,
     "status": "failure"
   },
