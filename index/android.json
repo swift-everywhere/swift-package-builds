@@ -17999,6 +17999,15 @@
     "stars": 991,
     "status": "success"
   },
+  "swiftkube/client": {
+    "created": "2025-01-07T08:44:15Z",
+    "duration": 33,
+    "modified": "2025-01-07T08:44:15Z",
+    "repo": "https://github.com/swiftkube/client.git",
+    "runid": 12647794335,
+    "stars": 130,
+    "status": "failure"
+  },
   "swiftkube/model": {
     "created": "2025-01-07T06:52:59Z",
     "duration": 35,
