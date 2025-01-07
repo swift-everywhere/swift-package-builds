@@ -6387,6 +6387,15 @@
     "stars": 61,
     "status": "success"
   },
+  "brightdigit/TransistorPublishPlugin": {
+    "created": "2025-01-07T05:50:48Z",
+    "duration": 19,
+    "modified": "2025-01-07T05:50:48Z",
+    "repo": "https://github.com/brightdigit/TransistorPublishPlugin.git",
+    "runid": 12645653000,
+    "stars": 1,
+    "status": "failure"
+  },
   "broadwaylamb/GottaGoFast": {
     "created": "2025-01-07T00:53:35Z",
     "duration": 9,
