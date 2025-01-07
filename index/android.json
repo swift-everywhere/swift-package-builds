@@ -2764,6 +2764,15 @@
     "stars": 7,
     "status": "failure"
   },
+  "JacopoMangiavacchi/SwiftNormalization": {
+    "created": "2025-01-07T10:43:58Z",
+    "duration": 7,
+    "modified": "2025-01-07T10:43:58Z",
+    "repo": "https://github.com/JacopoMangiavacchi/SwiftNormalization.git",
+    "runid": 12649615878,
+    "stars": 3,
+    "status": "success"
+  },
   "JadenGeller/Axiomatic": {
     "created": "2025-01-06T21:21:02Z",
     "duration": 6,
