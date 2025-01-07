@@ -5944,9 +5944,10 @@
   "Stiivi/ParserCombinator": {
     "created": "2025-01-06T19:43:55Z",
     "duration": 4,
-    "modified": "2025-01-06T19:43:55Z",
+    "modified": "2025-01-07T10:08:58Z",
     "repo": "https://github.com/Stiivi/ParserCombinator.git",
-    "runid": 12638963153,
+    "runid": 12648641718,
+    "stars": 13,
     "status": "success"
   },
   "StyleShoots/CircuitBreaker": {
