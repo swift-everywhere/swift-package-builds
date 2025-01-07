@@ -4411,6 +4411,15 @@
     "stars": 40,
     "status": "failure"
   },
+  "Prosumma/Guise": {
+    "created": "2025-01-07T08:32:11Z",
+    "duration": 12,
+    "modified": "2025-01-07T08:32:11Z",
+    "repo": "https://github.com/Prosumma/Guise.git",
+    "runid": 12647794335,
+    "stars": 60,
+    "status": "success"
+  },
   "Prosumma/Iatheto": {
     "created": "2025-01-07T03:53:04Z",
     "duration": 6,
