@@ -7876,6 +7876,15 @@
     "stars": 36,
     "status": "failure"
   },
+  "utahiosmac/Marshal": {
+    "created": "2025-01-07T00:03:14Z",
+    "duration": 6,
+    "modified": "2025-01-07T00:03:14Z",
+    "repo": "https://github.com/utahiosmac/Marshal.git",
+    "runid": 12641986754,
+    "stars": 697,
+    "status": "success"
+  },
   "uuid25/swift-uuid25": {
     "created": "2025-01-06T20:28:01Z",
     "duration": 4,
