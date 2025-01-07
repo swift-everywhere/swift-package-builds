@@ -6033,6 +6033,15 @@
     "stars": 19,
     "status": "failure"
   },
+  "alexhunsley/patchouli-jsonpatch": {
+    "created": "2025-01-07T07:44:40Z",
+    "duration": 11,
+    "modified": "2025-01-07T07:44:40Z",
+    "repo": "https://github.com/alexhunsley/patchouli-jsonpatch.git",
+    "runid": 12646951061,
+    "stars": 3,
+    "status": "failure"
+  },
   "alexito4/Baggins": {
     "created": "2025-01-06T23:43:44Z",
     "duration": 7,
