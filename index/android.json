@@ -12639,6 +12639,15 @@
     "stars": 54,
     "status": "failure"
   },
+  "stackotter/Socket": {
+    "created": "2025-01-07T04:48:11Z",
+    "duration": 9,
+    "modified": "2025-01-07T04:48:11Z",
+    "repo": "https://github.com/stackotter/Socket.git",
+    "runid": 12645351961,
+    "stars": 3,
+    "status": "failure"
+  },
   "stackotter/swift-bundler": {
     "created": "2025-01-06T20:08:04Z",
     "duration": 52,
