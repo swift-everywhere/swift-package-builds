@@ -4509,6 +4509,15 @@
     "stars": 17,
     "status": "success"
   },
+  "handya/TwitterVapor": {
+    "created": "2025-01-07T00:04:16Z",
+    "duration": 26,
+    "modified": "2025-01-07T00:04:16Z",
+    "repo": "https://github.com/handya/TwitterVapor.git",
+    "runid": 12641986754,
+    "stars": 2,
+    "status": "failure"
+  },
   "hanjoes/swift-termina": {
     "created": "2025-01-06T18:08:19Z",
     "duration": 3,
