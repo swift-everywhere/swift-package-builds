@@ -14258,6 +14258,15 @@
     "stars": 7,
     "status": "failure"
   },
+  "swift-cloud/Upstash": {
+    "created": "2025-01-07T05:58:09Z",
+    "duration": 25,
+    "modified": "2025-01-07T05:58:09Z",
+    "repo": "https://github.com/swift-cloud/Upstash.git",
+    "runid": 12645653000,
+    "stars": 7,
+    "status": "failure"
+  },
   "swift-cloud/Vercel": {
     "created": "2025-01-07T02:45:58Z",
     "duration": 24,
