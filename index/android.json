@@ -3509,6 +3509,15 @@
     "stars": 16,
     "status": "success"
   },
+  "Kitura/KituraContracts": {
+    "created": "2025-01-07T11:26:53Z",
+    "duration": 12,
+    "modified": "2025-01-07T11:26:53Z",
+    "repo": "https://github.com/Kitura/KituraContracts.git",
+    "runid": 12650476881,
+    "stars": 13,
+    "status": "failure"
+  },
   "Kitura/KituraKit": {
     "created": "2025-01-07T03:57:00Z",
     "duration": 28,
