@@ -2085,6 +2085,15 @@
     "runid": 12638963153,
     "status": "failure"
   },
+  "Obbut/ExtraEncodable": {
+    "created": "2025-01-07T01:15:03Z",
+    "duration": 6,
+    "modified": "2025-01-07T01:15:03Z",
+    "repo": "https://github.com/Obbut/ExtraEncodable.git",
+    "runid": 12641986754,
+    "stars": 3,
+    "status": "success"
+  },
   "Octadero/MemoryLayoutKit": {
     "created": "2025-01-06T23:16:02Z",
     "duration": 6,
