@@ -10176,6 +10176,15 @@
     "stars": 4,
     "status": "success"
   },
+  "pointfreeco/combine-schedulers": {
+    "created": "2025-01-07T03:26:51Z",
+    "duration": 10,
+    "modified": "2025-01-07T03:26:51Z",
+    "repo": "https://github.com/pointfreeco/combine-schedulers.git",
+    "runid": 12644606839,
+    "stars": 723,
+    "status": "failure"
+  },
   "pointfreeco/swift-case-paths": {
     "created": "2025-01-06T20:55:27Z",
     "duration": 77,
