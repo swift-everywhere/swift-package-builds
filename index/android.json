@@ -11279,6 +11279,15 @@
     "stars": 106,
     "status": "success"
   },
+  "cgarciae/NDArray": {
+    "created": "2025-01-07T14:00:34Z",
+    "duration": 8,
+    "modified": "2025-01-07T14:00:34Z",
+    "repo": "https://github.com/cgarciae/NDArray.git",
+    "runid": 12652509868,
+    "stars": 65,
+    "status": "failure"
+  },
   "checkout/checkout-3ds-sdk-ios": {
     "created": "2025-01-07T08:02:48Z",
     "duration": 6,
