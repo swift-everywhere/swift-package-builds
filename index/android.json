@@ -3798,6 +3798,15 @@
     "stars": 16,
     "status": "success"
   },
+  "Kitura/Kitura-redis": {
+    "created": "2025-01-07T13:18:43Z",
+    "duration": 8,
+    "modified": "2025-01-07T13:18:44Z",
+    "repo": "https://github.com/Kitura/Kitura-redis.git",
+    "runid": 12651715076,
+    "stars": 95,
+    "status": "failure"
+  },
   "Kitura/KituraContracts": {
     "created": "2025-01-07T11:26:53Z",
     "duration": 12,
