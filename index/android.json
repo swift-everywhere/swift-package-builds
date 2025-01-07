@@ -4925,6 +4925,15 @@
     "stars": 3,
     "status": "failure"
   },
+  "SDGGiesbrecht/swift-syntax": {
+    "created": "2025-01-07T08:16:45Z",
+    "duration": 16,
+    "modified": "2025-01-07T08:16:45Z",
+    "repo": "https://github.com/SDGGiesbrecht/swift-syntax.git",
+    "runid": 12646951061,
+    "stars": 0,
+    "status": "failure"
+  },
   "SDWebImage/libaom-Xcode": {
     "created": "2025-01-07T08:16:28Z",
     "duration": 7,
