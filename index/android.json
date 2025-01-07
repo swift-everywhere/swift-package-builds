@@ -7052,6 +7052,15 @@
     "stars": 0,
     "status": "failure"
   },
+  "SDGGiesbrecht/swift-llbuild": {
+    "created": "2025-01-07T14:19:14Z",
+    "duration": 38,
+    "modified": "2025-01-07T14:19:14Z",
+    "repo": "https://github.com/SDGGiesbrecht/swift-llbuild.git",
+    "runid": 12652509868,
+    "stars": 0,
+    "status": "failure"
+  },
   "SDGGiesbrecht/swift-markdown": {
     "created": "2025-01-07T11:16:57Z",
     "duration": 26,
