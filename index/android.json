@@ -19353,6 +19353,15 @@
     "stars": 24,
     "status": "failure"
   },
+  "ordo-one/package-latency-tools": {
+    "created": "2025-01-07T12:41:40Z",
+    "duration": 5,
+    "modified": "2025-01-07T12:41:40Z",
+    "repo": "https://github.com/ordo-one/package-latency-tools.git",
+    "runid": 12651715076,
+    "stars": 1,
+    "status": "failure"
+  },
   "orlandos-nl/BSON": {
     "created": "2025-01-06T19:38:41Z",
     "duration": 26,
