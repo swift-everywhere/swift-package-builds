@@ -5612,6 +5612,15 @@
     "stars": 0,
     "status": "failure"
   },
+  "maclong9/swift-list": {
+    "created": "2025-01-07T00:16:20Z",
+    "duration": 10,
+    "modified": "2025-01-07T00:16:20Z",
+    "repo": "https://github.com/maclong9/swift-list.git",
+    "runid": 12641986754,
+    "stars": 0,
+    "status": "failure"
+  },
   "magicbell/embedded-provision": {
     "created": "2025-01-06T20:00:44Z",
     "duration": 9,
