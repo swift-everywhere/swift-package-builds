@@ -7340,10 +7340,11 @@
   },
   "adam-fowler/swift-web": {
     "created": "2025-01-06T17:35:02Z",
-    "duration": 21,
-    "modified": "2025-01-06T17:35:02Z",
+    "duration": 26,
+    "modified": "2025-01-07T10:52:51Z",
     "repo": "https://github.com/adam-fowler/swift-web.git",
-    "runid": 12637148220,
+    "runid": 12649615878,
+    "stars": 13,
     "status": "failure"
   },
   "adamayoung/TMDb": {
