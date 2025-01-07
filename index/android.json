@@ -11352,6 +11352,15 @@
     "stars": 2,
     "status": "failure"
   },
+  "tannerdsilva/Ccrypt_blowfish": {
+    "created": "2025-01-07T02:57:08Z",
+    "duration": 2,
+    "modified": "2025-01-07T02:57:08Z",
+    "repo": "https://github.com/tannerdsilva/Ccrypt_blowfish.git",
+    "runid": 12644277556,
+    "stars": 0,
+    "status": "failure"
+  },
   "tannerdsilva/Clibqrencode": {
     "created": "2025-01-07T01:53:59Z",
     "duration": 2,
