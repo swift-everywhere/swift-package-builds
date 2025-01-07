@@ -1892,6 +1892,15 @@
     "stars": 12,
     "status": "success"
   },
+  "FitnessKit/FitDataProtocol": {
+    "created": "2025-01-07T10:06:51Z",
+    "duration": 12,
+    "modified": "2025-01-07T10:06:51Z",
+    "repo": "https://github.com/FitnessKit/FitDataProtocol.git",
+    "runid": 12648641718,
+    "stars": 51,
+    "status": "failure"
+  },
   "FitnessKit/TcxDataProtocol": {
     "created": "2025-01-06T17:45:35Z",
     "duration": 10,
