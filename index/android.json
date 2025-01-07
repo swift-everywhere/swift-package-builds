@@ -16525,10 +16525,10 @@
   },
   "hummingbird-project/hummingbird-redis": {
     "created": "2025-01-06T19:42:41Z",
-    "duration": 33,
-    "modified": "2025-01-07T11:33:10Z",
+    "duration": 26,
+    "modified": "2025-01-07T20:29:14Z",
     "repo": "https://github.com/hummingbird-project/hummingbird-redis.git",
-    "runid": 12650476881,
+    "runid": 12658681935,
     "stars": 12,
     "status": "failure"
   },
