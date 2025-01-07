@@ -17966,6 +17966,15 @@
     "stars": 43,
     "status": "failure"
   },
+  "vapor/vapor": {
+    "created": "2025-01-07T07:28:33Z",
+    "duration": 30,
+    "modified": "2025-01-07T07:28:33Z",
+    "repo": "https://github.com/vapor/vapor.git",
+    "runid": 12646951061,
+    "stars": 24702,
+    "status": "failure"
+  },
   "vbmobile/VBImageProcessor": {
     "created": "2025-01-07T04:20:28Z",
     "duration": 7,
