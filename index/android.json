@@ -10359,6 +10359,15 @@
     "stars": 2,
     "status": "failure"
   },
+  "dastrobu/geodesic": {
+    "created": "2025-01-07T10:57:27Z",
+    "duration": 4,
+    "modified": "2025-01-07T10:57:27Z",
+    "repo": "https://github.com/dastrobu/geodesic.git",
+    "runid": 12649615878,
+    "stars": 6,
+    "status": "success"
+  },
   "dastrobu/vincenty": {
     "created": "2025-01-07T02:33:56Z",
     "duration": 5,
