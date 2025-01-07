@@ -4951,10 +4951,10 @@
   },
   "MarcoEidinger/OSInfo": {
     "created": "2025-01-07T10:07:28Z",
-    "duration": 7,
-    "modified": "2025-01-07T20:15:23Z",
+    "duration": 6,
+    "modified": "2025-01-07T20:31:26Z",
     "repo": "https://github.com/MarcoEidinger/OSInfo.git",
-    "runid": 12658091539,
+    "runid": 12658681935,
     "stars": 31,
     "status": "success"
   },
