@@ -19405,6 +19405,15 @@
     "runid": 12638963153,
     "status": "failure"
   },
+  "putridparrot/SwiftUnits": {
+    "created": "2025-01-07T11:49:45Z",
+    "duration": 5,
+    "modified": "2025-01-07T11:49:45Z",
+    "repo": "https://github.com/putridparrot/SwiftUnits.git",
+    "runid": 12650476881,
+    "stars": 2,
+    "status": "success"
+  },
   "pvieito/PythonKit": {
     "created": "2025-01-07T06:09:42Z",
     "duration": 4,
