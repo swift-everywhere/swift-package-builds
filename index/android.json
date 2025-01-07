@@ -1789,6 +1789,15 @@
     "runid": 12638963153,
     "status": "success"
   },
+  "LuizZak/MiniP5Printer": {
+    "created": "2025-01-07T01:41:45Z",
+    "duration": 7,
+    "modified": "2025-01-07T01:41:45Z",
+    "repo": "https://github.com/LuizZak/MiniP5Printer.git",
+    "runid": 12643524602,
+    "stars": 0,
+    "status": "success"
+  },
   "MAVISBroadcast/AMF": {
     "created": "2025-01-06T20:16:54Z",
     "duration": 8,
