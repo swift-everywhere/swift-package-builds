@@ -12832,6 +12832,15 @@
     "stars": 6,
     "status": "success"
   },
+  "nerzh/swift-telegram-sdk": {
+    "created": "2025-01-07T07:11:03Z",
+    "duration": 10,
+    "modified": "2025-01-07T07:11:03Z",
+    "repo": "https://github.com/nerzh/swift-telegram-sdk.git",
+    "runid": 12646377141,
+    "stars": 218,
+    "status": "failure"
+  },
   "netreconlab/Parse-Swift": {
     "created": "2025-01-06T20:10:49Z",
     "duration": 34,
