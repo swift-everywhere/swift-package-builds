@@ -3958,6 +3958,15 @@
     "stars": 14,
     "status": "failure"
   },
+  "WeirdMath/SwiftyHaru": {
+    "created": "2025-01-07T03:31:03Z",
+    "duration": 36,
+    "modified": "2025-01-07T03:31:03Z",
+    "repo": "https://github.com/WeirdMath/SwiftyHaru.git",
+    "runid": 12644606839,
+    "stars": 55,
+    "status": "failure"
+  },
   "WilhelmOks/ArrayBuilder": {
     "created": "2025-01-06T23:19:52Z",
     "duration": 3,
