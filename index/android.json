@@ -15896,6 +15896,15 @@
     "stars": 110,
     "status": "success"
   },
+  "orlandos-nl/DNSClient": {
+    "created": "2025-01-07T09:27:56Z",
+    "duration": 10,
+    "modified": "2025-01-07T09:27:56Z",
+    "repo": "https://github.com/orlandos-nl/DNSClient.git",
+    "runid": 12648641718,
+    "stars": 55,
+    "status": "failure"
+  },
   "orlandos-nl/MongoKitten": {
     "created": "2025-01-07T03:46:24Z",
     "duration": 19,
