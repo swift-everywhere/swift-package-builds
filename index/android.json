@@ -21194,6 +21194,15 @@
     "stars": 1,
     "status": "success"
   },
+  "sbooth/CGeodesic": {
+    "created": "2025-01-07T12:43:46Z",
+    "duration": 2,
+    "modified": "2025-01-07T12:43:46Z",
+    "repo": "https://github.com/sbooth/CGeodesic.git",
+    "runid": 12651715076,
+    "stars": 1,
+    "status": "success"
+  },
   "sbooth/CWavPack": {
     "created": "2025-01-07T05:49:04Z",
     "duration": 1,
