@@ -19804,6 +19804,15 @@
     "stars": 2,
     "status": "failure"
   },
+  "sersoft-gmbh/semver": {
+    "created": "2025-01-07T11:10:32Z",
+    "duration": 78,
+    "modified": "2025-01-07T11:10:32Z",
+    "repo": "https://github.com/sersoft-gmbh/semver.git",
+    "runid": 12649615878,
+    "stars": 14,
+    "status": "success"
+  },
   "sersoft-gmbh/swift-filestreamer": {
     "created": "2025-01-07T03:37:52Z",
     "duration": 15,
