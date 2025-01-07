@@ -29400,6 +29400,15 @@
     "stars": 194,
     "status": "failure"
   },
+  "yonaskolb/JSONUtilities": {
+    "created": "2025-01-07T15:04:26Z",
+    "duration": 8,
+    "modified": "2025-01-07T15:04:26Z",
+    "repo": "https://github.com/yonaskolb/JSONUtilities.git",
+    "runid": 12652509868,
+    "stars": 21,
+    "status": "success"
+  },
   "yonaskolb/Mint": {
     "created": "2025-01-07T10:10:15Z",
     "duration": 14,
