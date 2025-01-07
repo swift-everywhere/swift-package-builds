@@ -12126,6 +12126,15 @@
     "stars": 1,
     "status": "success"
   },
+  "tobihagemann/box-swift-sdk-gen": {
+    "created": "2025-01-07T03:15:11Z",
+    "duration": 51,
+    "modified": "2025-01-07T03:15:11Z",
+    "repo": "https://github.com/tobihagemann/box-swift-sdk-gen.git",
+    "runid": 12644277556,
+    "stars": 0,
+    "status": "success"
+  },
   "toffaletti/SwiftKSUID": {
     "created": "2025-01-07T02:48:24Z",
     "duration": 36,
