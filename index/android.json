@@ -8002,6 +8002,15 @@
     "stars": 103,
     "status": "success"
   },
+  "gringoireDM/RxEnumKit": {
+    "created": "2025-01-07T04:54:01Z",
+    "duration": 17,
+    "modified": "2025-01-07T04:54:01Z",
+    "repo": "https://github.com/gringoireDM/RxEnumKit.git",
+    "runid": 12645351961,
+    "stars": 20,
+    "status": "failure"
+  },
   "groue/GRDB.swift": {
     "created": "2025-01-06T17:44:54Z",
     "duration": 11,
