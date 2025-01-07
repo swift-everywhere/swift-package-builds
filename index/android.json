@@ -10796,6 +10796,15 @@
     "runid": 12638963153,
     "status": "failure"
   },
+  "mapbox/mapbox-directions-swift": {
+    "created": "2025-01-07T05:51:41Z",
+    "duration": 12,
+    "modified": "2025-01-07T05:51:41Z",
+    "repo": "https://github.com/mapbox/mapbox-directions-swift.git",
+    "runid": 12645653000,
+    "stars": 187,
+    "status": "failure"
+  },
   "mapbox/mapbox-events-ios": {
     "created": "2025-01-07T02:53:12Z",
     "duration": 3,
