@@ -18521,6 +18521,15 @@
     "stars": 62,
     "status": "failure"
   },
+  "tannerdsilva/nostr-kit": {
+    "created": "2025-01-07T08:49:00Z",
+    "duration": 24,
+    "modified": "2025-01-07T08:49:00Z",
+    "repo": "https://github.com/tannerdsilva/nostr-kit.git",
+    "runid": 12647794335,
+    "stars": 8,
+    "status": "failure"
+  },
   "tapsandswipes/Chainable": {
     "created": "2025-01-07T00:55:34Z",
     "duration": 6,
