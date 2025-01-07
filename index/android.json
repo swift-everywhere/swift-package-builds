@@ -12946,6 +12946,15 @@
     "stars": 23583,
     "status": "success"
   },
+  "google/interop-ios-for-google-sdks": {
+    "created": "2025-01-07T11:36:37Z",
+    "duration": 2,
+    "modified": "2025-01-07T11:36:37Z",
+    "repo": "https://github.com/google/interop-ios-for-google-sdks.git",
+    "runid": 12650476881,
+    "stars": 11,
+    "status": "success"
+  },
   "google/open-location-code-swift": {
     "created": "2025-01-07T11:20:50Z",
     "duration": 8,
