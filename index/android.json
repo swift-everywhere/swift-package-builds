@@ -16358,6 +16358,15 @@
     "stars": 24,
     "status": "failure"
   },
+  "rhysforyou/swift-case-accessors": {
+    "created": "2025-01-07T08:54:09Z",
+    "duration": 116,
+    "modified": "2025-01-07T08:54:09Z",
+    "repo": "https://github.com/rhysforyou/swift-case-accessors.git",
+    "runid": 12647794335,
+    "stars": 3,
+    "status": "failure"
+  },
   "richardpiazza/AsyncPlus": {
     "created": "2025-01-07T03:49:04Z",
     "duration": 7,
