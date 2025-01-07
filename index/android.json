@@ -4343,6 +4343,15 @@
     "stars": 9,
     "status": "success"
   },
+  "dejanskledar/SerializedSwift": {
+    "created": "2025-01-07T00:58:11Z",
+    "duration": 6,
+    "modified": "2025-01-07T00:58:11Z",
+    "repo": "https://github.com/dejanskledar/SerializedSwift.git",
+    "runid": 12641986754,
+    "stars": 141,
+    "status": "success"
+  },
   "denissimon/prediction-builder-swift": {
     "created": "2025-01-06T20:40:11Z",
     "duration": 6,
