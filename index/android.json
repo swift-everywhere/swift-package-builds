@@ -4340,6 +4340,15 @@
     "stars": 3,
     "status": "failure"
   },
+  "SDWebImage/libheif-Xcode": {
+    "created": "2025-01-07T06:29:55Z",
+    "duration": 5,
+    "modified": "2025-01-07T06:29:55Z",
+    "repo": "https://github.com/SDWebImage/libheif-Xcode.git",
+    "runid": 12646377141,
+    "stars": 11,
+    "status": "success"
+  },
   "SOBotics/SwiftStack": {
     "created": "2025-01-07T03:39:59Z",
     "duration": 8,
