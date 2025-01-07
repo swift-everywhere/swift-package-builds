@@ -4200,6 +4200,15 @@
     "stars": 1,
     "status": "success"
   },
+  "Nonchalant/AppIcon": {
+    "created": "2025-01-07T09:42:22Z",
+    "duration": 12,
+    "modified": "2025-01-07T09:42:22Z",
+    "repo": "https://github.com/Nonchalant/AppIcon.git",
+    "runid": 12648641718,
+    "stars": 1485,
+    "status": "failure"
+  },
   "Northwind-swift/NorthwindSQLite.swift": {
     "created": "2025-01-07T01:04:00Z",
     "duration": 7,
