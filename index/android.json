@@ -17337,10 +17337,11 @@
   },
   "twof/VaporCRUDRouter": {
     "created": "2025-01-06T17:06:30Z",
-    "duration": 30,
-    "modified": "2025-01-06T17:06:30Z",
+    "duration": 25,
+    "modified": "2025-01-07T07:29:20Z",
     "repo": "https://github.com/twof/VaporCRUDRouter.git",
-    "runid": 12636850547,
+    "runid": 12646951061,
+    "stars": 68,
     "status": "failure"
   },
   "twostraws/CodeScanner": {
