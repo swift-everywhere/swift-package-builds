@@ -22852,10 +22852,10 @@
   },
   "pointfreeco/swift-web": {
     "created": "2025-01-06T19:44:20Z",
-    "duration": 23,
-    "modified": "2025-01-07T14:30:49Z",
+    "duration": 20,
+    "modified": "2025-01-07T19:06:14Z",
     "repo": "https://github.com/pointfreeco/swift-web.git",
-    "runid": 12652509868,
+    "runid": 12657091582,
     "stars": 482,
     "status": "failure"
   },
