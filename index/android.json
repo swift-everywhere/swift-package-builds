@@ -6163,6 +6163,15 @@
     "stars": 7,
     "status": "failure"
   },
+  "ashvardanian/StringZilla": {
+    "created": "2025-01-07T06:38:06Z",
+    "duration": 4,
+    "modified": "2025-01-07T06:38:06Z",
+    "repo": "https://github.com/ashvardanian/StringZilla.git",
+    "runid": 12646377141,
+    "stars": 2325,
+    "status": "failure"
+  },
   "astzweig/swift-digits": {
     "created": "2025-01-06T22:39:41Z",
     "duration": 3,
