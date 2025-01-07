@@ -6154,10 +6154,11 @@
   },
   "d-exclaimation/pioneer": {
     "created": "2025-01-06T18:04:48Z",
-    "duration": 32,
-    "modified": "2025-01-06T18:04:48Z",
+    "duration": 35,
+    "modified": "2025-01-07T04:46:15Z",
     "repo": "https://github.com/d-exclaimation/pioneer.git",
-    "runid": 12637757100,
+    "runid": 12645351961,
+    "stars": 42,
     "status": "failure"
   },
   "dagronf/DSFAppearanceManager": {
