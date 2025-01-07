@@ -35,6 +35,15 @@
     "stars": 4,
     "status": "failure"
   },
+  "0xLeif/AppState": {
+    "created": "2025-01-07T14:15:09Z",
+    "duration": 8,
+    "modified": "2025-01-07T14:15:09Z",
+    "repo": "https://github.com/0xLeif/AppState.git",
+    "runid": 12652509868,
+    "stars": 82,
+    "status": "failure"
+  },
   "0xLeif/Cache": {
     "created": "2025-01-06T20:26:38Z",
     "duration": 8,
