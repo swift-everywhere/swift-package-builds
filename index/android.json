@@ -1168,6 +1168,15 @@
     "stars": 1,
     "status": "failure"
   },
+  "CmST0us/RxShell": {
+    "created": "2025-01-07T10:07:45Z",
+    "duration": 16,
+    "modified": "2025-01-07T10:07:45Z",
+    "repo": "https://github.com/CmST0us/RxShell.git",
+    "runid": 12648641718,
+    "stars": 0,
+    "status": "failure"
+  },
   "CodeBaseCamp/swift-sf-symbols": {
     "created": "2025-01-07T09:29:27Z",
     "duration": 57,
