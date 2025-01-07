@@ -3893,6 +3893,15 @@
     "stars": 3379,
     "status": "success"
   },
+  "apple/swift-certificates": {
+    "created": "2025-01-07T02:15:27Z",
+    "duration": 49,
+    "modified": "2025-01-07T02:15:27Z",
+    "repo": "https://github.com/apple/swift-certificates.git",
+    "runid": 12643524602,
+    "stars": 237,
+    "status": "success"
+  },
   "apple/swift-cluster-membership": {
     "created": "2025-01-06T22:57:06Z",
     "duration": 16,
