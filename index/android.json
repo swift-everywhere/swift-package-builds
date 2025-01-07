@@ -9057,6 +9057,15 @@
     "stars": 10234,
     "status": "success"
   },
+  "kudit/Color": {
+    "created": "2025-01-07T04:04:53Z",
+    "duration": 8,
+    "modified": "2025-01-07T04:04:53Z",
+    "repo": "https://github.com/kudit/Color.git",
+    "runid": 12644606839,
+    "stars": 2,
+    "status": "failure"
+  },
   "kudit/Device": {
     "created": "2025-01-06T17:23:58Z",
     "duration": 9,
