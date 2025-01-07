@@ -1020,6 +1020,15 @@
     "runid": 12638963153,
     "status": "success"
   },
+  "CleanCocoa/SearchExpressionParser": {
+    "created": "2025-01-07T07:53:00Z",
+    "duration": 8,
+    "modified": "2025-01-07T07:53:00Z",
+    "repo": "https://github.com/CleanCocoa/SearchExpressionParser.git",
+    "runid": 12646951061,
+    "stars": 26,
+    "status": "success"
+  },
   "Clipy/Sauce": {
     "created": "2025-01-07T06:15:17Z",
     "duration": 4,
