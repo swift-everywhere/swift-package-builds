@@ -7690,6 +7690,15 @@
     "runid": 12638963153,
     "status": "success"
   },
+  "exPHAT/SwiftWhisper": {
+    "created": "2025-01-07T05:29:14Z",
+    "duration": 6,
+    "modified": "2025-01-07T05:29:15Z",
+    "repo": "https://github.com/exPHAT/SwiftWhisper.git",
+    "runid": 12645653000,
+    "stars": 616,
+    "status": "failure"
+  },
   "ezefranca/check-permissions": {
     "created": "2025-01-06T20:29:04Z",
     "duration": 13,
