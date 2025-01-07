@@ -3071,6 +3071,15 @@
     "stars": 7,
     "status": "failure"
   },
+  "MihaelIsaev/VaporCron": {
+    "created": "2025-01-07T06:29:38Z",
+    "duration": 51,
+    "modified": "2025-01-07T06:29:39Z",
+    "repo": "https://github.com/MihaelIsaev/VaporCron.git",
+    "runid": 12646377141,
+    "stars": 87,
+    "status": "failure"
+  },
   "MillerTechnologyPeru/hcitool": {
     "created": "2025-01-07T05:27:03Z",
     "duration": 19,
