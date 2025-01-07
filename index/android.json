@@ -2671,6 +2671,15 @@
     "runid": 12638963153,
     "status": "success"
   },
+  "UnGast/swift-gfx-math": {
+    "created": "2025-01-07T00:37:35Z",
+    "duration": 11,
+    "modified": "2025-01-07T00:37:35Z",
+    "repo": "https://github.com/UnGast/swift-gfx-math.git",
+    "runid": 12641986754,
+    "stars": 4,
+    "status": "failure"
+  },
   "UnGast/swift-opengl": {
     "created": "2025-01-06T19:44:47Z",
     "duration": 7,
