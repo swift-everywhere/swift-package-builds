@@ -2372,6 +2372,15 @@
     "stars": 27,
     "status": "failure"
   },
+  "Kitura/Kitura-TemplateEngine": {
+    "created": "2025-01-07T05:54:47Z",
+    "duration": 4,
+    "modified": "2025-01-07T05:54:47Z",
+    "repo": "https://github.com/Kitura/Kitura-TemplateEngine.git",
+    "runid": 12645653000,
+    "stars": 16,
+    "status": "success"
+  },
   "Kitura/KituraKit": {
     "created": "2025-01-07T03:57:00Z",
     "duration": 28,
