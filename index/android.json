@@ -5283,6 +5283,15 @@
     "stars": 927,
     "status": "failure"
   },
+  "googleanalytics/google-tag-manager-ios-sdk": {
+    "created": "2025-01-07T01:02:39Z",
+    "duration": 56,
+    "modified": "2025-01-07T01:02:39Z",
+    "repo": "https://github.com/googleanalytics/google-tag-manager-ios-sdk.git",
+    "runid": 12641986754,
+    "stars": 16,
+    "status": "success"
+  },
   "gor-gyolchanyan-swift/introspection-kit": {
     "created": "2025-01-06T17:40:43Z",
     "duration": 3,
