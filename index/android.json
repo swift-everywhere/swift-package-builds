@@ -15346,10 +15346,10 @@
   },
   "getGuaka/Args": {
     "created": "2025-01-07T01:57:52Z",
-    "duration": 10,
-    "modified": "2025-01-07T01:57:52Z",
+    "duration": 9,
+    "modified": "2025-01-07T19:04:45Z",
     "repo": "https://github.com/getGuaka/Args.git",
-    "runid": 12643524602,
+    "runid": 12657091582,
     "stars": 1,
     "status": "success"
   },
