@@ -11805,6 +11805,15 @@
     "stars": 0,
     "status": "failure"
   },
+  "iainsmith/swift-travis": {
+    "created": "2025-01-07T09:10:03Z",
+    "duration": 6,
+    "modified": "2025-01-07T09:10:03Z",
+    "repo": "https://github.com/iainsmith/swift-travis.git",
+    "runid": 12647794335,
+    "stars": 0,
+    "status": "failure"
+  },
   "iamjono/SwiftRandom": {
     "created": "2025-01-06T19:45:51Z",
     "duration": 6,
