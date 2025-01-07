@@ -5767,6 +5767,15 @@
     "stars": 9,
     "status": "failure"
   },
+  "johnfairh/steamworks-swift": {
+    "created": "2025-01-07T00:53:04Z",
+    "duration": 16,
+    "modified": "2025-01-07T00:53:04Z",
+    "repo": "https://github.com/johnfairh/steamworks-swift.git",
+    "runid": 12641986754,
+    "stars": 8,
+    "status": "failure"
+  },
   "johnno1962/Popen": {
     "created": "2025-01-06T22:09:12Z",
     "duration": 7,
