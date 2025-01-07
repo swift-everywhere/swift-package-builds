@@ -9353,6 +9353,15 @@
     "stars": 0,
     "status": "failure"
   },
+  "marksands/BetterCodable": {
+    "created": "2025-01-07T03:53:12Z",
+    "duration": 7,
+    "modified": "2025-01-07T03:53:13Z",
+    "repo": "https://github.com/marksands/BetterCodable.git",
+    "runid": 12644606839,
+    "stars": 1744,
+    "status": "success"
+  },
   "marmelroy/Zip": {
     "created": "2025-01-06T21:37:20Z",
     "duration": 6,
