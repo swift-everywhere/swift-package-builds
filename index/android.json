@@ -18743,6 +18743,15 @@
     "stars": 2,
     "status": "failure"
   },
+  "netreconlab/parse-server-swift": {
+    "created": "2025-01-07T12:47:22Z",
+    "duration": 33,
+    "modified": "2025-01-07T12:47:22Z",
+    "repo": "https://github.com/netreconlab/parse-server-swift.git",
+    "runid": 12651715076,
+    "stars": 12,
+    "status": "failure"
+  },
   "nextincrement/rsa-public-key-importer-exporter": {
     "created": "2025-01-07T10:42:34Z",
     "duration": 9,
