@@ -8147,6 +8147,15 @@
     "stars": 2,
     "status": "success"
   },
+  "mrackwitz/Version": {
+    "created": "2025-01-07T02:09:18Z",
+    "duration": 7,
+    "modified": "2025-01-07T02:09:18Z",
+    "repo": "https://github.com/mrackwitz/Version.git",
+    "runid": 12643524602,
+    "stars": 183,
+    "status": "failure"
+  },
   "mredig/TinySwiftJPEG": {
     "created": "2025-01-06T20:51:19Z",
     "duration": 6,
