@@ -28360,10 +28360,10 @@
   },
   "vapor-community/wkhtmltopdf": {
     "created": "2025-01-06T20:00:34Z",
-    "duration": 24,
-    "modified": "2025-01-07T00:32:05Z",
+    "duration": 27,
+    "modified": "2025-01-07T18:40:29Z",
     "repo": "https://github.com/vapor-community/wkhtmltopdf.git",
-    "runid": 12641986754,
+    "runid": 12657091582,
     "stars": 58,
     "status": "failure"
   },
