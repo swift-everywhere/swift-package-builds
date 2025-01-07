@@ -2448,10 +2448,11 @@
   },
   "SwifQL/PostgresBridge": {
     "created": "2025-01-06T20:44:35Z",
-    "duration": 28,
-    "modified": "2025-01-06T20:44:35Z",
+    "duration": 25,
+    "modified": "2025-01-07T00:35:17Z",
     "repo": "https://github.com/SwifQL/PostgresBridge.git",
-    "runid": 12638963153,
+    "runid": 12641986754,
+    "stars": 4,
     "status": "failure"
   },
   "SwiftDocOrg/swift-cmark": {
