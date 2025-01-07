@@ -7889,6 +7889,15 @@
     "stars": 0,
     "status": "success"
   },
+  "givip/Telegrammer": {
+    "created": "2025-01-07T04:55:18Z",
+    "duration": 13,
+    "modified": "2025-01-07T04:55:18Z",
+    "repo": "https://github.com/givip/Telegrammer.git",
+    "runid": 12645351961,
+    "stars": 291,
+    "status": "failure"
+  },
   "gjeck/PathTemplate.swift": {
     "created": "2025-01-07T01:08:52Z",
     "duration": 6,
