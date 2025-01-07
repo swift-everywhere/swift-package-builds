@@ -989,6 +989,15 @@
     "stars": 496,
     "status": "failure"
   },
+  "FluidGroup/EmbeddedStringsKit": {
+    "created": "2025-01-07T00:59:33Z",
+    "duration": 6,
+    "modified": "2025-01-07T00:59:33Z",
+    "repo": "https://github.com/FluidGroup/EmbeddedStringsKit.git",
+    "runid": 12641986754,
+    "stars": 1,
+    "status": "success"
+  },
   "FluidGroup/ResultBuilderKit": {
     "created": "2025-01-06T21:18:26Z",
     "duration": 3,
