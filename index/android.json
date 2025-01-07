@@ -6499,10 +6499,10 @@
   },
   "Prosumma/Guise": {
     "created": "2025-01-07T08:32:11Z",
-    "duration": 12,
-    "modified": "2025-01-07T08:32:11Z",
+    "duration": 13,
+    "modified": "2025-01-07T22:31:06Z",
     "repo": "https://github.com/Prosumma/Guise.git",
-    "runid": 12647794335,
+    "runid": 12660245106,
     "stars": 60,
     "status": "success"
   },
