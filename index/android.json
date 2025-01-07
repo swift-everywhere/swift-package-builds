@@ -10067,6 +10067,15 @@
     "stars": 927,
     "status": "failure"
   },
+  "googleads/swift-package-manager-google-user-messaging-platform": {
+    "created": "2025-01-07T07:46:04Z",
+    "duration": 1,
+    "modified": "2025-01-07T07:46:04Z",
+    "repo": "https://github.com/googleads/swift-package-manager-google-user-messaging-platform.git",
+    "runid": 12646951061,
+    "stars": 6,
+    "status": "success"
+  },
   "googleanalytics/google-tag-manager-ios-sdk": {
     "created": "2025-01-07T01:02:39Z",
     "duration": 56,
