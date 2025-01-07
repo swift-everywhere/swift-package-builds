@@ -21740,6 +21740,15 @@
     "stars": 9,
     "status": "success"
   },
+  "richardpiazza/XcodeServer": {
+    "created": "2025-01-07T13:26:45Z",
+    "duration": 16,
+    "modified": "2025-01-07T13:26:45Z",
+    "repo": "https://github.com/richardpiazza/XcodeServer.git",
+    "runid": 12652509868,
+    "stars": 7,
+    "status": "failure"
+  },
   "richiefi/PrivacyManifestUtil": {
     "created": "2025-01-07T01:17:50Z",
     "duration": 10,
