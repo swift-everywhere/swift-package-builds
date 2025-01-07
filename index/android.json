@@ -11665,10 +11665,10 @@
   },
   "brokenhandsio/VaporSecurityHeaders": {
     "created": "2025-01-07T08:10:02Z",
-    "duration": 32,
-    "modified": "2025-01-07T16:43:11Z",
+    "duration": 33,
+    "modified": "2025-01-07T18:41:07Z",
     "repo": "https://github.com/brokenhandsio/VaporSecurityHeaders.git",
-    "runid": 12655360195,
+    "runid": 12657091582,
     "stars": 150,
     "status": "failure"
   },
