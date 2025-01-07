@@ -11605,6 +11605,15 @@
     "stars": 12,
     "status": "failure"
   },
+  "fpseverino/swift-wallet": {
+    "created": "2025-01-07T10:35:57Z",
+    "duration": 15,
+    "modified": "2025-01-07T10:35:57Z",
+    "repo": "https://github.com/fpseverino/swift-wallet.git",
+    "runid": 12649615878,
+    "stars": 9,
+    "status": "failure"
+  },
   "franklefebvre/XMLCoder": {
     "created": "2025-01-06T20:32:12Z",
     "duration": 7,
