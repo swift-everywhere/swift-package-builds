@@ -10982,6 +10982,15 @@
     "runid": 12636850547,
     "status": "success"
   },
+  "pointfreeco/swift-prelude": {
+    "created": "2025-01-07T04:01:13Z",
+    "duration": 11,
+    "modified": "2025-01-07T04:01:13Z",
+    "repo": "https://github.com/pointfreeco/swift-prelude.git",
+    "runid": 12644606839,
+    "stars": 472,
+    "status": "failure"
+  },
   "pointfreeco/swift-url-routing": {
     "created": "2025-01-06T23:37:35Z",
     "duration": 32,
