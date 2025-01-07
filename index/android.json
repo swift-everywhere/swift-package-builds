@@ -3802,6 +3802,15 @@
     "stars": 72,
     "status": "failure"
   },
+  "Naamio/malline": {
+    "created": "2025-01-07T09:03:32Z",
+    "duration": 7,
+    "modified": "2025-01-07T09:03:32Z",
+    "repo": "https://github.com/Naamio/malline.git",
+    "runid": 12647794335,
+    "stars": 3,
+    "status": "failure"
+  },
   "Nef10/Releases": {
     "created": "2025-01-07T01:04:08Z",
     "duration": 7,
