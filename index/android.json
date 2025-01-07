@@ -2822,6 +2822,15 @@
     "stars": 7,
     "status": "failure"
   },
+  "MillerTechnologyPeru/hcitool": {
+    "created": "2025-01-07T05:27:03Z",
+    "duration": 19,
+    "modified": "2025-01-07T05:27:03Z",
+    "repo": "https://github.com/MillerTechnologyPeru/hcitool.git",
+    "runid": 12645653000,
+    "stars": 94,
+    "status": "failure"
+  },
   "Mobelux/Lingo": {
     "created": "2025-01-06T19:49:24Z",
     "duration": 10,
