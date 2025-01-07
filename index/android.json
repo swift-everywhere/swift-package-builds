@@ -6338,9 +6338,9 @@
   "PerfectlySoft/Perfect-Thread": {
     "created": "2025-01-07T08:50:26Z",
     "duration": 3,
-    "modified": "2025-01-07T08:50:26Z",
+    "modified": "2025-01-07T18:52:55Z",
     "repo": "https://github.com/PerfectlySoft/Perfect-Thread.git",
-    "runid": 12647794335,
+    "runid": 12657091582,
     "stars": 18,
     "status": "failure"
   },
