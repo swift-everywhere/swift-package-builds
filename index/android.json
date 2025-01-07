@@ -7948,6 +7948,15 @@
     "stars": 18,
     "status": "failure"
   },
+  "alephao/swift-rlp": {
+    "created": "2025-01-07T11:56:55Z",
+    "duration": 11,
+    "modified": "2025-01-07T11:56:56Z",
+    "repo": "https://github.com/alephao/swift-rlp.git",
+    "runid": 12650476881,
+    "stars": 24,
+    "status": "failure"
+  },
   "alessiorubicini/SwiftSessions": {
     "created": "2025-01-06T20:56:28Z",
     "duration": 25,
