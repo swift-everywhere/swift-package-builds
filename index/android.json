@@ -1121,6 +1121,15 @@
     "stars": 75,
     "status": "success"
   },
+  "CmST0us/PeripheryKit": {
+    "created": "2025-01-07T08:32:21Z",
+    "duration": 8,
+    "modified": "2025-01-07T08:32:21Z",
+    "repo": "https://github.com/CmST0us/PeripheryKit.git",
+    "runid": 12647794335,
+    "stars": 1,
+    "status": "failure"
+  },
   "CombineCommunity/RxCombine": {
     "created": "2025-01-07T03:51:48Z",
     "duration": 12,
