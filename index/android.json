@@ -3883,10 +3883,11 @@
   },
   "Lickability/ObservableConverter": {
     "created": "2025-01-06T20:31:22Z",
-    "duration": 17,
-    "modified": "2025-01-06T20:31:22Z",
+    "duration": 19,
+    "modified": "2025-01-07T12:30:35Z",
     "repo": "https://github.com/Lickability/ObservableConverter.git",
-    "runid": 12638963153,
+    "runid": 12650476881,
+    "stars": 90,
     "status": "failure"
   },
   "Lighter-swift/Lighter": {
