@@ -10605,6 +10605,15 @@
     "stars": 380,
     "status": "failure"
   },
+  "devxoul/ReusableKit": {
+    "created": "2025-01-07T10:48:08Z",
+    "duration": 15,
+    "modified": "2025-01-07T10:48:08Z",
+    "repo": "https://github.com/devxoul/ReusableKit.git",
+    "runid": 12649615878,
+    "stars": 162,
+    "status": "failure"
+  },
   "devxoul/RxJSON": {
     "created": "2025-01-07T07:40:21Z",
     "duration": 12,
