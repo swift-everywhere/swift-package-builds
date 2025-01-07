@@ -27093,10 +27093,11 @@
   },
   "vapor-community/google-cloud-kit": {
     "created": "2025-01-06T20:35:01Z",
-    "duration": 82,
-    "modified": "2025-01-06T20:35:01Z",
+    "duration": 84,
+    "modified": "2025-01-07T14:16:35Z",
     "repo": "https://github.com/vapor-community/google-cloud-kit.git",
-    "runid": 12638963153,
+    "runid": 12652509868,
+    "stars": 49,
     "status": "failure"
   },
   "vapor-community/leaf-markdown": {
