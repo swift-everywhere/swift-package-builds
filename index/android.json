@@ -19090,10 +19090,10 @@
   },
   "lovetodream/oracle-nio": {
     "created": "2025-01-07T05:03:54Z",
-    "duration": 23,
-    "modified": "2025-01-07T05:03:54Z",
+    "duration": 24,
+    "modified": "2025-01-07T19:26:26Z",
     "repo": "https://github.com/lovetodream/oracle-nio.git",
-    "runid": 12645351961,
+    "runid": 12657790358,
     "stars": 30,
     "status": "failure"
   },
