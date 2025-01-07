@@ -10315,11 +10315,11 @@
   },
   "apple/swift-openapi-generator": {
     "created": "2025-01-06T17:32:51Z",
-    "duration": 58,
-    "modified": "2025-01-07T05:31:36Z",
+    "duration": 55,
+    "modified": "2025-01-07T20:40:52Z",
     "repo": "https://github.com/apple/swift-openapi-generator.git",
-    "runid": 12645653000,
-    "stars": 1487,
+    "runid": 12658681935,
+    "stars": 1489,
     "status": "failure"
   },
   "apple/swift-openapi-runtime": {
