@@ -21387,6 +21387,15 @@
     "stars": 5,
     "status": "success"
   },
+  "p-x9/AliasMacro": {
+    "created": "2025-01-07T14:24:44Z",
+    "duration": 122,
+    "modified": "2025-01-07T14:24:44Z",
+    "repo": "https://github.com/p-x9/AliasMacro.git",
+    "runid": 12652509868,
+    "stars": 29,
+    "status": "success"
+  },
   "p-x9/AssociatedObject": {
     "created": "2025-01-07T10:18:09Z",
     "duration": 96,
