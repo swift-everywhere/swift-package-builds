@@ -513,9 +513,10 @@
   "Balancingrock/BRUtils": {
     "created": "2025-01-06T17:24:19Z",
     "duration": 7,
-    "modified": "2025-01-06T20:28:50Z",
+    "modified": "2025-01-07T05:13:13Z",
     "repo": "https://github.com/Balancingrock/BRUtils.git",
-    "runid": 12638963153,
+    "runid": 12645351961,
+    "stars": 1,
     "status": "failure"
   },
   "Balancingrock/Http": {
