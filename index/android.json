@@ -26234,6 +26234,15 @@
     "stars": 24702,
     "status": "failure"
   },
+  "vapor/websocket-kit": {
+    "created": "2025-01-07T13:21:28Z",
+    "duration": 58,
+    "modified": "2025-01-07T13:21:29Z",
+    "repo": "https://github.com/vapor/websocket-kit.git",
+    "runid": 12651715076,
+    "stars": 284,
+    "status": "failure"
+  },
   "vbmobile/VBImageProcessor": {
     "created": "2025-01-07T04:20:28Z",
     "duration": 7,
