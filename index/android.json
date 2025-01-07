@@ -14099,10 +14099,11 @@
   },
   "my-mail-ru/swift-URI": {
     "created": "2025-01-06T17:42:48Z",
-    "duration": 4,
-    "modified": "2025-01-06T17:42:48Z",
+    "duration": 5,
+    "modified": "2025-01-07T08:27:27Z",
     "repo": "https://github.com/my-mail-ru/swift-URI.git",
-    "runid": 12637148220,
+    "runid": 12647794335,
+    "stars": 1,
     "status": "success"
   },
   "myTrackerSDK/mytracker-ios-spm": {
