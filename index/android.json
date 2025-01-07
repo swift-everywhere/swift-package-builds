@@ -12800,6 +12800,15 @@
     "stars": 23583,
     "status": "success"
   },
+  "google/open-location-code-swift": {
+    "created": "2025-01-07T11:20:50Z",
+    "duration": 8,
+    "modified": "2025-01-07T11:20:50Z",
+    "repo": "https://github.com/google/open-location-code-swift.git",
+    "runid": 12650476881,
+    "stars": 45,
+    "status": "success"
+  },
   "google/swift-benchmark": {
     "created": "2025-01-06T23:50:44Z",
     "duration": 8,
