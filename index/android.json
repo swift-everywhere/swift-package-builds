@@ -8725,6 +8725,15 @@
     "stars": 2,
     "status": "success"
   },
+  "dankinsoid/VaporToOpenAPI": {
+    "created": "2025-01-07T08:35:45Z",
+    "duration": 38,
+    "modified": "2025-01-07T08:35:45Z",
+    "repo": "https://github.com/dankinsoid/VaporToOpenAPI.git",
+    "runid": 12647794335,
+    "stars": 108,
+    "status": "failure"
+  },
   "dankinsoid/influxdb-client-swift": {
     "created": "2025-01-07T00:15:07Z",
     "duration": 18,
