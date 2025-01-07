@@ -2983,6 +2983,15 @@
     "stars": 0,
     "status": "failure"
   },
+  "MarcoEidinger/URLCompatibilityKit": {
+    "created": "2025-01-07T06:46:47Z",
+    "duration": 7,
+    "modified": "2025-01-07T06:46:47Z",
+    "repo": "https://github.com/MarcoEidinger/URLCompatibilityKit.git",
+    "runid": 12646377141,
+    "stars": 24,
+    "status": "success"
+  },
   "MarkCodable/MarkCodable": {
     "created": "2025-01-07T00:30:33Z",
     "duration": 14,
