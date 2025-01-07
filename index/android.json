@@ -1712,6 +1712,15 @@
     "stars": 15,
     "status": "success"
   },
+  "EFPrefix/swift_qrcodejs": {
+    "created": "2025-01-07T09:32:08Z",
+    "duration": 7,
+    "modified": "2025-01-07T09:32:08Z",
+    "repo": "https://github.com/EFPrefix/swift_qrcodejs.git",
+    "runid": 12648641718,
+    "stars": 0,
+    "status": "success"
+  },
   "EduDo-Inc/spmgen": {
     "created": "2025-01-06T20:30:39Z",
     "duration": 12,
