@@ -10219,6 +10219,15 @@
     "stars": 7043,
     "status": "failure"
   },
+  "grpc/grpc-swift-extras": {
+    "created": "2025-01-07T07:53:25Z",
+    "duration": 15,
+    "modified": "2025-01-07T07:53:25Z",
+    "repo": "https://github.com/grpc/grpc-swift-extras.git",
+    "runid": 12646951061,
+    "stars": 9,
+    "status": "failure"
+  },
   "grpc/grpc-swift-nio-transport": {
     "created": "2025-01-07T02:27:18Z",
     "duration": 34,
