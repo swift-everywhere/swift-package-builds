@@ -24292,10 +24292,10 @@
   },
   "segabor/OSCCore": {
     "created": "2025-01-06T23:29:47Z",
-    "duration": 24,
-    "modified": "2025-01-06T23:29:47Z",
+    "duration": 26,
+    "modified": "2025-01-07T20:16:04Z",
     "repo": "https://github.com/segabor/OSCCore.git",
-    "runid": 12641986754,
+    "runid": 12658091539,
     "stars": 46,
     "status": "failure"
   },
