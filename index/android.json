@@ -10969,6 +10969,15 @@
     "stars": 1,
     "status": "failure"
   },
+  "icanzilb/DoNilDisturbPlugin": {
+    "created": "2025-01-07T08:04:18Z",
+    "duration": 2,
+    "modified": "2025-01-07T08:04:18Z",
+    "repo": "https://github.com/icanzilb/DoNilDisturbPlugin.git",
+    "runid": 12646951061,
+    "stars": 109,
+    "status": "failure"
+  },
   "icanzilb/powerups": {
     "created": "2025-01-07T00:56:14Z",
     "duration": 6,
