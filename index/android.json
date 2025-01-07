@@ -4382,6 +4382,15 @@
     "stars": 929,
     "status": "failure"
   },
+  "bluk/CRDT": {
+    "created": "2025-01-07T02:10:22Z",
+    "duration": 9,
+    "modified": "2025-01-07T02:10:22Z",
+    "repo": "https://github.com/bluk/CRDT.git",
+    "runid": 12643524602,
+    "stars": 26,
+    "status": "success"
+  },
   "bojan/Thingy": {
     "created": "2025-01-06T19:46:54Z",
     "duration": 6,
