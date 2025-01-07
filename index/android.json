@@ -10066,6 +10066,15 @@
     "stars": 575,
     "status": "success"
   },
+  "dankogai/swift-tap": {
+    "created": "2025-01-07T10:41:08Z",
+    "duration": 4,
+    "modified": "2025-01-07T10:41:08Z",
+    "repo": "https://github.com/dankogai/swift-tap.git",
+    "runid": 12649615878,
+    "stars": 5,
+    "status": "failure"
+  },
   "dannys42/Causality": {
     "created": "2025-01-07T02:35:00Z",
     "duration": 8,
