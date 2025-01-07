@@ -2020,9 +2020,10 @@
   "RiftValleySoftware/RVS_ParseXMLDuration": {
     "created": "2025-01-06T20:20:12Z",
     "duration": 6,
-    "modified": "2025-01-06T20:20:12Z",
+    "modified": "2025-01-07T00:17:47Z",
     "repo": "https://github.com/RiftValleySoftware/RVS_ParseXMLDuration.git",
-    "runid": 12638963153,
+    "runid": 12641986754,
+    "stars": 1,
     "status": "success"
   },
   "RougeWare/Efficient-Averager": {
