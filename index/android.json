@@ -17236,10 +17236,10 @@
   },
   "jegnux/BackedCodable": {
     "created": "2025-01-07T14:36:24Z",
-    "duration": 9,
-    "modified": "2025-01-07T14:36:24Z",
+    "duration": 8,
+    "modified": "2025-01-07T18:03:19Z",
     "repo": "https://github.com/jegnux/BackedCodable.git",
-    "runid": 12652509868,
+    "runid": 12656035496,
     "stars": 490,
     "status": "success"
   },
