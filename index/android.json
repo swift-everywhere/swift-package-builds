@@ -1616,6 +1616,15 @@
     "stars": 9,
     "status": "failure"
   },
+  "FitnessKit/DataDecoder": {
+    "created": "2025-01-07T07:39:15Z",
+    "duration": 7,
+    "modified": "2025-01-07T07:39:15Z",
+    "repo": "https://github.com/FitnessKit/DataDecoder.git",
+    "runid": 12646951061,
+    "stars": 12,
+    "status": "success"
+  },
   "FitnessKit/TcxDataProtocol": {
     "created": "2025-01-06T17:45:35Z",
     "duration": 10,
