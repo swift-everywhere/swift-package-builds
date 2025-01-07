@@ -15746,6 +15746,15 @@
     "stars": 18,
     "status": "failure"
   },
+  "valpackett/SwiftCBOR": {
+    "created": "2025-01-07T05:59:50Z",
+    "duration": 7,
+    "modified": "2025-01-07T05:59:50Z",
+    "repo": "https://github.com/valpackett/SwiftCBOR.git",
+    "runid": 12645653000,
+    "stars": 137,
+    "status": "failure"
+  },
   "vamsii777/SwiftTZ": {
     "created": "2025-01-06T20:57:47Z",
     "duration": 8,
