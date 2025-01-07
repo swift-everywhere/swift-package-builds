@@ -12867,6 +12867,15 @@
     "stars": 763,
     "status": "failure"
   },
+  "kylef/URITemplate.swift": {
+    "created": "2025-01-07T08:42:57Z",
+    "duration": 9,
+    "modified": "2025-01-07T08:42:57Z",
+    "repo": "https://github.com/kylef/URITemplate.swift.git",
+    "runid": 12647794335,
+    "stars": 198,
+    "status": "success"
+  },
   "kylehughes/RomanNumeralKit": {
     "created": "2025-01-06T23:58:20Z",
     "duration": 15,
