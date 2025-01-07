@@ -8250,6 +8250,15 @@
     "stars": 1,
     "status": "success"
   },
+  "SwiftScream/URITemplate": {
+    "created": "2025-01-07T14:58:07Z",
+    "duration": 82,
+    "modified": "2025-01-07T14:58:07Z",
+    "repo": "https://github.com/SwiftScream/URITemplate.git",
+    "runid": 12652509868,
+    "stars": 12,
+    "status": "success"
+  },
   "SwiftScream/swift-environment-decoder": {
     "created": "2025-01-06T22:57:37Z",
     "duration": 16,
