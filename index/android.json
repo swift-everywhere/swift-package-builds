@@ -3771,6 +3771,15 @@
     "stars": 4,
     "status": "success"
   },
+  "aronbudinszky/postmark-swift": {
+    "created": "2025-01-07T01:43:18Z",
+    "duration": 7,
+    "modified": "2025-01-07T01:43:18Z",
+    "repo": "https://github.com/aronbudinszky/postmark-swift.git",
+    "runid": 12643524602,
+    "stars": 1,
+    "status": "success"
+  },
   "art-divin/Stencil": {
     "created": "2025-01-06T22:57:14Z",
     "duration": 7,
