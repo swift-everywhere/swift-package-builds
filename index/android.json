@@ -19307,10 +19307,11 @@
   },
   "mattmassicotte/Empire": {
     "created": "2025-01-06T19:47:59Z",
-    "duration": 6,
-    "modified": "2025-01-06T19:47:59Z",
+    "duration": 4,
+    "modified": "2025-01-07T14:37:23Z",
     "repo": "https://github.com/mattmassicotte/Empire.git",
-    "runid": 12638963153,
+    "runid": 12652509868,
+    "stars": 70,
     "status": "failure"
   },
   "mattmassicotte/Lock": {
