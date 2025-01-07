@@ -1275,6 +1275,15 @@
     "runid": 12638963153,
     "status": "success"
   },
+  "Everything-as-UI/CoreUI": {
+    "created": "2025-01-07T04:20:33Z",
+    "duration": 4,
+    "modified": "2025-01-07T04:20:34Z",
+    "repo": "https://github.com/Everything-as-UI/CoreUI.git",
+    "runid": 12644606839,
+    "stars": 0,
+    "status": "success"
+  },
   "Everything-as-UI/DocumentUI": {
     "created": "2025-01-07T01:05:59Z",
     "duration": 7,
