@@ -2751,6 +2751,15 @@
     "stars": 4905,
     "status": "failure"
   },
+  "JohnSundell/Releases": {
+    "created": "2025-01-07T09:43:54Z",
+    "duration": 8,
+    "modified": "2025-01-07T09:43:54Z",
+    "repo": "https://github.com/JohnSundell/Releases.git",
+    "runid": 12648641718,
+    "stars": 52,
+    "status": "failure"
+  },
   "JohnSundell/ShellOut": {
     "created": "2025-01-07T08:20:12Z",
     "duration": 7,
