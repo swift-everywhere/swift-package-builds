@@ -4911,6 +4911,15 @@
     "stars": 1,
     "status": "success"
   },
+  "gcharita/CodableProperty": {
+    "created": "2025-01-07T00:43:02Z",
+    "duration": 6,
+    "modified": "2025-01-07T00:43:02Z",
+    "repo": "https://github.com/gcharita/CodableProperty.git",
+    "runid": 12641986754,
+    "stars": 11,
+    "status": "success"
+  },
   "getGuaka/Regex": {
     "created": "2025-01-06T17:24:32Z",
     "duration": 3,
