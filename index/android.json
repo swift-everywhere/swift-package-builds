@@ -6099,9 +6099,10 @@
   "franklefebvre/XMLCoder": {
     "created": "2025-01-06T20:32:12Z",
     "duration": 7,
-    "modified": "2025-01-06T20:32:12Z",
+    "modified": "2025-01-07T02:34:09Z",
     "repo": "https://github.com/franklefebvre/XMLCoder.git",
-    "runid": 12638963153,
+    "runid": 12643524602,
+    "stars": 11,
     "status": "success"
   },
   "franklefebvre/swift-export": {
