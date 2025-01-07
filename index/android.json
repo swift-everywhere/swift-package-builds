@@ -3848,6 +3848,15 @@
     "stars": 256,
     "status": "success"
   },
+  "arguiot/Euler": {
+    "created": "2025-01-07T01:57:36Z",
+    "duration": 10,
+    "modified": "2025-01-07T01:57:36Z",
+    "repo": "https://github.com/arguiot/Euler.git",
+    "runid": 12643524602,
+    "stars": 53,
+    "status": "failure"
+  },
   "armadsen/GlassGem": {
     "created": "2025-01-07T00:48:44Z",
     "duration": 5,
