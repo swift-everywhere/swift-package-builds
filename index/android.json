@@ -3388,6 +3388,15 @@
     "runid": 12637148220,
     "status": "success"
   },
+  "coodly/TalkToCloud": {
+    "created": "2025-01-07T00:04:38Z",
+    "duration": 20,
+    "modified": "2025-01-07T00:04:38Z",
+    "repo": "https://github.com/coodly/TalkToCloud.git",
+    "runid": 12641986754,
+    "stars": 2,
+    "status": "failure"
+  },
   "crelies/JSON-DSL": {
     "created": "2025-01-06T17:28:19Z",
     "duration": 4,
