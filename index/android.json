@@ -12854,6 +12854,15 @@
     "stars": 1,
     "status": "success"
   },
+  "smithy-lang/smithy-swift": {
+    "created": "2025-01-07T05:04:39Z",
+    "duration": 26,
+    "modified": "2025-01-07T05:04:39Z",
+    "repo": "https://github.com/smithy-lang/smithy-swift.git",
+    "runid": 12645351961,
+    "stars": 30,
+    "status": "failure"
+  },
   "smumriak/AppKid": {
     "created": "2025-01-06T22:17:13Z",
     "duration": 18,
