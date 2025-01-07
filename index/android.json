@@ -6548,6 +6548,15 @@
     "stars": 11,
     "status": "success"
   },
+  "SDWebImage/libvmaf-Xcode": {
+    "created": "2025-01-07T12:59:39Z",
+    "duration": 2,
+    "modified": "2025-01-07T12:59:39Z",
+    "repo": "https://github.com/SDWebImage/libvmaf-Xcode.git",
+    "runid": 12651715076,
+    "stars": 2,
+    "status": "success"
+  },
   "SDWebImage/libwebp-Xcode": {
     "created": "2025-01-07T10:32:08Z",
     "duration": 1,
