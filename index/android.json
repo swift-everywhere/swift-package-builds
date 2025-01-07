@@ -8878,6 +8878,15 @@
     "runid": 12638963153,
     "status": "failure"
   },
+  "vapor-community/node": {
+    "created": "2025-01-07T00:36:11Z",
+    "duration": 6,
+    "modified": "2025-01-07T00:36:11Z",
+    "repo": "https://github.com/vapor-community/node.git",
+    "runid": 12641986754,
+    "stars": 25,
+    "status": "failure"
+  },
   "vapor-community/random": {
     "created": "2025-01-06T21:51:23Z",
     "duration": 6,
