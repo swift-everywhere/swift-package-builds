@@ -8879,6 +8879,15 @@
     "stars": 0,
     "status": "success"
   },
+  "jaroshevskii/solar-system": {
+    "created": "2025-01-07T05:03:29Z",
+    "duration": 4,
+    "modified": "2025-01-07T05:03:29Z",
+    "repo": "https://github.com/jaroshevskii/solar-system.git",
+    "runid": 12645351961,
+    "stars": 5,
+    "status": "failure"
+  },
   "jaroshevskii/swift-ice-cream-sandwich": {
     "created": "2025-01-06T17:10:17Z",
     "duration": 4,
