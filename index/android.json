@@ -8576,6 +8576,15 @@
     "stars": 26,
     "status": "failure"
   },
+  "vapor/multipart-kit": {
+    "created": "2025-01-07T00:25:21Z",
+    "duration": 35,
+    "modified": "2025-01-07T00:25:21Z",
+    "repo": "https://github.com/vapor/multipart-kit.git",
+    "runid": 12641986754,
+    "stars": 144,
+    "status": "failure"
+  },
   "vapor/mysql-kit": {
     "created": "2025-01-06T20:18:51Z",
     "duration": 92,
