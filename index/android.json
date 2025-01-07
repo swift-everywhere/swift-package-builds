@@ -2710,6 +2710,15 @@
     "stars": 3,
     "status": "failure"
   },
+  "YusukeHosonuma/Flatten": {
+    "created": "2025-01-07T00:34:50Z",
+    "duration": 7,
+    "modified": "2025-01-07T00:34:50Z",
+    "repo": "https://github.com/YusukeHosonuma/Flatten.git",
+    "runid": 12641986754,
+    "stars": 3,
+    "status": "success"
+  },
   "YusukeHosonuma/SwiftParamTest": {
     "created": "2025-01-06T23:27:04Z",
     "duration": 11,
