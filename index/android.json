@@ -6189,6 +6189,15 @@
     "stars": 0,
     "status": "failure"
   },
+  "SDGGiesbrecht/swift-docc-symbolkit": {
+    "created": "2025-01-07T12:00:06Z",
+    "duration": 10,
+    "modified": "2025-01-07T12:00:06Z",
+    "repo": "https://github.com/SDGGiesbrecht/swift-docc-symbolkit.git",
+    "runid": 12650476881,
+    "stars": 0,
+    "status": "failure"
+  },
   "SDGGiesbrecht/swift-driver": {
     "created": "2025-01-07T08:10:47Z",
     "duration": 36,
