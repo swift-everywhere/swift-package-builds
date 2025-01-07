@@ -19082,6 +19082,15 @@
     "stars": 800,
     "status": "success"
   },
+  "outfoxx/PotentCodables": {
+    "created": "2025-01-07T12:17:56Z",
+    "duration": 17,
+    "modified": "2025-01-07T12:17:56Z",
+    "repo": "https://github.com/outfoxx/PotentCodables.git",
+    "runid": 12650476881,
+    "stars": 74,
+    "status": "failure"
+  },
   "ozetadev/gdpr-swift": {
     "created": "2025-01-07T01:51:52Z",
     "duration": 4,
