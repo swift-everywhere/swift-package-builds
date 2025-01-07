@@ -21437,6 +21437,15 @@
     "stars": 226,
     "status": "failure"
   },
+  "vapor/mysql-nio": {
+    "created": "2025-01-07T10:01:53Z",
+    "duration": 80,
+    "modified": "2025-01-07T10:01:54Z",
+    "repo": "https://github.com/vapor/mysql-nio.git",
+    "runid": 12648641718,
+    "stars": 92,
+    "status": "failure"
+  },
   "vapor/postgres-kit": {
     "created": "2025-01-07T01:48:12Z",
     "duration": 25,
