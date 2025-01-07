@@ -6010,6 +6010,15 @@
     "stars": 0,
     "status": "failure"
   },
+  "Sherlouk/spm": {
+    "created": "2025-01-07T10:45:00Z",
+    "duration": 8,
+    "modified": "2025-01-07T10:45:00Z",
+    "repo": "https://github.com/Sherlouk/spm.git",
+    "runid": 12649615878,
+    "stars": 1,
+    "status": "failure"
+  },
   "Shimmur/swiftui-uikit-presenting": {
     "created": "2025-01-07T04:15:07Z",
     "duration": 4,
