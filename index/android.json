@@ -2353,6 +2353,15 @@
     "stars": 1,
     "status": "failure"
   },
+  "ThatsJustCheesy/InAnyCase": {
+    "created": "2025-01-07T00:02:49Z",
+    "duration": 8,
+    "modified": "2025-01-07T00:02:49Z",
+    "repo": "https://github.com/ThatsJustCheesy/InAnyCase.git",
+    "runid": 12641986754,
+    "stars": 1,
+    "status": "success"
+  },
   "TizianoCoroneo/Deeplink": {
     "created": "2025-01-06T20:43:37Z",
     "duration": 16,
