@@ -4388,9 +4388,10 @@
   "getGuaka/Regex": {
     "created": "2025-01-06T17:24:32Z",
     "duration": 3,
-    "modified": "2025-01-06T17:24:32Z",
+    "modified": "2025-01-07T00:16:24Z",
     "repo": "https://github.com/getGuaka/Regex.git",
-    "runid": 12637148220,
+    "runid": 12641986754,
+    "stars": 16,
     "status": "failure"
   },
   "getGuaka/StringScanner": {
