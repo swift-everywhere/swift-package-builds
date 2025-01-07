@@ -14962,10 +14962,11 @@
   },
   "inamiy/RxProperty": {
     "created": "2025-01-06T17:06:51Z",
-    "duration": 20,
-    "modified": "2025-01-06T17:06:51Z",
+    "duration": 14,
+    "modified": "2025-01-07T12:52:51Z",
     "repo": "https://github.com/inamiy/RxProperty.git",
-    "runid": 12636850547,
+    "runid": 12651715076,
+    "stars": 85,
     "status": "failure"
   },
   "inamiy/SwiftRewriter": {
