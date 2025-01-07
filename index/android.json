@@ -3431,6 +3431,15 @@
     "stars": 3,
     "status": "failure"
   },
+  "SOBotics/SwiftStack": {
+    "created": "2025-01-07T03:39:59Z",
+    "duration": 8,
+    "modified": "2025-01-07T03:39:59Z",
+    "repo": "https://github.com/SOBotics/SwiftStack.git",
+    "runid": 12644606839,
+    "stars": 4,
+    "status": "failure"
+  },
   "STREGAsGate/Raylib": {
     "created": "2025-01-06T20:43:57Z",
     "duration": 2,
