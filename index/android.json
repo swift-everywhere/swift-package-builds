@@ -5975,6 +5975,15 @@
     "stars": 197,
     "status": "failure"
   },
+  "jrsaruo/Firework": {
+    "created": "2025-01-07T00:59:54Z",
+    "duration": 8,
+    "modified": "2025-01-07T00:59:54Z",
+    "repo": "https://github.com/jrsaruo/Firework.git",
+    "runid": 12641986754,
+    "stars": 3,
+    "status": "failure"
+  },
   "jsorge/maverick": {
     "created": "2025-01-06T17:08:13Z",
     "duration": 26,
