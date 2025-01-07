@@ -18104,6 +18104,15 @@
     "stars": 15,
     "status": "success"
   },
+  "natinusala/swift-backtrace": {
+    "created": "2025-01-07T12:25:50Z",
+    "duration": 4,
+    "modified": "2025-01-07T12:25:50Z",
+    "repo": "https://github.com/natinusala/swift-backtrace.git",
+    "runid": 12650476881,
+    "stars": 1,
+    "status": "failure"
+  },
   "natinusala/swift-cutelog": {
     "created": "2025-01-06T22:09:04Z",
     "duration": 6,
