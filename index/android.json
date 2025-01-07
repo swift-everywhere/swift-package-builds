@@ -2657,6 +2657,15 @@
     "stars": 1,
     "status": "success"
   },
+  "Frizlab/SafeGlobal": {
+    "created": "2025-01-07T13:31:57Z",
+    "duration": 98,
+    "modified": "2025-01-07T13:31:57Z",
+    "repo": "https://github.com/Frizlab/SafeGlobal.git",
+    "runid": 12652509868,
+    "stars": 3,
+    "status": "success"
+  },
   "Frizlab/SemiSingleton": {
     "created": "2025-01-07T01:10:57Z",
     "duration": 93,
