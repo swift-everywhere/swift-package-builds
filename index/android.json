@@ -11449,6 +11449,15 @@
     "stars": 196,
     "status": "failure"
   },
+  "mikhailmaslo/macro-codable-kit": {
+    "created": "2025-01-07T06:09:21Z",
+    "duration": 113,
+    "modified": "2025-01-07T06:09:21Z",
+    "repo": "https://github.com/mikhailmaslo/macro-codable-kit.git",
+    "runid": 12645653000,
+    "stars": 35,
+    "status": "success"
+  },
   "milend/hmap": {
     "created": "2025-01-06T20:44:54Z",
     "duration": 7,
