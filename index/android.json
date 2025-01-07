@@ -10238,6 +10238,15 @@
     "runid": 12638963153,
     "status": "success"
   },
+  "orlandos-nl/MongoKitten": {
+    "created": "2025-01-07T03:46:24Z",
+    "duration": 19,
+    "modified": "2025-01-07T03:46:24Z",
+    "repo": "https://github.com/orlandos-nl/MongoKitten.git",
+    "runid": 12644606839,
+    "stars": 728,
+    "status": "failure"
+  },
   "orlandos-nl/MongoQueue": {
     "created": "2025-01-06T22:03:08Z",
     "duration": 15,
