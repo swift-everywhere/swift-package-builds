@@ -982,10 +982,10 @@
   },
   "BenchR267/Parsel": {
     "created": "2025-01-06T21:56:51Z",
-    "duration": 6,
-    "modified": "2025-01-06T21:56:51Z",
+    "duration": 7,
+    "modified": "2025-01-07T21:34:35Z",
     "repo": "https://github.com/BenchR267/Parsel.git",
-    "runid": 12640899049,
+    "runid": 12659472889,
     "stars": 22,
     "status": "success"
   },
