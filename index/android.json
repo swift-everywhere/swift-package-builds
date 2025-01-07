@@ -1416,6 +1416,15 @@
     "stars": 2,
     "status": "failure"
   },
+  "Fleuronic/Skewer": {
+    "created": "2025-01-07T06:01:18Z",
+    "duration": 6,
+    "modified": "2025-01-07T06:01:18Z",
+    "repo": "https://github.com/Fleuronic/Skewer.git",
+    "runid": 12645653000,
+    "stars": 30,
+    "status": "success"
+  },
   "Fleuronic/papyrus": {
     "created": "2025-01-07T03:30:08Z",
     "duration": 101,
