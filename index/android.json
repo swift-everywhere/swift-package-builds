@@ -8915,6 +8915,15 @@
     "runid": 12638963153,
     "status": "success"
   },
+  "liamnichols/swift-fixture": {
+    "created": "2025-01-07T03:51:34Z",
+    "duration": 109,
+    "modified": "2025-01-07T03:51:34Z",
+    "repo": "https://github.com/liamnichols/swift-fixture.git",
+    "runid": 12644606839,
+    "stars": 11,
+    "status": "failure"
+  },
   "liamnichols/swift-playground-tools": {
     "created": "2025-01-07T00:31:40Z",
     "duration": 19,
