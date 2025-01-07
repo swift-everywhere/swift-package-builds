@@ -16927,9 +16927,10 @@
   "turbolent/ParserDescription": {
     "created": "2025-01-06T20:26:47Z",
     "duration": 8,
-    "modified": "2025-01-06T20:26:47Z",
+    "modified": "2025-01-07T07:13:42Z",
     "repo": "https://github.com/turbolent/ParserDescription.git",
-    "runid": 12638963153,
+    "runid": 12646377141,
+    "stars": 0,
     "status": "success"
   },
   "turbolent/ReteEngine": {
