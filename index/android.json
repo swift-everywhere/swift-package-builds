@@ -9047,6 +9047,15 @@
     "runid": 12638963153,
     "status": "failure"
   },
+  "fumoboy007/DisjointSet": {
+    "created": "2025-01-07T07:05:22Z",
+    "duration": 4,
+    "modified": "2025-01-07T07:05:22Z",
+    "repo": "https://github.com/fumoboy007/DisjointSet.git",
+    "runid": 12646377141,
+    "stars": 0,
+    "status": "success"
+  },
   "fumoboy007/UniversalCharsetDetection": {
     "created": "2025-01-07T00:33:45Z",
     "duration": 6,
