@@ -11126,6 +11126,15 @@
     "stars": 2,
     "status": "failure"
   },
+  "sersoft-gmbh/swift-filestreamer": {
+    "created": "2025-01-07T03:37:52Z",
+    "duration": 15,
+    "modified": "2025-01-07T03:37:52Z",
+    "repo": "https://github.com/sersoft-gmbh/swift-filestreamer.git",
+    "runid": 12644606839,
+    "stars": 2,
+    "status": "failure"
+  },
   "setoelkahfi/JomloTableView": {
     "created": "2025-01-06T19:46:46Z",
     "duration": 6,
