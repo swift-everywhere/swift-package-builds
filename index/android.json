@@ -6112,10 +6112,11 @@
   },
   "bjtj/swift-xml": {
     "created": "2025-01-06T20:16:37Z",
-    "duration": 6,
-    "modified": "2025-01-06T20:16:37Z",
+    "duration": 7,
+    "modified": "2025-01-07T05:47:17Z",
     "repo": "https://github.com/bjtj/swift-xml.git",
-    "runid": 12638963153,
+    "runid": 12645653000,
+    "stars": 0,
     "status": "success"
   },
   "bloomberg/xcdiff": {
