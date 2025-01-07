@@ -7468,10 +7468,11 @@
   },
   "devxoul/Stubber": {
     "created": "2025-01-06T20:29:50Z",
-    "duration": 6,
-    "modified": "2025-01-06T20:29:50Z",
+    "duration": 7,
+    "modified": "2025-01-07T06:02:22Z",
     "repo": "https://github.com/devxoul/Stubber.git",
-    "runid": 12638963153,
+    "runid": 12645653000,
+    "stars": 89,
     "status": "success"
   },
   "devxoul/Then": {
