@@ -25730,6 +25730,15 @@
     "stars": 0,
     "status": "failure"
   },
+  "tesseract-one/WebSocket.swift": {
+    "created": "2025-01-07T14:09:22Z",
+    "duration": 10,
+    "modified": "2025-01-07T14:09:23Z",
+    "repo": "https://github.com/tesseract-one/WebSocket.swift.git",
+    "runid": 12652509868,
+    "stars": 19,
+    "status": "failure"
+  },
   "tesum/TSMockableMacros": {
     "created": "2025-01-07T13:23:48Z",
     "duration": 93,
