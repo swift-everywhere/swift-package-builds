@@ -2250,6 +2250,15 @@
     "stars": 6,
     "status": "success"
   },
+  "StanfordBDHG/SwiftPackageTemplate": {
+    "created": "2025-01-07T00:19:51Z",
+    "duration": 4,
+    "modified": "2025-01-07T00:19:51Z",
+    "repo": "https://github.com/StanfordBDHG/SwiftPackageTemplate.git",
+    "runid": 12641986754,
+    "stars": 14,
+    "status": "success"
+  },
   "Stiivi/DotWriter": {
     "created": "2025-01-06T23:51:08Z",
     "duration": 6,
