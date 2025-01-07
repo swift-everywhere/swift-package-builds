@@ -11440,10 +11440,10 @@
   },
   "brightdigit/GampKit": {
     "created": "2025-01-07T14:11:18Z",
-    "duration": 55,
-    "modified": "2025-01-07T14:11:18Z",
+    "duration": 28,
+    "modified": "2025-01-07T20:13:38Z",
     "repo": "https://github.com/brightdigit/GampKit.git",
-    "runid": 12652509868,
+    "runid": 12658091539,
     "stars": 5,
     "status": "failure"
   },
