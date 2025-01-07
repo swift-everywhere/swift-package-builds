@@ -9272,9 +9272,9 @@
   "aestesis/Cairo": {
     "created": "2025-01-07T02:57:42Z",
     "duration": 11,
-    "modified": "2025-01-07T02:57:42Z",
+    "modified": "2025-01-07T18:25:05Z",
     "repo": "https://github.com/aestesis/Cairo.git",
-    "runid": 12644277556,
+    "runid": 12656035496,
     "stars": 0,
     "status": "failure"
   },
