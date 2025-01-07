@@ -4549,6 +4549,15 @@
     "runid": 12638963153,
     "status": "failure"
   },
+  "apple/swift-nio-oblivious-http": {
+    "created": "2025-01-07T03:19:25Z",
+    "duration": 50,
+    "modified": "2025-01-07T03:19:25Z",
+    "repo": "https://github.com/apple/swift-nio-oblivious-http.git",
+    "runid": 12644277556,
+    "stars": 53,
+    "status": "failure"
+  },
   "apple/swift-nio-ssh": {
     "created": "2025-01-06T20:59:33Z",
     "duration": 42,
