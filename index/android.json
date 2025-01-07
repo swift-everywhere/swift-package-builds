@@ -6146,6 +6146,15 @@
     "runid": 12638963153,
     "status": "success"
   },
+  "Zollerboy1/SwiftCommand": {
+    "created": "2025-01-07T08:28:11Z",
+    "duration": 10,
+    "modified": "2025-01-07T08:28:11Z",
+    "repo": "https://github.com/Zollerboy1/SwiftCommand.git",
+    "runid": 12647794335,
+    "stars": 81,
+    "status": "failure"
+  },
   "a-sarris/KMBFormatter": {
     "created": "2025-01-06T22:57:20Z",
     "duration": 5,
