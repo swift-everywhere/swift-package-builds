@@ -339,6 +339,15 @@
     "stars": 0,
     "status": "success"
   },
+  "Adorkable/swift-log-format-and-pipe": {
+    "created": "2025-01-07T12:48:36Z",
+    "duration": 5,
+    "modified": "2025-01-07T12:48:36Z",
+    "repo": "https://github.com/Adorkable/swift-log-format-and-pipe.git",
+    "runid": 12651715076,
+    "stars": 29,
+    "status": "failure"
+  },
   "AgoraIO/AgoraAudio_iOS": {
     "created": "2025-01-07T11:48:22Z",
     "duration": 11,
