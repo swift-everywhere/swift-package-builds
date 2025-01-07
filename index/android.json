@@ -9708,6 +9708,15 @@
     "stars": 63,
     "status": "success"
   },
+  "tree-sitter/tree-sitter": {
+    "created": "2025-01-07T01:14:56Z",
+    "duration": 2,
+    "modified": "2025-01-07T01:14:56Z",
+    "repo": "https://github.com/tree-sitter/tree-sitter.git",
+    "runid": 12641986754,
+    "stars": 19184,
+    "status": "success"
+  },
   "trifork/TriforkSwiftDependencyInjection": {
     "created": "2025-01-06T20:27:56Z",
     "duration": 6,
