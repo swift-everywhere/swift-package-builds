@@ -5066,6 +5066,15 @@
     "stars": 44,
     "status": "failure"
   },
+  "finestructure/SemanticVersion": {
+    "created": "2025-01-07T01:07:47Z",
+    "duration": 6,
+    "modified": "2025-01-07T01:07:47Z",
+    "repo": "https://github.com/finestructure/SemanticVersion.git",
+    "runid": 12641986754,
+    "stars": 0,
+    "status": "success"
+  },
   "finestructure/ValueCodable": {
     "created": "2025-01-06T19:54:19Z",
     "duration": 7,
