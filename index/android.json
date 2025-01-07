@@ -5218,6 +5218,15 @@
     "stars": 596,
     "status": "success"
   },
+  "airbnb/swift": {
+    "created": "2025-01-07T05:58:39Z",
+    "duration": 12,
+    "modified": "2025-01-07T05:58:39Z",
+    "repo": "https://github.com/airbnb/swift.git",
+    "runid": 12645653000,
+    "stars": 2457,
+    "status": "failure"
+  },
   "akbashev/cluster-event-sourcing": {
     "created": "2025-01-06T23:25:11Z",
     "duration": 25,
