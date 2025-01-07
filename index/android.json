@@ -2934,6 +2934,15 @@
     "stars": 33,
     "status": "failure"
   },
+  "GraphQLSwift/GraphQL": {
+    "created": "2025-01-07T13:12:49Z",
+    "duration": 27,
+    "modified": "2025-01-07T13:12:49Z",
+    "repo": "https://github.com/GraphQLSwift/GraphQL.git",
+    "runid": 12651715076,
+    "stars": 941,
+    "status": "failure"
+  },
   "HJianBo/Mqtt": {
     "created": "2025-01-06T21:37:00Z",
     "duration": 6,
