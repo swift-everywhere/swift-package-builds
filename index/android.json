@@ -26847,6 +26847,15 @@
     "stars": 3,
     "status": "failure"
   },
+  "xcode-actions/gha-logger": {
+    "created": "2025-01-07T13:26:53Z",
+    "duration": 6,
+    "modified": "2025-01-07T13:26:53Z",
+    "repo": "https://github.com/xcode-actions/gha-logger.git",
+    "runid": 12652509868,
+    "stars": 0,
+    "status": "failure"
+  },
   "xcode-actions/json-logger": {
     "created": "2025-01-06T17:27:11Z",
     "duration": 9,
