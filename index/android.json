@@ -3123,6 +3123,15 @@
     "stars": 0,
     "status": "failure"
   },
+  "MarcAlx/swift-event": {
+    "created": "2025-01-07T07:25:59Z",
+    "duration": 4,
+    "modified": "2025-01-07T07:25:59Z",
+    "repo": "https://github.com/MarcAlx/swift-event.git",
+    "runid": 12646951061,
+    "stars": 2,
+    "status": "success"
+  },
   "MarcoEidinger/URLCompatibilityKit": {
     "created": "2025-01-07T06:46:47Z",
     "duration": 7,
