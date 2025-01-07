@@ -10629,6 +10629,15 @@
     "stars": 0,
     "status": "failure"
   },
+  "markbattistella/relative-urls-publish-plugin": {
+    "created": "2025-01-07T05:32:50Z",
+    "duration": 17,
+    "modified": "2025-01-07T05:32:50Z",
+    "repo": "https://github.com/markbattistella/relative-urls-publish-plugin.git",
+    "runid": 12645653000,
+    "stars": 0,
+    "status": "failure"
+  },
   "marksands/BetterCodable": {
     "created": "2025-01-07T03:53:12Z",
     "duration": 7,
