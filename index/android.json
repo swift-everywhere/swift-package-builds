@@ -15112,10 +15112,10 @@
   },
   "fumito-ito/SwiftyInAppMessaging": {
     "created": "2025-01-06T22:43:46Z",
-    "duration": 38,
-    "modified": "2025-01-06T22:43:46Z",
+    "duration": 44,
+    "modified": "2025-01-07T22:56:52Z",
     "repo": "https://github.com/fumito-ito/SwiftyInAppMessaging.git",
-    "runid": 12641431024,
+    "runid": 12660245106,
     "stars": 7,
     "status": "success"
   },
