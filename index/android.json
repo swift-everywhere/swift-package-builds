@@ -1902,6 +1902,15 @@
     "stars": 72,
     "status": "failure"
   },
+  "Nef10/Releases": {
+    "created": "2025-01-07T01:04:08Z",
+    "duration": 7,
+    "modified": "2025-01-07T01:04:08Z",
+    "repo": "https://github.com/Nef10/Releases.git",
+    "runid": 12641986754,
+    "stars": 0,
+    "status": "failure"
+  },
   "Nef10/ShellOut": {
     "created": "2025-01-06T23:44:05Z",
     "duration": 6,
