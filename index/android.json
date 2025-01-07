@@ -4605,6 +4605,15 @@
     "stars": 0,
     "status": "success"
   },
+  "LuizZak/TargetDependencyChecker": {
+    "created": "2025-01-07T14:37:38Z",
+    "duration": 14,
+    "modified": "2025-01-07T14:37:38Z",
+    "repo": "https://github.com/LuizZak/TargetDependencyChecker.git",
+    "runid": 12652509868,
+    "stars": 1,
+    "status": "failure"
+  },
   "LuizZak/swift-bezier": {
     "created": "2025-01-07T06:44:39Z",
     "duration": 10,
