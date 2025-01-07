@@ -5076,10 +5076,11 @@
   },
   "SDGGiesbrecht/SDGWeb": {
     "created": "2025-01-06T17:30:15Z",
-    "duration": 30,
-    "modified": "2025-01-06T19:34:48Z",
+    "duration": 31,
+    "modified": "2025-01-07T08:51:27Z",
     "repo": "https://github.com/SDGGiesbrecht/SDGWeb.git",
-    "runid": 12638963153,
+    "runid": 12647794335,
+    "stars": 2,
     "status": "failure"
   },
   "SDGGiesbrecht/swift-cmark": {
