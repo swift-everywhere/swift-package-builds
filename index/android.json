@@ -25939,10 +25939,10 @@
   },
   "swift-server/swift-aws-lambda-runtime": {
     "created": "2025-01-07T04:04:30Z",
-    "duration": 28,
-    "modified": "2025-01-07T04:04:30Z",
+    "duration": 31,
+    "modified": "2025-01-07T17:56:20Z",
     "repo": "https://github.com/swift-server/swift-aws-lambda-runtime.git",
-    "runid": 12644606839,
+    "runid": 12656035496,
     "stars": 1159,
     "status": "failure"
   },
