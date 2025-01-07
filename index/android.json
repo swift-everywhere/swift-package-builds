@@ -7658,6 +7658,15 @@
     "stars": 1,
     "status": "failure"
   },
+  "brokenhandsio/VaporSecurityHeaders": {
+    "created": "2025-01-07T08:10:02Z",
+    "duration": 32,
+    "modified": "2025-01-07T08:10:02Z",
+    "repo": "https://github.com/brokenhandsio/VaporSecurityHeaders.git",
+    "runid": 12646951061,
+    "stars": 150,
+    "status": "failure"
+  },
   "brokenhandsio/cmark-gfm": {
     "created": "2025-01-06T18:06:06Z",
     "duration": 2,
