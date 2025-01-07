@@ -15200,6 +15200,15 @@
     "stars": 47,
     "status": "success"
   },
+  "unsignedapps/Vexil": {
+    "created": "2025-01-07T05:46:07Z",
+    "duration": 82,
+    "modified": "2025-01-07T05:46:07Z",
+    "repo": "https://github.com/unsignedapps/Vexil.git",
+    "runid": 12645653000,
+    "stars": 119,
+    "status": "failure"
+  },
   "uploadcare/uploadcare-swift": {
     "created": "2025-01-06T22:56:48Z",
     "duration": 18,
