@@ -16192,10 +16192,10 @@
   },
   "heckj/formic": {
     "created": "2025-01-07T12:11:41Z",
-    "duration": 104,
-    "modified": "2025-01-07T12:11:41Z",
+    "duration": 101,
+    "modified": "2025-01-07T23:48:26Z",
     "repo": "https://github.com/heckj/formic.git",
-    "runid": 12650476881,
+    "runid": 12660929108,
     "stars": 10,
     "status": "failure"
   },
