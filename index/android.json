@@ -2527,6 +2527,15 @@
     "stars": 1,
     "status": "success"
   },
+  "adam-fowler/jmespath.swift": {
+    "created": "2025-01-07T00:05:34Z",
+    "duration": 7,
+    "modified": "2025-01-07T00:05:34Z",
+    "repo": "https://github.com/adam-fowler/jmespath.swift.git",
+    "runid": 12641986754,
+    "stars": 36,
+    "status": "success"
+  },
   "adam-fowler/swift-web": {
     "created": "2025-01-06T17:35:02Z",
     "duration": 21,
