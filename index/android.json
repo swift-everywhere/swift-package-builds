@@ -10016,10 +10016,11 @@
   },
   "bdrelling/Kipple": {
     "created": "2025-01-06T17:25:07Z",
-    "duration": 34,
-    "modified": "2025-01-06T17:25:07Z",
+    "duration": 17,
+    "modified": "2025-01-07T13:44:17Z",
     "repo": "https://github.com/bdrelling/Kipple.git",
-    "runid": 12637148220,
+    "runid": 12652509868,
+    "stars": 13,
     "status": "failure"
   },
   "bdrelling/KippleDiagnostics": {
