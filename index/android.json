@@ -12000,10 +12000,11 @@
   },
   "nikola-mladenovic/AwsSwiftSign": {
     "created": "2025-01-06T17:40:39Z",
-    "duration": 15,
-    "modified": "2025-01-06T17:40:39Z",
+    "duration": 14,
+    "modified": "2025-01-07T06:06:22Z",
     "repo": "https://github.com/nikola-mladenovic/AwsSwiftSign.git",
-    "runid": 12637148220,
+    "runid": 12645653000,
+    "stars": 6,
     "status": "failure"
   },
   "nikstar/spm-argument-parser": {
