@@ -10171,6 +10171,15 @@
     "stars": 296,
     "status": "success"
   },
+  "mpdifran/vapor-sign-in-with-apple": {
+    "created": "2025-01-07T04:14:47Z",
+    "duration": 23,
+    "modified": "2025-01-07T04:14:47Z",
+    "repo": "https://github.com/mpdifran/vapor-sign-in-with-apple.git",
+    "runid": 12644606839,
+    "stars": 5,
+    "status": "failure"
+  },
   "mrackwitz/Version": {
     "created": "2025-01-07T02:09:18Z",
     "duration": 7,
