@@ -15116,6 +15116,15 @@
     "stars": 3,
     "status": "success"
   },
+  "paiv/swift-pcg-random": {
+    "created": "2025-01-07T08:28:26Z",
+    "duration": 4,
+    "modified": "2025-01-07T08:28:26Z",
+    "repo": "https://github.com/paiv/swift-pcg-random.git",
+    "runid": 12647794335,
+    "stars": 15,
+    "status": "failure"
+  },
   "palle-k/Covfefe": {
     "created": "2025-01-06T21:31:40Z",
     "duration": 7,
