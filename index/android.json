@@ -19701,6 +19701,15 @@
     "stars": 197,
     "status": "failure"
   },
+  "nanopb/nanopb": {
+    "created": "2025-01-07T13:59:42Z",
+    "duration": 2,
+    "modified": "2025-01-07T13:59:42Z",
+    "repo": "https://github.com/nanopb/nanopb.git",
+    "runid": 12652509868,
+    "stars": 4435,
+    "status": "success"
+  },
   "naoty/flock": {
     "created": "2025-01-07T12:33:30Z",
     "duration": 31,
