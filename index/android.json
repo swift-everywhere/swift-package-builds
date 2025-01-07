@@ -3260,6 +3260,15 @@
     "runid": 12638963153,
     "status": "success"
   },
+  "Nef10/SwiftBeanCountParser": {
+    "created": "2025-01-07T06:39:16Z",
+    "duration": 11,
+    "modified": "2025-01-07T06:39:17Z",
+    "repo": "https://github.com/Nef10/SwiftBeanCountParser.git",
+    "runid": 12646377141,
+    "stars": 1,
+    "status": "success"
+  },
   "Nef10/SwiftBeanCountParserUtils": {
     "created": "2025-01-06T21:19:05Z",
     "duration": 6,
