@@ -2547,6 +2547,15 @@
     "stars": 22,
     "status": "failure"
   },
+  "HdrHistogram/hdrhistogram-swift": {
+    "created": "2025-01-07T10:26:45Z",
+    "duration": 20,
+    "modified": "2025-01-07T10:26:45Z",
+    "repo": "https://github.com/HdrHistogram/hdrhistogram-swift.git",
+    "runid": 12649615878,
+    "stars": 33,
+    "status": "failure"
+  },
   "HealthTap/DangerXcodeStaticAnalyzer": {
     "created": "2025-01-06T17:35:26Z",
     "duration": 15,
