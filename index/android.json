@@ -1645,6 +1645,15 @@
     "stars": 809,
     "status": "success"
   },
+  "Cosmo/GrammaticalNumber": {
+    "created": "2025-01-07T14:56:07Z",
+    "duration": 7,
+    "modified": "2025-01-07T14:56:08Z",
+    "repo": "https://github.com/Cosmo/GrammaticalNumber.git",
+    "runid": 12652509868,
+    "stars": 35,
+    "status": "success"
+  },
   "Cosmo/ISO8859": {
     "created": "2025-01-06T20:15:55Z",
     "duration": 5,
