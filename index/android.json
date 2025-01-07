@@ -20128,6 +20128,15 @@
     "stars": 98,
     "status": "success"
   },
+  "typelift/SwiftCheck": {
+    "created": "2025-01-07T09:30:56Z",
+    "duration": 15,
+    "modified": "2025-01-07T09:30:56Z",
+    "repo": "https://github.com/typelift/SwiftCheck.git",
+    "runid": 12648641718,
+    "stars": 1416,
+    "status": "failure"
+  },
   "typelift/Swiftz": {
     "created": "2025-01-06T22:15:48Z",
     "duration": 10,
