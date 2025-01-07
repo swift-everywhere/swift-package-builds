@@ -21547,9 +21547,10 @@
   "tigerpixel/PGNParser": {
     "created": "2025-01-06T19:35:15Z",
     "duration": 8,
-    "modified": "2025-01-06T19:35:15Z",
+    "modified": "2025-01-07T10:50:22Z",
     "repo": "https://github.com/tigerpixel/PGNParser.git",
-    "runid": 12638963153,
+    "runid": 12649615878,
+    "stars": 7,
     "status": "success"
   },
   "tigerpixel/ParserCombinator": {
