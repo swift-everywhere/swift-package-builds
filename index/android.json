@@ -11661,6 +11661,15 @@
     "stars": 1,
     "status": "failure"
   },
+  "tannerdsilva/RapidLMDB": {
+    "created": "2025-01-07T03:09:19Z",
+    "duration": 10,
+    "modified": "2025-01-07T03:09:19Z",
+    "repo": "https://github.com/tannerdsilva/RapidLMDB.git",
+    "runid": 12644277556,
+    "stars": 7,
+    "status": "failure"
+  },
   "tannerdsilva/SwiftSlash": {
     "created": "2025-01-07T00:27:34Z",
     "duration": 6,
