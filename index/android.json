@@ -11007,6 +11007,15 @@
     "stars": 1,
     "status": "failure"
   },
+  "brightdigit/OperatingSystemVersion": {
+    "created": "2025-01-07T14:19:37Z",
+    "duration": 8,
+    "modified": "2025-01-07T14:19:37Z",
+    "repo": "https://github.com/brightdigit/OperatingSystemVersion.git",
+    "runid": 12652509868,
+    "stars": 0,
+    "status": "success"
+  },
   "brightdigit/Options": {
     "created": "2025-01-07T11:25:38Z",
     "duration": 94,
