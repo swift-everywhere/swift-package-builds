@@ -1491,6 +1491,15 @@
     "stars": 9,
     "status": "failure"
   },
+  "DanielSincere/Sh": {
+    "created": "2025-01-07T10:27:36Z",
+    "duration": 9,
+    "modified": "2025-01-07T10:27:36Z",
+    "repo": "https://github.com/DanielSincere/Sh.git",
+    "runid": 12649615878,
+    "stars": 10,
+    "status": "failure"
+  },
   "DanielSincere/ShGit": {
     "created": "2025-01-06T19:38:52Z",
     "duration": 9,
