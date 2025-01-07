@@ -9455,6 +9455,15 @@
     "stars": 1320,
     "status": "failure"
   },
+  "typelift/Operadics": {
+    "created": "2025-01-07T01:03:19Z",
+    "duration": 3,
+    "modified": "2025-01-07T01:03:19Z",
+    "repo": "https://github.com/typelift/Operadics.git",
+    "runid": 12641986754,
+    "stars": 98,
+    "status": "success"
+  },
   "typelift/Swiftz": {
     "created": "2025-01-06T22:15:48Z",
     "duration": 10,
