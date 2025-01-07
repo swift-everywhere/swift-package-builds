@@ -10535,6 +10535,15 @@
     "stars": 53,
     "status": "success"
   },
+  "compnerd/swift-winmd": {
+    "created": "2025-01-07T12:32:11Z",
+    "duration": 10,
+    "modified": "2025-01-07T12:32:11Z",
+    "repo": "https://github.com/compnerd/swift-winmd.git",
+    "runid": 12650476881,
+    "stars": 20,
+    "status": "failure"
+  },
   "coodly/TalkToCloud": {
     "created": "2025-01-07T00:04:38Z",
     "duration": 20,
