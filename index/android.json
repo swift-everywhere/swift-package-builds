@@ -10706,6 +10706,15 @@
     "stars": 1,
     "status": "success"
   },
+  "bytehubio/ed25519": {
+    "created": "2025-01-07T13:12:21Z",
+    "duration": 4,
+    "modified": "2025-01-07T13:12:21Z",
+    "repo": "https://github.com/bytehubio/ed25519.git",
+    "runid": 12651715076,
+    "stars": 0,
+    "status": "success"
+  },
   "calebkleveter/Argon2": {
     "created": "2025-01-06T22:11:08Z",
     "duration": 1,
