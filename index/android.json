@@ -10574,9 +10574,10 @@
   "petrpavlik/GeoSwift": {
     "created": "2025-01-06T17:12:37Z",
     "duration": 6,
-    "modified": "2025-01-06T17:12:37Z",
+    "modified": "2025-01-07T03:52:24Z",
     "repo": "https://github.com/petrpavlik/GeoSwift.git",
-    "runid": 12636850547,
+    "runid": 12644606839,
+    "stars": 15,
     "status": "success"
   },
   "ph1ps/swift-concurrency-deadline": {
