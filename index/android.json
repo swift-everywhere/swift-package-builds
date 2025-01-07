@@ -13515,6 +13515,15 @@
     "stars": 22,
     "status": "failure"
   },
+  "jakeheis/Ice": {
+    "created": "2025-01-07T10:50:46Z",
+    "duration": 14,
+    "modified": "2025-01-07T10:50:46Z",
+    "repo": "https://github.com/jakeheis/Ice.git",
+    "runid": 12649615878,
+    "stars": 387,
+    "status": "failure"
+  },
   "jakeheis/Icebox": {
     "created": "2025-01-07T02:34:24Z",
     "duration": 9,
