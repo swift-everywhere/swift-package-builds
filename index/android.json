@@ -2872,6 +2872,15 @@
     "stars": 163,
     "status": "failure"
   },
+  "apple/swift-standard-library-preview": {
+    "created": "2025-01-07T00:03:29Z",
+    "duration": 6,
+    "modified": "2025-01-07T00:03:29Z",
+    "repo": "https://github.com/apple/swift-standard-library-preview.git",
+    "runid": 12641986754,
+    "stars": 256,
+    "status": "success"
+  },
   "art-divin/Stencil": {
     "created": "2025-01-06T22:57:14Z",
     "duration": 7,
