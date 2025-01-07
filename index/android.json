@@ -9909,6 +9909,15 @@
     "stars": 226,
     "status": "failure"
   },
+  "vapor/redis-kit": {
+    "created": "2025-01-07T01:06:22Z",
+    "duration": 15,
+    "modified": "2025-01-07T01:06:22Z",
+    "repo": "https://github.com/vapor/redis-kit.git",
+    "runid": 12641986754,
+    "stars": 8,
+    "status": "failure"
+  },
   "vapor/routing-kit": {
     "created": "2025-01-06T20:37:31Z",
     "duration": 8,
