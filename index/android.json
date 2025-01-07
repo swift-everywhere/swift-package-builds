@@ -20582,6 +20582,15 @@
     "stars": 15,
     "status": "success"
   },
+  "uhooi/swift-output-uhooi": {
+    "created": "2025-01-07T09:51:36Z",
+    "duration": 10,
+    "modified": "2025-01-07T09:51:36Z",
+    "repo": "https://github.com/uhooi/swift-output-uhooi.git",
+    "runid": 12648641718,
+    "stars": 2,
+    "status": "failure"
+  },
   "ukitaka/XCTAssertUnrecoverable": {
     "created": "2025-01-06T23:39:05Z",
     "duration": 6,
