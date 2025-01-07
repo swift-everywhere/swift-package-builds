@@ -17253,6 +17253,15 @@
     "stars": 4,
     "status": "success"
   },
+  "kyouko-taiga/ArgParse": {
+    "created": "2025-01-07T13:39:58Z",
+    "duration": 4,
+    "modified": "2025-01-07T13:39:58Z",
+    "repo": "https://github.com/kyouko-taiga/ArgParse.git",
+    "runid": 12652509868,
+    "stars": 3,
+    "status": "success"
+  },
   "kyouko-taiga/LogicKit": {
     "created": "2025-01-07T11:30:50Z",
     "duration": 5,
