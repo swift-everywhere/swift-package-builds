@@ -10414,10 +10414,10 @@
   },
   "appwrite/sdk-for-swift": {
     "created": "2025-01-07T10:47:52Z",
-    "duration": 50,
-    "modified": "2025-01-07T10:47:52Z",
+    "duration": 51,
+    "modified": "2025-01-07T17:30:00Z",
     "repo": "https://github.com/appwrite/sdk-for-swift.git",
-    "runid": 12649615878,
+    "runid": 12656035496,
     "stars": 48,
     "status": "failure"
   },
