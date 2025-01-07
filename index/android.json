@@ -10900,10 +10900,10 @@
   },
   "beMappy/PusherSwift": {
     "created": "2025-01-07T12:15:56Z",
-    "duration": 11,
-    "modified": "2025-01-07T12:15:56Z",
+    "duration": 10,
+    "modified": "2025-01-07T16:23:12Z",
     "repo": "https://github.com/beMappy/PusherSwift.git",
-    "runid": 12650476881,
+    "runid": 12655041616,
     "stars": 0,
     "status": "success"
   },
