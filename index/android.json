@@ -2727,6 +2727,15 @@
     "runid": 12638963153,
     "status": "failure"
   },
+  "SDGGiesbrecht/SDGCommandLine": {
+    "created": "2025-01-07T01:56:32Z",
+    "duration": 48,
+    "modified": "2025-01-07T01:56:32Z",
+    "repo": "https://github.com/SDGGiesbrecht/SDGCommandLine.git",
+    "runid": 12643524602,
+    "stars": 4,
+    "status": "failure"
+  },
   "SDGGiesbrecht/SDGInterface": {
     "created": "2025-01-07T01:18:56Z",
     "duration": 29,
