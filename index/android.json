@@ -23707,6 +23707,15 @@
     "stars": 1,
     "status": "failure"
   },
+  "seznam/swift-uniyaml": {
+    "created": "2025-01-07T14:27:12Z",
+    "duration": 8,
+    "modified": "2025-01-07T14:27:12Z",
+    "repo": "https://github.com/seznam/swift-uniyaml.git",
+    "runid": 12652509868,
+    "stars": 6,
+    "status": "success"
+  },
   "sgade/InFlightValue": {
     "created": "2025-01-07T03:37:24Z",
     "duration": 4,
