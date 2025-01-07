@@ -28306,10 +28306,10 @@
   },
   "vapor-community/soto-cognito-authentication": {
     "created": "2025-01-07T01:46:45Z",
-    "duration": 137,
-    "modified": "2025-01-07T01:46:45Z",
+    "duration": 171,
+    "modified": "2025-01-07T23:05:39Z",
     "repo": "https://github.com/vapor-community/soto-cognito-authentication.git",
-    "runid": 12643524602,
+    "runid": 12660245106,
     "stars": 16,
     "status": "failure"
   },
