@@ -313,6 +313,15 @@
     "runid": 12638963153,
     "status": "success"
   },
+  "ABridoux/BooleanExpressionEvaluation": {
+    "created": "2025-01-07T14:07:39Z",
+    "duration": 8,
+    "modified": "2025-01-07T14:07:39Z",
+    "repo": "https://github.com/ABridoux/BooleanExpressionEvaluation.git",
+    "runid": 12652509868,
+    "stars": 1,
+    "status": "success"
+  },
   "ABridoux/lux": {
     "created": "2025-01-06T21:40:06Z",
     "duration": 14,
