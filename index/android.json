@@ -2751,10 +2751,11 @@
   },
   "JosephDuffy/Renamed": {
     "created": "2025-01-06T20:14:52Z",
-    "duration": 105,
-    "modified": "2025-01-06T20:14:52Z",
+    "duration": 111,
+    "modified": "2025-01-07T08:56:20Z",
     "repo": "https://github.com/JosephDuffy/Renamed.git",
-    "runid": 12638963153,
+    "runid": 12647794335,
+    "stars": 28,
     "status": "success"
   },
   "JosephDuffy/SwiftChecksDangerPlugin": {
