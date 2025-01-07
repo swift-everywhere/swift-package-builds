@@ -8397,10 +8397,11 @@
   },
   "gwynne/INISerialization": {
     "created": "2025-01-06T19:34:58Z",
-    "duration": 9,
-    "modified": "2025-01-06T19:34:58Z",
+    "duration": 8,
+    "modified": "2025-01-07T05:24:25Z",
     "repo": "https://github.com/gwynne/INISerialization.git",
-    "runid": 12638963153,
+    "runid": 12645653000,
+    "stars": 9,
     "status": "success"
   },
   "gwynne/swift-semver": {
