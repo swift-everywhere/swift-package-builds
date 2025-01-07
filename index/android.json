@@ -3497,6 +3497,15 @@
     "stars": 1,
     "status": "failure"
   },
+  "JohnSundell/Codextended": {
+    "created": "2025-01-07T14:25:19Z",
+    "duration": 7,
+    "modified": "2025-01-07T14:25:19Z",
+    "repo": "https://github.com/JohnSundell/Codextended.git",
+    "runid": 12652509868,
+    "stars": 1503,
+    "status": "success"
+  },
   "JohnSundell/CollectionConcurrencyKit": {
     "created": "2025-01-06T23:47:08Z",
     "duration": 3,
