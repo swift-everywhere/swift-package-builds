@@ -6225,6 +6225,15 @@
     "stars": 4,
     "status": "failure"
   },
+  "SDGGiesbrecht/SDGSwift": {
+    "created": "2025-01-07T12:21:21Z",
+    "duration": 60,
+    "modified": "2025-01-07T12:21:21Z",
+    "repo": "https://github.com/SDGGiesbrecht/SDGSwift.git",
+    "runid": 12650476881,
+    "stars": 68,
+    "status": "failure"
+  },
   "SDGGiesbrecht/SDGWeb": {
     "created": "2025-01-06T17:30:15Z",
     "duration": 31,
