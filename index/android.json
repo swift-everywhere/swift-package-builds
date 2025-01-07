@@ -18439,6 +18439,15 @@
     "stars": 72,
     "status": "failure"
   },
+  "shamatar/SwiftRLP": {
+    "created": "2025-01-07T10:08:15Z",
+    "duration": 6,
+    "modified": "2025-01-07T10:08:15Z",
+    "repo": "https://github.com/shamatar/SwiftRLP.git",
+    "runid": 12648641718,
+    "stars": 3,
+    "status": "failure"
+  },
   "shamatar/scrypt-cryptoswift": {
     "created": "2025-01-07T03:52:48Z",
     "duration": 9,
