@@ -4398,6 +4398,15 @@
     "stars": 7,
     "status": "failure"
   },
+  "funky-monkey/IsoCountryCodes": {
+    "created": "2025-01-07T00:19:05Z",
+    "duration": 6,
+    "modified": "2025-01-07T00:19:05Z",
+    "repo": "https://github.com/funky-monkey/IsoCountryCodes.git",
+    "runid": 12641986754,
+    "stars": 133,
+    "status": "success"
+  },
   "funzin/Rimuru": {
     "created": "2025-01-06T19:37:03Z",
     "duration": 68,
