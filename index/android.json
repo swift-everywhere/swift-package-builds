@@ -11280,6 +11280,15 @@
     "stars": 1,
     "status": "success"
   },
+  "malcommac/Hydra": {
+    "created": "2025-01-07T06:34:30Z",
+    "duration": 8,
+    "modified": "2025-01-07T06:34:30Z",
+    "repo": "https://github.com/malcommac/Hydra.git",
+    "runid": 12646377141,
+    "stars": 1973,
+    "status": "failure"
+  },
   "malcommac/Repeat": {
     "created": "2025-01-07T06:28:35Z",
     "duration": 7,
