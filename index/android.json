@@ -2910,6 +2910,15 @@
     "stars": 10,
     "status": "failure"
   },
+  "Genius/future": {
+    "created": "2025-01-07T13:50:55Z",
+    "duration": 7,
+    "modified": "2025-01-07T13:50:55Z",
+    "repo": "https://github.com/Genius/future.git",
+    "runid": 12652509868,
+    "stars": 16,
+    "status": "success"
+  },
   "GeorgeLyon/Shwift": {
     "created": "2025-01-07T06:15:52Z",
     "duration": 8,
