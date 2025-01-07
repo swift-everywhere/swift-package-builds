@@ -2690,6 +2690,15 @@
     "stars": 1,
     "status": "success"
   },
+  "Nef10/swift-dependency-updater": {
+    "created": "2025-01-07T03:47:57Z",
+    "duration": 12,
+    "modified": "2025-01-07T03:47:57Z",
+    "repo": "https://github.com/Nef10/swift-dependency-updater.git",
+    "runid": 12644606839,
+    "stars": 12,
+    "status": "failure"
+  },
   "NeilsUltimateLab/AutolayoutExtension": {
     "created": "2025-01-06T20:44:46Z",
     "duration": 10,
