@@ -3369,6 +3369,15 @@
     "runid": 12637757100,
     "status": "success"
   },
+  "brokenhandsio/fluent-postgis": {
+    "created": "2025-01-07T00:19:39Z",
+    "duration": 26,
+    "modified": "2025-01-07T00:19:39Z",
+    "repo": "https://github.com/brokenhandsio/fluent-postgis.git",
+    "runid": 12641986754,
+    "stars": 15,
+    "status": "failure"
+  },
   "brokenhandsio/leaf-error-middleware": {
     "created": "2025-01-06T20:01:16Z",
     "duration": 31,
