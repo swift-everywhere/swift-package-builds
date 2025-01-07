@@ -10743,6 +10743,15 @@
     "stars": 46,
     "status": "failure"
   },
+  "fundaev/spacetrack": {
+    "created": "2025-01-07T09:09:24Z",
+    "duration": 49,
+    "modified": "2025-01-07T09:09:24Z",
+    "repo": "https://github.com/fundaev/spacetrack.git",
+    "runid": 12647794335,
+    "stars": 0,
+    "status": "failure"
+  },
   "funky-monkey/IsoCountryCodes": {
     "created": "2025-01-07T00:19:05Z",
     "duration": 6,
