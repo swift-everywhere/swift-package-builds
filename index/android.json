@@ -11179,6 +11179,15 @@
     "stars": 2,
     "status": "failure"
   },
+  "tadija/AEAppVersion": {
+    "created": "2025-01-07T02:52:18Z",
+    "duration": 9,
+    "modified": "2025-01-07T02:52:18Z",
+    "repo": "https://github.com/tadija/AEAppVersion.git",
+    "runid": 12644277556,
+    "stars": 12,
+    "status": "success"
+  },
   "tadija/AEXML": {
     "created": "2025-01-06T20:50:48Z",
     "duration": 6,
