@@ -16052,10 +16052,11 @@
   },
   "mapbox/mapbox-core-maps-ios": {
     "created": "2025-01-06T20:05:11Z",
-    "duration": 16,
-    "modified": "2025-01-06T20:05:11Z",
+    "duration": 17,
+    "modified": "2025-01-07T11:24:01Z",
     "repo": "https://github.com/mapbox/mapbox-core-maps-ios.git",
-    "runid": 12638963153,
+    "runid": 12650476881,
+    "stars": 16,
     "status": "failure"
   },
   "mapbox/mapbox-directions-swift": {
