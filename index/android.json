@@ -10861,6 +10861,15 @@
     "stars": 25,
     "status": "failure"
   },
+  "vapor-community/queues-mongo-driver": {
+    "created": "2025-01-07T02:00:04Z",
+    "duration": 37,
+    "modified": "2025-01-07T02:00:04Z",
+    "repo": "https://github.com/vapor-community/queues-mongo-driver.git",
+    "runid": 12643524602,
+    "stars": 6,
+    "status": "failure"
+  },
   "vapor-community/random": {
     "created": "2025-01-06T21:51:23Z",
     "duration": 6,
