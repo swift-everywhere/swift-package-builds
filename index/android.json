@@ -6382,6 +6382,15 @@
     "stars": 4,
     "status": "success"
   },
+  "mattmassicotte/ConcurrencyRecipes": {
+    "created": "2025-01-07T00:43:09Z",
+    "duration": 6,
+    "modified": "2025-01-07T00:43:09Z",
+    "repo": "https://github.com/mattmassicotte/ConcurrencyRecipes.git",
+    "runid": 12641986754,
+    "stars": 1193,
+    "status": "success"
+  },
   "mattmassicotte/Empire": {
     "created": "2025-01-06T19:47:59Z",
     "duration": 6,
