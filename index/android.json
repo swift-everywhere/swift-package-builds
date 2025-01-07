@@ -6159,9 +6159,10 @@
   "mattpolzin/OpenAPIKit": {
     "created": "2025-01-06T19:37:52Z",
     "duration": 35,
-    "modified": "2025-01-06T19:37:52Z",
+    "modified": "2025-01-07T00:33:38Z",
     "repo": "https://github.com/mattpolzin/OpenAPIKit.git",
-    "runid": 12638963153,
+    "runid": 12641986754,
+    "stars": 288,
     "status": "success"
   },
   "mattpolzin/OpenAPIReflection": {
