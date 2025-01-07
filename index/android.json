@@ -1990,6 +1990,15 @@
     "stars": 0,
     "status": "failure"
   },
+  "MarSe32m/sebbu-bitstream": {
+    "created": "2025-01-07T02:06:55Z",
+    "duration": 9,
+    "modified": "2025-01-07T02:06:55Z",
+    "repo": "https://github.com/MarSe32m/sebbu-bitstream.git",
+    "runid": 12643524602,
+    "stars": 0,
+    "status": "success"
+  },
   "MarSe32m/sebbu-concurrency": {
     "created": "2025-01-06T21:52:29Z",
     "duration": 10,
