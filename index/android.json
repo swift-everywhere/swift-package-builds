@@ -3215,6 +3215,15 @@
     "stars": 2,
     "status": "success"
   },
+  "Kochava/Apple-SwiftPackage-KochavaTracking-XCFramework": {
+    "created": "2025-01-07T09:35:30Z",
+    "duration": 9,
+    "modified": "2025-01-07T09:35:30Z",
+    "repo": "https://github.com/Kochava/Apple-SwiftPackage-KochavaTracking-XCFramework.git",
+    "runid": 12648641718,
+    "stars": 2,
+    "status": "success"
+  },
   "Kochava/Apple-SwiftPackage-KochavaUI-XCFramework": {
     "created": "2025-01-07T06:10:37Z",
     "duration": 8,
