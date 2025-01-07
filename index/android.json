@@ -3390,6 +3390,15 @@
     "stars": 7,
     "status": "failure"
   },
+  "Obbut/AlmostForceUnwrap": {
+    "created": "2025-01-07T06:15:13Z",
+    "duration": 3,
+    "modified": "2025-01-07T06:15:13Z",
+    "repo": "https://github.com/Obbut/AlmostForceUnwrap.git",
+    "runid": 12645653000,
+    "stars": 1,
+    "status": "success"
+  },
   "Obbut/ExtraEncodable": {
     "created": "2025-01-07T01:15:03Z",
     "duration": 6,
