@@ -10245,6 +10245,15 @@
     "stars": 1,
     "status": "success"
   },
+  "p-x9/ObfuscateMacro": {
+    "created": "2025-01-07T03:44:14Z",
+    "duration": 78,
+    "modified": "2025-01-07T03:44:14Z",
+    "repo": "https://github.com/p-x9/ObfuscateMacro.git",
+    "runid": 12644606839,
+    "stars": 116,
+    "status": "failure"
+  },
   "p-x9/RunScriptPlugin": {
     "created": "2025-01-07T03:32:47Z",
     "duration": 12,
