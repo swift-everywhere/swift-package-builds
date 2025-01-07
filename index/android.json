@@ -13580,6 +13580,15 @@
     "stars": 3,
     "status": "success"
   },
+  "happn-app/RetryingOperation": {
+    "created": "2025-01-07T11:57:22Z",
+    "duration": 5,
+    "modified": "2025-01-07T11:57:22Z",
+    "repo": "https://github.com/happn-app/RetryingOperation.git",
+    "runid": 12650476881,
+    "stars": 12,
+    "status": "failure"
+  },
   "happn-app/SemiSingleton": {
     "created": "2025-01-06T22:56:08Z",
     "duration": 5,
