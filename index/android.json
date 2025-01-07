@@ -12221,6 +12221,15 @@
     "stars": 26,
     "status": "success"
   },
+  "supabase/supabase-swift": {
+    "created": "2025-01-07T03:59:49Z",
+    "duration": 17,
+    "modified": "2025-01-07T03:59:49Z",
+    "repo": "https://github.com/supabase/supabase-swift.git",
+    "runid": 12644606839,
+    "stars": 758,
+    "status": "failure"
+  },
   "suransea/dbus-swift": {
     "created": "2025-01-07T00:05:08Z",
     "duration": 16,
