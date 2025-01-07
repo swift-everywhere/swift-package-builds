@@ -17911,10 +17911,10 @@
   },
   "juri/tui-fuzzy-finder": {
     "created": "2025-01-07T00:07:23Z",
-    "duration": 8,
-    "modified": "2025-01-07T16:30:33Z",
+    "duration": 9,
+    "modified": "2025-01-07T23:22:52Z",
     "repo": "https://github.com/juri/tui-fuzzy-finder.git",
-    "runid": 12655041616,
+    "runid": 12660929108,
     "stars": 1,
     "status": "failure"
   },
