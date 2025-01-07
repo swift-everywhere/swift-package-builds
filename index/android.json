@@ -14244,10 +14244,11 @@
   },
   "kittymo/MoRegex": {
     "created": "2025-01-06T18:05:24Z",
-    "duration": 6,
-    "modified": "2025-01-06T19:39:57Z",
+    "duration": 7,
+    "modified": "2025-01-07T10:36:19Z",
     "repo": "https://github.com/kittymo/MoRegex.git",
-    "runid": 12638963153,
+    "runid": 12649615878,
+    "stars": 23,
     "status": "success"
   },
   "kkebo/swift-log-playground": {
