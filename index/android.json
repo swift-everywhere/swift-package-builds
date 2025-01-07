@@ -5595,6 +5595,15 @@
     "stars": 12,
     "status": "success"
   },
+  "RACCommunity/FlexibleDiff": {
+    "created": "2025-01-07T11:55:51Z",
+    "duration": 11,
+    "modified": "2025-01-07T11:55:51Z",
+    "repo": "https://github.com/RACCommunity/FlexibleDiff.git",
+    "runid": 12650476881,
+    "stars": 106,
+    "status": "success"
+  },
   "RakuyoKit/RaAPIWrapper": {
     "created": "2025-01-07T02:29:39Z",
     "duration": 16,
