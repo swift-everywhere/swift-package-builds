@@ -7473,6 +7473,15 @@
     "stars": 19,
     "status": "failure"
   },
+  "amzn/smoke-framework": {
+    "created": "2025-01-07T10:22:48Z",
+    "duration": 18,
+    "modified": "2025-01-07T10:22:49Z",
+    "repo": "https://github.com/amzn/smoke-framework.git",
+    "runid": 12649615878,
+    "stars": 1450,
+    "status": "failure"
+  },
   "andersonlucasg3/Swift.Binary": {
     "created": "2025-01-06T23:50:52Z",
     "duration": 7,
