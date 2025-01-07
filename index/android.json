@@ -23410,10 +23410,10 @@
   },
   "request-dl/swift-openapi-request-dl-nio": {
     "created": "2025-01-07T00:30:03Z",
-    "duration": 25,
-    "modified": "2025-01-07T00:30:03Z",
+    "duration": 32,
+    "modified": "2025-01-07T17:47:04Z",
     "repo": "https://github.com/request-dl/swift-openapi-request-dl-nio.git",
-    "runid": 12641986754,
+    "runid": 12656035496,
     "stars": 6,
     "status": "failure"
   },
