@@ -3316,6 +3316,15 @@
     "stars": 3,
     "status": "success"
   },
+  "andooown/swift-atproto": {
+    "created": "2025-01-07T01:14:54Z",
+    "duration": 123,
+    "modified": "2025-01-07T01:14:54Z",
+    "repo": "https://github.com/andooown/swift-atproto.git",
+    "runid": 12641986754,
+    "stars": 33,
+    "status": "failure"
+  },
   "andybest/linenoise-swift": {
     "created": "2025-01-06T23:27:36Z",
     "duration": 8,
