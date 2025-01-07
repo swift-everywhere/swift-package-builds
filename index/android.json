@@ -5091,6 +5091,15 @@
     "stars": 5,
     "status": "failure"
   },
+  "NozeIO/Noze.io": {
+    "created": "2025-01-07T13:11:42Z",
+    "duration": 8,
+    "modified": "2025-01-07T13:11:42Z",
+    "repo": "https://github.com/NozeIO/Noze.io.git",
+    "runid": 12651715076,
+    "stars": 307,
+    "status": "failure"
+  },
   "NozeIO/redi-s": {
     "created": "2025-01-06T21:26:33Z",
     "duration": 25,
