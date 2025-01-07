@@ -4572,6 +4572,15 @@
     "stars": 10,
     "status": "failure"
   },
+  "SomeRandomiOSDev/SwiftyCast": {
+    "created": "2025-01-07T06:38:12Z",
+    "duration": 3,
+    "modified": "2025-01-07T06:38:12Z",
+    "repo": "https://github.com/SomeRandomiOSDev/SwiftyCast.git",
+    "runid": 12646377141,
+    "stars": 1,
+    "status": "success"
+  },
   "StanfordBDHG/OMHModels": {
     "created": "2025-01-06T23:49:53Z",
     "duration": 7,
