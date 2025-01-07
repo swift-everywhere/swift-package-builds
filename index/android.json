@@ -17096,6 +17096,15 @@
     "stars": 344,
     "status": "failure"
   },
+  "mongodb/swift-bson": {
+    "created": "2025-01-07T11:40:23Z",
+    "duration": 33,
+    "modified": "2025-01-07T11:40:23Z",
+    "repo": "https://github.com/mongodb/swift-bson.git",
+    "runid": 12650476881,
+    "stars": 46,
+    "status": "success"
+  },
   "mono0926/SwiftyString": {
     "created": "2025-01-07T07:11:38Z",
     "duration": 7,
