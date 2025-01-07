@@ -5416,6 +5416,15 @@
     "runid": 12638963153,
     "status": "failure"
   },
+  "apple/example-package-playingcard": {
+    "created": "2025-01-07T05:34:31Z",
+    "duration": 4,
+    "modified": "2025-01-07T05:34:31Z",
+    "repo": "https://github.com/apple/example-package-playingcard.git",
+    "runid": 12645653000,
+    "stars": 324,
+    "status": "success"
+  },
   "apple/live-caller-id-lookup-example": {
     "created": "2025-01-07T03:48:48Z",
     "duration": 50,
