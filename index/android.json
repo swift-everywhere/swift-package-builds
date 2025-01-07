@@ -7843,6 +7843,15 @@
     "stars": 58,
     "status": "failure"
   },
+  "SwiftObjects/SwiftObjectsZeeQLBridge": {
+    "created": "2025-01-07T14:25:11Z",
+    "duration": 25,
+    "modified": "2025-01-07T14:25:11Z",
+    "repo": "https://github.com/SwiftObjects/SwiftObjectsZeeQLBridge.git",
+    "runid": 12652509868,
+    "stars": 2,
+    "status": "failure"
+  },
   "SwiftOnTheServer/SwiftDotEnv": {
     "created": "2025-01-07T05:58:46Z",
     "duration": 7,
