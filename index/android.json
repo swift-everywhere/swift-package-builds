@@ -6571,6 +6571,15 @@
     "runid": 12638963153,
     "status": "failure"
   },
+  "jagreenwood/swift-log-datadog": {
+    "created": "2025-01-07T01:55:32Z",
+    "duration": 51,
+    "modified": "2025-01-07T01:55:32Z",
+    "repo": "https://github.com/jagreenwood/swift-log-datadog.git",
+    "runid": 12643524602,
+    "stars": 22,
+    "status": "failure"
+  },
   "jaredmpayne/SwiftArg": {
     "created": "2025-01-06T22:54:51Z",
     "duration": 4,
