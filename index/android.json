@@ -7927,6 +7927,15 @@
     "stars": 22,
     "status": "failure"
   },
+  "tayloraswift/swift-ip": {
+    "created": "2025-01-07T00:21:10Z",
+    "duration": 24,
+    "modified": "2025-01-07T00:21:10Z",
+    "repo": "https://github.com/tayloraswift/swift-ip.git",
+    "runid": 12641986754,
+    "stars": 15,
+    "status": "failure"
+  },
   "tayloraswift/swift-mongodb": {
     "created": "2025-01-06T23:45:54Z",
     "duration": 53,
