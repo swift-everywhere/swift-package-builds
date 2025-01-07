@@ -4778,6 +4778,15 @@
     "stars": 1,
     "status": "success"
   },
+  "PerfectlySoft/Perfect-MIME": {
+    "created": "2025-01-07T10:16:23Z",
+    "duration": 4,
+    "modified": "2025-01-07T10:16:23Z",
+    "repo": "https://github.com/PerfectlySoft/Perfect-MIME.git",
+    "runid": 12648641718,
+    "stars": 0,
+    "status": "success"
+  },
   "PerfectlySoft/Perfect-Repeater": {
     "created": "2025-01-07T00:17:16Z",
     "duration": 5,
