@@ -7601,6 +7601,15 @@
     "runid": 12638963153,
     "status": "success"
   },
+  "gohanlon/swift-memberwise-init-macro": {
+    "created": "2025-01-07T04:07:26Z",
+    "duration": 22,
+    "modified": "2025-01-07T04:07:26Z",
+    "repo": "https://github.com/gohanlon/swift-memberwise-init-macro.git",
+    "runid": 12644606839,
+    "stars": 125,
+    "status": "failure"
+  },
   "gonzalezreal/DefaultCodable": {
     "created": "2025-01-06T20:31:58Z",
     "duration": 6,
