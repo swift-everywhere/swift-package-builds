@@ -5852,10 +5852,11 @@
   },
   "SDGGiesbrecht/swift-format": {
     "created": "2025-01-06T20:45:38Z",
-    "duration": 12,
-    "modified": "2025-01-06T20:45:38Z",
+    "duration": 11,
+    "modified": "2025-01-07T10:54:15Z",
     "repo": "https://github.com/SDGGiesbrecht/swift-format.git",
-    "runid": 12638963153,
+    "runid": 12649615878,
+    "stars": 0,
     "status": "failure"
   },
   "SDGGiesbrecht/swift-package-manager": {
