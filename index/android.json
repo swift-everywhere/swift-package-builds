@@ -16236,6 +16236,15 @@
     "stars": 2319,
     "status": "failure"
   },
+  "jpsim/Yams": {
+    "created": "2025-01-07T13:21:52Z",
+    "duration": 8,
+    "modified": "2025-01-07T13:21:52Z",
+    "repo": "https://github.com/jpsim/Yams.git",
+    "runid": 12651715076,
+    "stars": 1130,
+    "status": "success"
+  },
   "jrothwell/VersionedCodable": {
     "created": "2025-01-07T03:05:13Z",
     "duration": 15,
