@@ -2324,6 +2324,15 @@
     "stars": 4,
     "status": "failure"
   },
+  "ITzTravelInTime/SwiftCPUDetect": {
+    "created": "2025-01-07T08:25:14Z",
+    "duration": 9,
+    "modified": "2025-01-07T08:25:14Z",
+    "repo": "https://github.com/ITzTravelInTime/SwiftCPUDetect.git",
+    "runid": 12647794335,
+    "stars": 52,
+    "status": "failure"
+  },
   "ITzTravelInTime/SwiftPackagesBase": {
     "created": "2025-01-07T08:02:03Z",
     "duration": 8,
