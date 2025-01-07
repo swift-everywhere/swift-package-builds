@@ -6064,6 +6064,15 @@
     "runid": 12638963153,
     "status": "failure"
   },
+  "iankoex/steampress-core": {
+    "created": "2025-01-07T01:20:22Z",
+    "duration": 34,
+    "modified": "2025-01-07T01:20:22Z",
+    "repo": "https://github.com/iankoex/steampress-core.git",
+    "runid": 12641986754,
+    "stars": 0,
+    "status": "failure"
+  },
   "iballan/BasicServiceLocator": {
     "created": "2025-01-06T20:01:39Z",
     "duration": 6,
