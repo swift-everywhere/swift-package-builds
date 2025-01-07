@@ -22533,6 +22533,15 @@
     "stars": 6,
     "status": "failure"
   },
+  "pirishd/InstantMock": {
+    "created": "2025-01-07T15:05:17Z",
+    "duration": 8,
+    "modified": "2025-01-07T15:05:17Z",
+    "repo": "https://github.com/pirishd/InstantMock.git",
+    "runid": 12652509868,
+    "stars": 91,
+    "status": "success"
+  },
   "pitiphong-p/URLQueryItemEncoder": {
     "created": "2025-01-06T22:00:29Z",
     "duration": 5,
