@@ -24103,10 +24103,10 @@
   },
   "sbooth/CWavPack": {
     "created": "2025-01-07T05:49:04Z",
-    "duration": 1,
-    "modified": "2025-01-07T05:49:04Z",
+    "duration": 2,
+    "modified": "2025-01-07T18:39:33Z",
     "repo": "https://github.com/sbooth/CWavPack.git",
-    "runid": 12645653000,
+    "runid": 12657091582,
     "stars": 1,
     "status": "success"
   },
