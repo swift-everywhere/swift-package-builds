@@ -8253,6 +8253,15 @@
     "stars": 30,
     "status": "failure"
   },
+  "appwrite/sdk-for-swift": {
+    "created": "2025-01-07T10:47:52Z",
+    "duration": 50,
+    "modified": "2025-01-07T10:47:52Z",
+    "repo": "https://github.com/appwrite/sdk-for-swift.git",
+    "runid": 12649615878,
+    "stars": 48,
+    "status": "failure"
+  },
   "arasan01/swift-dependencies-extras": {
     "created": "2025-01-07T09:13:36Z",
     "duration": 30,
