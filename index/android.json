@@ -22102,6 +22102,15 @@
     "stars": 23,
     "status": "failure"
   },
+  "xtremekforever/swift-rabbitmq": {
+    "created": "2025-01-07T10:06:38Z",
+    "duration": 22,
+    "modified": "2025-01-07T10:06:38Z",
+    "repo": "https://github.com/xtremekforever/swift-rabbitmq.git",
+    "runid": 12648641718,
+    "stars": 2,
+    "status": "failure"
+  },
   "xtremekforever/swift-systemd": {
     "created": "2025-01-06T23:44:59Z",
     "duration": 18,
