@@ -26375,6 +26375,15 @@
     "stars": 76,
     "status": "failure"
   },
+  "t-ae/swiplot": {
+    "created": "2025-01-07T15:01:56Z",
+    "duration": 8,
+    "modified": "2025-01-07T15:01:56Z",
+    "repo": "https://github.com/t-ae/swiplot.git",
+    "runid": 12652509868,
+    "stars": 1,
+    "status": "success"
+  },
   "t-ae/xorswift": {
     "created": "2025-01-06T17:24:06Z",
     "duration": 7,
