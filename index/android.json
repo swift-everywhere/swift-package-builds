@@ -10043,6 +10043,15 @@
     "stars": 8,
     "status": "failure"
   },
+  "tuist/SwiftyTailwind": {
+    "created": "2025-01-07T01:24:37Z",
+    "duration": 26,
+    "modified": "2025-01-07T01:24:37Z",
+    "repo": "https://github.com/tuist/SwiftyTailwind.git",
+    "runid": 12641986754,
+    "stars": 61,
+    "status": "failure"
+  },
   "tuist/XcodeProj": {
     "created": "2025-01-06T22:13:14Z",
     "duration": 9,
