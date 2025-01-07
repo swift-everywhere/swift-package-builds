@@ -8189,6 +8189,15 @@
     "stars": 10,
     "status": "failure"
   },
+  "jkandzi/Progress.swift": {
+    "created": "2025-01-07T03:51:53Z",
+    "duration": 4,
+    "modified": "2025-01-07T03:51:53Z",
+    "repo": "https://github.com/jkandzi/Progress.swift.git",
+    "runid": 12644606839,
+    "stars": 349,
+    "status": "failure"
+  },
   "jkolb/Swiftish": {
     "created": "2025-01-06T21:14:55Z",
     "duration": 21,
