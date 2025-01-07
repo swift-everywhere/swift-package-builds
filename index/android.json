@@ -4592,6 +4592,15 @@
     "stars": 5,
     "status": "failure"
   },
+  "Swinject/Swinject": {
+    "created": "2025-01-07T05:34:11Z",
+    "duration": 8,
+    "modified": "2025-01-07T05:34:11Z",
+    "repo": "https://github.com/Swinject/Swinject.git",
+    "runid": 12645653000,
+    "stars": 6400,
+    "status": "success"
+  },
   "Swonkie/RawTerm": {
     "created": "2025-01-06T23:38:58Z",
     "duration": 3,
