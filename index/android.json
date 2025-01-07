@@ -1608,6 +1608,15 @@
     "stars": 19,
     "status": "failure"
   },
+  "Frizlab/GlobalConfModule": {
+    "created": "2025-01-07T05:56:53Z",
+    "duration": 73,
+    "modified": "2025-01-07T05:56:53Z",
+    "repo": "https://github.com/Frizlab/GlobalConfModule.git",
+    "runid": 12645653000,
+    "stars": 6,
+    "status": "success"
+  },
   "Frizlab/RecursiveSyncDispatch": {
     "created": "2025-01-06T21:17:39Z",
     "duration": 6,
