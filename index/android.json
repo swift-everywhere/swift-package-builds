@@ -12237,6 +12237,15 @@
     "stars": 3,
     "status": "success"
   },
+  "ensan-hcl/AzooKeyKanaKanjiConverter": {
+    "created": "2025-01-07T12:12:59Z",
+    "duration": 76,
+    "modified": "2025-01-07T12:12:59Z",
+    "repo": "https://github.com/ensan-hcl/AzooKeyKanaKanjiConverter.git",
+    "runid": 12650476881,
+    "stars": 69,
+    "status": "failure"
+  },
   "entonio/CopyWithChanges": {
     "created": "2025-01-07T02:29:22Z",
     "duration": 99,
