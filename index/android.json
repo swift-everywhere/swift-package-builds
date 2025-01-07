@@ -6275,6 +6275,15 @@
     "runid": 12638963153,
     "status": "success"
   },
+  "hughbe/SwiftBitField": {
+    "created": "2025-01-07T01:53:23Z",
+    "duration": 4,
+    "modified": "2025-01-07T01:53:23Z",
+    "repo": "https://github.com/hughbe/SwiftBitField.git",
+    "runid": 12643524602,
+    "stars": 0,
+    "status": "success"
+  },
   "hummingbird-project/hummingbird-core": {
     "created": "2025-01-06T23:03:08Z",
     "duration": 58,
