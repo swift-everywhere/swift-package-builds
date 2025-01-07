@@ -11745,6 +11745,15 @@
     "stars": 3,
     "status": "failure"
   },
+  "ncke/SwiftAstro": {
+    "created": "2025-01-07T06:01:57Z",
+    "duration": 7,
+    "modified": "2025-01-07T06:01:57Z",
+    "repo": "https://github.com/ncke/SwiftAstro.git",
+    "runid": 12645653000,
+    "stars": 6,
+    "status": "success"
+  },
   "nearfri/ObjectCoder": {
     "created": "2025-01-06T22:53:58Z",
     "duration": 8,
