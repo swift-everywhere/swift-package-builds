@@ -22508,6 +22508,15 @@
     "stars": 4,
     "status": "success"
   },
+  "ptsochantaris/trailer-ql": {
+    "created": "2025-01-07T14:36:45Z",
+    "duration": 10,
+    "modified": "2025-01-07T14:36:45Z",
+    "repo": "https://github.com/ptsochantaris/trailer-ql.git",
+    "runid": 12652509868,
+    "stars": 1,
+    "status": "success"
+  },
   "public-transport/FPTF.swift": {
     "created": "2025-01-07T11:48:51Z",
     "duration": 9,
