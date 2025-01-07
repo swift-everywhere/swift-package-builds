@@ -7801,6 +7801,15 @@
     "runid": 12638963153,
     "status": "failure"
   },
+  "pointfreeco/swiftui-navigation": {
+    "created": "2025-01-07T01:00:35Z",
+    "duration": 22,
+    "modified": "2025-01-07T01:00:35Z",
+    "repo": "https://github.com/pointfreeco/swiftui-navigation.git",
+    "runid": 12641986754,
+    "stars": 24,
+    "status": "failure"
+  },
   "pokryfka/aws-xray-sdk-swift": {
     "created": "2025-01-06T22:56:02Z",
     "duration": 27,
