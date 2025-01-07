@@ -9457,6 +9457,15 @@
     "runid": 12638963153,
     "status": "failure"
   },
+  "viktorstrate/swift-tree-sitter": {
+    "created": "2025-01-07T00:53:06Z",
+    "duration": 1,
+    "modified": "2025-01-07T00:53:06Z",
+    "repo": "https://github.com/viktorstrate/swift-tree-sitter.git",
+    "runid": 12641986754,
+    "stars": 32,
+    "status": "failure"
+  },
   "vinhnx/DictionaryNestedSubscript": {
     "created": "2025-01-06T22:00:37Z",
     "duration": 3,
