@@ -6406,6 +6406,15 @@
     "stars": 210,
     "status": "failure"
   },
+  "apple/swift-collections": {
+    "created": "2025-01-07T07:39:40Z",
+    "duration": 24,
+    "modified": "2025-01-07T07:39:40Z",
+    "repo": "https://github.com/apple/swift-collections.git",
+    "runid": 12646951061,
+    "stars": 3863,
+    "status": "success"
+  },
   "apple/swift-crypto": {
     "created": "2025-01-06T21:20:55Z",
     "duration": 78,
