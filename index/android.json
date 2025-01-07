@@ -6643,10 +6643,11 @@
   },
   "SwiftNIOExtras/swift-nio-redis": {
     "created": "2025-01-06T19:47:20Z",
-    "duration": 25,
-    "modified": "2025-01-06T19:47:20Z",
+    "duration": 33,
+    "modified": "2025-01-07T11:17:51Z",
     "repo": "https://github.com/SwiftNIOExtras/swift-nio-redis.git",
-    "runid": 12638963153,
+    "runid": 12650476881,
+    "stars": 30,
     "status": "failure"
   },
   "SwiftObjects/SwiftObjects": {
