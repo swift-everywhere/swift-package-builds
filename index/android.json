@@ -4115,6 +4115,15 @@
     "stars": 53,
     "status": "success"
   },
+  "QuickBirdEng/crc-swift": {
+    "created": "2025-01-07T07:12:56Z",
+    "duration": 7,
+    "modified": "2025-01-07T07:12:56Z",
+    "repo": "https://github.com/QuickBirdEng/crc-swift.git",
+    "runid": 12646377141,
+    "stars": 12,
+    "status": "success"
+  },
   "RakuyoKit/RaAPIWrapper": {
     "created": "2025-01-07T02:29:39Z",
     "duration": 16,
