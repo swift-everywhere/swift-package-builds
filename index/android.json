@@ -3487,6 +3487,15 @@
     "runid": 12637757100,
     "status": "success"
   },
+  "apple/example-package-figlet": {
+    "created": "2025-01-07T01:20:39Z",
+    "duration": 6,
+    "modified": "2025-01-07T01:20:39Z",
+    "repo": "https://github.com/apple/example-package-figlet.git",
+    "runid": 12641986754,
+    "stars": 20,
+    "status": "success"
+  },
   "apple/example-package-fisheryates": {
     "created": "2025-01-06T19:49:51Z",
     "duration": 4,
