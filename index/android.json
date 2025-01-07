@@ -800,6 +800,15 @@
     "stars": 656,
     "status": "failure"
   },
+  "Boilertalk/secp256k1.swift": {
+    "created": "2025-01-07T07:12:00Z",
+    "duration": 4,
+    "modified": "2025-01-07T07:12:00Z",
+    "repo": "https://github.com/Boilertalk/secp256k1.swift.git",
+    "runid": 12646377141,
+    "stars": 65,
+    "status": "failure"
+  },
   "BottleRocketStudios/iOS-Scotty": {
     "created": "2025-01-07T02:01:19Z",
     "duration": 7,
