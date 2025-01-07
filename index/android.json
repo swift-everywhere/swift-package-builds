@@ -5748,6 +5748,15 @@
     "stars": 0,
     "status": "failure"
   },
+  "dreymonde/Shallows": {
+    "created": "2025-01-07T02:52:44Z",
+    "duration": 8,
+    "modified": "2025-01-07T02:52:44Z",
+    "repo": "https://github.com/dreymonde/Shallows.git",
+    "runid": 12644277556,
+    "stars": 623,
+    "status": "success"
+  },
   "dreymonde/Time": {
     "created": "2025-01-06T22:04:52Z",
     "duration": 6,
