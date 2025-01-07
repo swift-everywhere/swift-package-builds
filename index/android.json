@@ -11117,10 +11117,11 @@
   },
   "yutailang0119/FileScanKit": {
     "created": "2025-01-06T19:25:38Z",
-    "duration": 11,
-    "modified": "2025-01-06T19:25:38Z",
+    "duration": 9,
+    "modified": "2025-01-07T01:49:52Z",
     "repo": "https://github.com/yutailang0119/FileScanKit.git",
-    "runid": 12638963153,
+    "runid": 12643524602,
+    "stars": 12,
     "status": "failure"
   },
   "yutailang0119/ProgressSpinnerKit": {
