@@ -4420,10 +4420,10 @@
   },
   "KreuzKummelll/FarmhouseCore": {
     "created": "2025-01-07T02:41:56Z",
-    "duration": 20,
-    "modified": "2025-01-07T02:41:56Z",
+    "duration": 19,
+    "modified": "2025-01-07T23:54:38Z",
     "repo": "https://github.com/KreuzKummelll/FarmhouseCore.git",
-    "runid": 12643524602,
+    "runid": 12660929108,
     "stars": 1,
     "status": "failure"
   },
