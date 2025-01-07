@@ -20422,10 +20422,10 @@
   },
   "mochidev/swift-webpush": {
     "created": "2025-01-06T19:48:25Z",
-    "duration": 27,
-    "modified": "2025-01-07T13:50:36Z",
+    "duration": 28,
+    "modified": "2025-01-07T17:30:45Z",
     "repo": "https://github.com/mochidev/swift-webpush.git",
-    "runid": 12652509868,
+    "runid": 12656035496,
     "stars": 36,
     "status": "failure"
   },
