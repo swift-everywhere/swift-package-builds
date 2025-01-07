@@ -9976,6 +9976,15 @@
     "stars": 33,
     "status": "failure"
   },
+  "kylef/Commander": {
+    "created": "2025-01-07T05:28:53Z",
+    "duration": 8,
+    "modified": "2025-01-07T05:28:53Z",
+    "repo": "https://github.com/kylef/Commander.git",
+    "runid": 12645653000,
+    "stars": 1529,
+    "status": "failure"
+  },
   "kylef/JSONSchema.swift": {
     "created": "2025-01-07T05:26:28Z",
     "duration": 9,
