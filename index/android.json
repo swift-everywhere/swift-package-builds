@@ -2476,6 +2476,15 @@
     "stars": 5,
     "status": "failure"
   },
+  "RedMadRobot/catbird": {
+    "created": "2025-01-07T01:41:54Z",
+    "duration": 7,
+    "modified": "2025-01-07T01:41:54Z",
+    "repo": "https://github.com/RedMadRobot/catbird.git",
+    "runid": 12643524602,
+    "stars": 51,
+    "status": "failure"
+  },
   "RedMadRobot/input-mask-ios": {
     "created": "2025-01-06T21:59:30Z",
     "duration": 7,
