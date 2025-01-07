@@ -1387,10 +1387,10 @@
   },
   "ChimeHQ/GlobPattern": {
     "created": "2025-01-07T12:03:44Z",
-    "duration": 4,
-    "modified": "2025-01-07T12:03:44Z",
+    "duration": 3,
+    "modified": "2025-01-07T21:54:10Z",
     "repo": "https://github.com/ChimeHQ/GlobPattern.git",
-    "runid": 12650476881,
+    "runid": 12659472889,
     "stars": 13,
     "status": "failure"
   },
