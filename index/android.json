@@ -6049,10 +6049,10 @@
   },
   "OperatorFoundation/InternetProtocols": {
     "created": "2025-01-07T11:57:46Z",
-    "duration": 22,
-    "modified": "2025-01-07T11:57:46Z",
+    "duration": 18,
+    "modified": "2025-01-07T16:34:52Z",
     "repo": "https://github.com/OperatorFoundation/InternetProtocols.git",
-    "runid": 12650476881,
+    "runid": 12655041616,
     "stars": 1,
     "status": "failure"
   },
