@@ -2241,6 +2241,15 @@
     "stars": 5,
     "status": "failure"
   },
+  "KazaKago/StoreFlowable.swift": {
+    "created": "2025-01-07T05:57:43Z",
+    "duration": 9,
+    "modified": "2025-01-07T05:57:43Z",
+    "repo": "https://github.com/KazaKago/StoreFlowable.swift.git",
+    "runid": 12645653000,
+    "stars": 16,
+    "status": "failure"
+  },
   "KeanuPang/fugle-realtime-swift": {
     "created": "2025-01-06T20:19:47Z",
     "duration": 14,
