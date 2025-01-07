@@ -12457,6 +12457,15 @@
     "stars": 2,
     "status": "success"
   },
+  "sinoru/swift-sodium": {
+    "created": "2025-01-07T04:57:08Z",
+    "duration": 25,
+    "modified": "2025-01-07T04:57:08Z",
+    "repo": "https://github.com/sinoru/swift-sodium.git",
+    "runid": 12645351961,
+    "stars": 1,
+    "status": "failure"
+  },
   "skelpo/JSON": {
     "created": "2025-01-06T17:43:31Z",
     "duration": 7,
