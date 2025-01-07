@@ -15999,6 +15999,15 @@
     "stars": 89,
     "status": "failure"
   },
+  "pointfreeco/swift-issue-reporting": {
+    "created": "2025-01-07T09:03:12Z",
+    "duration": 12,
+    "modified": "2025-01-07T09:03:12Z",
+    "repo": "https://github.com/pointfreeco/swift-issue-reporting.git",
+    "runid": 12647794335,
+    "stars": 411,
+    "status": "success"
+  },
   "pointfreeco/swift-macro-testing": {
     "created": "2025-01-07T08:18:57Z",
     "duration": 15,
