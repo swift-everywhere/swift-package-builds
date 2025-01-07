@@ -770,6 +770,15 @@
     "stars": 41,
     "status": "success"
   },
+  "CuratoOpenSource/InjectableLoggers": {
+    "created": "2025-01-07T02:20:24Z",
+    "duration": 8,
+    "modified": "2025-01-07T02:20:24Z",
+    "repo": "https://github.com/CuratoOpenSource/InjectableLoggers.git",
+    "runid": 12643524602,
+    "stars": 5,
+    "status": "success"
+  },
   "CuriositySoftware/XcodeTargetGraphGen": {
     "created": "2025-01-06T22:13:27Z",
     "duration": 12,
