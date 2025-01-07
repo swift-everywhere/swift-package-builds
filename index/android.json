@@ -13258,6 +13258,15 @@
     "stars": 1,
     "status": "success"
   },
+  "zendesk/chat_sdk_ios": {
+    "created": "2025-01-07T03:18:34Z",
+    "duration": 32,
+    "modified": "2025-01-07T03:18:34Z",
+    "repo": "https://github.com/zendesk/chat_sdk_ios.git",
+    "runid": 12644277556,
+    "stars": 20,
+    "status": "success"
+  },
   "zonble/HumanString": {
     "created": "2025-01-06T22:11:43Z",
     "duration": 5,
