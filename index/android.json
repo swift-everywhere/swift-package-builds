@@ -18768,6 +18768,15 @@
     "stars": 4,
     "status": "success"
   },
+  "patrick-zippenfenig/SwiftTimeZoneLookup": {
+    "created": "2025-01-07T11:48:41Z",
+    "duration": 7,
+    "modified": "2025-01-07T11:48:41Z",
+    "repo": "https://github.com/patrick-zippenfenig/SwiftTimeZoneLookup.git",
+    "runid": 12650476881,
+    "stars": 17,
+    "status": "failure"
+  },
   "paulpela/BasketballJerseyNumber": {
     "created": "2025-01-07T10:12:59Z",
     "duration": 7,
