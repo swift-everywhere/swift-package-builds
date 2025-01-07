@@ -3685,6 +3685,15 @@
     "stars": 2,
     "status": "failure"
   },
+  "SwiftWebResources/SemanticUI-Swift": {
+    "created": "2025-01-07T03:19:36Z",
+    "duration": 1,
+    "modified": "2025-01-07T03:19:36Z",
+    "repo": "https://github.com/SwiftWebResources/SemanticUI-Swift.git",
+    "runid": 12644277556,
+    "stars": 4,
+    "status": "failure"
+  },
   "SwiftWebUI/SwiftWebUI": {
     "created": "2025-01-06T23:54:40Z",
     "duration": 33,
