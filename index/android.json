@@ -15096,6 +15096,15 @@
     "stars": 1,
     "status": "failure"
   },
+  "shiroyagicorp/swift-seeurl": {
+    "created": "2025-01-07T07:16:38Z",
+    "duration": 7,
+    "modified": "2025-01-07T07:16:38Z",
+    "repo": "https://github.com/shiroyagicorp/swift-seeurl.git",
+    "runid": 12646377141,
+    "stars": 23,
+    "status": "failure"
+  },
   "siemensikkema/Decoded": {
     "created": "2025-01-07T07:15:49Z",
     "duration": 5,
