@@ -6579,6 +6579,15 @@
     "stars": 4,
     "status": "success"
   },
+  "latenitesoft/NotebookExport": {
+    "created": "2025-01-07T01:08:38Z",
+    "duration": 7,
+    "modified": "2025-01-07T01:08:38Z",
+    "repo": "https://github.com/latenitesoft/NotebookExport.git",
+    "runid": 12641986754,
+    "stars": 4,
+    "status": "failure"
+  },
   "launchdarkly/swift-eventsource": {
     "created": "2025-01-06T20:57:38Z",
     "duration": 6,
