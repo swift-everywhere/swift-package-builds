@@ -6862,6 +6862,15 @@
     "stars": 29,
     "status": "failure"
   },
+  "bppr/Speck": {
+    "created": "2025-01-07T07:12:17Z",
+    "duration": 5,
+    "modified": "2025-01-07T07:12:17Z",
+    "repo": "https://github.com/bppr/Speck.git",
+    "runid": 12646377141,
+    "stars": 5,
+    "status": "failure"
+  },
   "bradhowes/Knob": {
     "created": "2025-01-06T21:25:42Z",
     "duration": 9,
