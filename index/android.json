@@ -6402,6 +6402,15 @@
     "stars": 293,
     "status": "failure"
   },
+  "apple/swift-numerics": {
+    "created": "2025-01-07T07:26:21Z",
+    "duration": 9,
+    "modified": "2025-01-07T07:26:21Z",
+    "repo": "https://github.com/apple/swift-numerics.git",
+    "runid": 12646951061,
+    "stars": 1697,
+    "status": "success"
+  },
   "apple/swift-openapi-generator": {
     "created": "2025-01-06T17:32:51Z",
     "duration": 58,
