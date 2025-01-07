@@ -10808,6 +10808,15 @@
     "runid": 12638963153,
     "status": "success"
   },
+  "xcode-actions/clt-logger": {
+    "created": "2025-01-07T01:41:24Z",
+    "duration": 11,
+    "modified": "2025-01-07T01:41:24Z",
+    "repo": "https://github.com/xcode-actions/clt-logger.git",
+    "runid": 12643524602,
+    "stars": 3,
+    "status": "failure"
+  },
   "xcode-actions/json-logger": {
     "created": "2025-01-06T17:27:11Z",
     "duration": 8,
