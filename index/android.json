@@ -3387,6 +3387,15 @@
     "runid": 12636850547,
     "status": "success"
   },
+  "SwiftyLab/ValidatableKit": {
+    "created": "2025-01-07T02:33:13Z",
+    "duration": 23,
+    "modified": "2025-01-07T02:33:13Z",
+    "repo": "https://github.com/SwiftyLab/ValidatableKit.git",
+    "runid": 12643524602,
+    "stars": 3,
+    "status": "success"
+  },
   "SwiftyLinkerKit/SwiftyLinkerKit": {
     "created": "2025-01-06T20:52:13Z",
     "duration": 8,
