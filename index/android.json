@@ -2060,6 +2060,15 @@
     "stars": 168,
     "status": "success"
   },
+  "Kochava/Apple-SwiftPackage-KochavaEnhancement-XCFramework": {
+    "created": "2025-01-07T03:20:21Z",
+    "duration": 3,
+    "modified": "2025-01-07T03:20:21Z",
+    "repo": "https://github.com/Kochava/Apple-SwiftPackage-KochavaEnhancement-XCFramework.git",
+    "runid": 12644277556,
+    "stars": 1,
+    "status": "success"
+  },
   "Kochava/Apple-SwiftPackage-KochavaMeasurement-XCFramework": {
     "created": "2025-01-07T03:12:39Z",
     "duration": 10,
