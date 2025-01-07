@@ -22501,10 +22501,10 @@
   },
   "petrpavlik/swift-sentry": {
     "created": "2025-01-07T06:39:04Z",
-    "duration": 50,
-    "modified": "2025-01-07T06:39:04Z",
+    "duration": 49,
+    "modified": "2025-01-07T18:56:28Z",
     "repo": "https://github.com/petrpavlik/swift-sentry.git",
-    "runid": 12646377141,
+    "runid": 12657091582,
     "stars": 1,
     "status": "failure"
   },
