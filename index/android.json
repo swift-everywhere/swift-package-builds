@@ -15711,6 +15711,15 @@
     "stars": 186,
     "status": "failure"
   },
+  "mxcl/PromiseKit": {
+    "created": "2025-01-07T10:10:47Z",
+    "duration": 8,
+    "modified": "2025-01-07T10:10:47Z",
+    "repo": "https://github.com/mxcl/PromiseKit.git",
+    "runid": 12648641718,
+    "stars": 14242,
+    "status": "success"
+  },
   "mxcl/StreamReader": {
     "created": "2025-01-06T17:39:33Z",
     "duration": 8,
