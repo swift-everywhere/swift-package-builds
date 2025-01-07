@@ -28234,10 +28234,10 @@
   },
   "vapor-community/mailgun": {
     "created": "2025-01-07T00:54:15Z",
-    "duration": 27,
-    "modified": "2025-01-07T00:54:15Z",
+    "duration": 33,
+    "modified": "2025-01-07T18:35:45Z",
     "repo": "https://github.com/vapor-community/mailgun.git",
-    "runid": 12641986754,
+    "runid": 12657091582,
     "stars": 120,
     "status": "failure"
   },
