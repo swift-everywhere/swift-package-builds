@@ -23409,6 +23409,15 @@
     "stars": 186,
     "status": "failure"
   },
+  "swiftlang/swift-se0270-range-set": {
+    "created": "2025-01-07T13:00:42Z",
+    "duration": 8,
+    "modified": "2025-01-07T13:00:42Z",
+    "repo": "https://github.com/swiftlang/swift-se0270-range-set.git",
+    "runid": 12651715076,
+    "stars": 20,
+    "status": "success"
+  },
   "swiftlang/swift-se0288-is-power": {
     "created": "2025-01-07T03:28:25Z",
     "duration": 4,
