@@ -4861,10 +4861,10 @@
   },
   "MaherKSantina/DSCore": {
     "created": "2025-01-06T23:59:11Z",
-    "duration": 18,
-    "modified": "2025-01-06T23:59:12Z",
+    "duration": 25,
+    "modified": "2025-01-07T19:21:46Z",
     "repo": "https://github.com/MaherKSantina/DSCore.git",
-    "runid": 12641986754,
+    "runid": 12657790358,
     "stars": 0,
     "status": "failure"
   },
