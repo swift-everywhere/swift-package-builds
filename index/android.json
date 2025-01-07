@@ -16249,6 +16249,15 @@
     "stars": 38,
     "status": "failure"
   },
+  "hummingbird-project/hummingbird-compression": {
+    "created": "2025-01-07T14:44:57Z",
+    "duration": 26,
+    "modified": "2025-01-07T14:44:57Z",
+    "repo": "https://github.com/hummingbird-project/hummingbird-compression.git",
+    "runid": 12652509868,
+    "stars": 6,
+    "status": "failure"
+  },
   "hummingbird-project/hummingbird-core": {
     "created": "2025-01-06T23:03:08Z",
     "duration": 58,
