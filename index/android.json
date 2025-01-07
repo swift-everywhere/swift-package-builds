@@ -12821,6 +12821,15 @@
     "stars": 7,
     "status": "failure"
   },
+  "lovetodream/swift-blake2": {
+    "created": "2025-01-07T08:18:21Z",
+    "duration": 10,
+    "modified": "2025-01-07T08:18:21Z",
+    "repo": "https://github.com/lovetodream/swift-blake2.git",
+    "runid": 12646951061,
+    "stars": 1,
+    "status": "success"
+  },
   "lucas34/LazyArray": {
     "created": "2025-01-07T06:30:25Z",
     "duration": 7,
