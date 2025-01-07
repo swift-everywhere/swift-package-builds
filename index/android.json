@@ -1219,6 +1219,15 @@
     "runid": 12638963153,
     "status": "failure"
   },
+  "Fleuronic/papyrus": {
+    "created": "2025-01-07T03:30:08Z",
+    "duration": 101,
+    "modified": "2025-01-07T03:30:08Z",
+    "repo": "https://github.com/Fleuronic/papyrus.git",
+    "runid": 12644606839,
+    "stars": 0,
+    "status": "failure"
+  },
   "Flight-School/JSONFeed": {
     "created": "2025-01-06T22:32:24Z",
     "duration": 6,
