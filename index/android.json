@@ -9627,6 +9627,15 @@
     "stars": 268,
     "status": "failure"
   },
+  "box/box-swift-sdk-gen": {
+    "created": "2025-01-07T12:20:00Z",
+    "duration": 50,
+    "modified": "2025-01-07T12:20:00Z",
+    "repo": "https://github.com/box/box-swift-sdk-gen.git",
+    "runid": 12650476881,
+    "stars": 10,
+    "status": "success"
+  },
   "bppr/Speck": {
     "created": "2025-01-07T07:12:17Z",
     "duration": 5,
