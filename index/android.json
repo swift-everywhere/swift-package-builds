@@ -13314,6 +13314,15 @@
     "stars": 2,
     "status": "success"
   },
+  "mackoj/PackageGeneratorCLI": {
+    "created": "2025-01-07T08:37:16Z",
+    "duration": 15,
+    "modified": "2025-01-07T08:37:16Z",
+    "repo": "https://github.com/mackoj/PackageGeneratorCLI.git",
+    "runid": 12647794335,
+    "stars": 2,
+    "status": "failure"
+  },
   "maclong9/swift-list": {
     "created": "2025-01-07T00:16:20Z",
     "duration": 10,
