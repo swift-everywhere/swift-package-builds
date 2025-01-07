@@ -15316,6 +15316,15 @@
     "stars": 17,
     "status": "success"
   },
+  "ml-archive/submissions": {
+    "created": "2025-01-07T10:03:35Z",
+    "duration": 32,
+    "modified": "2025-01-07T10:03:35Z",
+    "repo": "https://github.com/ml-archive/submissions.git",
+    "runid": 12648641718,
+    "stars": 14,
+    "status": "failure"
+  },
   "mochidev/Bytes": {
     "created": "2025-01-07T08:34:41Z",
     "duration": 7,
