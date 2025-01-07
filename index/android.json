@@ -10185,6 +10185,15 @@
     "stars": 0,
     "status": "success"
   },
+  "swift-cloud/PlanetScale": {
+    "created": "2025-01-07T02:12:38Z",
+    "duration": 17,
+    "modified": "2025-01-07T02:12:38Z",
+    "repo": "https://github.com/swift-cloud/PlanetScale.git",
+    "runid": 12643524602,
+    "stars": 7,
+    "status": "failure"
+  },
   "swift-cloud/swift-cloud": {
     "created": "2025-01-06T19:55:39Z",
     "duration": 46,
