@@ -3451,9 +3451,10 @@
   "PerfectlySoft/Perfect-COpenSSL": {
     "created": "2025-01-06T17:23:41Z",
     "duration": 10,
-    "modified": "2025-01-06T17:23:41Z",
+    "modified": "2025-01-07T05:52:24Z",
     "repo": "https://github.com/PerfectlySoft/Perfect-COpenSSL.git",
-    "runid": 12637148220,
+    "runid": 12645653000,
+    "stars": 12,
     "status": "success"
   },
   "PerfectlySoft/Perfect-CloudFormation": {
