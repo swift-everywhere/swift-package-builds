@@ -4396,6 +4396,15 @@
     "stars": 14,
     "status": "failure"
   },
+  "Outdooractive/mvt-tools": {
+    "created": "2025-01-07T09:22:48Z",
+    "duration": 14,
+    "modified": "2025-01-07T09:22:48Z",
+    "repo": "https://github.com/Outdooractive/mvt-tools.git",
+    "runid": 12648641718,
+    "stars": 8,
+    "status": "failure"
+  },
   "PADL/ASN1Codable": {
     "created": "2025-01-06T23:52:43Z",
     "duration": 25,
