@@ -398,6 +398,15 @@
     "runid": 12638963153,
     "status": "success"
   },
+  "AndyHeardApps/ErrorCode": {
+    "created": "2025-01-07T06:13:25Z",
+    "duration": 80,
+    "modified": "2025-01-07T06:13:25Z",
+    "repo": "https://github.com/AndyHeardApps/ErrorCode.git",
+    "runid": 12645653000,
+    "stars": 0,
+    "status": "success"
+  },
   "ApolloZhu/swift_qrcodejs": {
     "created": "2025-01-07T02:53:21Z",
     "duration": 7,
