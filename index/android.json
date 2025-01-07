@@ -3060,6 +3060,15 @@
     "stars": 1,
     "status": "success"
   },
+  "Kochava/Apple-SwiftPackage-KochavaMacros": {
+    "created": "2025-01-07T08:46:30Z",
+    "duration": 95,
+    "modified": "2025-01-07T08:46:30Z",
+    "repo": "https://github.com/Kochava/Apple-SwiftPackage-KochavaMacros.git",
+    "runid": 12647794335,
+    "stars": 1,
+    "status": "failure"
+  },
   "Kochava/Apple-SwiftPackage-KochavaMeasurement-XCFramework": {
     "created": "2025-01-07T03:12:39Z",
     "duration": 10,
