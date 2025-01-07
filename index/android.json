@@ -4570,6 +4570,15 @@
     "stars": 14,
     "status": "failure"
   },
+  "Outdooractive/mvt-postgis": {
+    "created": "2025-01-07T09:50:30Z",
+    "duration": 24,
+    "modified": "2025-01-07T09:50:30Z",
+    "repo": "https://github.com/Outdooractive/mvt-postgis.git",
+    "runid": 12648641718,
+    "stars": 1,
+    "status": "failure"
+  },
   "Outdooractive/mvt-tools": {
     "created": "2025-01-07T09:22:48Z",
     "duration": 14,
