@@ -1024,6 +1024,15 @@
     "stars": 251,
     "status": "failure"
   },
+  "ChimeHQ/EditorConfig": {
+    "created": "2025-01-07T08:30:14Z",
+    "duration": 9,
+    "modified": "2025-01-07T08:30:14Z",
+    "repo": "https://github.com/ChimeHQ/EditorConfig.git",
+    "runid": 12647794335,
+    "stars": 13,
+    "status": "success"
+  },
   "ChimeHQ/Flexer": {
     "created": "2025-01-06T21:50:28Z",
     "duration": 6,
