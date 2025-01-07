@@ -8173,10 +8173,10 @@
   },
   "SwiftObjects/SwiftObjects": {
     "created": "2025-01-07T00:20:39Z",
-    "duration": 29,
-    "modified": "2025-01-07T00:20:39Z",
+    "duration": 36,
+    "modified": "2025-01-07T19:18:51Z",
     "repo": "https://github.com/SwiftObjects/SwiftObjects.git",
-    "runid": 12641986754,
+    "runid": 12657790358,
     "stars": 58,
     "status": "failure"
   },
