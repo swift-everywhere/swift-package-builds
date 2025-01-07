@@ -6160,9 +6160,10 @@
   "leonx98/Swift-ISO8601-DurationParser": {
     "created": "2025-01-06T17:32:58Z",
     "duration": 6,
-    "modified": "2025-01-06T17:32:58Z",
+    "modified": "2025-01-07T00:48:22Z",
     "repo": "https://github.com/leonx98/Swift-ISO8601-DurationParser.git",
-    "runid": 12637148220,
+    "runid": 12641986754,
+    "stars": 33,
     "status": "success"
   },
   "liamnichols/swift-configuration-parser": {
