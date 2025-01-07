@@ -14700,6 +14700,15 @@
     "stars": 74,
     "status": "failure"
   },
+  "ml-archive/n-meta": {
+    "created": "2025-01-07T09:28:29Z",
+    "duration": 32,
+    "modified": "2025-01-07T09:28:29Z",
+    "repo": "https://github.com/ml-archive/n-meta.git",
+    "runid": 12648641718,
+    "stars": 11,
+    "status": "failure"
+  },
   "ml-archive/slugify": {
     "created": "2025-01-06T17:39:09Z",
     "duration": 7,
