@@ -17602,6 +17602,15 @@
     "stars": 3,
     "status": "failure"
   },
+  "ptrkstr/Injector": {
+    "created": "2025-01-07T10:18:39Z",
+    "duration": 9,
+    "modified": "2025-01-07T10:18:39Z",
+    "repo": "https://github.com/ptrkstr/Injector.git",
+    "runid": 12648641718,
+    "stars": 7,
+    "status": "success"
+  },
   "ptrkstr/Symbols": {
     "created": "2025-01-07T05:25:40Z",
     "duration": 5,
