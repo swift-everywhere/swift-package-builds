@@ -244,10 +244,10 @@
   },
   "21-DOT-DEV/swift-secp256k1": {
     "created": "2025-01-06T23:08:33Z",
-    "duration": 16,
-    "modified": "2025-01-06T23:08:33Z",
+    "duration": 49,
+    "modified": "2025-01-07T16:53:24Z",
     "repo": "https://github.com/21-DOT-DEV/swift-secp256k1.git",
-    "runid": 12641431024,
+    "runid": 12655360195,
     "stars": 116,
     "status": "failure"
   },
