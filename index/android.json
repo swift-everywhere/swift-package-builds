@@ -10738,6 +10738,15 @@
     "stars": 0,
     "status": "failure"
   },
+  "ole/SortedArray": {
+    "created": "2025-01-07T04:19:37Z",
+    "duration": 6,
+    "modified": "2025-01-07T04:19:37Z",
+    "repo": "https://github.com/ole/SortedArray.git",
+    "runid": 12644606839,
+    "stars": 165,
+    "status": "success"
+  },
   "oliverbrehm/SwiftIntelHex": {
     "created": "2025-01-06T21:14:24Z",
     "duration": 6,
