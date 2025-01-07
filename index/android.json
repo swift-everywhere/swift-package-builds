@@ -1967,6 +1967,15 @@
     "stars": 7,
     "status": "failure"
   },
+  "NSHipster/HypertextLiteral": {
+    "created": "2025-01-07T01:23:56Z",
+    "duration": 7,
+    "modified": "2025-01-07T01:23:56Z",
+    "repo": "https://github.com/NSHipster/HypertextLiteral.git",
+    "runid": 12641986754,
+    "stars": 224,
+    "status": "success"
+  },
   "NSHipster/PasswordRules": {
     "created": "2025-01-06T21:24:36Z",
     "duration": 3,
