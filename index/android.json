@@ -14630,6 +14630,15 @@
     "stars": 16,
     "status": "success"
   },
+  "joshjacob/SwiftAge": {
+    "created": "2025-01-07T11:35:03Z",
+    "duration": 32,
+    "modified": "2025-01-07T11:35:03Z",
+    "repo": "https://github.com/joshjacob/SwiftAge.git",
+    "runid": 12650476881,
+    "stars": 2,
+    "status": "failure"
+  },
   "joshjacob/antlr4": {
     "created": "2025-01-07T00:33:02Z",
     "duration": 10,
