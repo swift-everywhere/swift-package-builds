@@ -255,6 +255,15 @@
     "stars": 60,
     "status": "success"
   },
+  "AgoraIO/AgoraRtcEngine_macOS": {
+    "created": "2025-01-07T02:57:30Z",
+    "duration": 12,
+    "modified": "2025-01-07T02:57:30Z",
+    "repo": "https://github.com/AgoraIO/AgoraRtcEngine_macOS.git",
+    "runid": 12644277556,
+    "stars": 1,
+    "status": "success"
+  },
   "Alamofire/Alamofire": {
     "created": "2025-01-06T20:06:20Z",
     "duration": 10,
