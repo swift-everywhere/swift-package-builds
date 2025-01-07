@@ -25246,10 +25246,10 @@
   },
   "square/Cleanse": {
     "created": "2025-01-07T08:43:27Z",
-    "duration": 12,
-    "modified": "2025-01-07T08:43:27Z",
+    "duration": 11,
+    "modified": "2025-01-07T17:00:42Z",
     "repo": "https://github.com/square/Cleanse.git",
-    "runid": 12647794335,
+    "runid": 12655360195,
     "stars": 1783,
     "status": "success"
   },
