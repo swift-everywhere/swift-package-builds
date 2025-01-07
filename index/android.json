@@ -12280,6 +12280,15 @@
     "stars": 19184,
     "status": "success"
   },
+  "tribalworldwidelondon/CassowarySwift": {
+    "created": "2025-01-07T03:20:31Z",
+    "duration": 8,
+    "modified": "2025-01-07T03:20:31Z",
+    "repo": "https://github.com/tribalworldwidelondon/CassowarySwift.git",
+    "runid": 12644277556,
+    "stars": 111,
+    "status": "success"
+  },
   "trifork/TriforkSwiftDependencyInjection": {
     "created": "2025-01-06T20:27:56Z",
     "duration": 6,
