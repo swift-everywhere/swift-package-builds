@@ -1742,6 +1742,15 @@
     "stars": 496,
     "status": "failure"
   },
+  "Flowduino/ThreadSafeSwift": {
+    "created": "2025-01-07T07:36:27Z",
+    "duration": 6,
+    "modified": "2025-01-07T07:36:27Z",
+    "repo": "https://github.com/Flowduino/ThreadSafeSwift.git",
+    "runid": 12646951061,
+    "stars": 1,
+    "status": "success"
+  },
   "FluidGroup/EmbeddedStringsKit": {
     "created": "2025-01-07T00:59:33Z",
     "duration": 6,
