@@ -21507,6 +21507,15 @@
     "stars": 1800,
     "status": "failure"
   },
+  "vadymmarkov/Rexy": {
+    "created": "2025-01-07T10:23:28Z",
+    "duration": 4,
+    "modified": "2025-01-07T10:23:28Z",
+    "repo": "https://github.com/vadymmarkov/Rexy.git",
+    "runid": 12649615878,
+    "stars": 16,
+    "status": "failure"
+  },
   "vadymmarkov/When": {
     "created": "2025-01-07T09:32:36Z",
     "duration": 12,
