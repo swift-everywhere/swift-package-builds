@@ -13496,6 +13496,15 @@
     "stars": 380,
     "status": "failure"
   },
+  "tayloraswift/swift-bson": {
+    "created": "2025-01-07T04:52:56Z",
+    "duration": 13,
+    "modified": "2025-01-07T04:52:56Z",
+    "repo": "https://github.com/tayloraswift/swift-bson.git",
+    "runid": 12645351961,
+    "stars": 2,
+    "status": "failure"
+  },
   "tayloraswift/swift-dom": {
     "created": "2025-01-06T21:36:02Z",
     "duration": 68,
