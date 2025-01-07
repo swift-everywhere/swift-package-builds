@@ -29675,9 +29675,9 @@
   "zendesk/chat_sdk_ios": {
     "created": "2025-01-07T03:18:34Z",
     "duration": 31,
-    "modified": "2025-01-07T17:01:55Z",
+    "modified": "2025-01-07T22:03:35Z",
     "repo": "https://github.com/zendesk/chat_sdk_ios.git",
-    "runid": 12655360195,
+    "runid": 12659472889,
     "stars": 20,
     "status": "success"
   },
