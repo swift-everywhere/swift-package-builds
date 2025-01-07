@@ -3828,6 +3828,15 @@
     "stars": 2,
     "status": "failure"
   },
+  "cpageler93/JiraSwift": {
+    "created": "2025-01-07T00:40:11Z",
+    "duration": 6,
+    "modified": "2025-01-07T00:40:12Z",
+    "repo": "https://github.com/cpageler93/JiraSwift.git",
+    "runid": 12641986754,
+    "stars": 23,
+    "status": "failure"
+  },
   "crelies/JSON-DSL": {
     "created": "2025-01-06T17:28:19Z",
     "duration": 4,
