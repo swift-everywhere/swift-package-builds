@@ -8994,6 +8994,15 @@
     "runid": 12638963153,
     "status": "success"
   },
+  "danger/swift": {
+    "created": "2025-01-07T09:27:37Z",
+    "duration": 69,
+    "modified": "2025-01-07T09:27:37Z",
+    "repo": "https://github.com/danger/swift.git",
+    "runid": 12648641718,
+    "stars": 1064,
+    "status": "success"
+  },
   "danielctull/FileBuilder": {
     "created": "2025-01-07T08:20:04Z",
     "duration": 8,
