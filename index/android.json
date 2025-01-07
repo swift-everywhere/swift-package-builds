@@ -2161,10 +2161,10 @@
   },
   "Digipolitan/localization-toolkit-object-mapper": {
     "created": "2025-01-06T22:45:08Z",
-    "duration": 10,
-    "modified": "2025-01-06T22:45:08Z",
+    "duration": 11,
+    "modified": "2025-01-07T20:50:19Z",
     "repo": "https://github.com/Digipolitan/localization-toolkit-object-mapper.git",
-    "runid": 12641431024,
+    "runid": 12658681935,
     "stars": 0,
     "status": "failure"
   },
