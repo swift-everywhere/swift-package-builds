@@ -2546,6 +2546,15 @@
     "stars": 2,
     "status": "success"
   },
+  "Kochava/Apple-SwiftPackage-KochavaUI-XCFramework": {
+    "created": "2025-01-07T06:10:37Z",
+    "duration": 8,
+    "modified": "2025-01-07T06:10:37Z",
+    "repo": "https://github.com/Kochava/Apple-SwiftPackage-KochavaUI-XCFramework.git",
+    "runid": 12645653000,
+    "stars": 1,
+    "status": "success"
+  },
   "Kolos65/Mockable": {
     "created": "2025-01-06T20:04:54Z",
     "duration": 71,
