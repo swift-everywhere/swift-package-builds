@@ -271,10 +271,10 @@
   },
   "3Qax/SwiftyGFX": {
     "created": "2025-01-06T23:59:51Z",
-    "duration": 22,
-    "modified": "2025-01-06T23:59:51Z",
+    "duration": 23,
+    "modified": "2025-01-07T20:01:15Z",
     "repo": "https://github.com/3Qax/SwiftyGFX.git",
-    "runid": 12641986754,
+    "runid": 12658091539,
     "stars": 22,
     "status": "failure"
   },
