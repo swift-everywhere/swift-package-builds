@@ -15669,6 +15669,15 @@
     "stars": 9,
     "status": "failure"
   },
+  "nerdsupremacist/Syntax": {
+    "created": "2025-01-07T09:57:37Z",
+    "duration": 38,
+    "modified": "2025-01-07T09:57:37Z",
+    "repo": "https://github.com/nerdsupremacist/Syntax.git",
+    "runid": 12648641718,
+    "stars": 146,
+    "status": "success"
+  },
   "nerdsupremacist/SyntaxTree": {
     "created": "2025-01-06T21:38:18Z",
     "duration": 6,
