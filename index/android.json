@@ -1337,6 +1337,15 @@
     "runid": 12638963153,
     "status": "failure"
   },
+  "JosephDuffy/VaporDocC": {
+    "created": "2025-01-07T00:35:57Z",
+    "duration": 18,
+    "modified": "2025-01-07T00:35:57Z",
+    "repo": "https://github.com/JosephDuffy/VaporDocC.git",
+    "runid": 12641986754,
+    "stars": 22,
+    "status": "failure"
+  },
   "JoshuaBrest/blake3-swift": {
     "created": "2025-01-06T19:52:09Z",
     "duration": 1,
