@@ -25281,6 +25281,15 @@
     "stars": 23,
     "status": "success"
   },
+  "swiftlang/swift-cmark": {
+    "created": "2025-01-07T14:26:40Z",
+    "duration": 3,
+    "modified": "2025-01-07T14:26:40Z",
+    "repo": "https://github.com/swiftlang/swift-cmark.git",
+    "runid": 12652509868,
+    "stars": 275,
+    "status": "success"
+  },
   "swiftlang/swift-corelibs-xctest": {
     "created": "2025-01-07T14:12:27Z",
     "duration": 8,
