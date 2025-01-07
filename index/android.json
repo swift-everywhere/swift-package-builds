@@ -21502,6 +21502,15 @@
     "runid": 12638963153,
     "status": "failure"
   },
+  "swift-cloud/swift-crypto": {
+    "created": "2025-01-07T11:40:50Z",
+    "duration": 24,
+    "modified": "2025-01-07T11:40:50Z",
+    "repo": "https://github.com/swift-cloud/swift-crypto.git",
+    "runid": 12650476881,
+    "stars": 1,
+    "status": "failure"
+  },
   "swift-extras/swift-extras-base64": {
     "created": "2025-01-07T00:21:18Z",
     "duration": 7,
