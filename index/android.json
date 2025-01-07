@@ -25588,10 +25588,10 @@
   },
   "suransea/mpris-swift": {
     "created": "2025-01-07T01:19:14Z",
-    "duration": 17,
-    "modified": "2025-01-07T01:19:14Z",
+    "duration": 14,
+    "modified": "2025-01-07T20:57:34Z",
     "repo": "https://github.com/suransea/mpris-swift.git",
-    "runid": 12641986754,
+    "runid": 12658681935,
     "stars": 1,
     "status": "failure"
   },
