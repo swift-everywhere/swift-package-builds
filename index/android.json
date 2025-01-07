@@ -1619,6 +1619,15 @@
     "stars": 0,
     "status": "failure"
   },
+  "MarkCodable/MarkCodable": {
+    "created": "2025-01-07T00:30:33Z",
+    "duration": 14,
+    "modified": "2025-01-07T00:30:33Z",
+    "repo": "https://github.com/MarkCodable/MarkCodable.git",
+    "runid": 12641986754,
+    "stars": 330,
+    "status": "success"
+  },
   "MaxHaertwig/ANTLR4-Swift": {
     "created": "2025-01-06T23:38:08Z",
     "duration": 13,
