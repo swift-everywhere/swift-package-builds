@@ -8085,6 +8085,15 @@
     "stars": 1,
     "status": "failure"
   },
+  "tannerdsilva/SwiftSlash": {
+    "created": "2025-01-07T00:27:34Z",
+    "duration": 6,
+    "modified": "2025-01-07T00:27:35Z",
+    "repo": "https://github.com/tannerdsilva/SwiftSlash.git",
+    "runid": 12641986754,
+    "stars": 62,
+    "status": "failure"
+  },
   "tattn/DIAttribute": {
     "created": "2025-01-06T21:42:43Z",
     "duration": 6,
