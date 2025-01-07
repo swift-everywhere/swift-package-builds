@@ -18120,6 +18120,15 @@
     "stars": 2,
     "status": "success"
   },
+  "serhii-londar/BaseAPI": {
+    "created": "2025-01-07T09:58:40Z",
+    "duration": 7,
+    "modified": "2025-01-07T09:58:40Z",
+    "repo": "https://github.com/serhii-londar/BaseAPI.git",
+    "runid": 12648641718,
+    "stars": 5,
+    "status": "failure"
+  },
   "serhii-londar/GithubAPI": {
     "created": "2025-01-07T06:29:49Z",
     "duration": 8,
