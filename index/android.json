@@ -6882,6 +6882,15 @@
     "stars": 5,
     "status": "failure"
   },
+  "brokenhandsio/vapor-oauth": {
+    "created": "2025-01-07T06:42:47Z",
+    "duration": 35,
+    "modified": "2025-01-07T06:42:47Z",
+    "repo": "https://github.com/brokenhandsio/vapor-oauth.git",
+    "runid": 12646377141,
+    "stars": 139,
+    "status": "failure"
+  },
   "brutella/XCollectionData": {
     "created": "2025-01-07T06:39:26Z",
     "duration": 7,
