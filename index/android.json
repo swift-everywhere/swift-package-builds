@@ -4606,6 +4606,15 @@
     "stars": 3,
     "status": "failure"
   },
+  "SDWebImage/libdav1d-Xcode": {
+    "created": "2025-01-07T07:18:56Z",
+    "duration": 1,
+    "modified": "2025-01-07T07:18:56Z",
+    "repo": "https://github.com/SDWebImage/libdav1d-Xcode.git",
+    "runid": 12646951061,
+    "stars": 12,
+    "status": "failure"
+  },
   "SDWebImage/libheif-Xcode": {
     "created": "2025-01-07T06:29:55Z",
     "duration": 5,
