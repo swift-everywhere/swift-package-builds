@@ -5754,6 +5754,15 @@
     "stars": 32,
     "status": "failure"
   },
+  "UltivicShashi/SampleRepo": {
+    "created": "2025-01-07T08:18:35Z",
+    "duration": 4,
+    "modified": "2025-01-07T08:18:35Z",
+    "repo": "https://github.com/UltivicShashi/SampleRepo.git",
+    "runid": 12646951061,
+    "stars": 0,
+    "status": "success"
+  },
   "UltivicShashi/shivalib": {
     "created": "2025-01-07T02:18:58Z",
     "duration": 4,
