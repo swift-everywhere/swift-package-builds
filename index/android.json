@@ -25670,6 +25670,15 @@
     "stars": 58,
     "status": "failure"
   },
+  "vapor/apns": {
+    "created": "2025-01-07T13:12:16Z",
+    "duration": 32,
+    "modified": "2025-01-07T13:12:16Z",
+    "repo": "https://github.com/vapor/apns.git",
+    "runid": 12651715076,
+    "stars": 117,
+    "status": "failure"
+  },
   "vapor/async-kit": {
     "created": "2025-01-07T10:49:38Z",
     "duration": 44,
