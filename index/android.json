@@ -1936,6 +1936,15 @@
     "stars": 283,
     "status": "success"
   },
+  "KreuzKummelll/FarmhouseCore": {
+    "created": "2025-01-07T02:41:56Z",
+    "duration": 20,
+    "modified": "2025-01-07T02:41:56Z",
+    "repo": "https://github.com/KreuzKummelll/FarmhouseCore.git",
+    "runid": 12643524602,
+    "stars": 1,
+    "status": "failure"
+  },
   "Kuniwak/MirrorDiffKit": {
     "created": "2025-01-06T18:05:41Z",
     "duration": 6,
