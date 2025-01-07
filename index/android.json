@@ -12853,10 +12853,10 @@
   },
   "dankogai/swift-tap": {
     "created": "2025-01-07T10:41:08Z",
-    "duration": 4,
-    "modified": "2025-01-07T10:41:08Z",
+    "duration": 3,
+    "modified": "2025-01-07T21:55:13Z",
     "repo": "https://github.com/dankogai/swift-tap.git",
-    "runid": 12649615878,
+    "runid": 12659472889,
     "stars": 5,
     "status": "failure"
   },
