@@ -6224,6 +6224,15 @@
     "stars": 67,
     "status": "failure"
   },
+  "SwiftDocOrg/Markup": {
+    "created": "2025-01-07T10:30:09Z",
+    "duration": 5,
+    "modified": "2025-01-07T10:30:09Z",
+    "repo": "https://github.com/SwiftDocOrg/Markup.git",
+    "runid": 12649615878,
+    "stars": 110,
+    "status": "failure"
+  },
   "SwiftDocOrg/swift-cmark": {
     "created": "2025-01-06T23:17:33Z",
     "duration": 2,
