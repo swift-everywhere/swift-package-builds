@@ -13181,6 +13181,15 @@
     "stars": 604,
     "status": "failure"
   },
+  "eonist/ResourceHelper": {
+    "created": "2025-01-07T13:19:16Z",
+    "duration": 6,
+    "modified": "2025-01-07T13:19:16Z",
+    "repo": "https://github.com/eonist/ResourceHelper.git",
+    "runid": 12651715076,
+    "stars": 11,
+    "status": "success"
+  },
   "erica/Swift-General-Utility": {
     "created": "2025-01-06T22:10:54Z",
     "duration": 5,
