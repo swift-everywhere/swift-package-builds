@@ -10029,6 +10029,15 @@
     "stars": 60,
     "status": "failure"
   },
+  "apple/swift-system": {
+    "created": "2025-01-07T14:27:21Z",
+    "duration": 7,
+    "modified": "2025-01-07T14:27:21Z",
+    "repo": "https://github.com/apple/swift-system.git",
+    "runid": 12652509868,
+    "stars": 1202,
+    "status": "success"
+  },
   "apple/swift-tools-support-async": {
     "created": "2025-01-07T07:32:49Z",
     "duration": 8,
