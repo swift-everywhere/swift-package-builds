@@ -8281,10 +8281,10 @@
   },
   "SwiftPackageIndex/SwiftPackageIndex-Server": {
     "created": "2025-01-07T14:44:22Z",
-    "duration": 116,
-    "modified": "2025-01-07T14:44:22Z",
+    "duration": 124,
+    "modified": "2025-01-07T17:04:01Z",
     "repo": "https://github.com/SwiftPackageIndex/SwiftPackageIndex-Server.git",
-    "runid": 12652509868,
+    "runid": 12655360195,
     "stars": 578,
     "status": "failure"
   },
