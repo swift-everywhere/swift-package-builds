@@ -1817,9 +1817,10 @@
   "OperatorFoundation/swift-netutils": {
     "created": "2025-01-06T20:49:06Z",
     "duration": 14,
-    "modified": "2025-01-06T20:49:06Z",
+    "modified": "2025-01-07T00:16:39Z",
     "repo": "https://github.com/OperatorFoundation/swift-netutils.git",
-    "runid": 12638963153,
+    "runid": 12641986754,
+    "stars": 0,
     "status": "failure"
   },
   "Outdooractive/gis-tools": {
