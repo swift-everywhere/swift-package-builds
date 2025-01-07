@@ -7604,6 +7604,15 @@
     "stars": 29,
     "status": "failure"
   },
+  "davdroman/swift-builders": {
+    "created": "2025-01-07T06:41:51Z",
+    "duration": 10,
+    "modified": "2025-01-07T06:41:51Z",
+    "repo": "https://github.com/davdroman/swift-builders.git",
+    "runid": 12646377141,
+    "stars": 13,
+    "status": "failure"
+  },
   "davdroman/swift-json-testing": {
     "created": "2025-01-06T20:57:24Z",
     "duration": 9,
