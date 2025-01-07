@@ -24244,10 +24244,11 @@
   },
   "swift-cloud/swift-cloud": {
     "created": "2025-01-06T19:55:39Z",
-    "duration": 46,
-    "modified": "2025-01-06T19:55:39Z",
+    "duration": 49,
+    "modified": "2025-01-07T13:55:33Z",
     "repo": "https://github.com/swift-cloud/swift-cloud.git",
-    "runid": 12638963153,
+    "runid": 12652509868,
+    "stars": 56,
     "status": "failure"
   },
   "swift-cloud/swift-crypto": {
