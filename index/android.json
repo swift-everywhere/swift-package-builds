@@ -3612,6 +3612,15 @@
     "runid": 12638963153,
     "status": "failure"
   },
+  "apple/swift-metrics-extras": {
+    "created": "2025-01-07T01:37:51Z",
+    "duration": 5,
+    "modified": "2025-01-07T01:37:51Z",
+    "repo": "https://github.com/apple/swift-metrics-extras.git",
+    "runid": 12643524602,
+    "stars": 49,
+    "status": "failure"
+  },
   "apple/swift-nio-extras": {
     "created": "2025-01-06T23:35:08Z",
     "duration": 11,
