@@ -14071,6 +14071,15 @@
     "stars": 11,
     "status": "success"
   },
+  "erica/AnsiStyle": {
+    "created": "2025-01-07T14:36:14Z",
+    "duration": 6,
+    "modified": "2025-01-07T14:36:14Z",
+    "repo": "https://github.com/erica/AnsiStyle.git",
+    "runid": 12652509868,
+    "stars": 6,
+    "status": "success"
+  },
   "erica/Swift-General-Utility": {
     "created": "2025-01-06T22:10:54Z",
     "duration": 5,
