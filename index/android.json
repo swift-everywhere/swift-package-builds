@@ -6247,10 +6247,10 @@
   },
   "PerfectlySoft/Perfect-CRUD": {
     "created": "2025-01-07T08:28:21Z",
-    "duration": 9,
-    "modified": "2025-01-07T08:28:21Z",
+    "duration": 8,
+    "modified": "2025-01-07T17:17:50Z",
     "repo": "https://github.com/PerfectlySoft/Perfect-CRUD.git",
-    "runid": 12647794335,
+    "runid": 12656035496,
     "stars": 64,
     "status": "success"
   },
