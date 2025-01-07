@@ -6058,6 +6058,15 @@
     "stars": 2,
     "status": "failure"
   },
+  "Ponyboy47/Pathman": {
+    "created": "2025-01-07T13:55:53Z",
+    "duration": 7,
+    "modified": "2025-01-07T13:55:53Z",
+    "repo": "https://github.com/Ponyboy47/Pathman.git",
+    "runid": 12652509868,
+    "stars": 10,
+    "status": "failure"
+  },
   "Ponyboy47/TaskKit": {
     "created": "2025-01-06T23:41:04Z",
     "duration": 7,
