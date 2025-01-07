@@ -16315,6 +16315,15 @@
     "stars": 403,
     "status": "failure"
   },
+  "swiftviz/Scale": {
+    "created": "2025-01-07T07:25:46Z",
+    "duration": 34,
+    "modified": "2025-01-07T07:25:46Z",
+    "repo": "https://github.com/swiftviz/Scale.git",
+    "runid": 12646951061,
+    "stars": 11,
+    "status": "success"
+  },
   "swiftwasm/JavaScriptKit": {
     "created": "2025-01-07T05:49:01Z",
     "duration": 8,
