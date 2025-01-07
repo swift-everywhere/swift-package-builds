@@ -26061,6 +26061,15 @@
     "stars": 2,
     "status": "failure"
   },
+  "xcode-actions/swift-signal-handling": {
+    "created": "2025-01-07T12:57:40Z",
+    "duration": 20,
+    "modified": "2025-01-07T12:57:40Z",
+    "repo": "https://github.com/xcode-actions/swift-signal-handling.git",
+    "runid": 12651715076,
+    "stars": 8,
+    "status": "failure"
+  },
   "xiiagency/SwiftConcurrency": {
     "created": "2025-01-07T11:11:51Z",
     "duration": 7,
