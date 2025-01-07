@@ -8218,10 +8218,10 @@
   },
   "SwiftPackageIndex/Plot": {
     "created": "2025-01-07T01:06:30Z",
-    "duration": 8,
-    "modified": "2025-01-07T01:06:30Z",
+    "duration": 9,
+    "modified": "2025-01-07T19:23:04Z",
     "repo": "https://github.com/SwiftPackageIndex/Plot.git",
-    "runid": 12641986754,
+    "runid": 12657790358,
     "stars": 2,
     "status": "success"
   },
