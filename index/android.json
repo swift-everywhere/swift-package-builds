@@ -14482,10 +14482,10 @@
   },
   "eugenebokhan/swift-package-api-diff": {
     "created": "2025-01-06T21:53:21Z",
-    "duration": 43,
-    "modified": "2025-01-06T21:53:21Z",
+    "duration": 45,
+    "modified": "2025-01-07T18:08:23Z",
     "repo": "https://github.com/eugenebokhan/swift-package-api-diff.git",
-    "runid": 12640899049,
+    "runid": 12656035496,
     "stars": 9,
     "status": "failure"
   },
