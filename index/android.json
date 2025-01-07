@@ -5275,6 +5275,15 @@
     "runid": 12638963153,
     "status": "failure"
   },
+  "dastrobu/vincenty": {
+    "created": "2025-01-07T02:33:56Z",
+    "duration": 5,
+    "modified": "2025-01-07T02:33:56Z",
+    "repo": "https://github.com/dastrobu/vincenty.git",
+    "runid": 12643524602,
+    "stars": 9,
+    "status": "failure"
+  },
   "davbeck/MultipartForm": {
     "created": "2025-01-07T00:08:10Z",
     "duration": 6,
