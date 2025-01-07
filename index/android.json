@@ -5863,10 +5863,11 @@
   },
   "SwiftyLab/DynamicCodableKit": {
     "created": "2025-01-06T19:59:50Z",
-    "duration": 20,
-    "modified": "2025-01-06T19:59:50Z",
+    "duration": 19,
+    "modified": "2025-01-07T08:59:44Z",
     "repo": "https://github.com/SwiftyLab/DynamicCodableKit.git",
-    "runid": 12638963153,
+    "runid": 12647794335,
+    "stars": 24,
     "status": "success"
   },
   "SwiftyLab/SwiftAnalyticsKit": {
