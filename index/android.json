@@ -12385,6 +12385,15 @@
     "stars": 1,
     "status": "failure"
   },
+  "piotrkowalczuk/ntypes": {
+    "created": "2025-01-07T05:51:21Z",
+    "duration": 25,
+    "modified": "2025-01-07T05:51:21Z",
+    "repo": "https://github.com/piotrkowalczuk/ntypes.git",
+    "runid": 12645653000,
+    "stars": 6,
+    "status": "failure"
+  },
   "pitiphong-p/URLQueryItemEncoder": {
     "created": "2025-01-06T22:00:29Z",
     "duration": 5,
