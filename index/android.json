@@ -16853,6 +16853,15 @@
     "stars": 4,
     "status": "success"
   },
+  "puid/Swift-puid": {
+    "created": "2025-01-07T09:43:45Z",
+    "duration": 9,
+    "modified": "2025-01-07T09:43:45Z",
+    "repo": "https://github.com/puid/Swift-puid.git",
+    "runid": 12648641718,
+    "stars": 2,
+    "status": "failure"
+  },
   "putridparrot/SwiftEureka": {
     "created": "2025-01-06T20:01:32Z",
     "duration": 5,
