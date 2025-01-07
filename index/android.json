@@ -19656,6 +19656,15 @@
     "stars": 1,
     "status": "success"
   },
+  "myTargetSDK/mytarget-ios-spm": {
+    "created": "2025-01-07T13:59:54Z",
+    "duration": 10,
+    "modified": "2025-01-07T13:59:54Z",
+    "repo": "https://github.com/myTargetSDK/mytarget-ios-spm.git",
+    "runid": 12652509868,
+    "stars": 0,
+    "status": "success"
+  },
   "myTrackerSDK/mytracker-ios-spm": {
     "created": "2025-01-06T22:55:22Z",
     "duration": 2,
