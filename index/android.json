@@ -17293,6 +17293,15 @@
     "stars": 5,
     "status": "success"
   },
+  "yanamura/Captain": {
+    "created": "2025-01-07T06:46:03Z",
+    "duration": 10,
+    "modified": "2025-01-07T06:46:03Z",
+    "repo": "https://github.com/yanamura/Captain.git",
+    "runid": 12646377141,
+    "stars": 5,
+    "status": "failure"
+  },
   "yannickl/AwaitKit": {
     "created": "2025-01-07T02:36:04Z",
     "duration": 15,
