@@ -929,6 +929,15 @@
     "runid": 12638963153,
     "status": "success"
   },
+  "Everything-as-UI/DocumentUI": {
+    "created": "2025-01-07T01:05:59Z",
+    "duration": 7,
+    "modified": "2025-01-07T01:05:59Z",
+    "repo": "https://github.com/Everything-as-UI/DocumentUI.git",
+    "runid": 12641986754,
+    "stars": 0,
+    "status": "success"
+  },
   "FelixHerrmann/FHExtensions": {
     "created": "2025-01-06T22:06:52Z",
     "duration": 7,
