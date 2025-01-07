@@ -4801,6 +4801,15 @@
     "stars": 37,
     "status": "success"
   },
+  "Ze0nC/SwiftPygments": {
+    "created": "2025-01-07T05:26:10Z",
+    "duration": 6,
+    "modified": "2025-01-07T05:26:10Z",
+    "repo": "https://github.com/Ze0nC/SwiftPygments.git",
+    "runid": 12645653000,
+    "stars": 1,
+    "status": "failure"
+  },
   "Ze0nC/SwiftPygmentsPublishPlugin": {
     "created": "2025-01-07T00:03:02Z",
     "duration": 12,
