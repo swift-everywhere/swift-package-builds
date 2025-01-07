@@ -13966,6 +13966,15 @@
     "stars": 42,
     "status": "success"
   },
+  "philip-bui/s2-geometry-swift": {
+    "created": "2025-01-07T07:21:46Z",
+    "duration": 19,
+    "modified": "2025-01-07T07:21:46Z",
+    "repo": "https://github.com/philip-bui/s2-geometry-swift.git",
+    "runid": 12646951061,
+    "stars": 13,
+    "status": "failure"
+  },
   "phimage/XcodeProjKit": {
     "created": "2025-01-07T00:03:22Z",
     "duration": 7,
