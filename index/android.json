@@ -8009,6 +8009,15 @@
     "stars": 33,
     "status": "success"
   },
+  "adam-fowler/aws-signer-v4": {
+    "created": "2025-01-07T12:49:11Z",
+    "duration": 34,
+    "modified": "2025-01-07T12:49:11Z",
+    "repo": "https://github.com/adam-fowler/aws-signer-v4.git",
+    "runid": 12651715076,
+    "stars": 27,
+    "status": "failure"
+  },
   "adam-fowler/big-num": {
     "created": "2025-01-07T07:34:43Z",
     "duration": 9,
