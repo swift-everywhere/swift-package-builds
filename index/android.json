@@ -29305,10 +29305,10 @@
   },
   "xcode-actions/swift-signal-handling": {
     "created": "2025-01-07T12:57:40Z",
-    "duration": 20,
-    "modified": "2025-01-07T12:57:40Z",
+    "duration": 22,
+    "modified": "2025-01-07T19:33:03Z",
     "repo": "https://github.com/xcode-actions/swift-signal-handling.git",
-    "runid": 12651715076,
+    "runid": 12657790358,
     "stars": 8,
     "status": "failure"
   },
