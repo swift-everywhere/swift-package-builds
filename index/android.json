@@ -8862,6 +8862,15 @@
     "runid": 12638963153,
     "status": "success"
   },
+  "tsolomko/SWCompression": {
+    "created": "2025-01-07T00:44:53Z",
+    "duration": 12,
+    "modified": "2025-01-07T00:44:53Z",
+    "repo": "https://github.com/tsolomko/SWCompression.git",
+    "runid": 12641986754,
+    "stars": 239,
+    "status": "failure"
+  },
   "tugcanonbas/authomatek": {
     "created": "2025-01-06T17:07:40Z",
     "duration": 36,
