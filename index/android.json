@@ -7742,6 +7742,15 @@
     "stars": 36,
     "status": "success"
   },
+  "adam-fowler/s3-filesystem-kit": {
+    "created": "2025-01-07T11:59:53Z",
+    "duration": 116,
+    "modified": "2025-01-07T11:59:53Z",
+    "repo": "https://github.com/adam-fowler/s3-filesystem-kit.git",
+    "runid": 12650476881,
+    "stars": 6,
+    "status": "failure"
+  },
   "adam-fowler/swift-srp": {
     "created": "2025-01-07T02:33:50Z",
     "duration": 31,
