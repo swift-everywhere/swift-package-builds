@@ -3133,6 +3133,15 @@
     "stars": 0,
     "status": "success"
   },
+  "bermudadigitalstudio/Redshot": {
+    "created": "2025-01-07T00:10:05Z",
+    "duration": 6,
+    "modified": "2025-01-07T00:10:05Z",
+    "repo": "https://github.com/bermudadigitalstudio/Redshot.git",
+    "runid": 12641986754,
+    "stars": 3,
+    "status": "failure"
+  },
   "bermudadigitalstudio/Titan": {
     "created": "2025-01-06T19:56:56Z",
     "duration": 8,
