@@ -24669,6 +24669,15 @@
     "runid": 12638963153,
     "status": "failure"
   },
+  "vapor-community/leaf-markdown": {
+    "created": "2025-01-07T12:33:55Z",
+    "duration": 15,
+    "modified": "2025-01-07T12:33:55Z",
+    "repo": "https://github.com/vapor-community/leaf-markdown.git",
+    "runid": 12650476881,
+    "stars": 60,
+    "status": "failure"
+  },
   "vapor-community/mailgun": {
     "created": "2025-01-07T00:54:15Z",
     "duration": 27,
