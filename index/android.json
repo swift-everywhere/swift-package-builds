@@ -9904,9 +9904,10 @@
   "mkrd/Swift-BigInt": {
     "created": "2025-01-06T20:26:04Z",
     "duration": 9,
-    "modified": "2025-01-06T20:26:04Z",
+    "modified": "2025-01-07T04:06:11Z",
     "repo": "https://github.com/mkrd/Swift-BigInt.git",
-    "runid": 12638963153,
+    "runid": 12644606839,
+    "stars": 248,
     "status": "failure"
   },
   "ml-archive/bugsnag": {
