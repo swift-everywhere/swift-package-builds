@@ -4240,10 +4240,10 @@
   },
   "Kitura/Kitura-WebSocket-Compression": {
     "created": "2025-01-07T14:48:44Z",
-    "duration": 28,
-    "modified": "2025-01-07T14:48:44Z",
+    "duration": 26,
+    "modified": "2025-01-07T16:30:07Z",
     "repo": "https://github.com/Kitura/Kitura-WebSocket-Compression.git",
-    "runid": 12652509868,
+    "runid": 12655041616,
     "stars": 4,
     "status": "failure"
   },
