@@ -516,10 +516,11 @@
   },
   "AsyncNinja/AsyncNinja": {
     "created": "2025-01-06T17:43:16Z",
-    "duration": 10,
-    "modified": "2025-01-06T17:43:16Z",
+    "duration": 11,
+    "modified": "2025-01-07T06:54:16Z",
     "repo": "https://github.com/AsyncNinja/AsyncNinja.git",
-    "runid": 12637148220,
+    "runid": 12646377141,
+    "stars": 156,
     "status": "failure"
   },
   "AsyncSwiftKits/AsyncChannelKit": {
