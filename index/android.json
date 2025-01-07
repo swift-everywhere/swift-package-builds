@@ -5298,6 +5298,15 @@
     "stars": 1,
     "status": "failure"
   },
+  "OperatorFoundation/Net": {
+    "created": "2025-01-07T13:07:05Z",
+    "duration": 15,
+    "modified": "2025-01-07T13:07:05Z",
+    "repo": "https://github.com/OperatorFoundation/Net.git",
+    "runid": 12651715076,
+    "stars": 0,
+    "status": "failure"
+  },
   "OperatorFoundation/NetworkLinux": {
     "created": "2025-01-07T11:07:45Z",
     "duration": 11,
