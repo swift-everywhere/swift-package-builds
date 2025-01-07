@@ -17074,6 +17074,15 @@
     "stars": 133,
     "status": "failure"
   },
+  "swift-serverless/BreezeLambdaDynamoDBAPI": {
+    "created": "2025-01-07T08:06:27Z",
+    "duration": 127,
+    "modified": "2025-01-07T08:06:27Z",
+    "repo": "https://github.com/swift-serverless/BreezeLambdaDynamoDBAPI.git",
+    "runid": 12646951061,
+    "stars": 0,
+    "status": "failure"
+  },
   "swift-serverless/BreezeLambdaWebHook": {
     "created": "2025-01-06T22:06:12Z",
     "duration": 49,
