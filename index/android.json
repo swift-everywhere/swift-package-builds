@@ -10666,10 +10666,10 @@
   },
   "awslabs/aws-crt-swift": {
     "created": "2025-01-06T22:08:09Z",
-    "duration": 6,
-    "modified": "2025-01-06T22:08:09Z",
+    "duration": 8,
+    "modified": "2025-01-07T22:49:34Z",
     "repo": "https://github.com/awslabs/aws-crt-swift.git",
-    "runid": 12640899049,
+    "runid": 12660245106,
     "stars": 16,
     "status": "failure"
   },
