@@ -7740,6 +7740,15 @@
     "stars": 9,
     "status": "failure"
   },
+  "johnfairh/Semver.swift": {
+    "created": "2025-01-07T03:08:54Z",
+    "duration": 7,
+    "modified": "2025-01-07T03:08:54Z",
+    "repo": "https://github.com/johnfairh/Semver.swift.git",
+    "runid": 12644277556,
+    "stars": 0,
+    "status": "success"
+  },
   "johnfairh/steamworks-swift": {
     "created": "2025-01-07T00:53:04Z",
     "duration": 16,
