@@ -12149,6 +12149,15 @@
     "stars": 2329,
     "status": "success"
   },
+  "davedufresne/SwiftParsec": {
+    "created": "2025-01-07T13:43:18Z",
+    "duration": 8,
+    "modified": "2025-01-07T13:43:18Z",
+    "repo": "https://github.com/davedufresne/SwiftParsec.git",
+    "runid": 12652509868,
+    "stars": 226,
+    "status": "success"
+  },
   "david-livadaru/DLAngle": {
     "created": "2025-01-06T20:02:44Z",
     "duration": 9,
