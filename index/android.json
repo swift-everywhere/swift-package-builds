@@ -2309,6 +2309,15 @@
     "runid": 12638963153,
     "status": "failure"
   },
+  "SwiftObjects/SwiftObjects": {
+    "created": "2025-01-07T00:20:39Z",
+    "duration": 29,
+    "modified": "2025-01-07T00:20:39Z",
+    "repo": "https://github.com/SwiftObjects/SwiftObjects.git",
+    "runid": 12641986754,
+    "stars": 58,
+    "status": "failure"
+  },
   "SwiftPackageIndex/CanonicalPackageURL": {
     "created": "2025-01-06T21:27:00Z",
     "duration": 18,
