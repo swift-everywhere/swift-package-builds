@@ -3288,6 +3288,15 @@
     "stars": 17425,
     "status": "success"
   },
+  "antonsynd/swift-event-broadcasting": {
+    "created": "2025-01-07T01:05:07Z",
+    "duration": 21,
+    "modified": "2025-01-07T01:05:07Z",
+    "repo": "https://github.com/antonsynd/swift-event-broadcasting.git",
+    "runid": 12641986754,
+    "stars": 2,
+    "status": "success"
+  },
   "anttijuu/FinnishPIDVerifier": {
     "created": "2025-01-06T23:57:02Z",
     "duration": 16,
