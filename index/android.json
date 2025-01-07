@@ -1994,6 +1994,15 @@
     "runid": 12638963153,
     "status": "failure"
   },
+  "RussBaz/experimental-reparse-html": {
+    "created": "2025-01-07T00:00:34Z",
+    "duration": 28,
+    "modified": "2025-01-07T00:00:34Z",
+    "repo": "https://github.com/RussBaz/experimental-reparse-html.git",
+    "runid": 12641986754,
+    "stars": 10,
+    "status": "failure"
+  },
   "RxSwiftCommunity/RxGRDB": {
     "created": "2025-01-06T23:07:14Z",
     "duration": 29,
