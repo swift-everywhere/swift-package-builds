@@ -6296,6 +6296,15 @@
     "stars": 3,
     "status": "success"
   },
+  "binaryscraping/swift-sqlite": {
+    "created": "2025-01-07T06:05:48Z",
+    "duration": 6,
+    "modified": "2025-01-07T06:05:48Z",
+    "repo": "https://github.com/binaryscraping/swift-sqlite.git",
+    "runid": 12645653000,
+    "stars": 3,
+    "status": "failure"
+  },
   "bitflying/SwiftKeccak": {
     "created": "2025-01-07T02:35:18Z",
     "duration": 2,
