@@ -19808,6 +19808,15 @@
     "stars": 3,
     "status": "success"
   },
+  "scaraux/Swift-Porter-Stemmer-2": {
+    "created": "2025-01-07T11:21:40Z",
+    "duration": 7,
+    "modified": "2025-01-07T11:21:40Z",
+    "repo": "https://github.com/scaraux/Swift-Porter-Stemmer-2.git",
+    "runid": 12650476881,
+    "stars": 13,
+    "status": "failure"
+  },
   "scchn/swift-zpl": {
     "created": "2025-01-07T03:13:15Z",
     "duration": 7,
