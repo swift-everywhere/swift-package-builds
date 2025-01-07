@@ -8458,6 +8458,15 @@
     "stars": 19,
     "status": "failure"
   },
+  "amzn/smoke-dynamodb": {
+    "created": "2025-01-07T12:41:14Z",
+    "duration": 26,
+    "modified": "2025-01-07T12:41:14Z",
+    "repo": "https://github.com/amzn/smoke-dynamodb.git",
+    "runid": 12651715076,
+    "stars": 34,
+    "status": "failure"
+  },
   "amzn/smoke-framework": {
     "created": "2025-01-07T10:22:48Z",
     "duration": 18,
