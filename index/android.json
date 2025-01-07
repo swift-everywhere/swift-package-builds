@@ -9281,6 +9281,15 @@
     "stars": 29,
     "status": "failure"
   },
+  "bow-swift/nef": {
+    "created": "2025-01-07T11:31:45Z",
+    "duration": 52,
+    "modified": "2025-01-07T11:31:45Z",
+    "repo": "https://github.com/bow-swift/nef.git",
+    "runid": 12650476881,
+    "stars": 268,
+    "status": "failure"
+  },
   "bppr/Speck": {
     "created": "2025-01-07T07:12:17Z",
     "duration": 5,
