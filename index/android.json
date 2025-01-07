@@ -14365,10 +14365,11 @@
   },
   "franklefebvre/swift-export": {
     "created": "2025-01-06T20:39:57Z",
-    "duration": 14,
-    "modified": "2025-01-06T20:39:57Z",
+    "duration": 15,
+    "modified": "2025-01-07T14:20:18Z",
     "repo": "https://github.com/franklefebvre/swift-export.git",
-    "runid": 12638963153,
+    "runid": 12652509868,
+    "stars": 54,
     "status": "success"
   },
   "frazer-rbsn/SwiftArgs": {
