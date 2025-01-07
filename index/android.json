@@ -24892,6 +24892,15 @@
     "stars": 1,
     "status": "success"
   },
+  "swift-libp2p/swift-multicodec": {
+    "created": "2025-01-07T14:21:17Z",
+    "duration": 10,
+    "modified": "2025-01-07T14:21:17Z",
+    "repo": "https://github.com/swift-libp2p/swift-multicodec.git",
+    "runid": 12652509868,
+    "stars": 2,
+    "status": "success"
+  },
   "swift-libp2p/swift-multihash": {
     "created": "2025-01-07T12:49:41Z",
     "duration": 22,
