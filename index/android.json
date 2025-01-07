@@ -3285,6 +3285,15 @@
     "stars": 8,
     "status": "failure"
   },
+  "KarthikRIyer/swiftplot": {
+    "created": "2025-01-07T11:18:38Z",
+    "duration": 5,
+    "modified": "2025-01-07T11:18:38Z",
+    "repo": "https://github.com/KarthikRIyer/swiftplot.git",
+    "runid": 12650476881,
+    "stars": 401,
+    "status": "failure"
+  },
   "KazaKago/StoreFlowable.swift": {
     "created": "2025-01-07T05:57:43Z",
     "duration": 9,
