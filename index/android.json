@@ -2535,6 +2535,15 @@
     "stars": 10,
     "status": "failure"
   },
+  "RxSwiftCommunity/RxFlow": {
+    "created": "2025-01-07T01:23:26Z",
+    "duration": 12,
+    "modified": "2025-01-07T01:23:26Z",
+    "repo": "https://github.com/RxSwiftCommunity/RxFlow.git",
+    "runid": 12641986754,
+    "stars": 1881,
+    "status": "failure"
+  },
   "RxSwiftCommunity/RxGRDB": {
     "created": "2025-01-06T23:07:14Z",
     "duration": 29,
