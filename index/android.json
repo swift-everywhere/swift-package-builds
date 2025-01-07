@@ -3705,6 +3705,15 @@
     "stars": 52,
     "status": "failure"
   },
+  "JohnSundell/Require": {
+    "created": "2025-01-07T14:42:24Z",
+    "duration": 6,
+    "modified": "2025-01-07T14:42:24Z",
+    "repo": "https://github.com/JohnSundell/Require.git",
+    "runid": 12652509868,
+    "stars": 416,
+    "status": "failure"
+  },
   "JohnSundell/ShellOut": {
     "created": "2025-01-07T08:20:12Z",
     "duration": 7,
