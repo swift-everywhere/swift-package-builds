@@ -25903,11 +25903,11 @@
   },
   "swift-server/RediStack": {
     "created": "2025-01-06T23:15:32Z",
-    "duration": 13,
-    "modified": "2025-01-06T23:15:32Z",
+    "duration": 15,
+    "modified": "2025-01-07T18:46:44Z",
     "repo": "https://github.com/swift-server/RediStack.git",
-    "runid": 12641431024,
-    "stars": 152,
+    "runid": 12657091582,
+    "stars": 151,
     "status": "failure"
   },
   "swift-server/async-http-client": {
