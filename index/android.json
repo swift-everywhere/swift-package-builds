@@ -10211,6 +10211,15 @@
     "stars": 4,
     "status": "failure"
   },
+  "lyricalsoul/Plug": {
+    "created": "2025-01-07T05:24:16Z",
+    "duration": 52,
+    "modified": "2025-01-07T05:24:16Z",
+    "repo": "https://github.com/lyricalsoul/Plug.git",
+    "runid": 12645653000,
+    "stars": 12,
+    "status": "failure"
+  },
   "m-barthelemy/DockerSwift": {
     "created": "2025-01-07T03:59:31Z",
     "duration": 51,
