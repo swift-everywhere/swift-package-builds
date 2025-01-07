@@ -22672,10 +22672,10 @@
   },
   "pointfreeco/swift-concurrency-extras": {
     "created": "2025-01-06T22:08:23Z",
-    "duration": 12,
-    "modified": "2025-01-06T22:08:23Z",
+    "duration": 14,
+    "modified": "2025-01-07T21:31:25Z",
     "repo": "https://github.com/pointfreeco/swift-concurrency-extras.git",
-    "runid": 12640899049,
+    "runid": 12659472889,
     "stars": 365,
     "status": "success"
   },
