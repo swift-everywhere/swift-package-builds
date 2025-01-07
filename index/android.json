@@ -3448,6 +3448,15 @@
     "stars": 15,
     "status": "success"
   },
+  "PGSSoft/XCTestParametrizedMacro": {
+    "created": "2025-01-07T05:53:59Z",
+    "duration": 94,
+    "modified": "2025-01-07T05:53:59Z",
+    "repo": "https://github.com/PGSSoft/XCTestParametrizedMacro.git",
+    "runid": 12645653000,
+    "stars": 124,
+    "status": "failure"
+  },
   "PerfectlySoft/Perfect-COpenSSL": {
     "created": "2025-01-06T17:23:41Z",
     "duration": 10,
