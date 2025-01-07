@@ -8994,6 +8994,15 @@
     "stars": 2,
     "status": "success"
   },
+  "dagronf/ColorPaletteCodable": {
+    "created": "2025-01-07T09:45:35Z",
+    "duration": 40,
+    "modified": "2025-01-07T09:45:35Z",
+    "repo": "https://github.com/dagronf/ColorPaletteCodable.git",
+    "runid": 12648641718,
+    "stars": 38,
+    "status": "failure"
+  },
   "dagronf/DSFAppearanceManager": {
     "created": "2025-01-06T17:46:12Z",
     "duration": 6,
