@@ -17794,10 +17794,10 @@
   },
   "jrsaruo/Firework": {
     "created": "2025-01-07T00:59:54Z",
-    "duration": 8,
-    "modified": "2025-01-07T00:59:54Z",
+    "duration": 12,
+    "modified": "2025-01-07T19:01:15Z",
     "repo": "https://github.com/jrsaruo/Firework.git",
-    "runid": 12641986754,
+    "runid": 12657091582,
     "stars": 3,
     "status": "failure"
   },
