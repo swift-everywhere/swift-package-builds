@@ -11868,10 +11868,11 @@
   },
   "funzin/Rimuru": {
     "created": "2025-01-06T19:37:03Z",
-    "duration": 68,
-    "modified": "2025-01-06T19:37:03Z",
+    "duration": 57,
+    "modified": "2025-01-07T10:39:08Z",
     "repo": "https://github.com/funzin/Rimuru.git",
-    "runid": 12638963153,
+    "runid": 12649615878,
+    "stars": 2,
     "status": "failure"
   },
   "furby-tm/TOMLKit": {
