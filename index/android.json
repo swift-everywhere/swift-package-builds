@@ -11510,6 +11510,15 @@
     "stars": 1,
     "status": "success"
   },
+  "sboh1214/hwp-swift": {
+    "created": "2025-01-07T03:57:46Z",
+    "duration": 20,
+    "modified": "2025-01-07T03:57:46Z",
+    "repo": "https://github.com/sboh1214/hwp-swift.git",
+    "runid": 12644606839,
+    "stars": 17,
+    "status": "failure"
+  },
   "sbooth/JulianDayNumber": {
     "created": "2025-01-06T20:03:04Z",
     "duration": 7,
