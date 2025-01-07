@@ -16088,6 +16088,15 @@
     "stars": 84,
     "status": "failure"
   },
+  "swift-server/swift-prometheus": {
+    "created": "2025-01-07T07:22:19Z",
+    "duration": 7,
+    "modified": "2025-01-07T07:22:19Z",
+    "repo": "https://github.com/swift-server/swift-prometheus.git",
+    "runid": 12646951061,
+    "stars": 148,
+    "status": "failure"
+  },
   "swift-server/swift-service-lifecycle": {
     "created": "2025-01-06T23:59:28Z",
     "duration": 8,
