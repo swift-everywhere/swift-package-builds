@@ -11055,6 +11055,15 @@
     "stars": 7,
     "status": "failure"
   },
+  "measuredweighed/SwiftEarcut": {
+    "created": "2025-01-07T05:51:49Z",
+    "duration": 7,
+    "modified": "2025-01-07T05:51:49Z",
+    "repo": "https://github.com/measuredweighed/SwiftEarcut.git",
+    "runid": 12645653000,
+    "stars": 5,
+    "status": "success"
+  },
   "meech-ward/Focus": {
     "created": "2025-01-06T17:39:03Z",
     "duration": 7,
