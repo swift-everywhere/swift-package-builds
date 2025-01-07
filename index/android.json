@@ -8469,10 +8469,11 @@
   },
   "florianreinhart/Geodesy": {
     "created": "2025-01-06T19:34:17Z",
-    "duration": 433,
-    "modified": "2025-01-06T19:34:17Z",
+    "duration": 453,
+    "modified": "2025-01-07T06:23:53Z",
     "repo": "https://github.com/florianreinhart/Geodesy.git",
-    "runid": 12638963153,
+    "runid": 12645653000,
+    "stars": 23,
     "status": "failure"
   },
   "forkercat/OhMyLog": {
