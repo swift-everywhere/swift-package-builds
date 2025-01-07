@@ -25020,6 +25020,15 @@
     "stars": 403,
     "status": "failure"
   },
+  "swiftuiux/retry-policy-service": {
+    "created": "2025-01-07T14:07:20Z",
+    "duration": 7,
+    "modified": "2025-01-07T14:07:20Z",
+    "repo": "https://github.com/swiftuiux/retry-policy-service.git",
+    "runid": 12652509868,
+    "stars": 7,
+    "status": "success"
+  },
   "swiftviz/Scale": {
     "created": "2025-01-07T07:25:46Z",
     "duration": 34,
