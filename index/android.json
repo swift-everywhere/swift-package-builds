@@ -3962,6 +3962,15 @@
     "stars": 1,
     "status": "success"
   },
+  "christopherweems/unstandard": {
+    "created": "2025-01-07T01:00:05Z",
+    "duration": 10,
+    "modified": "2025-01-07T01:00:05Z",
+    "repo": "https://github.com/christopherweems/unstandard.git",
+    "runid": 12641986754,
+    "stars": 2,
+    "status": "failure"
+  },
   "combateafraude/CafSolutions": {
     "created": "2025-01-06T17:41:42Z",
     "duration": 3,
