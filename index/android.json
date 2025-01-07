@@ -1330,6 +1330,15 @@
     "stars": 1,
     "status": "success"
   },
+  "FitnessKit/AntMessageProtocol": {
+    "created": "2025-01-07T04:57:19Z",
+    "duration": 10,
+    "modified": "2025-01-07T04:57:19Z",
+    "repo": "https://github.com/FitnessKit/AntMessageProtocol.git",
+    "runid": 12645351961,
+    "stars": 9,
+    "status": "failure"
+  },
   "FitnessKit/TcxDataProtocol": {
     "created": "2025-01-06T17:45:35Z",
     "duration": 10,
