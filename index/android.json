@@ -10333,10 +10333,10 @@
   },
   "apple/swift-openapi-urlsession": {
     "created": "2025-01-06T22:08:42Z",
-    "duration": 19,
-    "modified": "2025-01-06T22:08:42Z",
+    "duration": 21,
+    "modified": "2025-01-07T20:00:50Z",
     "repo": "https://github.com/apple/swift-openapi-urlsession.git",
-    "runid": 12640899049,
+    "runid": 12658091539,
     "stars": 163,
     "status": "failure"
   },
