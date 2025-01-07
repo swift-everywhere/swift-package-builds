@@ -2509,6 +2509,15 @@
     "stars": 0,
     "status": "success"
   },
+  "SwiftGL/Math": {
+    "created": "2025-01-07T00:40:00Z",
+    "duration": 15,
+    "modified": "2025-01-07T00:40:00Z",
+    "repo": "https://github.com/SwiftGL/Math.git",
+    "runid": 12641986754,
+    "stars": 63,
+    "status": "failure"
+  },
   "SwiftNIOExtras/swift-nio-redis": {
     "created": "2025-01-06T19:47:20Z",
     "duration": 25,
