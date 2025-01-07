@@ -10275,9 +10275,10 @@
   "dduan/Termbox": {
     "created": "2025-01-06T20:38:50Z",
     "duration": 4,
-    "modified": "2025-01-06T20:38:50Z",
+    "modified": "2025-01-07T10:36:03Z",
     "repo": "https://github.com/dduan/Termbox.git",
-    "runid": 12638963153,
+    "runid": 12649615878,
+    "stars": 74,
     "status": "success"
   },
   "dduan/TerminalPaint": {
