@@ -10216,6 +10216,15 @@
     "stars": 2,
     "status": "failure"
   },
+  "ckanchan/CDKSwiftOracc": {
+    "created": "2025-01-07T12:01:32Z",
+    "duration": 8,
+    "modified": "2025-01-07T12:01:32Z",
+    "repo": "https://github.com/ckanchan/CDKSwiftOracc.git",
+    "runid": 12650476881,
+    "stars": 0,
+    "status": "failure"
+  },
   "cloutiertyler/Base58String": {
     "created": "2025-01-07T08:52:09Z",
     "duration": 6,
