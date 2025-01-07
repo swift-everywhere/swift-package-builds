@@ -14774,6 +14774,15 @@
     "runid": 12636850547,
     "status": "failure"
   },
+  "jsorge/textbundleify": {
+    "created": "2025-01-07T11:38:15Z",
+    "duration": 9,
+    "modified": "2025-01-07T11:38:15Z",
+    "repo": "https://github.com/jsorge/textbundleify.git",
+    "runid": 12650476881,
+    "stars": 1,
+    "status": "failure"
+  },
   "juliand665/HandyOperators": {
     "created": "2025-01-06T21:31:28Z",
     "duration": 3,
