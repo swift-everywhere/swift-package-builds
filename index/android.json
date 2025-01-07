@@ -4262,6 +4262,15 @@
     "stars": 9,
     "status": "failure"
   },
+  "amzn/service-model-swift-code-generate": {
+    "created": "2025-01-07T03:12:27Z",
+    "duration": 11,
+    "modified": "2025-01-07T03:12:27Z",
+    "repo": "https://github.com/amzn/service-model-swift-code-generate.git",
+    "runid": 12644277556,
+    "stars": 18,
+    "status": "success"
+  },
   "amzn/smoke-aws-credentials": {
     "created": "2025-01-07T02:21:18Z",
     "duration": 24,
