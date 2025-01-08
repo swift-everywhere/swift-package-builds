@@ -11818,10 +11818,10 @@
   },
   "btoms20/swift-nio-ssl": {
     "created": "2025-01-07T02:13:52Z",
-    "duration": 62,
-    "modified": "2025-01-08T16:29:33Z",
+    "duration": 63,
+    "modified": "2025-01-08T19:12:17Z",
     "repo": "https://github.com/btoms20/swift-nio-ssl.git",
-    "runid": 12674728093,
+    "runid": 12676738885,
     "stars": 0,
     "status": "failure"
   },
