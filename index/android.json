@@ -9109,10 +9109,10 @@
   },
   "aaronsky/buildkite-swift": {
     "created": "2025-01-06T23:25:35Z",
-    "duration": 23,
-    "modified": "2025-01-06T23:25:35Z",
+    "duration": 24,
+    "modified": "2025-01-08T14:51:52Z",
     "repo": "https://github.com/aaronsky/buildkite-swift.git",
-    "runid": 12641986754,
+    "runid": 12672398001,
     "stars": 5,
     "status": "failure"
   },
