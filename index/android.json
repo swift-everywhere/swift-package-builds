@@ -14077,10 +14077,10 @@
   },
   "elegantchaos/Hardware": {
     "created": "2025-01-07T09:04:10Z",
-    "duration": 36,
-    "modified": "2025-01-07T23:02:29Z",
+    "duration": 35,
+    "modified": "2025-01-08T05:25:12Z",
     "repo": "https://github.com/elegantchaos/Hardware.git",
-    "runid": 12660245106,
+    "runid": 12664549179,
     "stars": 2,
     "status": "failure"
   },
