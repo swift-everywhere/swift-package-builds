@@ -27766,11 +27766,11 @@
   },
   "typelift/Swiftz": {
     "created": "2025-01-06T22:15:48Z",
-    "duration": 10,
-    "modified": "2025-01-06T22:15:48Z",
+    "duration": 12,
+    "modified": "2025-01-08T11:43:39Z",
     "repo": "https://github.com/typelift/Swiftz.git",
-    "runid": 12640899049,
-    "stars": 3332,
+    "runid": 12669458619,
+    "stars": 3331,
     "status": "failure"
   },
   "typesense/typesense-swift": {
