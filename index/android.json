@@ -9793,10 +9793,10 @@
   },
   "amzn/smoke-http": {
     "created": "2025-01-07T12:42:05Z",
-    "duration": 18,
-    "modified": "2025-01-07T19:57:51Z",
+    "duration": 16,
+    "modified": "2025-01-08T11:49:34Z",
     "repo": "https://github.com/amzn/smoke-http.git",
-    "runid": 12658091539,
+    "runid": 12669458619,
     "stars": 71,
     "status": "failure"
   },
