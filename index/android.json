@@ -9757,10 +9757,10 @@
   },
   "amzn/smoke-aws-support": {
     "created": "2025-01-07T15:08:42Z",
-    "duration": 25,
-    "modified": "2025-01-08T03:08:47Z",
+    "duration": 23,
+    "modified": "2025-01-08T08:34:31Z",
     "repo": "https://github.com/amzn/smoke-aws-support.git",
-    "runid": 12663141832,
+    "runid": 12666722268,
     "stars": 6,
     "status": "failure"
   },
