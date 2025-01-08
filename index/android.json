@@ -8911,10 +8911,10 @@
   },
   "YOCKOW/SwiftTimeSpecification": {
     "created": "2025-01-06T22:36:40Z",
-    "duration": 6,
-    "modified": "2025-01-06T22:36:40Z",
+    "duration": 7,
+    "modified": "2025-01-08T08:57:48Z",
     "repo": "https://github.com/YOCKOW/SwiftTimeSpecification.git",
-    "runid": 12641431024,
+    "runid": 12666722268,
     "stars": 3,
     "status": "failure"
   },
