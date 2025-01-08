@@ -1162,11 +1162,11 @@
   },
   "Boilertalk/Web3.swift": {
     "created": "2025-01-07T06:33:44Z",
-    "duration": 65,
-    "modified": "2025-01-07T06:33:44Z",
+    "duration": 51,
+    "modified": "2025-01-08T08:50:02Z",
     "repo": "https://github.com/Boilertalk/Web3.swift.git",
-    "runid": 12646377141,
-    "stars": 656,
+    "runid": 12666722268,
+    "stars": 655,
     "status": "failure"
   },
   "Boilertalk/secp256k1.swift": {
