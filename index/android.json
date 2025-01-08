@@ -3673,10 +3673,10 @@
   },
   "Joannis/swift-nio-ssh": {
     "created": "2025-01-06T22:16:54Z",
-    "duration": 46,
-    "modified": "2025-01-06T22:16:54Z",
+    "duration": 51,
+    "modified": "2025-01-08T18:53:19Z",
     "repo": "https://github.com/Joannis/swift-nio-ssh.git",
-    "runid": 12640899049,
+    "runid": 12676738885,
     "stars": 1,
     "status": "failure"
   },
