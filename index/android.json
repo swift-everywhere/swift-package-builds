@@ -4645,10 +4645,10 @@
   },
   "LuizZak/Antlr4-Swift": {
     "created": "2025-01-07T08:29:40Z",
-    "duration": 12,
-    "modified": "2025-01-07T08:29:40Z",
+    "duration": 11,
+    "modified": "2025-01-08T09:42:30Z",
     "repo": "https://github.com/LuizZak/Antlr4-Swift.git",
-    "runid": 12647794335,
+    "runid": 12667584016,
     "stars": 8,
     "status": "success"
   },
