@@ -5590,10 +5590,10 @@
   },
   "Neo4j-Swift/Neo4j-Swift": {
     "created": "2025-01-07T05:30:22Z",
-    "duration": 60,
-    "modified": "2025-01-07T05:30:22Z",
+    "duration": 62,
+    "modified": "2025-01-08T22:52:51Z",
     "repo": "https://github.com/Neo4j-Swift/Neo4j-Swift.git",
-    "runid": 12645653000,
+    "runid": 12680001524,
     "stars": 91,
     "status": "failure"
   },
