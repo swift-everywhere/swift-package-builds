@@ -2377,10 +2377,10 @@
   },
   "EmergeTools/SimpleDebugger": {
     "created": "2025-01-06T21:34:18Z",
-    "duration": 1,
-    "modified": "2025-01-06T21:34:18Z",
+    "duration": 2,
+    "modified": "2025-01-08T21:56:54Z",
     "repo": "https://github.com/EmergeTools/SimpleDebugger.git",
-    "runid": 12640552194,
+    "runid": 12679180049,
     "stars": 7,
     "status": "failure"
   },
