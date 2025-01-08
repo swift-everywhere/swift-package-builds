@@ -27613,10 +27613,10 @@
   },
   "tuist/swift-openapi-urlsession": {
     "created": "2025-01-07T09:02:32Z",
-    "duration": 20,
-    "modified": "2025-01-07T09:02:32Z",
+    "duration": 21,
+    "modified": "2025-01-08T13:43:35Z",
     "repo": "https://github.com/tuist/swift-openapi-urlsession.git",
-    "runid": 12647794335,
+    "runid": 12671490284,
     "stars": 2,
     "status": "success"
   },
