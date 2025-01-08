@@ -9874,10 +9874,10 @@
   },
   "antitypical/Result": {
     "created": "2025-01-07T14:46:26Z",
-    "duration": 8,
-    "modified": "2025-01-07T20:21:14Z",
+    "duration": 7,
+    "modified": "2025-01-08T22:18:12Z",
     "repo": "https://github.com/antitypical/Result.git",
-    "runid": 12658681935,
+    "runid": 12680001524,
     "stars": 2509,
     "status": "success"
   },
