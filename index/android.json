@@ -4105,10 +4105,10 @@
   },
   "Kitura/BlueECC": {
     "created": "2025-01-07T09:22:33Z",
-    "duration": 9,
-    "modified": "2025-01-07T09:22:33Z",
+    "duration": 8,
+    "modified": "2025-01-08T12:49:37Z",
     "repo": "https://github.com/Kitura/BlueECC.git",
-    "runid": 12648641718,
+    "runid": 12670708592,
     "stars": 94,
     "status": "failure"
   },
