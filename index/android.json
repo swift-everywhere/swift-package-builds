@@ -7174,10 +7174,10 @@
   },
   "RxSwiftCommunity/RxNimble": {
     "created": "2025-01-07T14:20:39Z",
-    "duration": 19,
-    "modified": "2025-01-07T14:20:39Z",
+    "duration": 26,
+    "modified": "2025-01-08T07:52:59Z",
     "repo": "https://github.com/RxSwiftCommunity/RxNimble.git",
-    "runid": 12652509868,
+    "runid": 12665854112,
     "stars": 265,
     "status": "failure"
   },
