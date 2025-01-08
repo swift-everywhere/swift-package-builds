@@ -13951,10 +13951,10 @@
   },
   "el-hoshino/DangerSwiftHammer": {
     "created": "2025-01-06T22:14:21Z",
-    "duration": 14,
-    "modified": "2025-01-06T22:14:21Z",
+    "duration": 15,
+    "modified": "2025-01-08T10:56:57Z",
     "repo": "https://github.com/el-hoshino/DangerSwiftHammer.git",
-    "runid": 12640899049,
+    "runid": 12668573804,
     "stars": 4,
     "status": "failure"
   },
