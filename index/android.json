@@ -613,10 +613,10 @@
   },
   "AndrewBarba/ed25519": {
     "created": "2025-01-06T20:06:08Z",
-    "duration": 5,
-    "modified": "2025-01-08T02:57:58Z",
+    "duration": 4,
+    "modified": "2025-01-08T08:36:58Z",
     "repo": "https://github.com/AndrewBarba/ed25519.git",
-    "runid": 12663141832,
+    "runid": 12666722268,
     "stars": 1,
     "status": "success"
   },
