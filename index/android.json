@@ -1747,10 +1747,10 @@
   },
   "CuriositySoftware/XcodeTargetGraphGen": {
     "created": "2025-01-06T22:13:27Z",
-    "duration": 14,
-    "modified": "2025-01-08T12:46:55Z",
+    "duration": 13,
+    "modified": "2025-01-08T13:29:04Z",
     "repo": "https://github.com/CuriositySoftware/XcodeTargetGraphGen.git",
-    "runid": 12670708592,
+    "runid": 12671490284,
     "stars": 38,
     "status": "failure"
   },
