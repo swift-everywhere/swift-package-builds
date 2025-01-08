@@ -865,10 +865,10 @@
   },
   "AuroraEditor/AEExtensionKit": {
     "created": "2025-01-07T03:34:37Z",
-    "duration": 6,
-    "modified": "2025-01-08T14:53:32Z",
+    "duration": 8,
+    "modified": "2025-01-08T21:45:04Z",
     "repo": "https://github.com/AuroraEditor/AEExtensionKit.git",
-    "runid": 12672398001,
+    "runid": 12679180049,
     "stars": 7,
     "status": "success"
   },
