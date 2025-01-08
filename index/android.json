@@ -4762,10 +4762,10 @@
   },
   "MAVISBroadcast/AMF": {
     "created": "2025-01-06T20:16:54Z",
-    "duration": 9,
-    "modified": "2025-01-07T12:28:40Z",
+    "duration": 8,
+    "modified": "2025-01-08T14:50:02Z",
     "repo": "https://github.com/MAVISBroadcast/AMF.git",
-    "runid": 12650476881,
+    "runid": 12672398001,
     "stars": 16,
     "status": "success"
   },
