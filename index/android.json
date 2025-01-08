@@ -10081,11 +10081,11 @@
   },
   "apple/swift-collections": {
     "created": "2025-01-07T07:39:40Z",
-    "duration": 24,
-    "modified": "2025-01-07T07:39:40Z",
+    "duration": 23,
+    "modified": "2025-01-08T04:47:33Z",
     "repo": "https://github.com/apple/swift-collections.git",
-    "runid": 12646951061,
-    "stars": 3863,
+    "runid": 12664022347,
+    "stars": 3865,
     "status": "success"
   },
   "apple/swift-collections-benchmark": {
