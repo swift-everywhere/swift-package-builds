@@ -23284,10 +23284,10 @@
   },
   "rapierorg/telegram-bot-swift": {
     "created": "2025-01-06T17:41:34Z",
-    "duration": 9,
-    "modified": "2025-01-07T14:59:00Z",
+    "duration": 10,
+    "modified": "2025-01-08T20:28:01Z",
     "repo": "https://github.com/rapierorg/telegram-bot-swift.git",
-    "runid": 12652509868,
+    "runid": 12678362520,
     "stars": 378,
     "status": "failure"
   },
