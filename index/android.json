@@ -20368,10 +20368,10 @@
   },
   "ml-archive/slugify": {
     "created": "2025-01-06T17:39:09Z",
-    "duration": 7,
-    "modified": "2025-01-08T14:08:28Z",
+    "duration": 6,
+    "modified": "2025-01-08T18:28:40Z",
     "repo": "https://github.com/ml-archive/slugify.git",
-    "runid": 12671490284,
+    "runid": 12676738885,
     "stars": 17,
     "status": "success"
   },
