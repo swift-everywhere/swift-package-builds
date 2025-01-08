@@ -7732,10 +7732,10 @@
   },
   "SoftwareEngineerChris/MonetaryAmount": {
     "created": "2025-01-06T23:17:44Z",
-    "duration": 10,
-    "modified": "2025-01-06T23:17:44Z",
+    "duration": 11,
+    "modified": "2025-01-08T14:34:15Z",
     "repo": "https://github.com/SoftwareEngineerChris/MonetaryAmount.git",
-    "runid": 12641431024,
+    "runid": 12672398001,
     "stars": 1,
     "status": "failure"
   },
