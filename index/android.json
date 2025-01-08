@@ -17380,10 +17380,10 @@
   },
   "jkolb/Swiftish": {
     "created": "2025-01-06T21:14:55Z",
-    "duration": 22,
-    "modified": "2025-01-07T21:33:27Z",
+    "duration": 20,
+    "modified": "2025-01-08T23:29:39Z",
     "repo": "https://github.com/jkolb/Swiftish.git",
-    "runid": 12659472889,
+    "runid": 12680732767,
     "stars": 17,
     "status": "failure"
   },
