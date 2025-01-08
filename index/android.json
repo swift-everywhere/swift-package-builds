@@ -24085,10 +24085,10 @@
   },
   "sbooth/CGeodesic": {
     "created": "2025-01-07T12:43:46Z",
-    "duration": 2,
-    "modified": "2025-01-07T12:43:46Z",
+    "duration": 1,
+    "modified": "2025-01-08T08:53:38Z",
     "repo": "https://github.com/sbooth/CGeodesic.git",
-    "runid": 12651715076,
+    "runid": 12666722268,
     "stars": 1,
     "status": "success"
   },
