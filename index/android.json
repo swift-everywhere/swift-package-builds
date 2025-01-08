@@ -15292,10 +15292,10 @@
   },
   "g-mark/NullCodable": {
     "created": "2025-01-06T19:35:29Z",
-    "duration": 7,
-    "modified": "2025-01-08T13:45:09Z",
+    "duration": 6,
+    "modified": "2025-01-08T14:43:28Z",
     "repo": "https://github.com/g-mark/NullCodable.git",
-    "runid": 12671490284,
+    "runid": 12672398001,
     "stars": 55,
     "status": "success"
   },
