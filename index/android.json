@@ -18604,10 +18604,10 @@
   },
   "kylef-archive/fd": {
     "created": "2025-01-07T01:18:19Z",
-    "duration": 18,
-    "modified": "2025-01-07T01:18:19Z",
+    "duration": 20,
+    "modified": "2025-01-08T03:32:56Z",
     "repo": "https://github.com/kylef-archive/fd.git",
-    "runid": 12641986754,
+    "runid": 12663475967,
     "stars": 33,
     "status": "failure"
   },
