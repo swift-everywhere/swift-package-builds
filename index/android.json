@@ -25741,10 +25741,10 @@
   },
   "swift-calendar/vcomponentkit": {
     "created": "2025-01-06T21:10:33Z",
-    "duration": 8,
-    "modified": "2025-01-07T19:04:24Z",
+    "duration": 7,
+    "modified": "2025-01-08T21:37:13Z",
     "repo": "https://github.com/swift-calendar/vcomponentkit.git",
-    "runid": 12657091582,
+    "runid": 12679180049,
     "stars": 0,
     "status": "success"
   },
