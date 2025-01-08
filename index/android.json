@@ -6626,9 +6626,9 @@
   "PureSwift/Socket": {
     "created": "2025-01-07T11:44:12Z",
     "duration": 11,
-    "modified": "2025-01-07T16:50:34Z",
+    "modified": "2025-01-08T21:19:40Z",
     "repo": "https://github.com/PureSwift/Socket.git",
-    "runid": 12655360195,
+    "runid": 12679180049,
     "stars": 120,
     "status": "failure"
   },
