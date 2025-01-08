@@ -9730,10 +9730,10 @@
   },
   "amzn/service-model-swift-code-generate": {
     "created": "2025-01-07T03:12:27Z",
-    "duration": 11,
-    "modified": "2025-01-07T03:12:27Z",
+    "duration": 10,
+    "modified": "2025-01-08T07:11:49Z",
     "repo": "https://github.com/amzn/service-model-swift-code-generate.git",
-    "runid": 12644277556,
+    "runid": 12665265526,
     "stars": 18,
     "status": "success"
   },
