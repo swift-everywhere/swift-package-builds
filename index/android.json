@@ -16057,10 +16057,10 @@
   },
   "happn-app/CollectionConcurrencyKit": {
     "created": "2025-01-07T11:03:29Z",
-    "duration": 6,
-    "modified": "2025-01-07T16:53:32Z",
+    "duration": 7,
+    "modified": "2025-01-08T21:48:23Z",
     "repo": "https://github.com/happn-app/CollectionConcurrencyKit.git",
-    "runid": 12655360195,
+    "runid": 12679180049,
     "stars": 3,
     "status": "success"
   },
