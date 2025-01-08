@@ -10603,10 +10603,10 @@
   },
   "attaswift/BigInt": {
     "created": "2025-01-06T20:57:11Z",
-    "duration": 8,
-    "modified": "2025-01-07T22:27:50Z",
+    "duration": 9,
+    "modified": "2025-01-08T15:54:23Z",
     "repo": "https://github.com/attaswift/BigInt.git",
-    "runid": 12660245106,
+    "runid": 12673545525,
     "stars": 770,
     "status": "failure"
   },
