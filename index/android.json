@@ -23743,10 +23743,10 @@
   },
   "rnapier/RNAJSON": {
     "created": "2025-01-07T03:52:08Z",
-    "duration": 9,
-    "modified": "2025-01-08T05:28:43Z",
+    "duration": 8,
+    "modified": "2025-01-08T14:35:51Z",
     "repo": "https://github.com/rnapier/RNAJSON.git",
-    "runid": 12664549179,
+    "runid": 12672398001,
     "stars": 9,
     "status": "success"
   },
