@@ -23536,10 +23536,10 @@
   },
   "richardpiazza/CoreDataPlus": {
     "created": "2025-01-07T14:47:48Z",
-    "duration": 13,
-    "modified": "2025-01-08T03:18:36Z",
+    "duration": 14,
+    "modified": "2025-01-08T13:17:35Z",
     "repo": "https://github.com/richardpiazza/CoreDataPlus.git",
-    "runid": 12663141832,
+    "runid": 12670708592,
     "stars": 0,
     "status": "failure"
   },
