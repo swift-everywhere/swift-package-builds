@@ -7543,10 +7543,10 @@
   },
   "SalehAlbuga/azure-functions-swift": {
     "created": "2025-01-06T22:48:33Z",
-    "duration": 53,
-    "modified": "2025-01-08T07:22:41Z",
+    "duration": 45,
+    "modified": "2025-01-08T16:58:18Z",
     "repo": "https://github.com/SalehAlbuga/azure-functions-swift.git",
-    "runid": 12665854112,
+    "runid": 12674728093,
     "stars": 89,
     "status": "failure"
   },
