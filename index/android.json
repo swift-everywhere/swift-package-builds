@@ -10198,10 +10198,10 @@
   },
   "apple/swift-llbuild2": {
     "created": "2025-01-07T14:18:05Z",
-    "duration": 62,
-    "modified": "2025-01-08T13:58:32Z",
+    "duration": 49,
+    "modified": "2025-01-08T19:22:23Z",
     "repo": "https://github.com/apple/swift-llbuild2.git",
-    "runid": 12671490284,
+    "runid": 12677445864,
     "stars": 289,
     "status": "failure"
   },
