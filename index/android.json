@@ -2188,10 +2188,10 @@
   },
   "DimaRU/CDRCodable": {
     "created": "2025-01-07T08:49:26Z",
-    "duration": 17,
-    "modified": "2025-01-07T08:49:26Z",
+    "duration": 16,
+    "modified": "2025-01-08T21:43:26Z",
     "repo": "https://github.com/DimaRU/CDRCodable.git",
-    "runid": 12647794335,
+    "runid": 12679180049,
     "stars": 3,
     "status": "success"
   },
