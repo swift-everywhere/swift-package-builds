@@ -3422,9 +3422,9 @@
   "ITzTravelInTime/SwiftCPUDetect": {
     "created": "2025-01-07T08:25:14Z",
     "duration": 9,
-    "modified": "2025-01-07T08:25:14Z",
+    "modified": "2025-01-08T20:46:34Z",
     "repo": "https://github.com/ITzTravelInTime/SwiftCPUDetect.git",
-    "runid": 12647794335,
+    "runid": 12678362520,
     "stars": 52,
     "status": "failure"
   },
