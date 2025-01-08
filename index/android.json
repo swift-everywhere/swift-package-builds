@@ -21214,10 +21214,10 @@
   },
   "ngr-tc/swift-rtc": {
     "created": "2025-01-06T20:42:47Z",
-    "duration": 67,
-    "modified": "2025-01-08T01:49:58Z",
+    "duration": 66,
+    "modified": "2025-01-08T17:31:03Z",
     "repo": "https://github.com/ngr-tc/swift-rtc.git",
-    "runid": 12662295835,
+    "runid": 12675617055,
     "stars": 5,
     "status": "failure"
   },
