@@ -4222,10 +4222,10 @@
   },
   "Kitura/Kitura-StencilTemplateEngine": {
     "created": "2025-01-07T01:40:42Z",
-    "duration": 10,
-    "modified": "2025-01-07T01:40:42Z",
+    "duration": 9,
+    "modified": "2025-01-08T01:29:43Z",
     "repo": "https://github.com/Kitura/Kitura-StencilTemplateEngine.git",
-    "runid": 12643524602,
+    "runid": 12662295835,
     "stars": 27,
     "status": "failure"
   },
