@@ -28657,10 +28657,10 @@
   },
   "vapor/sqlite-nio": {
     "created": "2025-01-07T08:29:03Z",
-    "duration": 32,
-    "modified": "2025-01-08T19:19:03Z",
+    "duration": 30,
+    "modified": "2025-01-08T21:27:11Z",
     "repo": "https://github.com/vapor/sqlite-nio.git",
-    "runid": 12677445864,
+    "runid": 12679180049,
     "stars": 62,
     "status": "failure"
   },
