@@ -16552,10 +16552,10 @@
   },
   "hummingbird-project/hummingbird-websocket": {
     "created": "2025-01-06T20:48:15Z",
-    "duration": 23,
-    "modified": "2025-01-08T14:06:46Z",
+    "duration": 29,
+    "modified": "2025-01-08T15:58:31Z",
     "repo": "https://github.com/hummingbird-project/hummingbird-websocket.git",
-    "runid": 12671490284,
+    "runid": 12673545525,
     "stars": 42,
     "status": "failure"
   },
