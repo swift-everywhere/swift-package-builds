@@ -22564,10 +22564,10 @@
   },
   "phimage/NotarizationInfo": {
     "created": "2025-01-07T10:58:08Z",
-    "duration": 7,
-    "modified": "2025-01-07T10:58:08Z",
+    "duration": 6,
+    "modified": "2025-01-08T14:55:28Z",
     "repo": "https://github.com/phimage/NotarizationInfo.git",
-    "runid": 12649615878,
+    "runid": 12672398001,
     "stars": 1,
     "status": "success"
   },
