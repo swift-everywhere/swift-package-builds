@@ -22024,10 +22024,10 @@
   },
   "ordo-one/package-benchmark": {
     "created": "2025-01-06T20:06:03Z",
-    "duration": 17,
-    "modified": "2025-01-08T03:07:09Z",
+    "duration": 16,
+    "modified": "2025-01-08T19:58:00Z",
     "repo": "https://github.com/ordo-one/package-benchmark.git",
-    "runid": 12663141832,
+    "runid": 12677445864,
     "stars": 333,
     "status": "failure"
   },
