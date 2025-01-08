@@ -10028,10 +10028,10 @@
   "apple/swift-argument-parser": {
     "created": "2025-01-06T22:56:22Z",
     "duration": 15,
-    "modified": "2025-01-08T14:03:26Z",
+    "modified": "2025-01-08T19:02:14Z",
     "repo": "https://github.com/apple/swift-argument-parser.git",
-    "runid": 12671490284,
-    "stars": 3379,
+    "runid": 12676738885,
+    "stars": 3378,
     "status": "success"
   },
   "apple/swift-asn1": {
