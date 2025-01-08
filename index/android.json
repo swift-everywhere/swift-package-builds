@@ -8776,10 +8776,10 @@
   },
   "WeirdMath/SwiftyHaru": {
     "created": "2025-01-07T03:31:03Z",
-    "duration": 36,
-    "modified": "2025-01-07T03:31:03Z",
+    "duration": 33,
+    "modified": "2025-01-08T10:58:58Z",
     "repo": "https://github.com/WeirdMath/SwiftyHaru.git",
-    "runid": 12644606839,
+    "runid": 12668573804,
     "stars": 55,
     "status": "failure"
   },
