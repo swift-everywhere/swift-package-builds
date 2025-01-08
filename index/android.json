@@ -4330,10 +4330,10 @@
   },
   "Kitura/SwiftyRequest": {
     "created": "2025-01-07T03:56:18Z",
-    "duration": 51,
-    "modified": "2025-01-08T07:01:38Z",
+    "duration": 54,
+    "modified": "2025-01-08T13:49:10Z",
     "repo": "https://github.com/Kitura/SwiftyRequest.git",
-    "runid": 12665265526,
+    "runid": 12671490284,
     "stars": 110,
     "status": "failure"
   },
