@@ -16147,10 +16147,10 @@
   },
   "hartbit/Yaap": {
     "created": "2025-01-06T20:47:49Z",
-    "duration": 6,
-    "modified": "2025-01-07T20:42:34Z",
+    "duration": 7,
+    "modified": "2025-01-08T15:28:32Z",
     "repo": "https://github.com/hartbit/Yaap.git",
-    "runid": 12658681935,
+    "runid": 12673545525,
     "stars": 118,
     "status": "failure"
   },
