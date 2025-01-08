@@ -10702,10 +10702,10 @@
   },
   "b9swift/MulticastDelegate": {
     "created": "2025-01-06T20:51:45Z",
-    "duration": 7,
-    "modified": "2025-01-08T01:55:03Z",
+    "duration": 6,
+    "modified": "2025-01-08T14:33:29Z",
     "repo": "https://github.com/b9swift/MulticastDelegate.git",
-    "runid": 12662295835,
+    "runid": 12672398001,
     "stars": 3,
     "status": "success"
   },
