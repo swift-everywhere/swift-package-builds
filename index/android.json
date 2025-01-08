@@ -18136,10 +18136,10 @@
   },
   "kasei/swift-sparql-syntax": {
     "created": "2025-01-06T22:06:35Z",
-    "duration": 18,
-    "modified": "2025-01-06T22:06:35Z",
+    "duration": 21,
+    "modified": "2025-01-08T15:26:04Z",
     "repo": "https://github.com/kasei/swift-sparql-syntax.git",
-    "runid": 12640899049,
+    "runid": 12673545525,
     "stars": 17,
     "status": "success"
   },
