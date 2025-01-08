@@ -9775,10 +9775,10 @@
   },
   "amzn/smoke-dynamodb": {
     "created": "2025-01-07T12:41:14Z",
-    "duration": 26,
-    "modified": "2025-01-07T12:41:14Z",
+    "duration": 23,
+    "modified": "2025-01-08T13:22:40Z",
     "repo": "https://github.com/amzn/smoke-dynamodb.git",
-    "runid": 12651715076,
+    "runid": 12670708592,
     "stars": 34,
     "status": "failure"
   },
