@@ -2125,10 +2125,10 @@
   },
   "DevYeom/OneWay": {
     "created": "2025-01-07T07:35:40Z",
-    "duration": 11,
-    "modified": "2025-01-08T17:45:21Z",
+    "duration": 10,
+    "modified": "2025-01-08T21:32:45Z",
     "repo": "https://github.com/DevYeom/OneWay.git",
-    "runid": 12675617055,
+    "runid": 12679180049,
     "stars": 87,
     "status": "success"
   },
