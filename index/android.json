@@ -26605,10 +26605,10 @@
   },
   "taketo1024/swm-core": {
     "created": "2025-01-06T20:31:44Z",
-    "duration": 21,
-    "modified": "2025-01-08T13:56:46Z",
+    "duration": 22,
+    "modified": "2025-01-08T23:59:51Z",
     "repo": "https://github.com/taketo1024/swm-core.git",
-    "runid": 12671490284,
+    "runid": 12680732767,
     "stars": 191,
     "status": "success"
   },
