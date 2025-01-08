@@ -12358,10 +12358,10 @@
   },
   "dagronf/BytesParser": {
     "created": "2025-01-07T10:38:09Z",
-    "duration": 17,
-    "modified": "2025-01-07T10:38:09Z",
+    "duration": 16,
+    "modified": "2025-01-08T14:34:41Z",
     "repo": "https://github.com/dagronf/BytesParser.git",
-    "runid": 12649615878,
+    "runid": 12672398001,
     "stars": 3,
     "status": "success"
   },
