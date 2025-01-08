@@ -5869,10 +5869,10 @@
   },
   "OctoPoulpeStudio/DTOMacro": {
     "created": "2025-01-07T09:25:09Z",
-    "duration": 93,
-    "modified": "2025-01-07T22:56:05Z",
+    "duration": 94,
+    "modified": "2025-01-08T16:54:57Z",
     "repo": "https://github.com/OctoPoulpeStudio/DTOMacro.git",
-    "runid": 12660245106,
+    "runid": 12674728093,
     "stars": 3,
     "status": "failure"
   },
