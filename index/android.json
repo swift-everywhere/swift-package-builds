@@ -2620,10 +2620,10 @@
   },
   "Fleuronic/papyrus": {
     "created": "2025-01-07T03:30:08Z",
-    "duration": 101,
-    "modified": "2025-01-07T03:30:08Z",
+    "duration": 99,
+    "modified": "2025-01-08T07:07:21Z",
     "repo": "https://github.com/Fleuronic/papyrus.git",
-    "runid": 12644606839,
+    "runid": 12665265526,
     "stars": 0,
     "status": "failure"
   },
