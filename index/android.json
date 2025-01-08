@@ -15067,10 +15067,10 @@
   },
   "frictionlessdata/datapackage-swift": {
     "created": "2025-01-07T14:13:58Z",
-    "duration": 10,
-    "modified": "2025-01-08T13:35:04Z",
+    "duration": 11,
+    "modified": "2025-01-08T22:24:14Z",
     "repo": "https://github.com/frictionlessdata/datapackage-swift.git",
-    "runid": 12671490284,
+    "runid": 12680001524,
     "stars": 3,
     "status": "success"
   },
