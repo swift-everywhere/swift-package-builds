@@ -6382,10 +6382,10 @@
   },
   "Peter-Schorn/SpotifyAPI": {
     "created": "2025-01-06T21:51:09Z",
-    "duration": 42,
-    "modified": "2025-01-08T13:51:32Z",
+    "duration": 40,
+    "modified": "2025-01-08T14:29:59Z",
     "repo": "https://github.com/Peter-Schorn/SpotifyAPI.git",
-    "runid": 12671490284,
+    "runid": 12672398001,
     "stars": 276,
     "status": "failure"
   },
