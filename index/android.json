@@ -13502,9 +13502,9 @@
   "dfunckt/swift-futures": {
     "created": "2025-01-07T12:29:55Z",
     "duration": 5,
-    "modified": "2025-01-08T11:34:02Z",
+    "modified": "2025-01-08T14:32:47Z",
     "repo": "https://github.com/dfunckt/swift-futures.git",
-    "runid": 12669458619,
+    "runid": 12672398001,
     "stars": 32,
     "status": "failure"
   },
