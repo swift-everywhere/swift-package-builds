@@ -1432,10 +1432,10 @@
   },
   "ChimeHQ/LanguageClient": {
     "created": "2025-01-07T02:35:46Z",
-    "duration": 27,
-    "modified": "2025-01-07T02:35:46Z",
+    "duration": 26,
+    "modified": "2025-01-08T10:23:48Z",
     "repo": "https://github.com/ChimeHQ/LanguageClient.git",
-    "runid": 12643524602,
+    "runid": 12668573804,
     "stars": 97,
     "status": "success"
   },
