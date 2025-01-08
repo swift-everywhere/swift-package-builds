@@ -27829,10 +27829,10 @@
   },
   "uploadcare/uploadcare-swift": {
     "created": "2025-01-06T22:56:48Z",
-    "duration": 28,
-    "modified": "2025-01-08T03:24:29Z",
+    "duration": 20,
+    "modified": "2025-01-08T07:49:29Z",
     "repo": "https://github.com/uploadcare/uploadcare-swift.git",
-    "runid": 12663475967,
+    "runid": 12665854112,
     "stars": 12,
     "status": "failure"
   },
