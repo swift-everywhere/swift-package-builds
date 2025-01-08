@@ -9748,10 +9748,10 @@
   },
   "amzn/smoke-aws-credentials": {
     "created": "2025-01-07T02:21:18Z",
-    "duration": 24,
-    "modified": "2025-01-07T02:21:18Z",
+    "duration": 23,
+    "modified": "2025-01-08T12:42:04Z",
     "repo": "https://github.com/amzn/smoke-aws-credentials.git",
-    "runid": 12643524602,
+    "runid": 12670708592,
     "stars": 19,
     "status": "failure"
   },
