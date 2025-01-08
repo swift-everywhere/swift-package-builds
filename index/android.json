@@ -21502,10 +21502,10 @@
   },
   "nsomar/Guaka": {
     "created": "2025-01-06T19:45:33Z",
-    "duration": 5,
-    "modified": "2025-01-07T09:33:35Z",
+    "duration": 6,
+    "modified": "2025-01-08T07:21:46Z",
     "repo": "https://github.com/nsomar/Guaka.git",
-    "runid": 12648641718,
+    "runid": 12665854112,
     "stars": 1149,
     "status": "failure"
   },
