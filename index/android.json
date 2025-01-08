@@ -22771,10 +22771,10 @@
   },
   "pointfreeco/swift-macro-testing": {
     "created": "2025-01-07T08:18:57Z",
-    "duration": 15,
-    "modified": "2025-01-08T11:35:47Z",
+    "duration": 14,
+    "modified": "2025-01-08T16:49:49Z",
     "repo": "https://github.com/pointfreeco/swift-macro-testing.git",
-    "runid": 12669458619,
+    "runid": 12674728093,
     "stars": 276,
     "status": "failure"
   },
