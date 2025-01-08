@@ -19117,10 +19117,10 @@
   },
   "lovetodream/postgres-nio-macros": {
     "created": "2025-01-06T19:56:31Z",
-    "duration": 24,
-    "modified": "2025-01-08T21:39:16Z",
+    "duration": 37,
+    "modified": "2025-01-08T22:20:14Z",
     "repo": "https://github.com/lovetodream/postgres-nio-macros.git",
-    "runid": 12679180049,
+    "runid": 12680001524,
     "stars": 7,
     "status": "failure"
   },
