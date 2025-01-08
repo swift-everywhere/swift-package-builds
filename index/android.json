@@ -19846,10 +19846,10 @@
   },
   "mattpolzin/OpenAPIDiff": {
     "created": "2025-01-07T05:42:45Z",
-    "duration": 13,
-    "modified": "2025-01-07T05:42:45Z",
+    "duration": 17,
+    "modified": "2025-01-08T22:42:43Z",
     "repo": "https://github.com/mattpolzin/OpenAPIDiff.git",
-    "runid": 12645653000,
+    "runid": 12680001524,
     "stars": 8,
     "status": "failure"
   },
