@@ -21476,9 +21476,9 @@
   "norio-nomura/XCTAssertCrash": {
     "created": "2025-01-07T02:37:29Z",
     "duration": 7,
-    "modified": "2025-01-07T02:37:29Z",
+    "modified": "2025-01-08T13:20:26Z",
     "repo": "https://github.com/norio-nomura/XCTAssertCrash.git",
-    "runid": 12643524602,
+    "runid": 12670708592,
     "stars": 51,
     "status": "failure"
   },
