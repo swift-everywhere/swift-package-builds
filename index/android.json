@@ -28468,10 +28468,10 @@
   },
   "vapor/fluent-mongo-driver": {
     "created": "2025-01-06T22:01:35Z",
-    "duration": 24,
-    "modified": "2025-01-08T09:42:04Z",
+    "duration": 26,
+    "modified": "2025-01-08T22:59:42Z",
     "repo": "https://github.com/vapor/fluent-mongo-driver.git",
-    "runid": 12667584016,
+    "runid": 12680001524,
     "stars": 26,
     "status": "failure"
   },
