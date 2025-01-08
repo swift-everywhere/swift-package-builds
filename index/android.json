@@ -29350,10 +29350,10 @@
   },
   "xcode-coffee/JSONFeed": {
     "created": "2025-01-07T13:04:03Z",
-    "duration": 8,
-    "modified": "2025-01-08T17:39:42Z",
+    "duration": 7,
+    "modified": "2025-01-08T21:28:39Z",
     "repo": "https://github.com/xcode-coffee/JSONFeed.git",
-    "runid": 12675617055,
+    "runid": 12679180049,
     "stars": 1,
     "status": "failure"
   },
