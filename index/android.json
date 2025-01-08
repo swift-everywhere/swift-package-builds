@@ -26902,11 +26902,11 @@
   },
   "tayloraswift/swift-unidoc": {
     "created": "2025-01-07T00:14:30Z",
-    "duration": 64,
-    "modified": "2025-01-07T00:14:30Z",
+    "duration": 77,
+    "modified": "2025-01-08T07:08:55Z",
     "repo": "https://github.com/tayloraswift/swift-unidoc.git",
-    "runid": 12641986754,
-    "stars": 63,
+    "runid": 12665265526,
+    "stars": 64,
     "status": "failure"
   },
   "tayloraswift/swift-unixtime": {
