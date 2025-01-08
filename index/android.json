@@ -3538,10 +3538,10 @@
   },
   "JaapWijnen/swift-xml-parser": {
     "created": "2025-01-06T22:39:21Z",
-    "duration": 15,
-    "modified": "2025-01-07T21:28:13Z",
+    "duration": 14,
+    "modified": "2025-01-08T02:03:46Z",
     "repo": "https://github.com/JaapWijnen/swift-xml-parser.git",
-    "runid": 12659472889,
+    "runid": 12662295835,
     "stars": 7,
     "status": "failure"
   },
