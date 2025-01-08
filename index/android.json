@@ -14968,10 +14968,10 @@
   },
   "fpseverino/apple-maps-kit": {
     "created": "2025-01-06T21:16:23Z",
-    "duration": 71,
-    "modified": "2025-01-08T06:42:31Z",
+    "duration": 70,
+    "modified": "2025-01-08T14:58:25Z",
     "repo": "https://github.com/fpseverino/apple-maps-kit.git",
-    "runid": 12665265526,
+    "runid": 12672398001,
     "stars": 12,
     "status": "failure"
   },
