@@ -352,10 +352,10 @@
   },
   "ABridoux/scout": {
     "created": "2025-01-06T22:00:00Z",
-    "duration": 27,
-    "modified": "2025-01-08T10:50:29Z",
+    "duration": 30,
+    "modified": "2025-01-08T20:23:10Z",
     "repo": "https://github.com/ABridoux/scout.git",
-    "runid": 12668573804,
+    "runid": 12678362520,
     "stars": 130,
     "status": "failure"
   },
