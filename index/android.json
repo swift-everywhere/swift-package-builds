@@ -22834,11 +22834,11 @@
   },
   "pointfreeco/swift-sharing": {
     "created": "2025-01-07T08:01:29Z",
-    "duration": 36,
-    "modified": "2025-01-07T21:19:51Z",
+    "duration": 34,
+    "modified": "2025-01-08T16:44:49Z",
     "repo": "https://github.com/pointfreeco/swift-sharing.git",
-    "runid": 12659472889,
-    "stars": 428,
+    "runid": 12674728093,
+    "stars": 437,
     "status": "success"
   },
   "pointfreeco/swift-snapshot-testing": {
