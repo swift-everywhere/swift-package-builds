@@ -19540,10 +19540,10 @@
   },
   "mapbox/mapbox-common-ios": {
     "created": "2025-01-07T03:57:19Z",
-    "duration": 10,
-    "modified": "2025-01-08T12:59:08Z",
+    "duration": 9,
+    "modified": "2025-01-08T14:53:02Z",
     "repo": "https://github.com/mapbox/mapbox-common-ios.git",
-    "runid": 12670708592,
+    "runid": 12672398001,
     "stars": 31,
     "status": "failure"
   },
