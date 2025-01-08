@@ -13933,10 +13933,10 @@
   },
   "ekscrypto/SwiftPublicSuffixList": {
     "created": "2025-01-07T05:30:37Z",
-    "duration": 6,
-    "modified": "2025-01-07T05:30:37Z",
+    "duration": 7,
+    "modified": "2025-01-08T07:53:07Z",
     "repo": "https://github.com/ekscrypto/SwiftPublicSuffixList.git",
-    "runid": 12645653000,
+    "runid": 12665854112,
     "stars": 4,
     "status": "success"
   },
