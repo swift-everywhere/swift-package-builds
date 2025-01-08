@@ -26318,10 +26318,10 @@
   "swiftwasm/JavaScriptKit": {
     "created": "2025-01-07T05:49:01Z",
     "duration": 8,
-    "modified": "2025-01-07T05:49:01Z",
+    "modified": "2025-01-08T09:20:21Z",
     "repo": "https://github.com/swiftwasm/JavaScriptKit.git",
-    "runid": 12645653000,
-    "stars": 711,
+    "runid": 12667584016,
+    "stars": 712,
     "status": "failure"
   },
   "swiftwasm/OpenCombineJS": {
