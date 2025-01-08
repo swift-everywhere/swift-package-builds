@@ -1756,10 +1756,10 @@
   },
   "CuriositySoftware/swift-fatal-test-value": {
     "created": "2025-01-07T02:18:28Z",
-    "duration": 139,
-    "modified": "2025-01-07T02:18:28Z",
+    "duration": 138,
+    "modified": "2025-01-08T11:38:06Z",
     "repo": "https://github.com/CuriositySoftware/swift-fatal-test-value.git",
-    "runid": 12643524602,
+    "runid": 12669458619,
     "stars": 4,
     "status": "success"
   },
