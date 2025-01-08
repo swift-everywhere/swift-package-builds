@@ -4897,10 +4897,10 @@
   },
   "MarSe32m/SebbuKit": {
     "created": "2025-01-07T14:42:15Z",
-    "duration": 27,
-    "modified": "2025-01-07T14:42:15Z",
+    "duration": 28,
+    "modified": "2025-01-08T16:30:24Z",
     "repo": "https://github.com/MarSe32m/SebbuKit.git",
-    "runid": 12652509868,
+    "runid": 12674728093,
     "stars": 0,
     "status": "failure"
   },
