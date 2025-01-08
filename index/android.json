@@ -2962,10 +2962,10 @@
   },
   "Frizlab/UBJSONSerialization": {
     "created": "2025-01-07T08:33:02Z",
-    "duration": 14,
-    "modified": "2025-01-08T10:30:39Z",
+    "duration": 12,
+    "modified": "2025-01-08T18:30:31Z",
     "repo": "https://github.com/Frizlab/UBJSONSerialization.git",
-    "runid": 12668573804,
+    "runid": 12676738885,
     "stars": 2,
     "status": "success"
   },
