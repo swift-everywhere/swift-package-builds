@@ -2557,10 +2557,10 @@
   },
   "Flagsmith/flagsmith-ios-client": {
     "created": "2025-01-07T05:32:27Z",
-    "duration": 22,
-    "modified": "2025-01-08T04:56:51Z",
+    "duration": 49,
+    "modified": "2025-01-08T07:46:22Z",
     "repo": "https://github.com/Flagsmith/flagsmith-ios-client.git",
-    "runid": 12664022347,
+    "runid": 12665854112,
     "stars": 17,
     "status": "success"
   },
