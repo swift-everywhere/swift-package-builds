@@ -4366,10 +4366,10 @@
   },
   "Kochava/Apple-SwiftPackage-KochavaMacros": {
     "created": "2025-01-07T08:46:30Z",
-    "duration": 95,
-    "modified": "2025-01-07T08:46:30Z",
+    "duration": 93,
+    "modified": "2025-01-08T03:40:17Z",
     "repo": "https://github.com/Kochava/Apple-SwiftPackage-KochavaMacros.git",
-    "runid": 12647794335,
+    "runid": 12663475967,
     "stars": 1,
     "status": "failure"
   },
