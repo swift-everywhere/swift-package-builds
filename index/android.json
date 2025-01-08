@@ -2288,9 +2288,9 @@
   "Dynatrace/swift-mobile-sdk": {
     "created": "2025-01-07T04:03:33Z",
     "duration": 6,
-    "modified": "2025-01-07T19:35:14Z",
+    "modified": "2025-01-08T14:37:27Z",
     "repo": "https://github.com/Dynatrace/swift-mobile-sdk.git",
-    "runid": 12657790358,
+    "runid": 12672398001,
     "stars": 9,
     "status": "success"
   },
