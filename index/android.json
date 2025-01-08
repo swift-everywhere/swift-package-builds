@@ -10801,10 +10801,10 @@
   },
   "bdrelling/GoatHerb": {
     "created": "2025-01-06T23:17:07Z",
-    "duration": 19,
-    "modified": "2025-01-06T23:17:07Z",
+    "duration": 22,
+    "modified": "2025-01-08T14:44:35Z",
     "repo": "https://github.com/bdrelling/GoatHerb.git",
-    "runid": 12641431024,
+    "runid": 12672398001,
     "stars": 5,
     "status": "failure"
   },
