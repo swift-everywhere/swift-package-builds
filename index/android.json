@@ -7156,10 +7156,10 @@
   },
   "RxSwiftCommunity/RxGRDB": {
     "created": "2025-01-06T23:07:14Z",
-    "duration": 29,
-    "modified": "2025-01-06T23:07:14Z",
+    "duration": 30,
+    "modified": "2025-01-08T10:32:46Z",
     "repo": "https://github.com/RxSwiftCommunity/RxGRDB.git",
-    "runid": 12641431024,
+    "runid": 12668573804,
     "stars": 219,
     "status": "failure"
   },
