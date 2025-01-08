@@ -28801,10 +28801,10 @@
   },
   "voynovia/JRPCSwiftNio": {
     "created": "2025-01-07T03:27:28Z",
-    "duration": 3,
-    "modified": "2025-01-07T03:27:29Z",
+    "duration": 5,
+    "modified": "2025-01-08T14:20:29Z",
     "repo": "https://github.com/voynovia/JRPCSwiftNio.git",
-    "runid": 12644606839,
+    "runid": 12672398001,
     "stars": 2,
     "status": "failure"
   },
