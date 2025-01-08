@@ -14581,10 +14581,10 @@
   },
   "f-meloni/danger-swift-xcodesummary": {
     "created": "2025-01-06T23:42:22Z",
-    "duration": 18,
-    "modified": "2025-01-08T04:55:47Z",
+    "duration": 20,
+    "modified": "2025-01-08T14:04:00Z",
     "repo": "https://github.com/f-meloni/danger-swift-xcodesummary.git",
-    "runid": 12664022347,
+    "runid": 12671490284,
     "stars": 75,
     "status": "failure"
   },
