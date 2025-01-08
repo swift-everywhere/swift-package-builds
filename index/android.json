@@ -15400,10 +15400,10 @@
   },
   "getGuaka/Regex": {
     "created": "2025-01-06T17:24:32Z",
-    "duration": 3,
-    "modified": "2025-01-07T00:16:24Z",
+    "duration": 4,
+    "modified": "2025-01-08T17:47:03Z",
     "repo": "https://github.com/getGuaka/Regex.git",
-    "runid": 12641986754,
+    "runid": 12675617055,
     "stars": 16,
     "status": "failure"
   },
