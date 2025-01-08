@@ -15715,10 +15715,10 @@
   },
   "gor-gyolchanyan-swift/attribute-kit": {
     "created": "2025-01-07T12:34:02Z",
-    "duration": 5,
-    "modified": "2025-01-08T10:37:32Z",
+    "duration": 4,
+    "modified": "2025-01-08T15:27:13Z",
     "repo": "https://github.com/gor-gyolchanyan-swift/attribute-kit.git",
-    "runid": 12668573804,
+    "runid": 12673545525,
     "stars": 11,
     "status": "success"
   },
