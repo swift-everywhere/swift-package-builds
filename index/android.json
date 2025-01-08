@@ -28198,10 +28198,10 @@
   },
   "vapor-community/bcrypt": {
     "created": "2025-01-07T00:38:11Z",
-    "duration": 7,
-    "modified": "2025-01-07T21:56:30Z",
+    "duration": 9,
+    "modified": "2025-01-08T21:32:32Z",
     "repo": "https://github.com/vapor-community/bcrypt.git",
-    "runid": 12659472889,
+    "runid": 12679180049,
     "stars": 34,
     "status": "failure"
   },
