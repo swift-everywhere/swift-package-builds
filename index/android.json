@@ -16723,11 +16723,11 @@
   },
   "ibireme/yyjson": {
     "created": "2025-01-07T13:48:10Z",
-    "duration": 3,
-    "modified": "2025-01-07T13:48:10Z",
+    "duration": 2,
+    "modified": "2025-01-08T08:41:38Z",
     "repo": "https://github.com/ibireme/yyjson.git",
-    "runid": 12652509868,
-    "stars": 3180,
+    "runid": 12666722268,
+    "stars": 3184,
     "status": "success"
   },
   "ibm-bluemix-mobile-services/bluemix-simple-logger-swift": {
