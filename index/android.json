@@ -8506,10 +8506,10 @@
   },
   "TBXark/swift-telegram-bot-api": {
     "created": "2025-01-07T07:17:29Z",
-    "duration": 33,
-    "modified": "2025-01-07T07:17:29Z",
+    "duration": 31,
+    "modified": "2025-01-08T10:55:50Z",
     "repo": "https://github.com/TBXark/swift-telegram-bot-api.git",
-    "runid": 12646377141,
+    "runid": 12668573804,
     "stars": 3,
     "status": "success"
   },
