@@ -24751,10 +24751,10 @@
   },
   "sinoru/swift-json": {
     "created": "2025-01-06T19:58:55Z",
-    "duration": 15,
-    "modified": "2025-01-06T21:36:18Z",
+    "duration": 16,
+    "modified": "2025-01-08T19:06:57Z",
     "repo": "https://github.com/sinoru/swift-json.git",
-    "runid": 12640552194,
+    "runid": 12676738885,
     "stars": 1,
     "status": "failure"
   },
