@@ -11161,10 +11161,10 @@
   },
   "binaryscraping/swift-sqlite": {
     "created": "2025-01-07T06:05:48Z",
-    "duration": 7,
-    "modified": "2025-01-07T19:33:11Z",
+    "duration": 6,
+    "modified": "2025-01-08T01:29:50Z",
     "repo": "https://github.com/binaryscraping/swift-sqlite.git",
-    "runid": 12657790358,
+    "runid": 12662295835,
     "stars": 3,
     "status": "failure"
   },
