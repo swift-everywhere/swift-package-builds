@@ -24355,10 +24355,10 @@
   },
   "segmentio/analytics-swift": {
     "created": "2025-01-07T14:08:55Z",
-    "duration": 13,
-    "modified": "2025-01-07T14:08:56Z",
+    "duration": 14,
+    "modified": "2025-01-08T23:02:53Z",
     "repo": "https://github.com/segmentio/analytics-swift.git",
-    "runid": 12652509868,
+    "runid": 12680001524,
     "stars": 111,
     "status": "failure"
   },
