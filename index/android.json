@@ -26776,10 +26776,10 @@
   },
   "tayloraswift/swift-dom": {
     "created": "2025-01-06T21:36:02Z",
-    "duration": 68,
-    "modified": "2025-01-06T21:36:02Z",
+    "duration": 73,
+    "modified": "2025-01-08T03:28:40Z",
     "repo": "https://github.com/tayloraswift/swift-dom.git",
-    "runid": 12640552194,
+    "runid": 12663475967,
     "stars": 22,
     "status": "failure"
   },
