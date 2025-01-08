@@ -4250,9 +4250,9 @@
   "Kitura/Kitura-redis": {
     "created": "2025-01-07T13:18:43Z",
     "duration": 8,
-    "modified": "2025-01-08T02:56:03Z",
+    "modified": "2025-01-08T08:45:08Z",
     "repo": "https://github.com/Kitura/Kitura-redis.git",
-    "runid": 12663141832,
+    "runid": 12666722268,
     "stars": 95,
     "status": "failure"
   },
