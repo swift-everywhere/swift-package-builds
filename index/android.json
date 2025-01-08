@@ -25291,10 +25291,10 @@
   },
   "srgtuszy/llama-cpp-swift": {
     "created": "2025-01-07T07:35:28Z",
-    "duration": 30,
-    "modified": "2025-01-08T06:53:50Z",
+    "duration": 31,
+    "modified": "2025-01-08T14:27:26Z",
     "repo": "https://github.com/srgtuszy/llama-cpp-swift.git",
-    "runid": 12665265526,
+    "runid": 12672398001,
     "stars": 30,
     "status": "failure"
   },
