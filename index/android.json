@@ -1270,10 +1270,10 @@
   },
   "CaptureContext/swift-generic-color": {
     "created": "2025-01-07T14:40:10Z",
-    "duration": 8,
-    "modified": "2025-01-07T14:40:10Z",
+    "duration": 6,
+    "modified": "2025-01-08T09:53:47Z",
     "repo": "https://github.com/CaptureContext/swift-generic-color.git",
-    "runid": 12652509868,
+    "runid": 12667584016,
     "stars": 8,
     "status": "success"
   },
