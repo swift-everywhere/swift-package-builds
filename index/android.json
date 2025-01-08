@@ -24868,10 +24868,10 @@
   },
   "slashmo/swift-otel-xray": {
     "created": "2025-01-07T08:47:27Z",
-    "duration": 27,
-    "modified": "2025-01-07T21:52:36Z",
+    "duration": 36,
+    "modified": "2025-01-08T13:00:46Z",
     "repo": "https://github.com/slashmo/swift-otel-xray.git",
-    "runid": 12659472889,
+    "runid": 12670708592,
     "stars": 9,
     "status": "failure"
   },
