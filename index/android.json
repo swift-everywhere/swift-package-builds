@@ -7381,10 +7381,10 @@
   },
   "SDGGiesbrecht/swift-package-manager": {
     "created": "2025-01-06T21:26:07Z",
-    "duration": 6,
-    "modified": "2025-01-06T21:26:07Z",
+    "duration": 7,
+    "modified": "2025-01-08T04:42:14Z",
     "repo": "https://github.com/SDGGiesbrecht/swift-package-manager.git",
-    "runid": 12640552194,
+    "runid": 12664022347,
     "stars": 3,
     "status": "failure"
   },
