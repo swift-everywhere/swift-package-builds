@@ -10675,10 +10675,10 @@
   },
   "aws-amplify/aws-sdk-ios-spm": {
     "created": "2025-01-06T23:26:52Z",
-    "duration": 6,
-    "modified": "2025-01-06T23:26:52Z",
+    "duration": 9,
+    "modified": "2025-01-08T21:33:07Z",
     "repo": "https://github.com/aws-amplify/aws-sdk-ios-spm.git",
-    "runid": 12641986754,
+    "runid": 12679180049,
     "stars": 30,
     "status": "success"
   },
