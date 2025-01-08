@@ -821,9 +821,9 @@
   "AsyncNinja/AsyncNinja": {
     "created": "2025-01-06T17:43:16Z",
     "duration": 11,
-    "modified": "2025-01-07T16:25:32Z",
+    "modified": "2025-01-08T23:30:15Z",
     "repo": "https://github.com/AsyncNinja/AsyncNinja.git",
-    "runid": 12655041616,
+    "runid": 12680732767,
     "stars": 156,
     "status": "failure"
   },
