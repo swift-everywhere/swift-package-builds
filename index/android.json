@@ -28648,10 +28648,10 @@
   },
   "vapor/template-kit": {
     "created": "2025-01-07T00:53:40Z",
-    "duration": 4,
-    "modified": "2025-01-07T00:53:40Z",
+    "duration": 5,
+    "modified": "2025-01-08T11:54:05Z",
     "repo": "https://github.com/vapor/template-kit.git",
-    "runid": 12641986754,
+    "runid": 12669458619,
     "stars": 46,
     "status": "failure"
   },
