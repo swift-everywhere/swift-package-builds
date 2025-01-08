@@ -6175,10 +6175,10 @@
   },
   "PADL/ASN1Codable": {
     "created": "2025-01-06T23:52:43Z",
-    "duration": 25,
-    "modified": "2025-01-06T23:52:43Z",
+    "duration": 29,
+    "modified": "2025-01-08T07:54:12Z",
     "repo": "https://github.com/PADL/ASN1Codable.git",
-    "runid": 12641986754,
+    "runid": 12665854112,
     "stars": 4,
     "status": "success"
   },
