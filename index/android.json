@@ -14347,10 +14347,10 @@
   },
   "ensan-hcl/AzooKeyKanaKanjiConverter": {
     "created": "2025-01-07T12:12:59Z",
-    "duration": 76,
-    "modified": "2025-01-07T12:12:59Z",
+    "duration": 70,
+    "modified": "2025-01-08T06:41:18Z",
     "repo": "https://github.com/ensan-hcl/AzooKeyKanaKanjiConverter.git",
-    "runid": 12650476881,
+    "runid": 12665265526,
     "stars": 69,
     "status": "failure"
   },
