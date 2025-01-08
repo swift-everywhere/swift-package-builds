@@ -6265,10 +6265,10 @@
   },
   "PerfectlySoft/Perfect-CloudFormation": {
     "created": "2025-01-07T00:22:56Z",
-    "duration": 6,
-    "modified": "2025-01-07T00:22:56Z",
+    "duration": 8,
+    "modified": "2025-01-08T04:23:16Z",
     "repo": "https://github.com/PerfectlySoft/Perfect-CloudFormation.git",
-    "runid": 12641986754,
+    "runid": 12664022347,
     "stars": 1,
     "status": "success"
   },
