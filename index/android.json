@@ -8452,10 +8452,10 @@
   },
   "SwiftyLab/SwiftAnalyticsKit": {
     "created": "2025-01-06T17:12:30Z",
-    "duration": 27,
-    "modified": "2025-01-08T18:30:17Z",
+    "duration": 25,
+    "modified": "2025-01-08T21:52:30Z",
     "repo": "https://github.com/SwiftyLab/SwiftAnalyticsKit.git",
-    "runid": 12676738885,
+    "runid": 12679180049,
     "stars": 2,
     "status": "success"
   },
