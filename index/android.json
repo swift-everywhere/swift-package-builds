@@ -2683,10 +2683,10 @@
   },
   "Flight-School/Rate": {
     "created": "2025-01-06T22:32:45Z",
-    "duration": 5,
-    "modified": "2025-01-06T22:32:45Z",
+    "duration": 7,
+    "modified": "2025-01-08T20:48:44Z",
     "repo": "https://github.com/Flight-School/Rate.git",
-    "runid": 12641431024,
+    "runid": 12678362520,
     "stars": 68,
     "status": "success"
   },
