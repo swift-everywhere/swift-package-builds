@@ -26425,10 +26425,10 @@
   },
   "swifweb/materialize": {
     "created": "2025-01-07T11:47:56Z",
-    "duration": 90,
-    "modified": "2025-01-07T11:47:56Z",
+    "duration": 83,
+    "modified": "2025-01-08T07:03:02Z",
     "repo": "https://github.com/swifweb/materialize.git",
-    "runid": 12650476881,
+    "runid": 12665265526,
     "stars": 2,
     "status": "failure"
   },
