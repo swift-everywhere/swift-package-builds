@@ -5347,10 +5347,10 @@
   },
   "MrAsterisco/LimitedOrderedSet": {
     "created": "2025-01-07T00:20:45Z",
-    "duration": 6,
-    "modified": "2025-01-07T00:20:45Z",
+    "duration": 8,
+    "modified": "2025-01-08T02:56:41Z",
     "repo": "https://github.com/MrAsterisco/LimitedOrderedSet.git",
-    "runid": 12641986754,
+    "runid": 12663141832,
     "stars": 0,
     "status": "success"
   },
