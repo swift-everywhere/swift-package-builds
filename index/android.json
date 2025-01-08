@@ -16489,10 +16489,10 @@
   },
   "hummingbird-project/hummingbird-compression": {
     "created": "2025-01-07T14:44:57Z",
-    "duration": 25,
-    "modified": "2025-01-08T09:09:31Z",
+    "duration": 29,
+    "modified": "2025-01-08T09:32:23Z",
     "repo": "https://github.com/hummingbird-project/hummingbird-compression.git",
-    "runid": 12666722268,
+    "runid": 12667584016,
     "stars": 6,
     "status": "failure"
   },
