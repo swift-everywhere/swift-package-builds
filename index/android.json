@@ -2593,10 +2593,10 @@
   },
   "Fleuronic/Cubby": {
     "created": "2025-01-06T19:38:16Z",
-    "duration": 12,
-    "modified": "2025-01-08T13:14:34Z",
+    "duration": 13,
+    "modified": "2025-01-08T14:21:20Z",
     "repo": "https://github.com/Fleuronic/Cubby.git",
-    "runid": 12670708592,
+    "runid": 12672398001,
     "stars": 6,
     "status": "failure"
   },
