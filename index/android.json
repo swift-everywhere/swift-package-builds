@@ -26119,10 +26119,10 @@
   },
   "swiftkube/client": {
     "created": "2025-01-07T08:44:15Z",
-    "duration": 33,
-    "modified": "2025-01-07T08:44:15Z",
+    "duration": 29,
+    "modified": "2025-01-08T23:35:45Z",
     "repo": "https://github.com/swiftkube/client.git",
-    "runid": 12647794335,
+    "runid": 12680732767,
     "stars": 130,
     "status": "failure"
   },
