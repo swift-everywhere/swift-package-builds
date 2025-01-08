@@ -4024,10 +4024,10 @@
   },
   "KeanuPang/fugle-realtime-swift": {
     "created": "2025-01-06T20:19:47Z",
-    "duration": 14,
-    "modified": "2025-01-07T02:49:50Z",
+    "duration": 15,
+    "modified": "2025-01-08T09:41:38Z",
     "repo": "https://github.com/KeanuPang/fugle-realtime-swift.git",
-    "runid": 12643524602,
+    "runid": 12667584016,
     "stars": 2,
     "status": "failure"
   },
