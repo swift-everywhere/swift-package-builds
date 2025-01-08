@@ -16507,10 +16507,10 @@
   },
   "hummingbird-project/hummingbird-fluent": {
     "created": "2025-01-07T00:36:51Z",
-    "duration": 25,
-    "modified": "2025-01-07T00:36:51Z",
+    "duration": 30,
+    "modified": "2025-01-08T07:43:19Z",
     "repo": "https://github.com/hummingbird-project/hummingbird-fluent.git",
-    "runid": 12641986754,
+    "runid": 12665854112,
     "stars": 12,
     "status": "failure"
   },
