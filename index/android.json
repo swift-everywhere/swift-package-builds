@@ -6679,10 +6679,10 @@
   },
   "Quick/Quick": {
     "created": "2025-01-07T12:46:48Z",
-    "duration": 21,
-    "modified": "2025-01-07T12:46:49Z",
+    "duration": 22,
+    "modified": "2025-01-08T17:43:06Z",
     "repo": "https://github.com/Quick/Quick.git",
-    "runid": 12651715076,
+    "runid": 12675617055,
     "stars": 9803,
     "status": "failure"
   },
