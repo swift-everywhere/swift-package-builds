@@ -19063,10 +19063,10 @@
   },
   "lorenzofiamingo/swiftui-map-item-picker": {
     "created": "2025-01-07T01:08:23Z",
-    "duration": 3,
-    "modified": "2025-01-08T11:44:46Z",
+    "duration": 5,
+    "modified": "2025-01-08T13:32:00Z",
     "repo": "https://github.com/lorenzofiamingo/swiftui-map-item-picker.git",
-    "runid": 12669458619,
+    "runid": 12671490284,
     "stars": 26,
     "status": "success"
   },
