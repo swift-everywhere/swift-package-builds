@@ -15625,10 +15625,10 @@
   },
   "gonzalonunez/ginny": {
     "created": "2025-01-06T23:28:21Z",
-    "duration": 32,
-    "modified": "2025-01-06T23:28:21Z",
+    "duration": 94,
+    "modified": "2025-01-08T20:55:20Z",
     "repo": "https://github.com/gonzalonunez/ginny.git",
-    "runid": 12641986754,
+    "runid": 12678362520,
     "stars": 12,
     "status": "failure"
   },
