@@ -3889,10 +3889,10 @@
   },
   "JoshuaBrest/blake3-swift": {
     "created": "2025-01-06T19:52:09Z",
-    "duration": 1,
-    "modified": "2025-01-07T12:39:08Z",
+    "duration": 2,
+    "modified": "2025-01-08T13:30:11Z",
     "repo": "https://github.com/JoshuaBrest/blake3-swift.git",
-    "runid": 12651715076,
+    "runid": 12671490284,
     "stars": 1,
     "status": "failure"
   },
