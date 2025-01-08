@@ -28540,10 +28540,10 @@
   },
   "vapor/postgres-kit": {
     "created": "2025-01-07T01:48:12Z",
-    "duration": 27,
-    "modified": "2025-01-07T22:31:57Z",
+    "duration": 26,
+    "modified": "2025-01-08T07:29:47Z",
     "repo": "https://github.com/vapor/postgres-kit.git",
-    "runid": 12660245106,
+    "runid": 12665854112,
     "stars": 190,
     "status": "failure"
   },
