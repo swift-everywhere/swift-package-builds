@@ -4295,9 +4295,9 @@
   "Kitura/Swift-Kuery-ORM": {
     "created": "2025-01-07T12:30:51Z",
     "duration": 15,
-    "modified": "2025-01-07T18:15:44Z",
+    "modified": "2025-01-08T02:51:32Z",
     "repo": "https://github.com/Kitura/Swift-Kuery-ORM.git",
-    "runid": 12656035496,
+    "runid": 12663141832,
     "stars": 213,
     "status": "failure"
   },
