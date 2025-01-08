@@ -4393,10 +4393,10 @@
   },
   "Kochava/Apple-SwiftPackage-KochavaMeasurement-XCFramework": {
     "created": "2025-01-07T03:12:39Z",
-    "duration": 10,
-    "modified": "2025-01-07T03:12:39Z",
+    "duration": 9,
+    "modified": "2025-01-08T18:59:15Z",
     "repo": "https://github.com/Kochava/Apple-SwiftPackage-KochavaMeasurement-XCFramework.git",
-    "runid": 12644277556,
+    "runid": 12676738885,
     "stars": 2,
     "status": "success"
   },
