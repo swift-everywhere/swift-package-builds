@@ -3646,10 +3646,10 @@
   },
   "JimmyMAndersson/StatKit": {
     "created": "2025-01-07T11:09:13Z",
-    "duration": 11,
-    "modified": "2025-01-07T11:09:13Z",
+    "duration": 10,
+    "modified": "2025-01-08T21:44:55Z",
     "repo": "https://github.com/JimmyMAndersson/StatKit.git",
-    "runid": 12649615878,
+    "runid": 12679180049,
     "stars": 86,
     "status": "failure"
   },
