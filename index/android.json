@@ -16912,10 +16912,10 @@
   },
   "inamiy/RxProperty": {
     "created": "2025-01-06T17:06:51Z",
-    "duration": 12,
-    "modified": "2025-01-08T14:48:58Z",
+    "duration": 16,
+    "modified": "2025-01-08T15:31:28Z",
     "repo": "https://github.com/inamiy/RxProperty.git",
-    "runid": 12672398001,
+    "runid": 12673545525,
     "stars": 85,
     "status": "failure"
   },
