@@ -1999,10 +1999,10 @@
   },
   "Dashlane/SwiftDomainParser": {
     "created": "2025-01-07T14:35:48Z",
-    "duration": 7,
-    "modified": "2025-01-07T22:02:57Z",
+    "duration": 8,
+    "modified": "2025-01-08T15:22:26Z",
     "repo": "https://github.com/Dashlane/SwiftDomainParser.git",
-    "runid": 12659472889,
+    "runid": 12673545525,
     "stars": 65,
     "status": "success"
   },
