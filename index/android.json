@@ -4097,9 +4097,9 @@
   "KittyMac/flynn": {
     "created": "2025-01-06T17:23:49Z",
     "duration": 6,
-    "modified": "2025-01-06T21:39:20Z",
+    "modified": "2025-01-08T20:24:13Z",
     "repo": "https://github.com/KittyMac/flynn.git",
-    "runid": 12640552194,
+    "runid": 12678362520,
     "stars": 33,
     "status": "failure"
   },
