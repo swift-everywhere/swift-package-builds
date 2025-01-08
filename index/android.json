@@ -25796,9 +25796,9 @@
   "swift-cloud/swift-crypto": {
     "created": "2025-01-07T11:40:50Z",
     "duration": 24,
-    "modified": "2025-01-08T11:54:31Z",
+    "modified": "2025-01-08T16:00:54Z",
     "repo": "https://github.com/swift-cloud/swift-crypto.git",
-    "runid": 12669458619,
+    "runid": 12673545525,
     "stars": 1,
     "status": "failure"
   },
