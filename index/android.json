@@ -25867,10 +25867,10 @@
   },
   "swift-psychrometrics/swift-psychrometrics": {
     "created": "2025-01-06T19:45:09Z",
-    "duration": 26,
-    "modified": "2025-01-07T06:36:33Z",
+    "duration": 24,
+    "modified": "2025-01-08T03:14:02Z",
     "repo": "https://github.com/swift-psychrometrics/swift-psychrometrics.git",
-    "runid": 12646377141,
+    "runid": 12663141832,
     "stars": 5,
     "status": "failure"
   },
