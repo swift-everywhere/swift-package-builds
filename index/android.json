@@ -28171,10 +28171,10 @@
   },
   "vapor-community/Lingo-Vapor": {
     "created": "2025-01-07T04:50:34Z",
-    "duration": 36,
-    "modified": "2025-01-08T09:59:56Z",
+    "duration": 37,
+    "modified": "2025-01-08T19:17:34Z",
     "repo": "https://github.com/vapor-community/Lingo-Vapor.git",
-    "runid": 12667584016,
+    "runid": 12677445864,
     "stars": 56,
     "status": "failure"
   },
