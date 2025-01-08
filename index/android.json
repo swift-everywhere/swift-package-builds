@@ -19711,10 +19711,10 @@
   },
   "matsoftware/accept-language-parser": {
     "created": "2025-01-06T22:52:10Z",
-    "duration": 6,
-    "modified": "2025-01-06T22:52:10Z",
+    "duration": 7,
+    "modified": "2025-01-08T10:24:01Z",
     "repo": "https://github.com/matsoftware/accept-language-parser.git",
-    "runid": 12641431024,
+    "runid": 12668573804,
     "stars": 4,
     "status": "success"
   },
