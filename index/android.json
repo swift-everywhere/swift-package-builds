@@ -3394,10 +3394,10 @@
   },
   "IBDecodable/IBDecodable": {
     "created": "2025-01-06T23:11:04Z",
-    "duration": 9,
-    "modified": "2025-01-08T08:44:07Z",
+    "duration": 8,
+    "modified": "2025-01-08T18:38:37Z",
     "repo": "https://github.com/IBDecodable/IBDecodable.git",
-    "runid": 12666722268,
+    "runid": 12676738885,
     "stars": 148,
     "status": "failure"
   },
