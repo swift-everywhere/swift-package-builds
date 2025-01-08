@@ -11279,9 +11279,9 @@
   "bow-swift/bow": {
     "created": "2025-01-07T12:28:20Z",
     "duration": 27,
-    "modified": "2025-01-07T12:28:20Z",
+    "modified": "2025-01-08T13:03:36Z",
     "repo": "https://github.com/bow-swift/bow.git",
-    "runid": 12650476881,
+    "runid": 12670708592,
     "stars": 648,
     "status": "failure"
   },
