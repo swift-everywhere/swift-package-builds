@@ -10162,10 +10162,10 @@
   },
   "apple/swift-distributed-tracing-extras": {
     "created": "2025-01-06T22:01:13Z",
-    "duration": 6,
-    "modified": "2025-01-08T16:51:13Z",
+    "duration": 7,
+    "modified": "2025-01-08T21:05:36Z",
     "repo": "https://github.com/apple/swift-distributed-tracing-extras.git",
-    "runid": 12674728093,
+    "runid": 12678362520,
     "stars": 36,
     "status": "failure"
   },
