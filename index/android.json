@@ -29341,10 +29341,10 @@
   },
   "xing/jungle": {
     "created": "2025-01-07T08:09:05Z",
-    "duration": 12,
-    "modified": "2025-01-07T22:32:28Z",
+    "duration": 11,
+    "modified": "2025-01-08T03:48:01Z",
     "repo": "https://github.com/xing/jungle.git",
-    "runid": 12660245106,
+    "runid": 12663475967,
     "stars": 23,
     "status": "failure"
   },
