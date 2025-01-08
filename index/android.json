@@ -20980,10 +20980,10 @@
   },
   "neoneye/SwiftyRelativePath": {
     "created": "2025-01-07T08:23:05Z",
-    "duration": 6,
-    "modified": "2025-01-07T19:40:04Z",
+    "duration": 8,
+    "modified": "2025-01-08T11:16:33Z",
     "repo": "https://github.com/neoneye/SwiftyRelativePath.git",
-    "runid": 12658091539,
+    "runid": 12669458619,
     "stars": 9,
     "status": "success"
   },
