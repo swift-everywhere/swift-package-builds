@@ -10117,10 +10117,10 @@
   },
   "apple/swift-distributed-actors": {
     "created": "2025-01-07T10:55:17Z",
-    "duration": 29,
-    "modified": "2025-01-07T10:55:17Z",
+    "duration": 25,
+    "modified": "2025-01-08T08:01:57Z",
     "repo": "https://github.com/apple/swift-distributed-actors.git",
-    "runid": 12649615878,
+    "runid": 12665854112,
     "stars": 609,
     "status": "failure"
   },
