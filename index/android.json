@@ -18595,10 +18595,10 @@
   },
   "kudit/Compatibility": {
     "created": "2025-01-07T07:11:29Z",
-    "duration": 7,
-    "modified": "2025-01-08T02:07:08Z",
+    "duration": 8,
+    "modified": "2025-01-08T21:17:50Z",
     "repo": "https://github.com/kudit/Compatibility.git",
-    "runid": 12662295835,
+    "runid": 12679180049,
     "stars": 2,
     "status": "failure"
   },
