@@ -21898,10 +21898,10 @@
   },
   "openalloc/SwiftNiceScale": {
     "created": "2025-01-07T10:00:16Z",
-    "duration": 12,
-    "modified": "2025-01-07T10:00:16Z",
+    "duration": 11,
+    "modified": "2025-01-08T09:33:28Z",
     "repo": "https://github.com/openalloc/SwiftNiceScale.git",
-    "runid": 12648641718,
+    "runid": 12667584016,
     "stars": 8,
     "status": "failure"
   },
