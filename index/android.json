@@ -28072,10 +28072,10 @@
   },
   "valeriyvan/jpeg": {
     "created": "2025-01-06T21:54:20Z",
-    "duration": 12,
-    "modified": "2025-01-06T21:54:20Z",
+    "duration": 15,
+    "modified": "2025-01-08T20:49:00Z",
     "repo": "https://github.com/valeriyvan/jpeg.git",
-    "runid": 12640899049,
+    "runid": 12678362520,
     "stars": 1,
     "status": "failure"
   },
