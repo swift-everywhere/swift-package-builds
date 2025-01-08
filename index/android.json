@@ -29530,10 +29530,10 @@
   },
   "yonaskolb/Stringly": {
     "created": "2025-01-07T10:33:05Z",
-    "duration": 18,
-    "modified": "2025-01-08T01:32:53Z",
+    "duration": 17,
+    "modified": "2025-01-08T10:57:29Z",
     "repo": "https://github.com/yonaskolb/Stringly.git",
-    "runid": 12662295835,
+    "runid": 12668573804,
     "stars": 18,
     "status": "failure"
   },
