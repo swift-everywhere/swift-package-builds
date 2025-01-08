@@ -8164,10 +8164,10 @@
   },
   "SwiftGen/StencilSwiftKit": {
     "created": "2025-01-07T15:05:31Z",
-    "duration": 12,
-    "modified": "2025-01-08T15:36:31Z",
+    "duration": 11,
+    "modified": "2025-01-08T17:46:48Z",
     "repo": "https://github.com/SwiftGen/StencilSwiftKit.git",
-    "runid": 12673545525,
+    "runid": 12675617055,
     "stars": 298,
     "status": "failure"
   },
