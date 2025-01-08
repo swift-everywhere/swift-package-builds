@@ -25255,10 +25255,10 @@
   },
   "sqids/sqids-swift": {
     "created": "2025-01-07T00:54:40Z",
-    "duration": 7,
-    "modified": "2025-01-08T11:48:31Z",
+    "duration": 6,
+    "modified": "2025-01-08T14:47:38Z",
     "repo": "https://github.com/sqids/sqids-swift.git",
-    "runid": 12669458619,
+    "runid": 12672398001,
     "stars": 17,
     "status": "success"
   },
