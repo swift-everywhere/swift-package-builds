@@ -24625,10 +24625,10 @@
   },
   "shibapm/Rocket": {
     "created": "2025-01-07T04:54:40Z",
-    "duration": 89,
-    "modified": "2025-01-07T19:17:20Z",
+    "duration": 42,
+    "modified": "2025-01-08T04:32:10Z",
     "repo": "https://github.com/shibapm/Rocket.git",
-    "runid": 12657790358,
+    "runid": 12664022347,
     "stars": 111,
     "status": "failure"
   },
