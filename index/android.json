@@ -6859,10 +6859,10 @@
   },
   "RedMadRobot/input-mask-ios": {
     "created": "2025-01-06T21:59:30Z",
-    "duration": 7,
-    "modified": "2025-01-06T21:59:30Z",
+    "duration": 10,
+    "modified": "2025-01-08T15:21:13Z",
     "repo": "https://github.com/RedMadRobot/input-mask-ios.git",
-    "runid": 12640899049,
+    "runid": 12673545525,
     "stars": 584,
     "status": "success"
   },
