@@ -25778,9 +25778,9 @@
   "swift-cloud/Upstash": {
     "created": "2025-01-07T05:58:09Z",
     "duration": 25,
-    "modified": "2025-01-07T05:58:09Z",
+    "modified": "2025-01-08T19:33:10Z",
     "repo": "https://github.com/swift-cloud/Upstash.git",
-    "runid": 12645653000,
+    "runid": 12677445864,
     "stars": 7,
     "status": "failure"
   },
