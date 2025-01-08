@@ -15481,10 +15481,10 @@
   },
   "givip/Telegrammer": {
     "created": "2025-01-07T04:55:18Z",
-    "duration": 13,
-    "modified": "2025-01-07T04:55:18Z",
+    "duration": 12,
+    "modified": "2025-01-08T13:13:12Z",
     "repo": "https://github.com/givip/Telegrammer.git",
-    "runid": 12645351961,
+    "runid": 12670708592,
     "stars": 291,
     "status": "failure"
   },
