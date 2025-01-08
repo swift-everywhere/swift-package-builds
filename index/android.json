@@ -12790,10 +12790,10 @@
   },
   "dankogai/swift-combinatorics": {
     "created": "2025-01-07T04:03:27Z",
-    "duration": 4,
-    "modified": "2025-01-07T04:03:27Z",
+    "duration": 3,
+    "modified": "2025-01-08T07:07:31Z",
     "repo": "https://github.com/dankogai/swift-combinatorics.git",
-    "runid": 12644606839,
+    "runid": 12665265526,
     "stars": 12,
     "status": "failure"
   },
