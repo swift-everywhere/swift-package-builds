@@ -1126,10 +1126,10 @@
   },
   "BinaryBirds/vapor-spec": {
     "created": "2025-01-07T01:42:20Z",
-    "duration": 27,
-    "modified": "2025-01-07T22:24:33Z",
+    "duration": 28,
+    "modified": "2025-01-08T13:50:35Z",
     "repo": "https://github.com/BinaryBirds/vapor-spec.git",
-    "runid": 12660245106,
+    "runid": 12671490284,
     "stars": 37,
     "status": "failure"
   },
