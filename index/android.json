@@ -9964,10 +9964,10 @@
   },
   "apple/example-package-fisheryates": {
     "created": "2025-01-06T19:49:51Z",
-    "duration": 4,
-    "modified": "2025-01-07T20:14:15Z",
+    "duration": 3,
+    "modified": "2025-01-08T01:53:08Z",
     "repo": "https://github.com/apple/example-package-fisheryates.git",
-    "runid": 12658091539,
+    "runid": 12662295835,
     "stars": 186,
     "status": "failure"
   },
