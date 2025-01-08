@@ -28900,10 +28900,10 @@
   },
   "wabiverse/swift-arg-parser": {
     "created": "2025-01-07T09:58:31Z",
-    "duration": 10,
-    "modified": "2025-01-07T20:52:09Z",
+    "duration": 11,
+    "modified": "2025-01-08T21:42:25Z",
     "repo": "https://github.com/wabiverse/swift-arg-parser.git",
-    "runid": 12658681935,
+    "runid": 12679180049,
     "stars": 0,
     "status": "failure"
   },
