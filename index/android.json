@@ -3151,10 +3151,10 @@
   },
   "GeorgeLyon/Shwift": {
     "created": "2025-01-07T06:15:52Z",
-    "duration": 8,
-    "modified": "2025-01-07T06:15:52Z",
+    "duration": 12,
+    "modified": "2025-01-08T09:24:40Z",
     "repo": "https://github.com/GeorgeLyon/Shwift.git",
-    "runid": 12645653000,
+    "runid": 12667584016,
     "stars": 71,
     "status": "failure"
   },
