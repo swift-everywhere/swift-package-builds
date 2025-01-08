@@ -14176,10 +14176,10 @@
   },
   "elegantchaos/XPkg": {
     "created": "2025-01-07T12:57:18Z",
-    "duration": 23,
-    "modified": "2025-01-07T12:57:18Z",
+    "duration": 22,
+    "modified": "2025-01-08T09:06:29Z",
     "repo": "https://github.com/elegantchaos/XPkg.git",
-    "runid": 12651715076,
+    "runid": 12666722268,
     "stars": 14,
     "status": "failure"
   },
