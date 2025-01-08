@@ -20980,10 +20980,10 @@
   },
   "nearfri/Strix": {
     "created": "2025-01-06T21:11:39Z",
-    "duration": 8,
-    "modified": "2025-01-06T21:11:39Z",
+    "duration": 10,
+    "modified": "2025-01-08T15:58:00Z",
     "repo": "https://github.com/nearfri/Strix.git",
-    "runid": 12640312681,
+    "runid": 12673545525,
     "stars": 10,
     "status": "failure"
   },
