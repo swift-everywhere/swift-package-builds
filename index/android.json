@@ -3340,10 +3340,10 @@
   },
   "HdrHistogram/hdrhistogram-swift": {
     "created": "2025-01-07T10:26:45Z",
-    "duration": 20,
-    "modified": "2025-01-07T10:26:45Z",
+    "duration": 19,
+    "modified": "2025-01-08T09:43:51Z",
     "repo": "https://github.com/HdrHistogram/hdrhistogram-swift.git",
-    "runid": 12649615878,
+    "runid": 12667584016,
     "stars": 33,
     "status": "failure"
   },
