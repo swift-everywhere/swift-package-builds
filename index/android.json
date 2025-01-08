@@ -15796,10 +15796,10 @@
   },
   "groue/GRDB.swift": {
     "created": "2025-01-06T17:44:54Z",
-    "duration": 13,
-    "modified": "2025-01-08T18:40:33Z",
+    "duration": 12,
+    "modified": "2025-01-08T19:27:17Z",
     "repo": "https://github.com/groue/GRDB.swift.git",
-    "runid": 12676738885,
+    "runid": 12677445864,
     "stars": 7050,
     "status": "failure"
   },
