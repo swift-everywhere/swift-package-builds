@@ -23680,10 +23680,10 @@
   },
   "richardpiazza/XcodeServer": {
     "created": "2025-01-07T13:26:45Z",
-    "duration": 16,
-    "modified": "2025-01-07T13:26:45Z",
+    "duration": 12,
+    "modified": "2025-01-08T11:48:49Z",
     "repo": "https://github.com/richardpiazza/XcodeServer.git",
-    "runid": 12652509868,
+    "runid": 12669458619,
     "stars": 7,
     "status": "failure"
   },
