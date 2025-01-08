@@ -2494,10 +2494,10 @@
   },
   "FelixHerrmann/swift-multipart-formdata": {
     "created": "2025-01-07T11:51:16Z",
-    "duration": 8,
-    "modified": "2025-01-07T11:51:16Z",
+    "duration": 7,
+    "modified": "2025-01-08T01:43:55Z",
     "repo": "https://github.com/FelixHerrmann/swift-multipart-formdata.git",
-    "runid": 12650476881,
+    "runid": 12662295835,
     "stars": 30,
     "status": "success"
   },
