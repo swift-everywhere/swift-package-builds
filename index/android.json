@@ -21862,10 +21862,10 @@
   },
   "open-portfolio/AllocData": {
     "created": "2025-01-06T22:41:27Z",
-    "duration": 9,
-    "modified": "2025-01-08T13:19:28Z",
+    "duration": 8,
+    "modified": "2025-01-08T14:31:28Z",
     "repo": "https://github.com/open-portfolio/AllocData.git",
-    "runid": 12670708592,
+    "runid": 12672398001,
     "stars": 2,
     "status": "success"
   },
