@@ -6004,10 +6004,10 @@
   },
   "OpenSwiftUIProject/OpenSwiftUI": {
     "created": "2025-01-07T03:37:19Z",
-    "duration": 27,
-    "modified": "2025-01-08T14:46:21Z",
+    "duration": 30,
+    "modified": "2025-01-08T15:28:05Z",
     "repo": "https://github.com/OpenSwiftUIProject/OpenSwiftUI.git",
-    "runid": 12672398001,
+    "runid": 12673545525,
     "stars": 1102,
     "status": "failure"
   },
