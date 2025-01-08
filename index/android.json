@@ -23491,10 +23491,10 @@
   },
   "rhysforyou/swift-case-accessors": {
     "created": "2025-01-07T08:54:09Z",
-    "duration": 115,
-    "modified": "2025-01-08T11:48:03Z",
+    "duration": 118,
+    "modified": "2025-01-08T12:46:27Z",
     "repo": "https://github.com/rhysforyou/swift-case-accessors.git",
-    "runid": 12669458619,
+    "runid": 12670708592,
     "stars": 3,
     "status": "failure"
   },
