@@ -29774,9 +29774,9 @@
   "zunda-pixel/appattest-swift": {
     "created": "2025-01-07T10:07:12Z",
     "duration": 19,
-    "modified": "2025-01-07T10:07:12Z",
+    "modified": "2025-01-08T07:32:38Z",
     "repo": "https://github.com/zunda-pixel/appattest-swift.git",
-    "runid": 12648641718,
+    "runid": 12665854112,
     "stars": 1,
     "status": "failure"
   },
