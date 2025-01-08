@@ -17902,10 +17902,10 @@
   },
   "juri/subtweak": {
     "created": "2025-01-07T04:20:54Z",
-    "duration": 20,
-    "modified": "2025-01-07T04:20:54Z",
+    "duration": 18,
+    "modified": "2025-01-08T14:37:46Z",
     "repo": "https://github.com/juri/subtweak.git",
-    "runid": 12644606839,
+    "runid": 12672398001,
     "stars": 1,
     "status": "failure"
   },
