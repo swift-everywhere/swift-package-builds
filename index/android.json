@@ -1288,10 +1288,10 @@
   },
   "Carthage/Commandant": {
     "created": "2025-01-06T19:27:03Z",
-    "duration": 11,
-    "modified": "2025-01-07T17:27:59Z",
+    "duration": 12,
+    "modified": "2025-01-08T14:09:42Z",
     "repo": "https://github.com/Carthage/Commandant.git",
-    "runid": 12656035496,
+    "runid": 12671490284,
     "stars": 423,
     "status": "success"
   },
