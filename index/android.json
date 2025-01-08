@@ -25912,10 +25912,10 @@
   },
   "swift-quic/swift-quic": {
     "created": "2025-01-07T02:22:25Z",
-    "duration": 64,
-    "modified": "2025-01-07T18:05:37Z",
+    "duration": 65,
+    "modified": "2025-01-08T21:36:47Z",
     "repo": "https://github.com/swift-quic/swift-quic.git",
-    "runid": 12656035496,
+    "runid": 12679180049,
     "stars": 36,
     "status": "failure"
   },
