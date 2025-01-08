@@ -8524,10 +8524,10 @@
   },
   "TICESoftware/vapor-gorush": {
     "created": "2025-01-07T07:56:05Z",
-    "duration": 15,
-    "modified": "2025-01-07T20:31:42Z",
+    "duration": 18,
+    "modified": "2025-01-08T13:42:02Z",
     "repo": "https://github.com/TICESoftware/vapor-gorush.git",
-    "runid": 12658681935,
+    "runid": 12671490284,
     "stars": 2,
     "status": "failure"
   },
