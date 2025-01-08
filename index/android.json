@@ -19279,10 +19279,10 @@
   },
   "m-barthelemy/AcmeSwift": {
     "created": "2025-01-07T06:55:29Z",
-    "duration": 71,
-    "modified": "2025-01-08T03:21:58Z",
+    "duration": 73,
+    "modified": "2025-01-08T21:50:50Z",
     "repo": "https://github.com/m-barthelemy/AcmeSwift.git",
-    "runid": 12663141832,
+    "runid": 12679180049,
     "stars": 40,
     "status": "failure"
   },
