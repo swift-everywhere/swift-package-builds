@@ -28405,10 +28405,10 @@
   },
   "vapor/core": {
     "created": "2025-01-07T11:51:07Z",
-    "duration": 5,
-    "modified": "2025-01-07T11:51:07Z",
+    "duration": 4,
+    "modified": "2025-01-08T09:51:48Z",
     "repo": "https://github.com/vapor/core.git",
-    "runid": 12650476881,
+    "runid": 12667584016,
     "stars": 82,
     "status": "failure"
   },
