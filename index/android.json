@@ -10577,10 +10577,10 @@
   "ashvardanian/StringZilla": {
     "created": "2025-01-07T06:38:06Z",
     "duration": 4,
-    "modified": "2025-01-08T10:30:09Z",
+    "modified": "2025-01-08T16:42:56Z",
     "repo": "https://github.com/ashvardanian/StringZilla.git",
-    "runid": 12668573804,
-    "stars": 2329,
+    "runid": 12674728093,
+    "stars": 2334,
     "status": "failure"
   },
   "asoderman/JSONDecoder": {
