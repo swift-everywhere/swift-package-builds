@@ -6580,10 +6580,10 @@
   },
   "PureSwift/DBus": {
     "created": "2025-01-07T14:06:43Z",
-    "duration": 11,
-    "modified": "2025-01-08T05:05:37Z",
+    "duration": 12,
+    "modified": "2025-01-08T13:55:03Z",
     "repo": "https://github.com/PureSwift/DBus.git",
-    "runid": 12664022347,
+    "runid": 12671490284,
     "stars": 13,
     "status": "success"
   },
