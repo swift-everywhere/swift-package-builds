@@ -2710,10 +2710,10 @@
   },
   "FlineDev/AnyLint": {
     "created": "2025-01-07T11:50:59Z",
-    "duration": 10,
-    "modified": "2025-01-08T08:33:43Z",
+    "duration": 11,
+    "modified": "2025-01-08T13:36:09Z",
     "repo": "https://github.com/FlineDev/AnyLint.git",
-    "runid": 12666722268,
+    "runid": 12671490284,
     "stars": 115,
     "status": "failure"
   },
