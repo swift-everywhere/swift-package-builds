@@ -23680,10 +23680,10 @@
   },
   "richiefi/PrivacyManifestUtil": {
     "created": "2025-01-07T01:17:50Z",
-    "duration": 10,
-    "modified": "2025-01-07T01:17:50Z",
+    "duration": 11,
+    "modified": "2025-01-08T09:49:26Z",
     "repo": "https://github.com/richiefi/PrivacyManifestUtil.git",
-    "runid": 12641986754,
+    "runid": 12667584016,
     "stars": 0,
     "status": "failure"
   },
