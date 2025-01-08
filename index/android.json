@@ -26326,10 +26326,10 @@
   },
   "swiftwasm/JavaScriptKit": {
     "created": "2025-01-07T05:49:01Z",
-    "duration": 8,
-    "modified": "2025-01-08T09:20:21Z",
+    "duration": 7,
+    "modified": "2025-01-08T14:54:07Z",
     "repo": "https://github.com/swiftwasm/JavaScriptKit.git",
-    "runid": 12667584016,
+    "runid": 12672398001,
     "stars": 712,
     "status": "failure"
   },
