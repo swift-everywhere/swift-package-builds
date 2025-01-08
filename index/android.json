@@ -17174,9 +17174,9 @@
   "jb55/secp256k1.swift": {
     "created": "2025-01-06T20:06:39Z",
     "duration": 2,
-    "modified": "2025-01-07T07:58:53Z",
+    "modified": "2025-01-08T04:33:59Z",
     "repo": "https://github.com/jb55/secp256k1.swift.git",
-    "runid": 12646951061,
+    "runid": 12664022347,
     "stars": 0,
     "status": "failure"
   },
