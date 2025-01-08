@@ -5068,10 +5068,10 @@
   },
   "MaxHaertwig/ANTLR4-Swift": {
     "created": "2025-01-06T23:38:08Z",
-    "duration": 15,
-    "modified": "2025-01-08T06:46:33Z",
+    "duration": 14,
+    "modified": "2025-01-08T13:40:04Z",
     "repo": "https://github.com/MaxHaertwig/ANTLR4-Swift.git",
-    "runid": 12665265526,
+    "runid": 12671490284,
     "stars": 0,
     "status": "success"
   },
