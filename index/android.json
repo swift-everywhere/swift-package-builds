@@ -15616,10 +15616,10 @@
   },
   "gonzalezreal/swift-any-value": {
     "created": "2025-01-07T10:42:07Z",
-    "duration": 7,
-    "modified": "2025-01-07T10:42:07Z",
+    "duration": 6,
+    "modified": "2025-01-08T16:05:02Z",
     "repo": "https://github.com/gonzalezreal/swift-any-value.git",
-    "runid": 12649615878,
+    "runid": 12673545525,
     "stars": 3,
     "status": "success"
   },
