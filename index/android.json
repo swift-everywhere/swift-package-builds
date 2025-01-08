@@ -14410,10 +14410,10 @@
   },
   "envoy/Ambassador": {
     "created": "2025-01-06T22:54:21Z",
-    "duration": 9,
-    "modified": "2025-01-08T12:56:36Z",
+    "duration": 8,
+    "modified": "2025-01-08T16:42:33Z",
     "repo": "https://github.com/envoy/Ambassador.git",
-    "runid": 12670708592,
+    "runid": 12674728093,
     "stars": 186,
     "status": "failure"
   },
