@@ -7192,10 +7192,10 @@
   },
   "RxSwiftCommunity/RxSwiftExt": {
     "created": "2025-01-07T00:30:19Z",
-    "duration": 15,
-    "modified": "2025-01-08T01:35:09Z",
+    "duration": 13,
+    "modified": "2025-01-08T03:18:21Z",
     "repo": "https://github.com/RxSwiftCommunity/RxSwiftExt.git",
-    "runid": 12662295835,
+    "runid": 12663141832,
     "stars": 1335,
     "status": "failure"
   },
