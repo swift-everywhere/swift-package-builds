@@ -14266,10 +14266,10 @@
   },
   "emvakar/vapor-firebase-jwt-middleware": {
     "created": "2025-01-07T00:17:10Z",
-    "duration": 20,
-    "modified": "2025-01-07T00:17:10Z",
+    "duration": 23,
+    "modified": "2025-01-08T19:48:56Z",
     "repo": "https://github.com/emvakar/vapor-firebase-jwt-middleware.git",
-    "runid": 12641986754,
+    "runid": 12677445864,
     "stars": 1,
     "status": "failure"
   },
