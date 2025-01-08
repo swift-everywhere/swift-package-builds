@@ -11152,10 +11152,10 @@
   },
   "bilaalrashid/bbc-news-swift": {
     "created": "2025-01-07T00:02:40Z",
-    "duration": 8,
-    "modified": "2025-01-07T00:02:40Z",
+    "duration": 10,
+    "modified": "2025-01-08T14:43:38Z",
     "repo": "https://github.com/bilaalrashid/bbc-news-swift.git",
-    "runid": 12641986754,
+    "runid": 12672398001,
     "stars": 3,
     "status": "success"
   },
