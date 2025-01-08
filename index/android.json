@@ -7462,10 +7462,10 @@
   },
   "SDWebImage/libwebp-Xcode": {
     "created": "2025-01-07T10:32:08Z",
-    "duration": 1,
-    "modified": "2025-01-07T20:56:09Z",
+    "duration": 2,
+    "modified": "2025-01-08T13:35:07Z",
     "repo": "https://github.com/SDWebImage/libwebp-Xcode.git",
-    "runid": 12658681935,
+    "runid": 12671490284,
     "stars": 59,
     "status": "success"
   },
