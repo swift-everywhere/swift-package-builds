@@ -20683,10 +20683,10 @@
   },
   "multijam/SwiftGodot": {
     "created": "2025-01-07T14:53:54Z",
-    "duration": 307,
-    "modified": "2025-01-07T14:53:54Z",
+    "duration": 317,
+    "modified": "2025-01-08T21:05:27Z",
     "repo": "https://github.com/multijam/SwiftGodot.git",
-    "runid": 12652509868,
+    "runid": 12678362520,
     "stars": 3,
     "status": "failure"
   },
