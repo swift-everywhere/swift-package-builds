@@ -17038,10 +17038,10 @@
   },
   "invia-flights/swift-xcode-cloud-snapshot-testing": {
     "created": "2025-01-06T18:05:34Z",
-    "duration": 9,
-    "modified": "2025-01-07T06:52:21Z",
+    "duration": 10,
+    "modified": "2025-01-08T20:24:24Z",
     "repo": "https://github.com/invia-flights/swift-xcode-cloud-snapshot-testing.git",
-    "runid": 12646377141,
+    "runid": 12678362520,
     "stars": 1,
     "status": "failure"
   },
