@@ -24338,9 +24338,9 @@
   "segmentio/JSONSafeEncoding-Swift": {
     "created": "2025-01-07T05:15:22Z",
     "duration": 8,
-    "modified": "2025-01-08T13:37:26Z",
+    "modified": "2025-01-08T19:04:30Z",
     "repo": "https://github.com/segmentio/JSONSafeEncoding-Swift.git",
-    "runid": 12671490284,
+    "runid": 12676738885,
     "stars": 4,
     "status": "success"
   },
