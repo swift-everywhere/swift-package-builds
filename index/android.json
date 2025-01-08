@@ -1613,9 +1613,9 @@
   "CoreOffice/CoreXLSX": {
     "created": "2025-01-07T14:38:05Z",
     "duration": 13,
-    "modified": "2025-01-07T14:38:05Z",
+    "modified": "2025-01-08T13:18:48Z",
     "repo": "https://github.com/CoreOffice/CoreXLSX.git",
-    "runid": 12652509868,
+    "runid": 12670708592,
     "stars": 841,
     "status": "failure"
   },
