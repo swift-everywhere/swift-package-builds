@@ -7309,10 +7309,10 @@
   },
   "SDGGiesbrecht/SDGSwift": {
     "created": "2025-01-07T12:21:21Z",
-    "duration": 60,
-    "modified": "2025-01-07T12:21:21Z",
+    "duration": 68,
+    "modified": "2025-01-08T16:57:22Z",
     "repo": "https://github.com/SDGGiesbrecht/SDGSwift.git",
-    "runid": 12650476881,
+    "runid": 12674728093,
     "stars": 68,
     "status": "failure"
   },
