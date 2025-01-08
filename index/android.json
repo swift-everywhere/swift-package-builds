@@ -7174,10 +7174,10 @@
   },
   "RxSwiftCommunity/RxKeyboard": {
     "created": "2025-01-07T04:08:45Z",
-    "duration": 15,
-    "modified": "2025-01-08T09:40:42Z",
+    "duration": 16,
+    "modified": "2025-01-08T12:41:13Z",
     "repo": "https://github.com/RxSwiftCommunity/RxKeyboard.git",
-    "runid": 12667584016,
+    "runid": 12670708592,
     "stars": 1609,
     "status": "failure"
   },
