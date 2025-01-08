@@ -14608,10 +14608,10 @@
   },
   "fabianmuecke/RxErrorHandling": {
     "created": "2025-01-07T08:15:32Z",
-    "duration": 19,
-    "modified": "2025-01-07T08:15:32Z",
+    "duration": 18,
+    "modified": "2025-01-08T23:53:44Z",
     "repo": "https://github.com/fabianmuecke/RxErrorHandling.git",
-    "runid": 12646951061,
+    "runid": 12680732767,
     "stars": 0,
     "status": "failure"
   },
