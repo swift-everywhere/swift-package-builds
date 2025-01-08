@@ -14752,10 +14752,10 @@
   },
   "finnvoor/appstoreconnect-swift-sdk": {
     "created": "2025-01-06T20:37:22Z",
-    "duration": 30,
-    "modified": "2025-01-07T05:25:34Z",
+    "duration": 31,
+    "modified": "2025-01-08T11:30:58Z",
     "repo": "https://github.com/finnvoor/appstoreconnect-swift-sdk.git",
-    "runid": 12645653000,
+    "runid": 12669458619,
     "stars": 2,
     "status": "failure"
   },
