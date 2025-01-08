@@ -28198,10 +28198,10 @@
   },
   "vapor-community/debugging": {
     "created": "2025-01-07T13:07:22Z",
-    "duration": 4,
-    "modified": "2025-01-08T09:36:03Z",
+    "duration": 5,
+    "modified": "2025-01-08T14:04:32Z",
     "repo": "https://github.com/vapor-community/debugging.git",
-    "runid": 12667584016,
+    "runid": 12671490284,
     "stars": 10,
     "status": "success"
   },
