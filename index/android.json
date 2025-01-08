@@ -21331,10 +21331,10 @@
   },
   "nikola-mladenovic/AwsSwiftDynamoDBsdk": {
     "created": "2025-01-06T20:38:37Z",
-    "duration": 14,
-    "modified": "2025-01-07T00:58:42Z",
+    "duration": 17,
+    "modified": "2025-01-08T23:01:44Z",
     "repo": "https://github.com/nikola-mladenovic/AwsSwiftDynamoDBsdk.git",
-    "runid": 12641986754,
+    "runid": 12680001524,
     "stars": 6,
     "status": "failure"
   },
