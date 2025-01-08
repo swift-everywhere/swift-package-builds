@@ -22727,9 +22727,9 @@
   "pointfreeco/swift-html": {
     "created": "2025-01-07T15:01:47Z",
     "duration": 15,
-    "modified": "2025-01-07T19:23:59Z",
+    "modified": "2025-01-08T14:32:33Z",
     "repo": "https://github.com/pointfreeco/swift-html.git",
-    "runid": 12657790358,
+    "runid": 12672398001,
     "stars": 777,
     "status": "failure"
   },
