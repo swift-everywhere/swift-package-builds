@@ -25993,10 +25993,10 @@
   },
   "swift-server/swift-openapi-vapor": {
     "created": "2025-01-07T01:11:59Z",
-    "duration": 36,
-    "modified": "2025-01-07T16:25:02Z",
+    "duration": 30,
+    "modified": "2025-01-08T06:57:43Z",
     "repo": "https://github.com/swift-server/swift-openapi-vapor.git",
-    "runid": 12655041616,
+    "runid": 12665265526,
     "stars": 84,
     "status": "failure"
   },
