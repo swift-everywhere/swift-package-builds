@@ -15292,10 +15292,10 @@
   },
   "garanda21/vapor-qrencode": {
     "created": "2025-01-07T12:41:33Z",
-    "duration": 10,
-    "modified": "2025-01-07T12:41:33Z",
+    "duration": 9,
+    "modified": "2025-01-08T10:40:31Z",
     "repo": "https://github.com/garanda21/vapor-qrencode.git",
-    "runid": 12651715076,
+    "runid": 12668573804,
     "stars": 4,
     "status": "failure"
   },
