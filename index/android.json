@@ -4411,10 +4411,10 @@
   },
   "Kochava/Apple-SwiftPackage-KochavaUI-XCFramework": {
     "created": "2025-01-07T06:10:37Z",
-    "duration": 8,
-    "modified": "2025-01-08T06:59:53Z",
+    "duration": 9,
+    "modified": "2025-01-08T11:31:14Z",
     "repo": "https://github.com/Kochava/Apple-SwiftPackage-KochavaUI-XCFramework.git",
-    "runid": 12665265526,
+    "runid": 12669458619,
     "stars": 1,
     "status": "success"
   },
