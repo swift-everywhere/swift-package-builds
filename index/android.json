@@ -10054,10 +10054,10 @@
   },
   "apple/swift-async-dns-resolver": {
     "created": "2025-01-07T14:06:29Z",
-    "duration": 7,
-    "modified": "2025-01-07T14:06:29Z",
+    "duration": 8,
+    "modified": "2025-01-08T20:28:37Z",
     "repo": "https://github.com/apple/swift-async-dns-resolver.git",
-    "runid": 12652509868,
+    "runid": 12678362520,
     "stars": 102,
     "status": "failure"
   },
