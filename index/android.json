@@ -24202,10 +24202,10 @@
   },
   "schwmi/JWT": {
     "created": "2025-01-07T09:09:55Z",
-    "duration": 22,
-    "modified": "2025-01-08T02:53:13Z",
+    "duration": 21,
+    "modified": "2025-01-08T07:00:46Z",
     "repo": "https://github.com/schwmi/JWT.git",
-    "runid": 12663141832,
+    "runid": 12665265526,
     "stars": 1,
     "status": "failure"
   },
