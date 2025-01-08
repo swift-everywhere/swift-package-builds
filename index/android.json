@@ -9289,10 +9289,10 @@
   },
   "aestesis/Cpng": {
     "created": "2025-01-06T21:41:05Z",
-    "duration": 1,
-    "modified": "2025-01-06T21:41:05Z",
+    "duration": 2,
+    "modified": "2025-01-08T12:58:35Z",
     "repo": "https://github.com/aestesis/Cpng.git",
-    "runid": 12640552194,
+    "runid": 12670708592,
     "stars": 0,
     "status": "failure"
   },
