@@ -928,10 +928,10 @@
   },
   "Balancingrock/SwifterSockets": {
     "created": "2025-01-07T02:03:51Z",
-    "duration": 7,
-    "modified": "2025-01-07T02:03:51Z",
+    "duration": 8,
+    "modified": "2025-01-08T15:26:46Z",
     "repo": "https://github.com/Balancingrock/SwifterSockets.git",
-    "runid": 12643524602,
+    "runid": 12673545525,
     "stars": 59,
     "status": "failure"
   },
