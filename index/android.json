@@ -27748,10 +27748,10 @@
   },
   "typelift/SwiftCheck": {
     "created": "2025-01-07T09:30:56Z",
-    "duration": 15,
-    "modified": "2025-01-07T09:30:56Z",
+    "duration": 14,
+    "modified": "2025-01-08T14:30:54Z",
     "repo": "https://github.com/typelift/SwiftCheck.git",
-    "runid": 12648641718,
+    "runid": 12672398001,
     "stars": 1416,
     "status": "failure"
   },
