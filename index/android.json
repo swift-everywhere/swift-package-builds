@@ -8155,10 +8155,10 @@
   },
   "SwiftGL/Math": {
     "created": "2025-01-07T00:40:00Z",
-    "duration": 15,
-    "modified": "2025-01-08T13:27:07Z",
+    "duration": 17,
+    "modified": "2025-01-08T20:48:13Z",
     "repo": "https://github.com/SwiftGL/Math.git",
-    "runid": 12671490284,
+    "runid": 12678362520,
     "stars": 63,
     "status": "failure"
   },
