@@ -7849,10 +7849,10 @@
   },
   "StanfordSpezi/SpeziNetworking": {
     "created": "2025-01-07T03:32:19Z",
-    "duration": 27,
-    "modified": "2025-01-07T03:32:19Z",
+    "duration": 25,
+    "modified": "2025-01-08T05:39:02Z",
     "repo": "https://github.com/StanfordSpezi/SpeziNetworking.git",
-    "runid": 12644606839,
+    "runid": 12664549179,
     "stars": 1,
     "status": "failure"
   },
