@@ -2521,10 +2521,10 @@
   },
   "FitnessKit/DataDecoder": {
     "created": "2025-01-07T07:39:15Z",
-    "duration": 7,
-    "modified": "2025-01-08T08:35:29Z",
+    "duration": 6,
+    "modified": "2025-01-08T14:27:57Z",
     "repo": "https://github.com/FitnessKit/DataDecoder.git",
-    "runid": 12666722268,
+    "runid": 12672398001,
     "stars": 12,
     "status": "success"
   },
