@@ -27586,10 +27586,10 @@
   },
   "tuist/XcodeProj": {
     "created": "2025-01-06T22:13:14Z",
-    "duration": 10,
-    "modified": "2025-01-08T07:49:55Z",
+    "duration": 11,
+    "modified": "2025-01-08T14:09:54Z",
     "repo": "https://github.com/tuist/XcodeProj.git",
-    "runid": 12665854112,
+    "runid": 12671490284,
     "stars": 2047,
     "status": "failure"
   },
