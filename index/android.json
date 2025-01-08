@@ -21160,10 +21160,10 @@
   },
   "netreconlab/ParseCertificateAuthority": {
     "created": "2025-01-07T05:16:51Z",
-    "duration": 20,
-    "modified": "2025-01-07T16:26:47Z",
+    "duration": 21,
+    "modified": "2025-01-08T08:34:06Z",
     "repo": "https://github.com/netreconlab/ParseCertificateAuthority.git",
-    "runid": 12655041616,
+    "runid": 12666722268,
     "stars": 2,
     "status": "failure"
   },
