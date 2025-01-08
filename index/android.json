@@ -10036,10 +10036,10 @@
   },
   "apple/swift-asn1": {
     "created": "2025-01-07T05:44:43Z",
-    "duration": 8,
-    "modified": "2025-01-08T11:44:31Z",
+    "duration": 9,
+    "modified": "2025-01-08T21:28:30Z",
     "repo": "https://github.com/apple/swift-asn1.git",
-    "runid": 12669458619,
+    "runid": 12679180049,
     "stars": 142,
     "status": "success"
   },
