@@ -25858,10 +25858,10 @@
   },
   "swift-libp2p/swift-varint": {
     "created": "2025-01-06T22:44:00Z",
-    "duration": 5,
-    "modified": "2025-01-06T22:44:00Z",
+    "duration": 7,
+    "modified": "2025-01-08T11:31:30Z",
     "repo": "https://github.com/swift-libp2p/swift-varint.git",
-    "runid": 12641431024,
+    "runid": 12669458619,
     "stars": 1,
     "status": "success"
   },
