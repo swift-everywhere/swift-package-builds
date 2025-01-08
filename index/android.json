@@ -17794,10 +17794,10 @@
   },
   "jrothwell/VersionedCodable": {
     "created": "2025-01-07T03:05:13Z",
-    "duration": 15,
-    "modified": "2025-01-08T13:01:10Z",
+    "duration": 16,
+    "modified": "2025-01-08T14:40:04Z",
     "repo": "https://github.com/jrothwell/VersionedCodable.git",
-    "runid": 12670708592,
+    "runid": 12672398001,
     "stars": 40,
     "status": "success"
   },
