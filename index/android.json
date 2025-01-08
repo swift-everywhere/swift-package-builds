@@ -9172,10 +9172,10 @@
   },
   "adam-fowler/compress-nio": {
     "created": "2025-01-07T07:10:51Z",
-    "duration": 24,
-    "modified": "2025-01-07T07:10:51Z",
+    "duration": 22,
+    "modified": "2025-01-08T19:39:49Z",
     "repo": "https://github.com/adam-fowler/compress-nio.git",
-    "runid": 12646377141,
+    "runid": 12677445864,
     "stars": 23,
     "status": "success"
   },
