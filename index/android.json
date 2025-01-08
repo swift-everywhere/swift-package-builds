@@ -12511,10 +12511,10 @@
   },
   "dagronf/SwiftSubtitles": {
     "created": "2025-01-06T22:49:17Z",
-    "duration": 12,
-    "modified": "2025-01-08T13:54:32Z",
+    "duration": 13,
+    "modified": "2025-01-08T22:35:12Z",
     "repo": "https://github.com/dagronf/SwiftSubtitles.git",
-    "runid": 12671490284,
+    "runid": 12680001524,
     "stars": 74,
     "status": "success"
   },
