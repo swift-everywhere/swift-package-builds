@@ -15085,10 +15085,10 @@
   },
   "fruitcoder/extract-case-value": {
     "created": "2025-01-07T07:32:31Z",
-    "duration": 114,
-    "modified": "2025-01-07T07:32:31Z",
+    "duration": 107,
+    "modified": "2025-01-08T01:32:18Z",
     "repo": "https://github.com/fruitcoder/extract-case-value.git",
-    "runid": 12646951061,
+    "runid": 12662295835,
     "stars": 21,
     "status": "failure"
   },
