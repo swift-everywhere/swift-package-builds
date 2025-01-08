@@ -15058,10 +15058,10 @@
   },
   "frictionlessdata/tableschema-swift": {
     "created": "2025-01-07T10:37:10Z",
-    "duration": 6,
-    "modified": "2025-01-07T10:37:10Z",
+    "duration": 7,
+    "modified": "2025-01-08T02:59:30Z",
     "repo": "https://github.com/frictionlessdata/tableschema-swift.git",
-    "runid": 12649615878,
+    "runid": 12663141832,
     "stars": 2,
     "status": "success"
   },
