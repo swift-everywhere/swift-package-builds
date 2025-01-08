@@ -136,10 +136,10 @@
   },
   "0xLet/Observation": {
     "created": "2025-01-06T18:06:35Z",
-    "duration": 10,
-    "modified": "2025-01-07T08:17:41Z",
+    "duration": 9,
+    "modified": "2025-01-08T11:54:47Z",
     "repo": "https://github.com/0xLet/Observation.git",
-    "runid": 12646951061,
+    "runid": 12669458619,
     "stars": 3,
     "status": "success"
   },
