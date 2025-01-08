@@ -4276,10 +4276,10 @@
   },
   "Kitura/KituraKit": {
     "created": "2025-01-07T03:57:00Z",
-    "duration": 29,
-    "modified": "2025-01-08T01:54:33Z",
+    "duration": 27,
+    "modified": "2025-01-08T14:36:20Z",
     "repo": "https://github.com/Kitura/KituraKit.git",
-    "runid": 12662295835,
+    "runid": 12672398001,
     "stars": 59,
     "status": "failure"
   },
