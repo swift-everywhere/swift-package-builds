@@ -13474,11 +13474,11 @@
   },
   "dfed/SafeDI": {
     "created": "2025-01-07T07:42:43Z",
-    "duration": 140,
-    "modified": "2025-01-07T07:42:43Z",
+    "duration": 146,
+    "modified": "2025-01-08T22:56:35Z",
     "repo": "https://github.com/dfed/SafeDI.git",
-    "runid": 12646951061,
-    "stars": 113,
+    "runid": 12680001524,
+    "stars": 117,
     "status": "success"
   },
   "dfed/XCTest-watchOS": {
