@@ -6688,10 +6688,10 @@
   },
   "Quick/swift-fakes": {
     "created": "2025-01-06T20:33:38Z",
-    "duration": 22,
-    "modified": "2025-01-08T13:32:35Z",
+    "duration": 24,
+    "modified": "2025-01-08T15:32:04Z",
     "repo": "https://github.com/Quick/swift-fakes.git",
-    "runid": 12671490284,
+    "runid": 12673545525,
     "stars": 23,
     "status": "success"
   },
