@@ -28388,9 +28388,9 @@
   "vapor-community/vapor-sitemap": {
     "created": "2025-01-06T17:38:14Z",
     "duration": 32,
-    "modified": "2025-01-08T13:18:08Z",
+    "modified": "2025-01-08T23:34:38Z",
     "repo": "https://github.com/vapor-community/vapor-sitemap.git",
-    "runid": 12670708592,
+    "runid": 12680732767,
     "stars": 7,
     "status": "failure"
   },
