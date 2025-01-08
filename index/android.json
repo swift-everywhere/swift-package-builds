@@ -12160,10 +12160,10 @@
   },
   "cpageler93/JiraSwift": {
     "created": "2025-01-07T00:40:11Z",
-    "duration": 6,
-    "modified": "2025-01-07T00:40:12Z",
+    "duration": 8,
+    "modified": "2025-01-08T07:04:14Z",
     "repo": "https://github.com/cpageler93/JiraSwift.git",
-    "runid": 12641986754,
+    "runid": 12665265526,
     "stars": 23,
     "status": "failure"
   },
