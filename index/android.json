@@ -25381,10 +25381,10 @@
   },
   "stadiamaps/maplibre-swift-macros": {
     "created": "2025-01-07T04:02:55Z",
-    "duration": 95,
-    "modified": "2025-01-07T04:02:55Z",
+    "duration": 96,
+    "modified": "2025-01-08T01:40:01Z",
     "repo": "https://github.com/stadiamaps/maplibre-swift-macros.git",
-    "runid": 12644606839,
+    "runid": 12662295835,
     "stars": 2,
     "status": "success"
   },
