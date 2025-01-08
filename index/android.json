@@ -15256,10 +15256,10 @@
   },
   "futuredapp/futured-macros": {
     "created": "2025-01-07T06:41:05Z",
-    "duration": 94,
-    "modified": "2025-01-07T06:41:05Z",
+    "duration": 95,
+    "modified": "2025-01-08T18:51:46Z",
     "repo": "https://github.com/futuredapp/futured-macros.git",
-    "runid": 12646377141,
+    "runid": 12676738885,
     "stars": 0,
     "status": "success"
   },
