@@ -15257,9 +15257,9 @@
   "fwcd/swift-binary-coder": {
     "created": "2025-01-07T14:12:49Z",
     "duration": 14,
-    "modified": "2025-01-07T14:12:49Z",
+    "modified": "2025-01-08T11:35:22Z",
     "repo": "https://github.com/fwcd/swift-binary-coder.git",
-    "runid": 12652509868,
+    "runid": 12669458619,
     "stars": 3,
     "status": "success"
   },
