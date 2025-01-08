@@ -19495,10 +19495,10 @@
   },
   "maniramezan/UserDefaultMacro": {
     "created": "2025-01-06T23:56:45Z",
-    "duration": 102,
-    "modified": "2025-01-07T23:39:59Z",
+    "duration": 107,
+    "modified": "2025-01-08T18:48:53Z",
     "repo": "https://github.com/maniramezan/UserDefaultMacro.git",
-    "runid": 12660929108,
+    "runid": 12676738885,
     "stars": 4,
     "status": "failure"
   },
