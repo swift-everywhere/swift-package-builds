@@ -21304,10 +21304,10 @@
   },
   "nicklockwood/VectorMath": {
     "created": "2025-01-07T12:37:14Z",
-    "duration": 191,
-    "modified": "2025-01-07T12:37:14Z",
+    "duration": 184,
+    "modified": "2025-01-08T08:53:36Z",
     "repo": "https://github.com/nicklockwood/VectorMath.git",
-    "runid": 12650476881,
+    "runid": 12666722268,
     "stars": 367,
     "status": "failure"
   },
