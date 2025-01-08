@@ -28693,10 +28693,10 @@
   },
   "vapor/websocket-kit": {
     "created": "2025-01-07T13:21:28Z",
-    "duration": 58,
-    "modified": "2025-01-07T13:21:29Z",
+    "duration": 60,
+    "modified": "2025-01-08T17:08:06Z",
     "repo": "https://github.com/vapor/websocket-kit.git",
-    "runid": 12651715076,
+    "runid": 12674728093,
     "stars": 284,
     "status": "failure"
   },
