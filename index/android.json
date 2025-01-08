@@ -6598,10 +6598,10 @@
   },
   "PureSwift/GATT": {
     "created": "2025-01-06T21:17:31Z",
-    "duration": 62,
-    "modified": "2025-01-08T16:02:46Z",
+    "duration": 60,
+    "modified": "2025-01-08T19:11:13Z",
     "repo": "https://github.com/PureSwift/GATT.git",
-    "runid": 12673545525,
+    "runid": 12676738885,
     "stars": 64,
     "status": "failure"
   },
