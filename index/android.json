@@ -26704,10 +26704,10 @@
   },
   "tannerdsilva/nostr-kit": {
     "created": "2025-01-07T08:49:00Z",
-    "duration": 24,
-    "modified": "2025-01-07T08:49:00Z",
+    "duration": 26,
+    "modified": "2025-01-08T13:52:00Z",
     "repo": "https://github.com/tannerdsilva/nostr-kit.git",
-    "runid": 12647794335,
+    "runid": 12671490284,
     "stars": 8,
     "status": "failure"
   },
