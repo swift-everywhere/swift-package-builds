@@ -11215,10 +11215,10 @@
   },
   "blobs-lol/farcaster-swift": {
     "created": "2025-01-07T08:38:10Z",
-    "duration": 21,
-    "modified": "2025-01-07T08:38:10Z",
+    "duration": 22,
+    "modified": "2025-01-08T09:28:16Z",
     "repo": "https://github.com/blobs-lol/farcaster-swift.git",
-    "runid": 12647794335,
+    "runid": 12667584016,
     "stars": 0,
     "status": "failure"
   },
