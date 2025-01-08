@@ -9865,11 +9865,11 @@
   },
   "antlr/antlr4": {
     "created": "2025-01-06T22:52:03Z",
-    "duration": 11,
-    "modified": "2025-01-06T22:52:03Z",
+    "duration": 12,
+    "modified": "2025-01-08T07:00:16Z",
     "repo": "https://github.com/antlr/antlr4.git",
-    "runid": 12641431024,
-    "stars": 17425,
+    "runid": 12665265526,
+    "stars": 17433,
     "status": "success"
   },
   "antonsynd/swift-event-broadcasting": {
