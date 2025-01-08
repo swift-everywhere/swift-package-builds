@@ -3961,10 +3961,10 @@
   },
   "KS1019/Script.swift": {
     "created": "2025-01-07T09:23:03Z",
-    "duration": 10,
-    "modified": "2025-01-08T22:43:30Z",
+    "duration": 8,
+    "modified": "2025-01-08T23:47:52Z",
     "repo": "https://github.com/KS1019/Script.swift.git",
-    "runid": 12680001524,
+    "runid": 12680732767,
     "stars": 3,
     "status": "failure"
   },
