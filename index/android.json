@@ -19342,10 +19342,10 @@
   },
   "m1guelpf/ziggy-vapor": {
     "created": "2025-01-07T12:29:36Z",
-    "duration": 36,
-    "modified": "2025-01-07T23:25:48Z",
+    "duration": 35,
+    "modified": "2025-01-08T18:56:05Z",
     "repo": "https://github.com/m1guelpf/ziggy-vapor.git",
-    "runid": 12660929108,
+    "runid": 12676738885,
     "stars": 3,
     "status": "failure"
   },
