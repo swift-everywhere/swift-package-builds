@@ -9640,10 +9640,10 @@
   },
   "alloyapple/Goose": {
     "created": "2025-01-06T23:22:53Z",
-    "duration": 6,
-    "modified": "2025-01-06T23:22:54Z",
+    "duration": 7,
+    "modified": "2025-01-08T05:31:16Z",
     "repo": "https://github.com/alloyapple/Goose.git",
-    "runid": 12641986754,
+    "runid": 12664549179,
     "stars": 0,
     "status": "failure"
   },
