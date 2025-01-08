@@ -6778,10 +6778,10 @@
   },
   "ReactiveCocoa/reactiveswift-composable-architecture": {
     "created": "2025-01-07T04:51:08Z",
-    "duration": 32,
-    "modified": "2025-01-07T04:51:08Z",
+    "duration": 33,
+    "modified": "2025-01-08T04:30:55Z",
     "repo": "https://github.com/ReactiveCocoa/reactiveswift-composable-architecture.git",
-    "runid": 12645351961,
+    "runid": 12664022347,
     "stars": 160,
     "status": "failure"
   },
