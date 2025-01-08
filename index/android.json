@@ -21871,10 +21871,10 @@
   },
   "open-telemetry/opentelemetry-swift": {
     "created": "2025-01-07T08:56:45Z",
-    "duration": 28,
-    "modified": "2025-01-08T04:33:40Z",
+    "duration": 24,
+    "modified": "2025-01-08T09:59:16Z",
     "repo": "https://github.com/open-telemetry/opentelemetry-swift.git",
-    "runid": 12664022347,
+    "runid": 12667584016,
     "stars": 230,
     "status": "failure"
   },
