@@ -3754,11 +3754,11 @@
   },
   "JohnSundell/ShellOut": {
     "created": "2025-01-07T08:20:12Z",
-    "duration": 7,
-    "modified": "2025-01-07T08:20:12Z",
+    "duration": 6,
+    "modified": "2025-01-08T05:07:43Z",
     "repo": "https://github.com/JohnSundell/ShellOut.git",
-    "runid": 12646951061,
-    "stars": 881,
+    "runid": 12664022347,
+    "stars": 882,
     "status": "success"
   },
   "JohnSundell/Splash": {
