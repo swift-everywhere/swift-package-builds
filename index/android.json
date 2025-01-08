@@ -26165,9 +26165,9 @@
   "swiftlang/swift-docc-plugin": {
     "created": "2025-01-07T08:50:55Z",
     "duration": 20,
-    "modified": "2025-01-07T08:50:55Z",
+    "modified": "2025-01-08T22:40:57Z",
     "repo": "https://github.com/swiftlang/swift-docc-plugin.git",
-    "runid": 12647794335,
+    "runid": 12680001524,
     "stars": 327,
     "status": "success"
   },
