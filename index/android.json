@@ -7201,10 +7201,10 @@
   },
   "RxSwiftCommunity/RxOptional": {
     "created": "2025-01-07T02:41:35Z",
-    "duration": 16,
-    "modified": "2025-01-08T12:41:30Z",
+    "duration": 15,
+    "modified": "2025-01-08T23:40:45Z",
     "repo": "https://github.com/RxSwiftCommunity/RxOptional.git",
-    "runid": 12670708592,
+    "runid": 12680732767,
     "stars": 699,
     "status": "failure"
   },
