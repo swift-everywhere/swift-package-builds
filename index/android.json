@@ -8497,10 +8497,10 @@
   },
   "Swonkie/RawTerm": {
     "created": "2025-01-06T23:38:58Z",
-    "duration": 3,
-    "modified": "2025-01-06T23:38:58Z",
+    "duration": 4,
+    "modified": "2025-01-08T07:07:36Z",
     "repo": "https://github.com/Swonkie/RawTerm.git",
-    "runid": 12641986754,
+    "runid": 12665265526,
     "stars": 1,
     "status": "failure"
   },
