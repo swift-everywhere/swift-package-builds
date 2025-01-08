@@ -23329,11 +23329,11 @@
   },
   "realm/SwiftLint": {
     "created": "2025-01-07T10:58:47Z",
-    "duration": 23,
-    "modified": "2025-01-07T10:58:47Z",
+    "duration": 32,
+    "modified": "2025-01-08T13:35:49Z",
     "repo": "https://github.com/realm/SwiftLint.git",
-    "runid": 12649615878,
-    "stars": 18753,
+    "runid": 12671490284,
+    "stars": 18754,
     "status": "failure"
   },
   "recp/cglm": {
