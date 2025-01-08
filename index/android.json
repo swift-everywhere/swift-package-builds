@@ -4600,10 +4600,10 @@
   },
   "Local-Connectivity-Lab/lcl-speedtest": {
     "created": "2025-01-07T09:47:15Z",
-    "duration": 64,
-    "modified": "2025-01-07T09:47:15Z",
+    "duration": 62,
+    "modified": "2025-01-08T01:56:06Z",
     "repo": "https://github.com/Local-Connectivity-Lab/lcl-speedtest.git",
-    "runid": 12648641718,
+    "runid": 12662295835,
     "stars": 8,
     "status": "failure"
   },
