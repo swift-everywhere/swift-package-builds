@@ -21160,10 +21160,10 @@
   },
   "nerzh/swift-telegram-sdk": {
     "created": "2025-01-07T07:11:03Z",
-    "duration": 9,
-    "modified": "2025-01-08T08:39:29Z",
+    "duration": 10,
+    "modified": "2025-01-08T22:44:55Z",
     "repo": "https://github.com/nerzh/swift-telegram-sdk.git",
-    "runid": 12666722268,
+    "runid": 12680001524,
     "stars": 218,
     "status": "failure"
   },
