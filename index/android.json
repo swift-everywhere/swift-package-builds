@@ -26155,10 +26155,10 @@
   },
   "swiftlang/swift-docc-symbolkit": {
     "created": "2025-01-07T10:54:01Z",
-    "duration": 11,
-    "modified": "2025-01-08T03:50:39Z",
+    "duration": 12,
+    "modified": "2025-01-08T14:50:57Z",
     "repo": "https://github.com/swiftlang/swift-docc-symbolkit.git",
-    "runid": 12663475967,
+    "runid": 12672398001,
     "stars": 183,
     "status": "success"
   },
