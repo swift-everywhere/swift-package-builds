@@ -28639,10 +28639,10 @@
   },
   "vapor/sqlite-kit": {
     "created": "2025-01-06T23:41:54Z",
-    "duration": 49,
-    "modified": "2025-01-08T13:41:43Z",
+    "duration": 48,
+    "modified": "2025-01-08T15:29:57Z",
     "repo": "https://github.com/vapor/sqlite-kit.git",
-    "runid": 12671490284,
+    "runid": 12673545525,
     "stars": 63,
     "status": "failure"
   },
