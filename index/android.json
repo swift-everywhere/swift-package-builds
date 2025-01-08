@@ -19882,10 +19882,10 @@
   },
   "mattpolzin/VaporOpenAPI": {
     "created": "2025-01-06T21:29:09Z",
-    "duration": 28,
-    "modified": "2025-01-07T23:42:36Z",
+    "duration": 33,
+    "modified": "2025-01-08T14:22:06Z",
     "repo": "https://github.com/mattpolzin/VaporOpenAPI.git",
-    "runid": 12660929108,
+    "runid": 12672398001,
     "stars": 57,
     "status": "failure"
   },
