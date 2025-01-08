@@ -11315,9 +11315,9 @@
   "bppr/Speck": {
     "created": "2025-01-07T07:12:17Z",
     "duration": 5,
-    "modified": "2025-01-07T07:12:17Z",
+    "modified": "2025-01-08T13:22:15Z",
     "repo": "https://github.com/bppr/Speck.git",
-    "runid": 12646377141,
+    "runid": 12670708592,
     "stars": 5,
     "status": "failure"
   },
