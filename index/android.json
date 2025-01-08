@@ -16975,10 +16975,10 @@
   },
   "insub4067/Requestify": {
     "created": "2025-01-07T00:32:44Z",
-    "duration": 11,
-    "modified": "2025-01-08T05:07:36Z",
+    "duration": 12,
+    "modified": "2025-01-08T14:26:38Z",
     "repo": "https://github.com/insub4067/Requestify.git",
-    "runid": 12664022347,
+    "runid": 12672398001,
     "stars": 2,
     "status": "failure"
   },
