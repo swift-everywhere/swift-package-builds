@@ -5770,10 +5770,10 @@
   },
   "NozeIO/swift-nio-irc-client": {
     "created": "2025-01-07T01:17:04Z",
-    "duration": 25,
-    "modified": "2025-01-07T01:17:04Z",
+    "duration": 28,
+    "modified": "2025-01-08T21:47:09Z",
     "repo": "https://github.com/NozeIO/swift-nio-irc-client.git",
-    "runid": 12641986754,
+    "runid": 12679180049,
     "stars": 3,
     "status": "failure"
   },
