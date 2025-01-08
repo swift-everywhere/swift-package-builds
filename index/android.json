@@ -17938,10 +17938,10 @@
   },
   "jverkoey/BinaryCodable": {
     "created": "2025-01-06T20:41:26Z",
-    "duration": 6,
-    "modified": "2025-01-07T23:58:40Z",
+    "duration": 7,
+    "modified": "2025-01-08T07:21:06Z",
     "repo": "https://github.com/jverkoey/BinaryCodable.git",
-    "runid": 12660929108,
+    "runid": 12665854112,
     "stars": 392,
     "status": "success"
   },
