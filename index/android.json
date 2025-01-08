@@ -25993,10 +25993,10 @@
   },
   "swift-server/swift-openapi-lambda": {
     "created": "2025-01-07T05:19:28Z",
-    "duration": 50,
-    "modified": "2025-01-08T07:05:32Z",
+    "duration": 53,
+    "modified": "2025-01-08T13:33:49Z",
     "repo": "https://github.com/swift-server/swift-openapi-lambda.git",
-    "runid": 12665265526,
+    "runid": 12671490284,
     "stars": 14,
     "status": "failure"
   },
