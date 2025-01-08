@@ -25975,10 +25975,10 @@
   },
   "swift-server/swift-openapi-hummingbird": {
     "created": "2025-01-07T05:15:09Z",
-    "duration": 27,
-    "modified": "2025-01-08T03:06:43Z",
+    "duration": 24,
+    "modified": "2025-01-08T09:42:55Z",
     "repo": "https://github.com/swift-server/swift-openapi-hummingbird.git",
-    "runid": 12663141832,
+    "runid": 12667584016,
     "stars": 27,
     "status": "failure"
   },
