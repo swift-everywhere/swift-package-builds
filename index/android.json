@@ -4123,10 +4123,10 @@
   },
   "Kitura/BlueSocket": {
     "created": "2025-01-06T21:19:13Z",
-    "duration": 7,
-    "modified": "2025-01-06T21:19:13Z",
+    "duration": 8,
+    "modified": "2025-01-08T11:21:44Z",
     "repo": "https://github.com/Kitura/BlueSocket.git",
-    "runid": 12640312681,
+    "runid": 12669458619,
     "stars": 1412,
     "status": "failure"
   },
