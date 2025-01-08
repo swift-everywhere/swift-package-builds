@@ -28576,10 +28576,10 @@
   },
   "vapor/postgres-nio": {
     "created": "2025-01-07T09:12:40Z",
-    "duration": 30,
-    "modified": "2025-01-08T18:27:25Z",
+    "duration": 25,
+    "modified": "2025-01-08T19:15:44Z",
     "repo": "https://github.com/vapor/postgres-nio.git",
-    "runid": 12676738885,
+    "runid": 12677445864,
     "stars": 339,
     "status": "failure"
   },
