@@ -28,10 +28,10 @@
   },
   "0xLeif/AppDependency": {
     "created": "2025-01-07T13:50:47Z",
-    "duration": 9,
-    "modified": "2025-01-07T13:50:47Z",
+    "duration": 8,
+    "modified": "2025-01-08T13:22:49Z",
     "repo": "https://github.com/0xLeif/AppDependency.git",
-    "runid": 12652509868,
+    "runid": 12670708592,
     "stars": 4,
     "status": "failure"
   },
