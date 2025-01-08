@@ -20890,10 +20890,10 @@
   },
   "natinusala/swift-backtrace": {
     "created": "2025-01-07T12:25:50Z",
-    "duration": 4,
-    "modified": "2025-01-07T12:25:50Z",
+    "duration": 5,
+    "modified": "2025-01-08T04:36:31Z",
     "repo": "https://github.com/natinusala/swift-backtrace.git",
-    "runid": 12650476881,
+    "runid": 12664022347,
     "stars": 1,
     "status": "failure"
   },
