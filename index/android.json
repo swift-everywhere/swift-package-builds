@@ -10585,10 +10585,10 @@
   },
   "astzweig/swift-digits": {
     "created": "2025-01-06T22:39:41Z",
-    "duration": 3,
-    "modified": "2025-01-06T22:39:41Z",
+    "duration": 4,
+    "modified": "2025-01-08T13:36:33Z",
     "repo": "https://github.com/astzweig/swift-digits.git",
-    "runid": 12641431024,
+    "runid": 12671490284,
     "stars": 1,
     "status": "success"
   },
