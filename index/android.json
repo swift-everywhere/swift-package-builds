@@ -11980,10 +11980,10 @@
   },
   "che1404/Vipergen": {
     "created": "2025-01-07T14:06:20Z",
-    "duration": 11,
-    "modified": "2025-01-07T23:38:15Z",
+    "duration": 13,
+    "modified": "2025-01-08T14:07:19Z",
     "repo": "https://github.com/che1404/Vipergen.git",
-    "runid": 12660929108,
+    "runid": 12671490284,
     "stars": 5,
     "status": "failure"
   },
