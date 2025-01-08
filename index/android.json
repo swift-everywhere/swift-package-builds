@@ -11296,10 +11296,10 @@
   },
   "bow-swift/nef": {
     "created": "2025-01-07T11:31:45Z",
-    "duration": 52,
-    "modified": "2025-01-07T11:31:45Z",
+    "duration": 44,
+    "modified": "2025-01-08T13:22:09Z",
     "repo": "https://github.com/bow-swift/nef.git",
-    "runid": 12650476881,
+    "runid": 12670708592,
     "stars": 268,
     "status": "failure"
   },
