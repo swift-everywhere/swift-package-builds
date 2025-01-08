@@ -5338,10 +5338,10 @@
   },
   "MortenGregersen/Bagbutik": {
     "created": "2025-01-07T13:39:33Z",
-    "duration": 41,
-    "modified": "2025-01-07T13:39:33Z",
+    "duration": 22,
+    "modified": "2025-01-08T15:55:24Z",
     "repo": "https://github.com/MortenGregersen/Bagbutik.git",
-    "runid": 12652509868,
+    "runid": 12673545525,
     "stars": 165,
     "status": "failure"
   },
