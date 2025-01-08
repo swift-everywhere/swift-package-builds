@@ -10315,10 +10315,10 @@
   },
   "apple/swift-numerics": {
     "created": "2025-01-07T07:26:21Z",
-    "duration": 9,
-    "modified": "2025-01-07T07:26:21Z",
+    "duration": 11,
+    "modified": "2025-01-08T12:58:32Z",
     "repo": "https://github.com/apple/swift-numerics.git",
-    "runid": 12646951061,
+    "runid": 12670708592,
     "stars": 1697,
     "status": "success"
   },
