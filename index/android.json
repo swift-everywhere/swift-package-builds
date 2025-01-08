@@ -15598,10 +15598,10 @@
   },
   "gonzalezreal/DefaultCodable": {
     "created": "2025-01-06T20:31:58Z",
-    "duration": 6,
-    "modified": "2025-01-06T22:15:55Z",
+    "duration": 7,
+    "modified": "2025-01-08T15:26:54Z",
     "repo": "https://github.com/gonzalezreal/DefaultCodable.git",
-    "runid": 12640899049,
+    "runid": 12673545525,
     "stars": 356,
     "status": "success"
   },
