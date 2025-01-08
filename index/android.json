@@ -5996,10 +5996,10 @@
   "OpenSwiftUIProject/OpenSwiftUI": {
     "created": "2025-01-07T03:37:19Z",
     "duration": 27,
-    "modified": "2025-01-07T03:37:19Z",
+    "modified": "2025-01-08T14:46:21Z",
     "repo": "https://github.com/OpenSwiftUIProject/OpenSwiftUI.git",
-    "runid": 12644606839,
-    "stars": 1100,
+    "runid": 12672398001,
+    "stars": 1102,
     "status": "failure"
   },
   "OpenSwiftUIProject/ProtobufKit": {
