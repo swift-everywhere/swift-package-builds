@@ -11539,10 +11539,10 @@
   },
   "brightdigit/SpinetailVapor": {
     "created": "2025-01-06T22:59:36Z",
-    "duration": 59,
-    "modified": "2025-01-07T19:48:50Z",
+    "duration": 61,
+    "modified": "2025-01-08T10:45:43Z",
     "repo": "https://github.com/brightdigit/SpinetailVapor.git",
-    "runid": 12658091539,
+    "runid": 12668573804,
     "stars": 0,
     "status": "failure"
   },
