@@ -28252,10 +28252,10 @@
   },
   "vapor-community/node": {
     "created": "2025-01-07T00:36:11Z",
-    "duration": 8,
-    "modified": "2025-01-07T18:12:01Z",
+    "duration": 7,
+    "modified": "2025-01-08T02:00:35Z",
     "repo": "https://github.com/vapor-community/node.git",
-    "runid": 12656035496,
+    "runid": 12662295835,
     "stars": 25,
     "status": "failure"
   },
