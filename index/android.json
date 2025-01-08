@@ -20530,11 +20530,11 @@
   },
   "mozilla-mobile/firefox-ios": {
     "created": "2025-01-07T12:18:52Z",
-    "duration": 24,
-    "modified": "2025-01-07T19:07:35Z",
+    "duration": 25,
+    "modified": "2025-01-08T15:44:23Z",
     "repo": "https://github.com/mozilla-mobile/firefox-ios.git",
-    "runid": 12657091582,
-    "stars": 12303,
+    "runid": 12673545525,
+    "stars": 12300,
     "status": "failure"
   },
   "mpangburn/FunctionKit": {
