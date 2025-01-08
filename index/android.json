@@ -8380,10 +8380,10 @@
   },
   "SwiftWebUI/SwiftWebUI": {
     "created": "2025-01-06T23:54:40Z",
-    "duration": 33,
-    "modified": "2025-01-06T23:54:40Z",
+    "duration": 35,
+    "modified": "2025-01-08T19:34:49Z",
     "repo": "https://github.com/SwiftWebUI/SwiftWebUI.git",
-    "runid": 12641986754,
+    "runid": 12677445864,
     "stars": 4216,
     "status": "failure"
   },
