@@ -5194,10 +5194,10 @@
   },
   "MihaelIsaev/NIOCronScheduler": {
     "created": "2025-01-07T05:46:56Z",
-    "duration": 27,
-    "modified": "2025-01-08T02:08:10Z",
+    "duration": 28,
+    "modified": "2025-01-08T19:56:40Z",
     "repo": "https://github.com/MihaelIsaev/NIOCronScheduler.git",
-    "runid": 12662295835,
+    "runid": 12677445864,
     "stars": 24,
     "status": "failure"
   },
