@@ -3358,10 +3358,10 @@
   },
   "HealthTap/DangerXcodeStaticAnalyzer": {
     "created": "2025-01-06T17:35:26Z",
-    "duration": 17,
-    "modified": "2025-01-08T10:22:28Z",
+    "duration": 20,
+    "modified": "2025-01-08T18:43:49Z",
     "repo": "https://github.com/HealthTap/DangerXcodeStaticAnalyzer.git",
-    "runid": 12668573804,
+    "runid": 12676738885,
     "stars": 2,
     "status": "failure"
   },
