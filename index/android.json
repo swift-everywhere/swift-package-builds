@@ -46,10 +46,10 @@
   },
   "0xLeif/Cache": {
     "created": "2025-01-06T20:26:38Z",
-    "duration": 8,
-    "modified": "2025-01-08T01:54:02Z",
+    "duration": 7,
+    "modified": "2025-01-08T04:31:11Z",
     "repo": "https://github.com/0xLeif/Cache.git",
-    "runid": 12662295835,
+    "runid": 12664022347,
     "stars": 6,
     "status": "failure"
   },
