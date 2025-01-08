@@ -26020,10 +26020,10 @@
   },
   "swift-server/swift-webauthn": {
     "created": "2025-01-06T22:52:42Z",
-    "duration": 29,
-    "modified": "2025-01-07T19:00:29Z",
+    "duration": 26,
+    "modified": "2025-01-08T04:40:33Z",
     "repo": "https://github.com/swift-server/swift-webauthn.git",
-    "runid": 12657091582,
+    "runid": 12664022347,
     "stars": 133,
     "status": "failure"
   },
