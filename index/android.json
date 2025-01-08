@@ -1486,10 +1486,10 @@
   },
   "ChimeHQ/Rearrange": {
     "created": "2025-01-06T23:25:47Z",
-    "duration": 8,
-    "modified": "2025-01-08T11:27:54Z",
+    "duration": 7,
+    "modified": "2025-01-08T16:30:47Z",
     "repo": "https://github.com/ChimeHQ/Rearrange.git",
-    "runid": 12669458619,
+    "runid": 12674728093,
     "stars": 78,
     "status": "success"
   },
