@@ -16534,10 +16534,10 @@
   },
   "hummingbird-project/hummingbird-lambda": {
     "created": "2025-01-07T01:38:30Z",
-    "duration": 38,
-    "modified": "2025-01-07T01:38:30Z",
+    "duration": 26,
+    "modified": "2025-01-08T23:48:28Z",
     "repo": "https://github.com/hummingbird-project/hummingbird-lambda.git",
-    "runid": 12643524602,
+    "runid": 12680732767,
     "stars": 28,
     "status": "failure"
   },
