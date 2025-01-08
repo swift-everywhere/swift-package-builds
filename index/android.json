@@ -15680,9 +15680,9 @@
   "googleads/swift-package-manager-google-mobile-ads": {
     "created": "2025-01-07T09:58:46Z",
     "duration": 6,
-    "modified": "2025-01-07T23:59:22Z",
+    "modified": "2025-01-08T12:47:20Z",
     "repo": "https://github.com/googleads/swift-package-manager-google-mobile-ads.git",
-    "runid": 12660929108,
+    "runid": 12670708592,
     "stars": 147,
     "status": "success"
   },
