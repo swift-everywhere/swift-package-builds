@@ -14797,10 +14797,10 @@
   },
   "fireblade-engine/math": {
     "created": "2025-01-06T21:18:21Z",
-    "duration": 6,
-    "modified": "2025-01-06T21:31:47Z",
+    "duration": 7,
+    "modified": "2025-01-08T18:49:32Z",
     "repo": "https://github.com/fireblade-engine/math.git",
-    "runid": 12640552194,
+    "runid": 12676738885,
     "stars": 39,
     "status": "failure"
   },
