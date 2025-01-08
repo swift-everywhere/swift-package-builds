@@ -28576,10 +28576,10 @@
   },
   "vapor/queues-redis-driver": {
     "created": "2025-01-07T05:23:01Z",
-    "duration": 36,
-    "modified": "2025-01-07T20:12:59Z",
+    "duration": 34,
+    "modified": "2025-01-08T13:16:41Z",
     "repo": "https://github.com/vapor/queues-redis-driver.git",
-    "runid": 12658091539,
+    "runid": 12670708592,
     "stars": 23,
     "status": "failure"
   },
