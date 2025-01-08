@@ -12088,10 +12088,10 @@
   },
   "ckanchan/CDKSwiftOracc": {
     "created": "2025-01-07T12:01:32Z",
-    "duration": 8,
-    "modified": "2025-01-07T12:01:32Z",
+    "duration": 9,
+    "modified": "2025-01-08T10:23:12Z",
     "repo": "https://github.com/ckanchan/CDKSwiftOracc.git",
-    "runid": 12650476881,
+    "runid": 12668573804,
     "stars": 0,
     "status": "failure"
   },
