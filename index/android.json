@@ -19837,10 +19837,10 @@
   },
   "mattpolzin/JSONAPI": {
     "created": "2025-01-06T22:53:18Z",
-    "duration": 12,
-    "modified": "2025-01-08T09:31:38Z",
+    "duration": 13,
+    "modified": "2025-01-08T19:16:43Z",
     "repo": "https://github.com/mattpolzin/JSONAPI.git",
-    "runid": 12667584016,
+    "runid": 12677445864,
     "stars": 75,
     "status": "success"
   },
