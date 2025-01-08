@@ -10288,10 +10288,10 @@
   },
   "apple/swift-nio-oblivious-http": {
     "created": "2025-01-07T03:19:25Z",
-    "duration": 46,
-    "modified": "2025-01-08T10:36:35Z",
+    "duration": 47,
+    "modified": "2025-01-08T21:28:20Z",
     "repo": "https://github.com/apple/swift-nio-oblivious-http.git",
-    "runid": 12668573804,
+    "runid": 12679180049,
     "stars": 53,
     "status": "failure"
   },
