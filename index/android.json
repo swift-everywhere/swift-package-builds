@@ -3313,10 +3313,10 @@
   },
   "GraphQLSwift/GraphQL": {
     "created": "2025-01-07T13:12:49Z",
-    "duration": 27,
-    "modified": "2025-01-08T08:48:08Z",
+    "duration": 25,
+    "modified": "2025-01-08T15:00:45Z",
     "repo": "https://github.com/GraphQLSwift/GraphQL.git",
-    "runid": 12666722268,
+    "runid": 12672398001,
     "stars": 941,
     "status": "failure"
   },
