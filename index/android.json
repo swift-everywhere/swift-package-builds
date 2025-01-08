@@ -8398,10 +8398,10 @@
   },
   "Swiftgram/TDLibFramework": {
     "created": "2025-01-07T10:02:28Z",
-    "duration": 25,
-    "modified": "2025-01-07T10:02:28Z",
+    "duration": 26,
+    "modified": "2025-01-08T11:38:34Z",
     "repo": "https://github.com/Swiftgram/TDLibFramework.git",
-    "runid": 12648641718,
+    "runid": 12669458619,
     "stars": 16,
     "status": "success"
   },
