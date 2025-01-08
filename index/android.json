@@ -14573,9 +14573,9 @@
   "f-meloni/danger-swift-xcodesummary": {
     "created": "2025-01-06T23:42:22Z",
     "duration": 18,
-    "modified": "2025-01-07T23:34:17Z",
+    "modified": "2025-01-08T04:55:47Z",
     "repo": "https://github.com/f-meloni/danger-swift-xcodesummary.git",
-    "runid": 12660929108,
+    "runid": 12664022347,
     "stars": 75,
     "status": "failure"
   },
