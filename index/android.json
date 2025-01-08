@@ -5275,10 +5275,10 @@
   },
   "Mobelux/swift-aws-extras": {
     "created": "2025-01-06T21:33:46Z",
-    "duration": 115,
-    "modified": "2025-01-08T05:01:53Z",
+    "duration": 119,
+    "modified": "2025-01-08T11:30:19Z",
     "repo": "https://github.com/Mobelux/swift-aws-extras.git",
-    "runid": 12664022347,
+    "runid": 12669458619,
     "stars": 1,
     "status": "failure"
   },
