@@ -22519,10 +22519,10 @@
   },
   "petrpavlik/MixpanelVapor": {
     "created": "2025-01-07T08:03:52Z",
-    "duration": 34,
-    "modified": "2025-01-07T08:03:52Z",
+    "duration": 36,
+    "modified": "2025-01-08T19:31:06Z",
     "repo": "https://github.com/petrpavlik/MixpanelVapor.git",
-    "runid": 12646951061,
+    "runid": 12677445864,
     "stars": 5,
     "status": "failure"
   },
