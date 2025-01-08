@@ -26254,10 +26254,10 @@
   },
   "swiftlang/swift-package-manager": {
     "created": "2025-01-07T02:26:29Z",
-    "duration": 82,
-    "modified": "2025-01-08T04:54:53Z",
+    "duration": 90,
+    "modified": "2025-01-08T18:33:33Z",
     "repo": "https://github.com/swiftlang/swift-package-manager.git",
-    "runid": 12664022347,
+    "runid": 12676738885,
     "stars": 9818,
     "status": "failure"
   },
