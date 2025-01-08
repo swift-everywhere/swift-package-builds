@@ -15112,10 +15112,10 @@
   },
   "fschwehn/vapor-rest-client": {
     "created": "2025-01-07T11:55:26Z",
-    "duration": 12,
-    "modified": "2025-01-08T08:45:57Z",
+    "duration": 14,
+    "modified": "2025-01-08T21:42:41Z",
     "repo": "https://github.com/fschwehn/vapor-rest-client.git",
-    "runid": 12666722268,
+    "runid": 12679180049,
     "stars": 2,
     "status": "failure"
   },
