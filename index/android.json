@@ -28297,10 +28297,10 @@
   },
   "vapor-community/queues-database-hooks": {
     "created": "2025-01-07T12:48:22Z",
-    "duration": 39,
-    "modified": "2025-01-08T19:49:44Z",
+    "duration": 42,
+    "modified": "2025-01-08T20:45:52Z",
     "repo": "https://github.com/vapor-community/queues-database-hooks.git",
-    "runid": 12677445864,
+    "runid": 12678362520,
     "stars": 13,
     "status": "failure"
   },
