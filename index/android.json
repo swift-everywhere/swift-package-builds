@@ -11053,10 +11053,10 @@
   },
   "berikv/FailableSequence": {
     "created": "2025-01-06T17:26:48Z",
-    "duration": 7,
-    "modified": "2025-01-07T21:55:08Z",
+    "duration": 8,
+    "modified": "2025-01-08T22:45:31Z",
     "repo": "https://github.com/berikv/FailableSequence.git",
-    "runid": 12659472889,
+    "runid": 12680001524,
     "stars": 0,
     "status": "success"
   },
