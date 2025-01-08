@@ -18649,10 +18649,10 @@
   },
   "kylef/JSONWebToken.swift": {
     "created": "2025-01-06T22:05:17Z",
-    "duration": 10,
-    "modified": "2025-01-08T16:53:21Z",
+    "duration": 12,
+    "modified": "2025-01-08T22:23:11Z",
     "repo": "https://github.com/kylef/JSONWebToken.swift.git",
-    "runid": 12674728093,
+    "runid": 12680001524,
     "stars": 763,
     "status": "failure"
   },
