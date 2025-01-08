@@ -21494,9 +21494,9 @@
   "novr/swift-openapi-compute": {
     "created": "2025-01-07T10:12:46Z",
     "duration": 11,
-    "modified": "2025-01-07T20:09:11Z",
+    "modified": "2025-01-08T23:31:30Z",
     "repo": "https://github.com/novr/swift-openapi-compute.git",
-    "runid": 12658091539,
+    "runid": 12680732767,
     "stars": 1,
     "status": "failure"
   },
