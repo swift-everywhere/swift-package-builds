@@ -28054,10 +28054,10 @@
   },
   "valeriyvan/RaspberryPiSenseHat": {
     "created": "2025-01-07T00:57:34Z",
-    "duration": 8,
-    "modified": "2025-01-07T23:17:42Z",
+    "duration": 7,
+    "modified": "2025-01-08T15:36:08Z",
     "repo": "https://github.com/valeriyvan/RaspberryPiSenseHat.git",
-    "runid": 12660929108,
+    "runid": 12673545525,
     "stars": 3,
     "status": "failure"
   },
