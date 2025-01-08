@@ -26776,10 +26776,10 @@
   },
   "tattn/MoreCodable": {
     "created": "2025-01-06T21:40:15Z",
-    "duration": 7,
-    "modified": "2025-01-06T21:40:15Z",
+    "duration": 9,
+    "modified": "2025-01-08T15:21:02Z",
     "repo": "https://github.com/tattn/MoreCodable.git",
-    "runid": 12640552194,
+    "runid": 12673545525,
     "stars": 380,
     "status": "failure"
   },
