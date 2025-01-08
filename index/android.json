@@ -22322,9 +22322,9 @@
   "parse-community/Parse-Swift": {
     "created": "2025-01-07T00:07:59Z",
     "duration": 35,
-    "modified": "2025-01-07T00:07:59Z",
+    "modified": "2025-01-08T03:18:07Z",
     "repo": "https://github.com/parse-community/Parse-Swift.git",
-    "runid": 12641986754,
+    "runid": 12663141832,
     "stars": 308,
     "status": "failure"
   },
