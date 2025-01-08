@@ -19558,10 +19558,10 @@
   },
   "mapbox/mapbox-directions-swift": {
     "created": "2025-01-07T05:51:41Z",
-    "duration": 12,
-    "modified": "2025-01-08T04:53:30Z",
+    "duration": 13,
+    "modified": "2025-01-08T13:46:07Z",
     "repo": "https://github.com/mapbox/mapbox-directions-swift.git",
-    "runid": 12664022347,
+    "runid": 12671490284,
     "stars": 187,
     "status": "failure"
   },
