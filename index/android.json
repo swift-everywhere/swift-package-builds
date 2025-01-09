@@ -2242,10 +2242,10 @@
   },
   "DoccZz/servedocc": {
     "created": "2025-01-07T13:19:25Z",
-    "duration": 9,
-    "modified": "2025-01-07T20:04:04Z",
+    "duration": 10,
+    "modified": "2025-01-09T07:11:35Z",
     "repo": "https://github.com/DoccZz/servedocc.git",
-    "runid": 12658091539,
+    "runid": 12684763216,
     "stars": 9,
     "status": "failure"
   },
