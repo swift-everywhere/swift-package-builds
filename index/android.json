@@ -1117,10 +1117,10 @@
   },
   "BinaryBirds/swift-template": {
     "created": "2025-01-07T06:05:25Z",
-    "duration": 9,
-    "modified": "2025-01-07T06:05:25Z",
+    "duration": 10,
+    "modified": "2025-01-09T11:34:47Z",
     "repo": "https://github.com/BinaryBirds/swift-template.git",
-    "runid": 12645653000,
+    "runid": 12688803372,
     "stars": 46,
     "status": "failure"
   },
