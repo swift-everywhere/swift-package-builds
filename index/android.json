@@ -3755,10 +3755,10 @@
   "JohnSundell/Require": {
     "created": "2025-01-07T14:42:24Z",
     "duration": 6,
-    "modified": "2025-01-07T14:42:24Z",
+    "modified": "2025-01-09T01:50:00Z",
     "repo": "https://github.com/JohnSundell/Require.git",
-    "runid": 12652509868,
-    "stars": 416,
+    "runid": 12682127848,
+    "stars": 417,
     "status": "failure"
   },
   "JohnSundell/ShellOut": {
