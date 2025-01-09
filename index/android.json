@@ -18613,10 +18613,10 @@
   },
   "kudit/ParticleEffects": {
     "created": "2025-01-07T03:39:50Z",
-    "duration": 10,
-    "modified": "2025-01-07T18:17:31Z",
+    "duration": 9,
+    "modified": "2025-01-09T03:18:55Z",
     "repo": "https://github.com/kudit/ParticleEffects.git",
-    "runid": 12656035496,
+    "runid": 12682932578,
     "stars": 8,
     "status": "failure"
   },
