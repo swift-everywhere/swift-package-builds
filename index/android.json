@@ -5815,10 +5815,10 @@
   },
   "NozeIO/xsys": {
     "created": "2025-01-07T12:40:18Z",
-    "duration": 14,
-    "modified": "2025-01-08T18:39:34Z",
+    "duration": 15,
+    "modified": "2025-01-09T04:54:43Z",
     "repo": "https://github.com/NozeIO/xsys.git",
-    "runid": 12676738885,
+    "runid": 12683582618,
     "stars": 2,
     "status": "failure"
   },
