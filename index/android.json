@@ -25777,10 +25777,10 @@
   },
   "swift-cloud/Upstash": {
     "created": "2025-01-07T05:58:09Z",
-    "duration": 25,
-    "modified": "2025-01-08T19:33:10Z",
+    "duration": 26,
+    "modified": "2025-01-09T03:40:24Z",
     "repo": "https://github.com/swift-cloud/Upstash.git",
-    "runid": 12677445864,
+    "runid": 12682932578,
     "stars": 7,
     "status": "failure"
   },
