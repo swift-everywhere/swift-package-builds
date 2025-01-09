@@ -6787,11 +6787,11 @@
   },
   "ReactiveCocoa/ReactiveSwift": {
     "created": "2025-01-07T01:15:29Z",
-    "duration": 10,
-    "modified": "2025-01-07T01:15:29Z",
+    "duration": 13,
+    "modified": "2025-01-09T03:51:58Z",
     "repo": "https://github.com/ReactiveCocoa/ReactiveSwift.git",
-    "runid": 12641986754,
-    "stars": 3014,
+    "runid": 12682932578,
+    "stars": 3015,
     "status": "failure"
   },
   "ReactiveCocoa/reactiveswift-composable-architecture": {
