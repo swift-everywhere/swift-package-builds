@@ -19360,10 +19360,10 @@
   },
   "mRs-/RxNimble": {
     "created": "2025-01-06T22:34:28Z",
-    "duration": 18,
-    "modified": "2025-01-08T23:39:52Z",
+    "duration": 19,
+    "modified": "2025-01-09T14:06:25Z",
     "repo": "https://github.com/mRs-/RxNimble.git",
-    "runid": 12680732767,
+    "runid": 12691213311,
     "stars": 0,
     "status": "failure"
   },
