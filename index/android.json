@@ -24499,10 +24499,10 @@
   },
   "sersoft-gmbh/xmlwrangler": {
     "created": "2025-01-07T05:04:12Z",
-    "duration": 16,
-    "modified": "2025-01-07T05:04:12Z",
+    "duration": 18,
+    "modified": "2025-01-09T10:58:07Z",
     "repo": "https://github.com/sersoft-gmbh/xmlwrangler.git",
-    "runid": 12645351961,
+    "runid": 12687934323,
     "stars": 3,
     "status": "success"
   },
