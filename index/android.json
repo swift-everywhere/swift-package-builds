@@ -325,10 +325,10 @@
   },
   "8rightside/Resistance": {
     "created": "2025-01-06T20:16:45Z",
-    "duration": 8,
-    "modified": "2025-01-07T19:25:06Z",
+    "duration": 7,
+    "modified": "2025-01-09T12:45:31Z",
     "repo": "https://github.com/8rightside/Resistance.git",
-    "runid": 12657790358,
+    "runid": 12690021172,
     "stars": 2,
     "status": "success"
   },
