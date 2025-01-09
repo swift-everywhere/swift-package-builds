@@ -4769,6 +4769,15 @@
     "stars": 12,
     "status": "failure"
   },
+  "LuizZak/swift-peg": {
+    "created": "2025-01-09T07:27:24Z",
+    "duration": 24,
+    "modified": "2025-01-09T07:27:24Z",
+    "repo": "https://github.com/LuizZak/swift-peg.git",
+    "runid": 12685324254,
+    "stars": 0,
+    "status": "failure"
+  },
   "MAVISBroadcast/AMF": {
     "created": "2025-01-06T20:16:54Z",
     "duration": 9,
