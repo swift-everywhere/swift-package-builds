@@ -9739,10 +9739,10 @@
   },
   "amzn/openapi-swift-code-generate": {
     "created": "2025-01-06T23:32:46Z",
-    "duration": 18,
-    "modified": "2025-01-08T22:47:08Z",
+    "duration": 19,
+    "modified": "2025-01-09T03:25:33Z",
     "repo": "https://github.com/amzn/openapi-swift-code-generate.git",
-    "runid": 12680001524,
+    "runid": 12682932578,
     "stars": 9,
     "status": "failure"
   },
