@@ -20242,10 +20242,10 @@
   },
   "milend/hmap": {
     "created": "2025-01-06T20:44:54Z",
-    "duration": 8,
-    "modified": "2025-01-07T23:01:51Z",
+    "duration": 7,
+    "modified": "2025-01-09T09:04:14Z",
     "repo": "https://github.com/milend/hmap.git",
-    "runid": 12660245106,
+    "runid": 12686130628,
     "stars": 313,
     "status": "failure"
   },
