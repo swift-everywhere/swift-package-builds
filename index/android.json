@@ -8668,10 +8668,10 @@
   },
   "UnGast/swift-opengl": {
     "created": "2025-01-06T19:44:47Z",
-    "duration": 7,
-    "modified": "2025-01-08T23:29:58Z",
+    "duration": 8,
+    "modified": "2025-01-09T10:37:10Z",
     "repo": "https://github.com/UnGast/swift-opengl.git",
-    "runid": 12680732767,
+    "runid": 12687934323,
     "stars": 1,
     "status": "failure"
   },
