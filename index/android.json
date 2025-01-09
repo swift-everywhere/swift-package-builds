@@ -17758,11 +17758,11 @@
   },
   "joshuawright11/papyrus": {
     "created": "2025-01-07T08:34:33Z",
-    "duration": 82,
-    "modified": "2025-01-07T08:34:33Z",
+    "duration": 78,
+    "modified": "2025-01-09T10:24:18Z",
     "repo": "https://github.com/joshuawright11/papyrus.git",
-    "runid": 12647794335,
-    "stars": 295,
+    "runid": 12687934323,
+    "stars": 297,
     "status": "failure"
   },
   "jp-fan-app/swift-client": {
