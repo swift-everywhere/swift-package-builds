@@ -28117,10 +28117,10 @@
   },
   "vamsii777/juspay-kit": {
     "created": "2025-01-06T23:04:23Z",
-    "duration": 77,
-    "modified": "2025-01-08T08:00:28Z",
+    "duration": 79,
+    "modified": "2025-01-09T06:45:24Z",
     "repo": "https://github.com/vamsii777/juspay-kit.git",
-    "runid": 12665854112,
+    "runid": 12684763216,
     "stars": 0,
     "status": "failure"
   },
