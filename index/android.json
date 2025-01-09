@@ -14581,10 +14581,10 @@
   },
   "f-meloni/danger-swift-coverage": {
     "created": "2025-01-06T22:15:24Z",
-    "duration": 45,
-    "modified": "2025-01-08T05:08:30Z",
+    "duration": 82,
+    "modified": "2025-01-09T10:34:15Z",
     "repo": "https://github.com/f-meloni/danger-swift-coverage.git",
-    "runid": 12664022347,
+    "runid": 12687934323,
     "stars": 84,
     "status": "failure"
   },
