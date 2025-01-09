@@ -25390,10 +25390,10 @@
   },
   "stackotter/swift-bundler": {
     "created": "2025-01-06T20:08:04Z",
-    "duration": 55,
-    "modified": "2025-01-09T05:47:09Z",
+    "duration": 95,
+    "modified": "2025-01-09T13:18:57Z",
     "repo": "https://github.com/stackotter/swift-bundler.git",
-    "runid": 12684077543,
+    "runid": 12690021172,
     "stars": 317,
     "status": "failure"
   },
