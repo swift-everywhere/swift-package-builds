@@ -25940,9 +25940,9 @@
   "swift-server/RediStack": {
     "created": "2025-01-06T23:15:32Z",
     "duration": 14,
-    "modified": "2025-01-08T03:11:26Z",
+    "modified": "2025-01-09T05:44:46Z",
     "repo": "https://github.com/swift-server/RediStack.git",
-    "runid": 12663141832,
+    "runid": 12684077543,
     "stars": 151,
     "status": "failure"
   },
