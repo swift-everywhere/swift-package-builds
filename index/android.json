@@ -343,10 +343,10 @@
   },
   "ABridoux/lux": {
     "created": "2025-01-06T21:40:06Z",
-    "duration": 17,
-    "modified": "2025-01-08T15:22:17Z",
+    "duration": 15,
+    "modified": "2025-01-09T12:47:47Z",
     "repo": "https://github.com/ABridoux/lux.git",
-    "runid": 12673545525,
+    "runid": 12690021172,
     "stars": 28,
     "status": "failure"
   },
