@@ -7724,9 +7724,9 @@
   "SocketMobile/swift-package-capturesdk": {
     "created": "2025-01-07T03:05:55Z",
     "duration": 17,
-    "modified": "2025-01-07T03:05:55Z",
+    "modified": "2025-01-09T01:47:04Z",
     "repo": "https://github.com/SocketMobile/swift-package-capturesdk.git",
-    "runid": 12644277556,
+    "runid": 12682127848,
     "stars": 9,
     "status": "failure"
   },
