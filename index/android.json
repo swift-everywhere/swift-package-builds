@@ -28549,12 +28549,12 @@
   },
   "vapor/multipart-kit": {
     "created": "2025-01-07T00:25:21Z",
-    "duration": 37,
-    "modified": "2025-01-07T19:31:14Z",
+    "duration": 25,
+    "modified": "2025-01-09T10:04:01Z",
     "repo": "https://github.com/vapor/multipart-kit.git",
-    "runid": 12657790358,
+    "runid": 12686975202,
     "stars": 144,
-    "status": "failure"
+    "status": "success"
   },
   "vapor/mysql-kit": {
     "created": "2025-01-06T20:18:51Z",
