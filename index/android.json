@@ -27452,10 +27452,10 @@
   "tree-sitter/tree-sitter": {
     "created": "2025-01-07T01:14:56Z",
     "duration": 2,
-    "modified": "2025-01-08T16:05:06Z",
+    "modified": "2025-01-09T08:45:32Z",
     "repo": "https://github.com/tree-sitter/tree-sitter.git",
-    "runid": 12673545525,
-    "stars": 19202,
+    "runid": 12686130628,
+    "stars": 19204,
     "status": "success"
   },
   "tribalworldwidelondon/CassowarySwift": {
