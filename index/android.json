@@ -29017,10 +29017,10 @@
   },
   "weichsel/ZIPFoundation": {
     "created": "2025-01-07T09:10:29Z",
-    "duration": 9,
-    "modified": "2025-01-09T03:24:16Z",
+    "duration": 8,
+    "modified": "2025-01-09T11:21:21Z",
     "repo": "https://github.com/weichsel/ZIPFoundation.git",
-    "runid": 12682932578,
+    "runid": 12688803372,
     "stars": 2379,
     "status": "failure"
   },
