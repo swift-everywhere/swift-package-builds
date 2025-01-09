@@ -7210,11 +7210,11 @@
   },
   "RxSwiftCommunity/RxSwiftExt": {
     "created": "2025-01-07T00:30:19Z",
-    "duration": 13,
-    "modified": "2025-01-08T03:18:21Z",
+    "duration": 16,
+    "modified": "2025-01-09T06:28:46Z",
     "repo": "https://github.com/RxSwiftCommunity/RxSwiftExt.git",
-    "runid": 12663141832,
-    "stars": 1335,
+    "runid": 12684763216,
+    "stars": 1336,
     "status": "failure"
   },
   "RyanBillard/SwiftGraphQLParser": {
