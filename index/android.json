@@ -16516,10 +16516,10 @@
   },
   "hummingbird-project/hummingbird-core": {
     "created": "2025-01-06T23:03:08Z",
-    "duration": 61,
-    "modified": "2025-01-08T14:45:53Z",
+    "duration": 59,
+    "modified": "2025-01-09T01:57:27Z",
     "repo": "https://github.com/hummingbird-project/hummingbird-core.git",
-    "runid": 12672398001,
+    "runid": 12682127848,
     "stars": 43,
     "status": "failure"
   },
