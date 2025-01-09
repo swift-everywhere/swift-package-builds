@@ -22994,6 +22994,15 @@
     "stars": 19,
     "status": "success"
   },
+  "ptoffy/swift-bcrypt": {
+    "created": "2025-01-09T18:37:21Z",
+    "duration": 5,
+    "modified": "2025-01-09T18:37:21Z",
+    "repo": "https://github.com/ptoffy/swift-bcrypt.git",
+    "runid": 12696215927,
+    "stars": 4,
+    "status": "success"
+  },
   "ptrkstr/ACDD-Swift": {
     "created": "2025-01-06T21:21:26Z",
     "duration": 5,
