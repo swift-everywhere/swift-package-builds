@@ -12007,10 +12007,10 @@
   },
   "checkout/checkout-3ds-sdk-ios": {
     "created": "2025-01-07T08:02:48Z",
-    "duration": 6,
-    "modified": "2025-01-07T08:02:48Z",
+    "duration": 5,
+    "modified": "2025-01-09T09:21:43Z",
     "repo": "https://github.com/checkout/checkout-3ds-sdk-ios.git",
-    "runid": 12646951061,
+    "runid": 12686975202,
     "stars": 4,
     "status": "success"
   },
