@@ -12170,9 +12170,9 @@
   "compnerd/swift-winmd": {
     "created": "2025-01-07T12:32:11Z",
     "duration": 10,
-    "modified": "2025-01-07T12:32:11Z",
+    "modified": "2025-01-09T10:39:27Z",
     "repo": "https://github.com/compnerd/swift-winmd.git",
-    "runid": 12650476881,
+    "runid": 12687934323,
     "stars": 20,
     "status": "failure"
   },
