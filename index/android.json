@@ -29458,10 +29458,10 @@
   },
   "yanamura/Captain": {
     "created": "2025-01-07T06:46:03Z",
-    "duration": 10,
-    "modified": "2025-01-08T03:05:34Z",
+    "duration": 11,
+    "modified": "2025-01-09T07:49:57Z",
     "repo": "https://github.com/yanamura/Captain.git",
-    "runid": 12663141832,
+    "runid": 12685324254,
     "stars": 5,
     "status": "failure"
   },
