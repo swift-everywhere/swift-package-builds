@@ -17299,10 +17299,10 @@
   },
   "jhonatn/SwiftTypeFamily": {
     "created": "2025-01-06T21:28:40Z",
-    "duration": 103,
-    "modified": "2025-01-07T16:21:28Z",
+    "duration": 99,
+    "modified": "2025-01-09T04:44:54Z",
     "repo": "https://github.com/jhonatn/SwiftTypeFamily.git",
-    "runid": 12655041616,
+    "runid": 12683582618,
     "stars": 1,
     "status": "success"
   },
