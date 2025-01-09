@@ -4609,10 +4609,10 @@
   },
   "Local-Connectivity-Lab/lcl-ping": {
     "created": "2025-01-07T10:41:03Z",
-    "duration": 68,
-    "modified": "2025-01-08T13:43:13Z",
+    "duration": 72,
+    "modified": "2025-01-09T05:23:03Z",
     "repo": "https://github.com/Local-Connectivity-Lab/lcl-ping.git",
-    "runid": 12671490284,
+    "runid": 12684077543,
     "stars": 15,
     "status": "failure"
   },
