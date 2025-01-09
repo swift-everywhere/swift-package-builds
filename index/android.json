@@ -28487,9 +28487,9 @@
   "vapor/fluent-mysql-driver": {
     "created": "2025-01-07T15:07:31Z",
     "duration": 101,
-    "modified": "2025-01-09T12:41:25Z",
+    "modified": "2025-01-09T14:15:39Z",
     "repo": "https://github.com/vapor/fluent-mysql-driver.git",
-    "runid": 12690021172,
+    "runid": 12691213311,
     "stars": 78,
     "status": "failure"
   },
