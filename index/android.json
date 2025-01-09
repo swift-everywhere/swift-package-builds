@@ -9413,6 +9413,15 @@
     "stars": 2458,
     "status": "failure"
   },
+  "ajevans99/swift-json-schema": {
+    "created": "2025-01-09T17:01:28Z",
+    "duration": 22,
+    "modified": "2025-01-09T17:01:28Z",
+    "repo": "https://github.com/ajevans99/swift-json-schema.git",
+    "runid": 12694140861,
+    "stars": 19,
+    "status": "failure"
+  },
   "akashivskyy/quick-swift-check": {
     "created": "2025-01-07T10:15:10Z",
     "duration": 21,
