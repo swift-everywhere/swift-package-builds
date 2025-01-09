@@ -8227,10 +8227,10 @@
   },
   "SwiftPackageIndex/CanonicalPackageURL": {
     "created": "2025-01-06T21:27:00Z",
-    "duration": 18,
-    "modified": "2025-01-06T21:27:00Z",
+    "duration": 14,
+    "modified": "2025-01-09T08:49:18Z",
     "repo": "https://github.com/SwiftPackageIndex/CanonicalPackageURL.git",
-    "runid": 12640552194,
+    "runid": 12686130628,
     "stars": 3,
     "status": "success"
   },
