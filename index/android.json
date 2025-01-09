@@ -7931,10 +7931,10 @@
   "SusanDoggie/Doggie": {
     "created": "2025-01-07T10:57:14Z",
     "duration": 45,
-    "modified": "2025-01-07T18:49:27Z",
+    "modified": "2025-01-09T04:30:52Z",
     "repo": "https://github.com/SusanDoggie/Doggie.git",
-    "runid": 12657091582,
-    "stars": 171,
+    "runid": 12683582618,
+    "stars": 172,
     "status": "failure"
   },
   "SusanDoggie/Float16": {
