@@ -16696,10 +16696,10 @@
   },
   "iankoex/SteamPress": {
     "created": "2025-01-06T20:12:36Z",
-    "duration": 43,
-    "modified": "2025-01-08T21:40:30Z",
+    "duration": 38,
+    "modified": "2025-01-09T05:01:13Z",
     "repo": "https://github.com/iankoex/SteamPress.git",
-    "runid": 12679180049,
+    "runid": 12683582618,
     "stars": 2,
     "status": "failure"
   },
