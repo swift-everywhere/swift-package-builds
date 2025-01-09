@@ -15292,10 +15292,10 @@
   },
   "fwcd/swift-utils": {
     "created": "2025-01-06T22:03:40Z",
-    "duration": 18,
-    "modified": "2025-01-08T19:08:51Z",
+    "duration": 19,
+    "modified": "2025-01-09T11:21:49Z",
     "repo": "https://github.com/fwcd/swift-utils.git",
-    "runid": 12676738885,
+    "runid": 12688803372,
     "stars": 12,
     "status": "failure"
   },
