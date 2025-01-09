@@ -27550,10 +27550,10 @@
   },
   "tuist/GraphViz": {
     "created": "2025-01-07T05:25:49Z",
-    "duration": 8,
-    "modified": "2025-01-09T04:47:14Z",
+    "duration": 9,
+    "modified": "2025-01-09T07:59:14Z",
     "repo": "https://github.com/tuist/GraphViz.git",
-    "runid": 12683582618,
+    "runid": 12685324254,
     "stars": 3,
     "status": "success"
   },
