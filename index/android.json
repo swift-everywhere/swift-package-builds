@@ -9406,10 +9406,10 @@
   },
   "akbashev/cluster-event-sourcing": {
     "created": "2025-01-06T23:25:11Z",
-    "duration": 25,
-    "modified": "2025-01-08T19:40:21Z",
+    "duration": 28,
+    "modified": "2025-01-09T01:53:49Z",
     "repo": "https://github.com/akbashev/cluster-event-sourcing.git",
-    "runid": 12677445864,
+    "runid": 12682127848,
     "stars": 0,
     "status": "failure"
   },
