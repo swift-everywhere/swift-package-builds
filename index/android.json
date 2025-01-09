@@ -24472,10 +24472,10 @@
   },
   "sersoft-gmbh/swift-inotify": {
     "created": "2025-01-07T11:55:09Z",
-    "duration": 20,
-    "modified": "2025-01-08T21:18:31Z",
+    "duration": 19,
+    "modified": "2025-01-09T07:09:44Z",
     "repo": "https://github.com/sersoft-gmbh/swift-inotify.git",
-    "runid": 12679180049,
+    "runid": 12684763216,
     "stars": 12,
     "status": "failure"
   },
