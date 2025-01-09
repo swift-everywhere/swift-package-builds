@@ -11728,10 +11728,10 @@
   },
   "brokenhandsio/vapor-csrf": {
     "created": "2025-01-06T17:10:49Z",
-    "duration": 27,
-    "modified": "2025-01-06T22:51:51Z",
+    "duration": 32,
+    "modified": "2025-01-09T03:30:53Z",
     "repo": "https://github.com/brokenhandsio/vapor-csrf.git",
-    "runid": 12641431024,
+    "runid": 12682932578,
     "stars": 20,
     "status": "failure"
   },
