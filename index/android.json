@@ -712,10 +712,10 @@
   },
   "Appsaurus/Fakery": {
     "created": "2025-01-06T23:19:09Z",
-    "duration": 10,
-    "modified": "2025-01-08T22:59:14Z",
+    "duration": 8,
+    "modified": "2025-01-09T02:01:43Z",
     "repo": "https://github.com/Appsaurus/Fakery.git",
-    "runid": 12680001524,
+    "runid": 12682127848,
     "stars": 0,
     "status": "failure"
   },
