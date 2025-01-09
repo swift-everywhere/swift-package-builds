@@ -25301,9 +25301,9 @@
   "square/StringTemplate": {
     "created": "2025-01-07T12:13:44Z",
     "duration": 7,
-    "modified": "2025-01-08T11:01:18Z",
+    "modified": "2025-01-09T07:46:39Z",
     "repo": "https://github.com/square/StringTemplate.git",
-    "runid": 12668573804,
+    "runid": 12685324254,
     "stars": 95,
     "status": "success"
   },
