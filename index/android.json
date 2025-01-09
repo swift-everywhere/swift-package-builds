@@ -7678,10 +7678,10 @@
   },
   "Sherlouk/spm": {
     "created": "2025-01-07T10:45:00Z",
-    "duration": 9,
-    "modified": "2025-01-07T22:59:23Z",
+    "duration": 8,
+    "modified": "2025-01-09T08:43:47Z",
     "repo": "https://github.com/Sherlouk/spm.git",
-    "runid": 12660245106,
+    "runid": 12686130628,
     "stars": 1,
     "status": "failure"
   },
