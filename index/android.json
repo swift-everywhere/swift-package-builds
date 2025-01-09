@@ -7516,10 +7516,10 @@
   },
   "STREGAsGate/Raylib": {
     "created": "2025-01-06T20:43:57Z",
-    "duration": 2,
-    "modified": "2025-01-08T14:43:41Z",
+    "duration": 3,
+    "modified": "2025-01-09T04:26:56Z",
     "repo": "https://github.com/STREGAsGate/Raylib.git",
-    "runid": 12672398001,
+    "runid": 12683582618,
     "stars": 116,
     "status": "failure"
   },
