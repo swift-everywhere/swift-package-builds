@@ -20971,10 +20971,10 @@
   },
   "nearfri/ObjectCoder": {
     "created": "2025-01-06T22:53:58Z",
-    "duration": 8,
-    "modified": "2025-01-07T23:53:29Z",
+    "duration": 9,
+    "modified": "2025-01-09T03:25:51Z",
     "repo": "https://github.com/nearfri/ObjectCoder.git",
-    "runid": 12660929108,
+    "runid": 12682932578,
     "stars": 0,
     "status": "success"
   },
