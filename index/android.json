@@ -15256,10 +15256,10 @@
   },
   "futuredapp/FTTestingKit": {
     "created": "2025-01-07T13:48:57Z",
-    "duration": 16,
-    "modified": "2025-01-09T08:39:02Z",
+    "duration": 14,
+    "modified": "2025-01-09T09:31:36Z",
     "repo": "https://github.com/futuredapp/FTTestingKit.git",
-    "runid": 12686130628,
+    "runid": 12686975202,
     "stars": 1,
     "status": "success"
   },
