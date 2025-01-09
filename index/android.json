@@ -25957,11 +25957,11 @@
   },
   "swift-server/async-http-client": {
     "created": "2025-01-07T05:08:43Z",
-    "duration": 13,
-    "modified": "2025-01-07T05:08:43Z",
+    "duration": 14,
+    "modified": "2025-01-09T12:54:08Z",
     "repo": "https://github.com/swift-server/async-http-client.git",
-    "runid": 12645351961,
-    "stars": 937,
+    "runid": 12690021172,
+    "stars": 938,
     "status": "failure"
   },
   "swift-server/security": {
