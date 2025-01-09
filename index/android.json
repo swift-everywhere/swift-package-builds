@@ -28109,9 +28109,9 @@
   "valpackett/SwiftCBOR": {
     "created": "2025-01-07T05:59:50Z",
     "duration": 8,
-    "modified": "2025-01-08T22:54:01Z",
+    "modified": "2025-01-09T09:24:44Z",
     "repo": "https://github.com/valpackett/SwiftCBOR.git",
-    "runid": 12680001524,
+    "runid": 12686975202,
     "stars": 137,
     "status": "failure"
   },
