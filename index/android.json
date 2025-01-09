@@ -21412,10 +21412,10 @@
   },
   "nnabeyang/swift-cbor": {
     "created": "2025-01-07T00:26:46Z",
-    "duration": 29,
-    "modified": "2025-01-07T00:26:46Z",
+    "duration": 30,
+    "modified": "2025-01-09T12:50:32Z",
     "repo": "https://github.com/nnabeyang/swift-cbor.git",
-    "runid": 12641986754,
+    "runid": 12690021172,
     "stars": 5,
     "status": "success"
   },
