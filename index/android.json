@@ -28585,10 +28585,10 @@
   },
   "vapor/queues": {
     "created": "2025-01-07T14:28:26Z",
-    "duration": 33,
-    "modified": "2025-01-08T22:50:26Z",
+    "duration": 29,
+    "modified": "2025-01-09T05:48:45Z",
     "repo": "https://github.com/vapor/queues.git",
-    "runid": 12680001524,
+    "runid": 12684077543,
     "stars": 169,
     "status": "failure"
   },
