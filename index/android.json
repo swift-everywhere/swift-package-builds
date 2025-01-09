@@ -3322,10 +3322,10 @@
   },
   "GraphQLSwift/Graphiti": {
     "created": "2025-01-07T14:40:50Z",
-    "duration": 27,
-    "modified": "2025-01-07T17:09:50Z",
+    "duration": 29,
+    "modified": "2025-01-09T10:31:42Z",
     "repo": "https://github.com/GraphQLSwift/Graphiti.git",
-    "runid": 12655360195,
+    "runid": 12687934323,
     "stars": 534,
     "status": "failure"
   },
