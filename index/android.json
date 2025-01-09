@@ -20719,10 +20719,10 @@
   },
   "mvolpato/magickpublishplugin": {
     "created": "2025-01-06T21:36:35Z",
-    "duration": 20,
-    "modified": "2025-01-09T09:20:28Z",
+    "duration": 18,
+    "modified": "2025-01-09T12:49:50Z",
     "repo": "https://github.com/mvolpato/magickpublishplugin.git",
-    "runid": 12686975202,
+    "runid": 12690021172,
     "stars": 2,
     "status": "failure"
   },
