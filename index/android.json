@@ -27569,9 +27569,9 @@
   "tuist/ProjectAutomation": {
     "created": "2025-01-07T01:23:02Z",
     "duration": 6,
-    "modified": "2025-01-08T22:36:46Z",
+    "modified": "2025-01-09T04:52:13Z",
     "repo": "https://github.com/tuist/ProjectAutomation.git",
-    "runid": 12680001524,
+    "runid": 12683582618,
     "stars": 8,
     "status": "failure"
   },
