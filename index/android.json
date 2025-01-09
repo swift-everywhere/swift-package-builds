@@ -26039,9 +26039,9 @@
   "swift-server/swift-service-lifecycle": {
     "created": "2025-01-06T23:59:28Z",
     "duration": 9,
-    "modified": "2025-01-08T19:46:21Z",
+    "modified": "2025-01-09T04:26:09Z",
     "repo": "https://github.com/swift-server/swift-service-lifecycle.git",
-    "runid": 12677445864,
+    "runid": 12683582618,
     "stars": 409,
     "status": "failure"
   },
