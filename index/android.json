@@ -21205,10 +21205,10 @@
   },
   "nextincrement/simple-asn1-reader-writer": {
     "created": "2025-01-06T23:12:31Z",
-    "duration": 6,
-    "modified": "2025-01-06T23:12:31Z",
+    "duration": 7,
+    "modified": "2025-01-09T04:45:39Z",
     "repo": "https://github.com/nextincrement/simple-asn1-reader-writer.git",
-    "runid": 12641431024,
+    "runid": 12683582618,
     "stars": 7,
     "status": "success"
   },
