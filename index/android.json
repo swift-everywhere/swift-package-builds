@@ -11368,10 +11368,10 @@
   },
   "bradhowes/swift-math-parser": {
     "created": "2025-01-07T10:05:36Z",
-    "duration": 119,
-    "modified": "2025-01-07T10:05:36Z",
+    "duration": 105,
+    "modified": "2025-01-09T02:04:54Z",
     "repo": "https://github.com/bradhowes/swift-math-parser.git",
-    "runid": 12648641718,
+    "runid": 12682127848,
     "stars": 61,
     "status": "success"
   },
