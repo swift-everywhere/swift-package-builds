@@ -5284,10 +5284,10 @@
   },
   "Mobelux/Lingo": {
     "created": "2025-01-06T19:49:24Z",
-    "duration": 13,
-    "modified": "2025-01-09T06:30:23Z",
+    "duration": 12,
+    "modified": "2025-01-09T12:43:49Z",
     "repo": "https://github.com/Mobelux/Lingo.git",
-    "runid": 12684763216,
+    "runid": 12690021172,
     "stars": 5,
     "status": "failure"
   },
