@@ -7354,10 +7354,10 @@
   },
   "SDGGiesbrecht/swift-docc-symbolkit": {
     "created": "2025-01-07T12:00:06Z",
-    "duration": 10,
-    "modified": "2025-01-08T22:29:45Z",
+    "duration": 9,
+    "modified": "2025-01-09T05:56:48Z",
     "repo": "https://github.com/SDGGiesbrecht/swift-docc-symbolkit.git",
-    "runid": 12680001524,
+    "runid": 12684077543,
     "stars": 0,
     "status": "failure"
   },
