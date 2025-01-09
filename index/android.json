@@ -7669,10 +7669,10 @@
   },
   "Sherlouk/meilisearch-vapor": {
     "created": "2025-01-06T23:43:30Z",
-    "duration": 33,
-    "modified": "2025-01-07T22:02:27Z",
+    "duration": 36,
+    "modified": "2025-01-09T12:48:25Z",
     "repo": "https://github.com/Sherlouk/meilisearch-vapor.git",
-    "runid": 12659472889,
+    "runid": 12690021172,
     "stars": 0,
     "status": "failure"
   },
