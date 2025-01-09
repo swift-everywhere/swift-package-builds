@@ -21862,10 +21862,10 @@
   },
   "open-meteo/sdk": {
     "created": "2025-01-06T23:30:31Z",
-    "duration": 13,
-    "modified": "2025-01-06T23:30:31Z",
+    "duration": 14,
+    "modified": "2025-01-09T06:48:28Z",
     "repo": "https://github.com/open-meteo/sdk.git",
-    "runid": 12641986754,
+    "runid": 12684763216,
     "stars": 33,
     "status": "failure"
   },
