@@ -8353,10 +8353,10 @@
   },
   "SwiftWebResources/HighlightJS-Swift": {
     "created": "2025-01-06T21:59:07Z",
-    "duration": 1,
-    "modified": "2025-01-08T23:28:30Z",
+    "duration": 2,
+    "modified": "2025-01-09T06:49:02Z",
     "repo": "https://github.com/SwiftWebResources/HighlightJS-Swift.git",
-    "runid": 12680732767,
+    "runid": 12684763216,
     "stars": 2,
     "status": "failure"
   },
