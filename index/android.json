@@ -6310,10 +6310,10 @@
   },
   "PerfectlySoft/Perfect-LinuxBridge": {
     "created": "2025-01-07T11:56:20Z",
-    "duration": 1,
-    "modified": "2025-01-08T13:02:58Z",
+    "duration": 2,
+    "modified": "2025-01-09T08:47:15Z",
     "repo": "https://github.com/PerfectlySoft/Perfect-LinuxBridge.git",
-    "runid": 12670708592,
+    "runid": 12686130628,
     "stars": 5,
     "status": "failure"
   },
