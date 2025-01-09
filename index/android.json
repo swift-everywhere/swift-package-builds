@@ -3403,10 +3403,10 @@
   },
   "IBDecodable/IBLinter": {
     "created": "2025-01-07T02:14:21Z",
-    "duration": 20,
-    "modified": "2025-01-08T19:57:09Z",
+    "duration": 21,
+    "modified": "2025-01-09T12:51:40Z",
     "repo": "https://github.com/IBDecodable/IBLinter.git",
-    "runid": 12677445864,
+    "runid": 12690021172,
     "stars": 948,
     "status": "failure"
   },
