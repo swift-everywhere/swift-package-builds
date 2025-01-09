@@ -28648,10 +28648,10 @@
   },
   "vapor/sql-kit": {
     "created": "2025-01-07T00:41:57Z",
-    "duration": 40,
-    "modified": "2025-01-08T10:27:46Z",
+    "duration": 38,
+    "modified": "2025-01-09T13:14:33Z",
     "repo": "https://github.com/vapor/sql-kit.git",
-    "runid": 12668573804,
+    "runid": 12690021172,
     "stars": 248,
     "status": "failure"
   },
