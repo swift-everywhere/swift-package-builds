@@ -25408,10 +25408,10 @@
   },
   "stackotter/swift-macro-toolkit": {
     "created": "2025-01-06T21:09:58Z",
-    "duration": 123,
-    "modified": "2025-01-08T09:56:34Z",
+    "duration": 120,
+    "modified": "2025-01-09T05:25:20Z",
     "repo": "https://github.com/stackotter/swift-macro-toolkit.git",
-    "runid": 12667584016,
+    "runid": 12684077543,
     "stars": 255,
     "status": "success"
   },
