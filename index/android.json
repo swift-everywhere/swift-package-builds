@@ -19558,10 +19558,10 @@
   },
   "mapbox/mapbox-core-maps-ios": {
     "created": "2025-01-06T20:05:11Z",
-    "duration": 14,
-    "modified": "2025-01-09T05:47:25Z",
+    "duration": 17,
+    "modified": "2025-01-09T06:33:27Z",
     "repo": "https://github.com/mapbox/mapbox-core-maps-ios.git",
-    "runid": 12684077543,
+    "runid": 12684763216,
     "stars": 16,
     "status": "failure"
   },
