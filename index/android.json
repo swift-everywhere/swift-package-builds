@@ -2324,9 +2324,9 @@
   "Einstore/GitHubKit": {
     "created": "2025-01-07T03:32:34Z",
     "duration": 6,
-    "modified": "2025-01-08T23:30:22Z",
+    "modified": "2025-01-09T05:03:14Z",
     "repo": "https://github.com/Einstore/GitHubKit.git",
-    "runid": 12680732767,
+    "runid": 12683582618,
     "stars": 17,
     "status": "failure"
   },
