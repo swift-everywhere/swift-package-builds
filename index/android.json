@@ -4762,10 +4762,10 @@
   },
   "LuizZak/swift-blend2d": {
     "created": "2025-01-07T13:43:01Z",
-    "duration": 34,
-    "modified": "2025-01-07T13:43:01Z",
+    "duration": 33,
+    "modified": "2025-01-09T07:47:40Z",
     "repo": "https://github.com/LuizZak/swift-blend2d.git",
-    "runid": 12652509868,
+    "runid": 12685324254,
     "stars": 12,
     "status": "failure"
   },
