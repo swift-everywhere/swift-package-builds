@@ -26254,10 +26254,10 @@
   },
   "swiftlang/swift-package-collection-generator": {
     "created": "2025-01-07T00:18:50Z",
-    "duration": 42,
-    "modified": "2025-01-07T00:18:50Z",
+    "duration": 44,
+    "modified": "2025-01-09T08:46:18Z",
     "repo": "https://github.com/swiftlang/swift-package-collection-generator.git",
-    "runid": 12641986754,
+    "runid": 12686130628,
     "stars": 108,
     "status": "failure"
   },
