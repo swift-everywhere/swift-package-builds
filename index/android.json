@@ -10531,10 +10531,10 @@
   },
   "art-divin/swift-tools-support-core": {
     "created": "2025-01-07T09:23:33Z",
-    "duration": 3,
-    "modified": "2025-01-07T09:23:33Z",
+    "duration": 4,
+    "modified": "2025-01-09T03:38:08Z",
     "repo": "https://github.com/art-divin/swift-tools-support-core.git",
-    "runid": 12648641718,
+    "runid": 12682932578,
     "stars": 0,
     "status": "failure"
   },
