@@ -10900,10 +10900,10 @@
   },
   "bdrelling/instruments.fyi": {
     "created": "2025-01-07T06:37:13Z",
-    "duration": 38,
-    "modified": "2025-01-07T06:37:13Z",
+    "duration": 37,
+    "modified": "2025-01-09T07:28:54Z",
     "repo": "https://github.com/bdrelling/instruments.fyi.git",
-    "runid": 12646377141,
+    "runid": 12685324254,
     "stars": 10,
     "status": "failure"
   },
