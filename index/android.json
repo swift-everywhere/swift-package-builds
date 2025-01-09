@@ -18991,10 +18991,10 @@
   },
   "loopwerk/Parsley": {
     "created": "2025-01-07T04:57:28Z",
-    "duration": 9,
-    "modified": "2025-01-08T15:48:28Z",
+    "duration": 8,
+    "modified": "2025-01-09T04:33:23Z",
     "repo": "https://github.com/loopwerk/Parsley.git",
-    "runid": 12673545525,
+    "runid": 12683582618,
     "stars": 20,
     "status": "success"
   },
