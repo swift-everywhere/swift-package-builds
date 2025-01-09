@@ -20323,10 +20323,10 @@
   },
   "ml-archive/bugsnag": {
     "created": "2025-01-06T17:11:36Z",
-    "duration": 34,
-    "modified": "2025-01-08T23:19:31Z",
+    "duration": 35,
+    "modified": "2025-01-09T12:43:34Z",
     "repo": "https://github.com/ml-archive/bugsnag.git",
-    "runid": 12680732767,
+    "runid": 12690021172,
     "stars": 39,
     "status": "failure"
   },
