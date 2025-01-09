@@ -25363,10 +25363,10 @@
   },
   "stackotter/XcodeGen": {
     "created": "2025-01-07T13:43:58Z",
-    "duration": 21,
-    "modified": "2025-01-08T19:52:08Z",
+    "duration": 22,
+    "modified": "2025-01-09T11:05:08Z",
     "repo": "https://github.com/stackotter/XcodeGen.git",
-    "runid": 12677445864,
+    "runid": 12687934323,
     "stars": 0,
     "status": "failure"
   },
