@@ -9749,9 +9749,9 @@
   "amzn/service-model-swift-code-generate": {
     "created": "2025-01-07T03:12:27Z",
     "duration": 9,
-    "modified": "2025-01-08T19:02:55Z",
+    "modified": "2025-01-09T03:35:53Z",
     "repo": "https://github.com/amzn/service-model-swift-code-generate.git",
-    "runid": 12676738885,
+    "runid": 12682932578,
     "stars": 18,
     "status": "success"
   },
