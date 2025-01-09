@@ -6256,10 +6256,10 @@
   },
   "PerfectlySoft/Perfect-COpenSSL": {
     "created": "2025-01-06T17:23:41Z",
-    "duration": 10,
-    "modified": "2025-01-08T07:47:03Z",
+    "duration": 9,
+    "modified": "2025-01-09T05:49:53Z",
     "repo": "https://github.com/PerfectlySoft/Perfect-COpenSSL.git",
-    "runid": 12665854112,
+    "runid": 12684077543,
     "stars": 12,
     "status": "success"
   },
