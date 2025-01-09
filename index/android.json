@@ -2861,6 +2861,15 @@
     "stars": 0,
     "status": "success"
   },
+  "Formkunft/LightTableParser": {
+    "created": "2025-01-09T14:40:07Z",
+    "duration": 4,
+    "modified": "2025-01-09T14:40:07Z",
+    "repo": "https://github.com/Formkunft/LightTableParser.git",
+    "runid": 12691756048,
+    "stars": 0,
+    "status": "success"
+  },
   "Frizlab/APIConnectionProtocols": {
     "created": "2025-01-06T20:56:36Z",
     "duration": 8,
