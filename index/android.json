@@ -6805,11 +6805,11 @@
   },
   "ReactiveX/RxSwift": {
     "created": "2025-01-07T10:30:22Z",
-    "duration": 11,
-    "modified": "2025-01-07T10:30:22Z",
+    "duration": 12,
+    "modified": "2025-01-09T07:22:54Z",
     "repo": "https://github.com/ReactiveX/RxSwift.git",
-    "runid": 12649615878,
-    "stars": 24438,
+    "runid": 12685324254,
+    "stars": 24439,
     "status": "failure"
   },
   "ReadEval/ContentSecurityPolicy": {
