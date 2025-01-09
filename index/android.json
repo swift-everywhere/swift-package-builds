@@ -19027,10 +19027,10 @@
   },
   "loopwerk/SagaParsleyMarkdownReader": {
     "created": "2025-01-06T21:18:49Z",
-    "duration": 15,
-    "modified": "2025-01-08T15:23:33Z",
+    "duration": 14,
+    "modified": "2025-01-09T08:52:26Z",
     "repo": "https://github.com/loopwerk/SagaParsleyMarkdownReader.git",
-    "runid": 12673545525,
+    "runid": 12686130628,
     "stars": 2,
     "status": "failure"
   },
