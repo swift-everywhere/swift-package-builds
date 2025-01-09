@@ -8254,10 +8254,10 @@
   },
   "SwiftPackageIndex/ReleaseNotes": {
     "created": "2025-01-06T17:12:00Z",
-    "duration": 15,
-    "modified": "2025-01-07T01:16:15Z",
+    "duration": 20,
+    "modified": "2025-01-09T07:04:07Z",
     "repo": "https://github.com/SwiftPackageIndex/ReleaseNotes.git",
-    "runid": 12641986754,
+    "runid": 12684763216,
     "stars": 19,
     "status": "failure"
   },
