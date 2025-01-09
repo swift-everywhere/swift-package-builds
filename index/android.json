@@ -18766,10 +18766,10 @@
   },
   "laosb/WithValueless": {
     "created": "2025-01-07T11:23:21Z",
-    "duration": 94,
-    "modified": "2025-01-08T11:53:21Z",
+    "duration": 95,
+    "modified": "2025-01-09T06:58:02Z",
     "repo": "https://github.com/laosb/WithValueless.git",
-    "runid": 12669458619,
+    "runid": 12684763216,
     "stars": 0,
     "status": "failure"
   },
