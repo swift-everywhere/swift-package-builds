@@ -20782,11 +20782,11 @@
   },
   "mxcl/swift-sh": {
     "created": "2025-01-07T05:47:35Z",
-    "duration": 16,
-    "modified": "2025-01-07T05:47:35Z",
+    "duration": 18,
+    "modified": "2025-01-09T09:01:13Z",
     "repo": "https://github.com/mxcl/swift-sh.git",
-    "runid": 12645653000,
-    "stars": 1801,
+    "runid": 12686130628,
+    "stars": 1800,
     "status": "failure"
   },
   "my-mail-ru/swift-Benchmark": {
