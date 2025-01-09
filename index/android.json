@@ -9452,9 +9452,9 @@
   "alephao/swift-http-types-htmx": {
     "created": "2025-01-07T00:37:05Z",
     "duration": 6,
-    "modified": "2025-01-08T17:34:19Z",
+    "modified": "2025-01-09T07:07:19Z",
     "repo": "https://github.com/alephao/swift-http-types-htmx.git",
-    "runid": 12675617055,
+    "runid": 12684763216,
     "stars": 18,
     "status": "failure"
   },
