@@ -29395,10 +29395,10 @@
   },
   "xtremekforever/swift-systemd": {
     "created": "2025-01-06T23:44:59Z",
-    "duration": 19,
-    "modified": "2025-01-08T11:03:27Z",
+    "duration": 18,
+    "modified": "2025-01-09T05:40:03Z",
     "repo": "https://github.com/xtremekforever/swift-systemd.git",
-    "runid": 12668573804,
+    "runid": 12684077543,
     "stars": 5,
     "status": "failure"
   },
