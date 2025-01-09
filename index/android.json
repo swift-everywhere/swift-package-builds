@@ -14725,10 +14725,10 @@
   },
   "finestructure/Rester": {
     "created": "2025-01-06T21:36:53Z",
-    "duration": 19,
-    "modified": "2025-01-08T09:04:03Z",
+    "duration": 20,
+    "modified": "2025-01-09T09:22:14Z",
     "repo": "https://github.com/finestructure/Rester.git",
-    "runid": 12666722268,
+    "runid": 12686975202,
     "stars": 44,
     "status": "failure"
   },
