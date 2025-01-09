@@ -157,7 +157,7 @@ jobs:
             # create a record of the package if it doesn't already exist
             jq --arg DIR "$DIR" --arg REPO "$REPO" '.[$DIR] |= if . == null then {"repo": $REPO, "status": "unknown", "created": (now | todate)} else . end' $INDEX > $INDEX.new && mv ${INDEX}.new ${INDEX}
 
-            LAST_STATUS=$(jq --arg DIR "$DIR" '.[$DIR]."status"' ${INDEX})
+            LAST_STATUS=$(jq -r --arg DIR "$DIR" '.[$DIR]."status"' ${INDEX})
 
             # only update the document if the build status has changed,
             # since otherwise we have a massive number of commits
