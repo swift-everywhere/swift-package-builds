@@ -17407,10 +17407,10 @@
   },
   "jkrukowski/SwiftMistral": {
     "created": "2025-01-07T06:45:50Z",
-    "duration": 69,
-    "modified": "2025-01-07T06:45:50Z",
+    "duration": 68,
+    "modified": "2025-01-09T07:30:20Z",
     "repo": "https://github.com/jkrukowski/SwiftMistral.git",
-    "runid": 12646377141,
+    "runid": 12685324254,
     "stars": 6,
     "status": "failure"
   },
