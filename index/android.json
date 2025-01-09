@@ -12754,10 +12754,10 @@
   },
   "dankinsoid/VaporToOpenAPI": {
     "created": "2025-01-07T08:35:45Z",
-    "duration": 36,
-    "modified": "2025-01-07T23:55:16Z",
+    "duration": 46,
+    "modified": "2025-01-09T06:40:22Z",
     "repo": "https://github.com/dankinsoid/VaporToOpenAPI.git",
-    "runid": 12660929108,
+    "runid": 12684763216,
     "stars": 108,
     "status": "failure"
   },
