@@ -3007,10 +3007,10 @@
   },
   "Frizlab/officectl-model": {
     "created": "2025-01-07T07:34:57Z",
-    "duration": 14,
-    "modified": "2025-01-09T07:35:50Z",
+    "duration": 18,
+    "modified": "2025-01-09T14:05:14Z",
     "repo": "https://github.com/Frizlab/officectl-model.git",
-    "runid": 12685324254,
+    "runid": 12691213311,
     "stars": 1,
     "status": "failure"
   },
