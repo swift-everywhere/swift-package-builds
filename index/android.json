@@ -15688,10 +15688,10 @@
   },
   "google/swift-benchmark": {
     "created": "2025-01-06T23:50:44Z",
-    "duration": 9,
-    "modified": "2025-01-09T04:38:39Z",
+    "duration": 10,
+    "modified": "2025-01-09T13:14:44Z",
     "repo": "https://github.com/google/swift-benchmark.git",
-    "runid": 12683582618,
+    "runid": 12690021172,
     "stars": 927,
     "status": "failure"
   },
