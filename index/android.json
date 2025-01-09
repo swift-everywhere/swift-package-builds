@@ -10756,10 +10756,10 @@
   },
   "batoulapps/adhan-swift": {
     "created": "2025-01-07T12:47:31Z",
-    "duration": 8,
-    "modified": "2025-01-07T12:47:31Z",
+    "duration": 7,
+    "modified": "2025-01-09T06:27:53Z",
     "repo": "https://github.com/batoulapps/adhan-swift.git",
-    "runid": 12651715076,
+    "runid": 12684763216,
     "stars": 186,
     "status": "success"
   },
