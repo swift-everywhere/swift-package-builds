@@ -27199,10 +27199,10 @@
   },
   "thegrizzlylabs/TGLXLSXWriter": {
     "created": "2025-01-07T11:11:20Z",
-    "duration": 10,
-    "modified": "2025-01-08T20:27:09Z",
+    "duration": 9,
+    "modified": "2025-01-09T07:56:30Z",
     "repo": "https://github.com/thegrizzlylabs/TGLXLSXWriter.git",
-    "runid": 12678362520,
+    "runid": 12685324254,
     "stars": 1,
     "status": "failure"
   },
