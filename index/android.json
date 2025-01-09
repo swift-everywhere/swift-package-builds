@@ -5032,10 +5032,10 @@
   },
   "MarkCodable/swift-markdown": {
     "created": "2025-01-07T12:09:48Z",
-    "duration": 22,
-    "modified": "2025-01-09T00:02:56Z",
+    "duration": 20,
+    "modified": "2025-01-09T10:01:35Z",
     "repo": "https://github.com/MarkCodable/swift-markdown.git",
-    "runid": 12680732767,
+    "runid": 12686975202,
     "stars": 1,
     "status": "failure"
   },
