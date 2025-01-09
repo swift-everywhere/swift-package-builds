@@ -685,10 +685,10 @@
   },
   "AppLovin/AppLovin-MAX-Swift-Package": {
     "created": "2025-01-07T12:45:53Z",
-    "duration": 5,
-    "modified": "2025-01-07T12:45:53Z",
+    "duration": 4,
+    "modified": "2025-01-09T03:18:16Z",
     "repo": "https://github.com/AppLovin/AppLovin-MAX-Swift-Package.git",
-    "runid": 12651715076,
+    "runid": 12682932578,
     "stars": 9,
     "status": "success"
   },
