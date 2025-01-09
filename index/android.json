@@ -6787,11 +6787,11 @@
   },
   "ReSwift/ReSwift": {
     "created": "2025-01-06T22:34:57Z",
-    "duration": 7,
-    "modified": "2025-01-06T22:34:57Z",
+    "duration": 8,
+    "modified": "2025-01-09T12:51:16Z",
     "repo": "https://github.com/ReSwift/ReSwift.git",
-    "runid": 12641431024,
-    "stars": 7565,
+    "runid": 12690021172,
+    "stars": 7566,
     "status": "success"
   },
   "ReactiveCocoa/ReactiveSwift": {
