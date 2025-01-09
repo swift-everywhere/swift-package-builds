@@ -26893,10 +26893,10 @@
   },
   "tayloraswift/swift-noise": {
     "created": "2025-01-06T22:01:53Z",
-    "duration": 17,
-    "modified": "2025-01-06T22:01:53Z",
+    "duration": 18,
+    "modified": "2025-01-09T08:32:50Z",
     "repo": "https://github.com/tayloraswift/swift-noise.git",
-    "runid": 12640899049,
+    "runid": 12686130628,
     "stars": 128,
     "status": "failure"
   },
