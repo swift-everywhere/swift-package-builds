@@ -28496,9 +28496,9 @@
   "vapor/fluent-sqlite-driver": {
     "created": "2025-01-07T07:30:22Z",
     "duration": 50,
-    "modified": "2025-01-08T08:39:17Z",
+    "modified": "2025-01-09T06:54:33Z",
     "repo": "https://github.com/vapor/fluent-sqlite-driver.git",
-    "runid": 12666722268,
+    "runid": 12684763216,
     "stars": 71,
     "status": "failure"
   },
