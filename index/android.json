@@ -20134,10 +20134,10 @@
   },
   "microsoft/fluentui-apple": {
     "created": "2025-01-07T11:05:01Z",
-    "duration": 6,
-    "modified": "2025-01-08T13:52:14Z",
+    "duration": 5,
+    "modified": "2025-01-09T07:52:22Z",
     "repo": "https://github.com/microsoft/fluentui-apple.git",
-    "runid": 12671490284,
+    "runid": 12685324254,
     "stars": 915,
     "status": "success"
   },
