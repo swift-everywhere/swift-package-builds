@@ -24877,10 +24877,10 @@
   },
   "skyofdwarf/rdxvm": {
     "created": "2025-01-07T14:13:07Z",
-    "duration": 16,
-    "modified": "2025-01-08T14:48:30Z",
+    "duration": 17,
+    "modified": "2025-01-09T10:42:39Z",
     "repo": "https://github.com/skyofdwarf/rdxvm.git",
-    "runid": 12672398001,
+    "runid": 12687934323,
     "stars": 1,
     "status": "failure"
   },
