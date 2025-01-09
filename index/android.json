@@ -27919,10 +27919,10 @@
   },
   "uraimo/Nunchuck.swift": {
     "created": "2025-01-06T23:54:49Z",
-    "duration": 8,
-    "modified": "2025-01-09T04:57:42Z",
+    "duration": 9,
+    "modified": "2025-01-09T13:25:33Z",
     "repo": "https://github.com/uraimo/Nunchuck.swift.git",
-    "runid": 12683582618,
+    "runid": 12690795869,
     "stars": 33,
     "status": "failure"
   },
