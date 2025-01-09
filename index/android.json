@@ -9820,10 +9820,10 @@
   },
   "andooown/lexicon-gen": {
     "created": "2025-01-07T08:42:48Z",
-    "duration": 19,
-    "modified": "2025-01-07T08:42:48Z",
+    "duration": 81,
+    "modified": "2025-01-09T05:21:12Z",
     "repo": "https://github.com/andooown/lexicon-gen.git",
-    "runid": 12647794335,
+    "runid": 12684077543,
     "stars": 11,
     "status": "failure"
   },
