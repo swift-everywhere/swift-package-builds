@@ -8308,11 +8308,11 @@
   },
   "SwiftPackageIndex/SwiftPackageIndex-Server": {
     "created": "2025-01-07T14:44:22Z",
-    "duration": 124,
-    "modified": "2025-01-07T17:04:01Z",
+    "duration": 125,
+    "modified": "2025-01-09T08:55:22Z",
     "repo": "https://github.com/SwiftPackageIndex/SwiftPackageIndex-Server.git",
-    "runid": 12655360195,
-    "stars": 578,
+    "runid": 12686130628,
+    "stars": 579,
     "status": "failure"
   },
   "SwiftPackageRepository/ISO639.swift": {
