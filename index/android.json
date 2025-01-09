@@ -10432,10 +10432,10 @@
   },
   "appwrite/sdk-for-apple": {
     "created": "2025-01-07T14:08:31Z",
-    "duration": 49,
-    "modified": "2025-01-09T03:32:26Z",
+    "duration": 53,
+    "modified": "2025-01-09T14:12:03Z",
     "repo": "https://github.com/appwrite/sdk-for-apple.git",
-    "runid": 12682932578,
+    "runid": 12691213311,
     "stars": 106,
     "status": "failure"
   },
