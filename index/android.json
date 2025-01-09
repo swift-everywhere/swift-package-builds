@@ -16129,10 +16129,10 @@
   },
   "happn-app/officectl-model": {
     "created": "2025-01-06T22:16:07Z",
-    "duration": 11,
-    "modified": "2025-01-06T22:16:07Z",
+    "duration": 15,
+    "modified": "2025-01-09T13:06:40Z",
     "repo": "https://github.com/happn-app/officectl-model.git",
-    "runid": 12640899049,
+    "runid": 12690021172,
     "stars": 0,
     "status": "failure"
   },
