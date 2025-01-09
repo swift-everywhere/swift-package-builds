@@ -29566,10 +29566,10 @@
   },
   "yonaskolb/SwagGen": {
     "created": "2025-01-07T05:23:24Z",
-    "duration": 20,
-    "modified": "2025-01-09T01:57:49Z",
+    "duration": 21,
+    "modified": "2025-01-09T09:52:38Z",
     "repo": "https://github.com/yonaskolb/SwagGen.git",
-    "runid": 12682127848,
+    "runid": 12686975202,
     "stars": 627,
     "status": "failure"
   },
