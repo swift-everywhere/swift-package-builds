@@ -11701,10 +11701,10 @@
   },
   "brokenhandsio/elasticsearch-nio-client": {
     "created": "2025-01-07T00:55:27Z",
-    "duration": 51,
-    "modified": "2025-01-08T23:02:36Z",
+    "duration": 48,
+    "modified": "2025-01-09T03:57:43Z",
     "repo": "https://github.com/brokenhandsio/elasticsearch-nio-client.git",
-    "runid": 12680001524,
+    "runid": 12682932578,
     "stars": 29,
     "status": "failure"
   },
