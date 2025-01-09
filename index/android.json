@@ -14743,10 +14743,10 @@
   },
   "finestructure/swift-pg-extras": {
     "created": "2025-01-06T23:58:34Z",
-    "duration": 17,
-    "modified": "2025-01-08T20:26:15Z",
+    "duration": 15,
+    "modified": "2025-01-09T01:37:41Z",
     "repo": "https://github.com/finestructure/swift-pg-extras.git",
-    "runid": 12678362520,
+    "runid": 12682127848,
     "stars": 2,
     "status": "failure"
   },
