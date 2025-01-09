@@ -2764,10 +2764,10 @@
   },
   "FluidGroup/JAYSON": {
     "created": "2025-01-07T10:28:42Z",
-    "duration": 8,
-    "modified": "2025-01-07T20:58:04Z",
+    "duration": 7,
+    "modified": "2025-01-09T04:52:32Z",
     "repo": "https://github.com/FluidGroup/JAYSON.git",
-    "runid": 12658681935,
+    "runid": 12683582618,
     "stars": 255,
     "status": "failure"
   },
