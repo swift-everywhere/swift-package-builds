@@ -3808,10 +3808,10 @@
   },
   "Jomy10/SwiftCurses": {
     "created": "2025-01-07T03:07:40Z",
-    "duration": 1,
-    "modified": "2025-01-08T03:12:08Z",
+    "duration": 2,
+    "modified": "2025-01-09T03:39:42Z",
     "repo": "https://github.com/Jomy10/SwiftCurses.git",
-    "runid": 12663141832,
+    "runid": 12682932578,
     "stars": 5,
     "status": "failure"
   },
