@@ -8290,10 +8290,10 @@
   },
   "SwiftPackageIndex/ShellOut": {
     "created": "2025-01-06T17:39:25Z",
-    "duration": 11,
-    "modified": "2025-01-08T15:02:40Z",
+    "duration": 10,
+    "modified": "2025-01-09T08:53:02Z",
     "repo": "https://github.com/SwiftPackageIndex/ShellOut.git",
-    "runid": 12672398001,
+    "runid": 12686130628,
     "stars": 2,
     "status": "failure"
   },
