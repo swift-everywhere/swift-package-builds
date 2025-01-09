@@ -21826,10 +21826,10 @@
   },
   "onevcat/Rainbow": {
     "created": "2025-01-06T20:58:07Z",
-    "duration": 6,
-    "modified": "2025-01-09T08:52:51Z",
+    "duration": 7,
+    "modified": "2025-01-09T13:07:45Z",
     "repo": "https://github.com/onevcat/Rainbow.git",
-    "runid": 12686130628,
+    "runid": 12690021172,
     "stars": 1862,
     "status": "failure"
   },
