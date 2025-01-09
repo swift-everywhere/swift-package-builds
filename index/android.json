@@ -1504,10 +1504,10 @@
   },
   "ChimeHQ/SwiftTreeSitter": {
     "created": "2025-01-07T11:03:55Z",
-    "duration": 13,
-    "modified": "2025-01-08T21:38:50Z",
+    "duration": 12,
+    "modified": "2025-01-09T14:00:30Z",
     "repo": "https://github.com/ChimeHQ/SwiftTreeSitter.git",
-    "runid": 12679180049,
+    "runid": 12691213311,
     "stars": 277,
     "status": "success"
   },
