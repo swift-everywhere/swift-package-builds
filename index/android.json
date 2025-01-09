@@ -3367,10 +3367,10 @@
   },
   "Hi-Rez/Easings": {
     "created": "2025-01-06T20:11:05Z",
-    "duration": 16,
-    "modified": "2025-01-08T19:40:55Z",
+    "duration": 15,
+    "modified": "2025-01-09T03:44:20Z",
     "repo": "https://github.com/Hi-Rez/Easings.git",
-    "runid": 12677445864,
+    "runid": 12682932578,
     "stars": 12,
     "status": "failure"
   },
