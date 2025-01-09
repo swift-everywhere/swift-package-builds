@@ -25165,10 +25165,10 @@
   },
   "soto-project/soto-smithy": {
     "created": "2025-01-07T14:05:45Z",
-    "duration": 11,
-    "modified": "2025-01-08T15:28:59Z",
+    "duration": 10,
+    "modified": "2025-01-09T06:58:29Z",
     "repo": "https://github.com/soto-project/soto-smithy.git",
-    "runid": 12673545525,
+    "runid": 12684763216,
     "stars": 1,
     "status": "success"
   },
