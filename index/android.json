@@ -24355,10 +24355,10 @@
   },
   "segmentio/Sovran-Swift": {
     "created": "2025-01-07T10:27:50Z",
-    "duration": 7,
-    "modified": "2025-01-09T07:34:42Z",
+    "duration": 6,
+    "modified": "2025-01-09T09:33:05Z",
     "repo": "https://github.com/segmentio/Sovran-Swift.git",
-    "runid": 12685324254,
+    "runid": 12686975202,
     "stars": 13,
     "status": "success"
   },
