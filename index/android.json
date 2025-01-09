@@ -16597,11 +16597,11 @@
   },
   "hylo-lang/hylo": {
     "created": "2025-01-07T08:31:10Z",
-    "duration": 40,
-    "modified": "2025-01-07T08:31:10Z",
+    "duration": 38,
+    "modified": "2025-01-09T06:41:01Z",
     "repo": "https://github.com/hylo-lang/hylo.git",
-    "runid": 12647794335,
-    "stars": 1276,
+    "runid": 12684763216,
+    "stars": 1278,
     "status": "failure"
   },
   "hypertalk/CommandCougar": {
