@@ -27730,10 +27730,10 @@
   },
   "twostraws/Sitrep": {
     "created": "2025-01-06T23:46:53Z",
-    "duration": 17,
-    "modified": "2025-01-08T17:54:45Z",
+    "duration": 19,
+    "modified": "2025-01-09T10:32:39Z",
     "repo": "https://github.com/twostraws/Sitrep.git",
-    "runid": 12675617055,
+    "runid": 12687934323,
     "stars": 1319,
     "status": "failure"
   },
