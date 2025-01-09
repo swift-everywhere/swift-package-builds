@@ -10360,10 +10360,10 @@
   },
   "apple/swift-protobuf": {
     "created": "2025-01-07T01:49:08Z",
-    "duration": 32,
-    "modified": "2025-01-08T12:43:19Z",
+    "duration": 31,
+    "modified": "2025-01-09T06:36:37Z",
     "repo": "https://github.com/apple/swift-protobuf.git",
-    "runid": 12670708592,
+    "runid": 12684763216,
     "stars": 4604,
     "status": "success"
   },
