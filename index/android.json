@@ -20206,10 +20206,10 @@
   },
   "mihai8804858/swift-webvtt-parser": {
     "created": "2025-01-07T08:14:42Z",
-    "duration": 85,
-    "modified": "2025-01-07T21:41:47Z",
+    "duration": 88,
+    "modified": "2025-01-09T11:03:57Z",
     "repo": "https://github.com/mihai8804858/swift-webvtt-parser.git",
-    "runid": 12659472889,
+    "runid": 12687934323,
     "stars": 3,
     "status": "success"
   },
