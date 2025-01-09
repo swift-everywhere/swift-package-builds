@@ -13339,10 +13339,10 @@
   },
   "designedbyclowns/GeoURI": {
     "created": "2025-01-07T06:55:39Z",
-    "duration": 8,
-    "modified": "2025-01-07T18:53:22Z",
+    "duration": 9,
+    "modified": "2025-01-09T07:06:34Z",
     "repo": "https://github.com/designedbyclowns/GeoURI.git",
-    "runid": 12657091582,
+    "runid": 12684763216,
     "stars": 8,
     "status": "success"
   },
