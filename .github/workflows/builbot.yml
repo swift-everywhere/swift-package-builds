@@ -116,6 +116,12 @@ jobs:
             fi
 
             REPO="https://github.com/${DIR}.git"
+
+            if [ "${DIR}" == "keyvariable/kvSIMD.swift" ]; then
+              echo "Skipping build of ${REPO} due to known hang"
+              continue
+            fi
+
             echo "Building: ${REPO} (https://swiftpackageindex.com/${DIR})"
 
             # skip a build that we have already run 
