@@ -8722,10 +8722,10 @@
   },
   "Vonage/vonage-client-sdk-ios": {
     "created": "2025-01-07T13:47:18Z",
-    "duration": 22,
-    "modified": "2025-01-08T16:41:46Z",
+    "duration": 18,
+    "modified": "2025-01-09T05:42:16Z",
     "repo": "https://github.com/Vonage/vonage-client-sdk-ios.git",
-    "runid": 12674728093,
+    "runid": 12684077543,
     "stars": 1,
     "status": "success"
   },
