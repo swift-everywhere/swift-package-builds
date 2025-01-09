@@ -10306,10 +10306,10 @@
   },
   "apple/swift-nio-ssh": {
     "created": "2025-01-06T20:59:33Z",
-    "duration": 50,
-    "modified": "2025-01-08T21:26:30Z",
+    "duration": 49,
+    "modified": "2025-01-09T10:35:58Z",
     "repo": "https://github.com/apple/swift-nio-ssh.git",
-    "runid": 12679180049,
+    "runid": 12687934323,
     "stars": 411,
     "status": "failure"
   },
