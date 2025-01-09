@@ -22861,10 +22861,10 @@
   },
   "pointfreeco/swift-tagged": {
     "created": "2025-01-07T10:13:16Z",
-    "duration": 7,
-    "modified": "2025-01-09T03:23:20Z",
+    "duration": 8,
+    "modified": "2025-01-09T07:36:20Z",
     "repo": "https://github.com/pointfreeco/swift-tagged.git",
-    "runid": 12682932578,
+    "runid": 12685324254,
     "stars": 1418,
     "status": "success"
   },
