@@ -24724,10 +24724,10 @@
   },
   "simonedelmann/crud-kit": {
     "created": "2025-01-07T08:31:58Z",
-    "duration": 22,
-    "modified": "2025-01-07T08:31:58Z",
+    "duration": 21,
+    "modified": "2025-01-09T14:04:55Z",
     "repo": "https://github.com/simonedelmann/crud-kit.git",
-    "runid": 12647794335,
+    "runid": 12691213311,
     "stars": 56,
     "status": "failure"
   },
