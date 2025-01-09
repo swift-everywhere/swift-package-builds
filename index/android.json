@@ -28234,10 +28234,10 @@
   },
   "vapor-community/ferno": {
     "created": "2025-01-07T03:01:36Z",
-    "duration": 41,
-    "modified": "2025-01-08T06:28:27Z",
+    "duration": 34,
+    "modified": "2025-01-09T09:56:02Z",
     "repo": "https://github.com/vapor-community/ferno.git",
-    "runid": 12665265526,
+    "runid": 12686975202,
     "stars": 72,
     "status": "failure"
   },
