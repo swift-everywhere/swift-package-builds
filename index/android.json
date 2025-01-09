@@ -883,10 +883,10 @@
   },
   "AvdLee/appstoreconnect-swift-sdk": {
     "created": "2025-01-06T22:32:06Z",
-    "duration": 30,
-    "modified": "2025-01-09T05:58:22Z",
+    "duration": 32,
+    "modified": "2025-01-09T10:55:21Z",
     "repo": "https://github.com/AvdLee/appstoreconnect-swift-sdk.git",
-    "runid": 12684077543,
+    "runid": 12687934323,
     "stars": 1493,
     "status": "failure"
   },
