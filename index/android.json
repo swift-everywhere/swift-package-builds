@@ -100,10 +100,10 @@
   },
   "0xLeif/Yarn": {
     "created": "2025-01-06T23:40:33Z",
-    "duration": 10,
-    "modified": "2025-01-09T06:38:28Z",
+    "duration": 12,
+    "modified": "2025-01-09T11:26:10Z",
     "repo": "https://github.com/0xLeif/Yarn.git",
-    "runid": 12684763216,
+    "runid": 12688803372,
     "stars": 2,
     "status": "failure"
   },
