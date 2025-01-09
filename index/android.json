@@ -8866,10 +8866,10 @@
   },
   "Wouter01/SwiftUI-Macros": {
     "created": "2025-01-07T10:34:42Z",
-    "duration": 95,
-    "modified": "2025-01-07T10:34:42Z",
+    "duration": 91,
+    "modified": "2025-01-09T08:37:52Z",
     "repo": "https://github.com/Wouter01/SwiftUI-Macros.git",
-    "runid": 12649615878,
+    "runid": 12686130628,
     "stars": 143,
     "status": "success"
   },
