@@ -26281,10 +26281,10 @@
   },
   "swiftlang/swift-se0288-is-power": {
     "created": "2025-01-07T03:28:25Z",
-    "duration": 3,
-    "modified": "2025-01-07T21:53:23Z",
+    "duration": 4,
+    "modified": "2025-01-09T07:21:16Z",
     "repo": "https://github.com/swiftlang/swift-se0288-is-power.git",
-    "runid": 12659472889,
+    "runid": 12685324254,
     "stars": 7,
     "status": "success"
   },
