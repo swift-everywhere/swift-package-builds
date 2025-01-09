@@ -2422,10 +2422,10 @@
   },
   "Everything-as-UI/CoreUI": {
     "created": "2025-01-07T04:20:33Z",
-    "duration": 4,
-    "modified": "2025-01-08T02:02:13Z",
+    "duration": 5,
+    "modified": "2025-01-09T06:46:40Z",
     "repo": "https://github.com/Everything-as-UI/CoreUI.git",
-    "runid": 12662295835,
+    "runid": 12684763216,
     "stars": 0,
     "status": "success"
   },
