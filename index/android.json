@@ -29521,10 +29521,10 @@
   },
   "yonaskolb/Genesis": {
     "created": "2025-01-07T08:17:19Z",
-    "duration": 20,
-    "modified": "2025-01-08T11:57:44Z",
+    "duration": 19,
+    "modified": "2025-01-09T05:33:50Z",
     "repo": "https://github.com/yonaskolb/Genesis.git",
-    "runid": 12669458619,
+    "runid": 12684077543,
     "stars": 194,
     "status": "failure"
   },
