@@ -18451,10 +18451,10 @@
   },
   "kodecocodes/spm-tutorial": {
     "created": "2025-01-06T19:43:24Z",
-    "duration": 3,
-    "modified": "2025-01-07T23:49:31Z",
+    "duration": 4,
+    "modified": "2025-01-09T03:57:57Z",
     "repo": "https://github.com/kodecocodes/spm-tutorial.git",
-    "runid": 12660929108,
+    "runid": 12682932578,
     "stars": 4,
     "status": "failure"
   },
