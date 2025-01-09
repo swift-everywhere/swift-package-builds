@@ -29674,10 +29674,10 @@
   },
   "yumemi-inc/danger-swift-shoki": {
     "created": "2025-01-07T15:01:04Z",
-    "duration": 17,
-    "modified": "2025-01-07T15:01:04Z",
+    "duration": 18,
+    "modified": "2025-01-09T14:02:34Z",
     "repo": "https://github.com/yumemi-inc/danger-swift-shoki.git",
-    "runid": 12652509868,
+    "runid": 12691213311,
     "stars": 4,
     "status": "failure"
   },
