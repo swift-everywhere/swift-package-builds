@@ -10081,10 +10081,10 @@
   },
   "apple/swift-cassandra-client": {
     "created": "2025-01-07T08:06:49Z",
-    "duration": 7,
-    "modified": "2025-01-08T22:40:18Z",
+    "duration": 8,
+    "modified": "2025-01-09T10:43:23Z",
     "repo": "https://github.com/apple/swift-cassandra-client.git",
-    "runid": 12680001524,
+    "runid": 12687934323,
     "stars": 95,
     "status": "failure"
   },
