@@ -15355,10 +15355,10 @@
   },
   "gematik/ASN1Kit": {
     "created": "2025-01-07T03:15:46Z",
-    "duration": 25,
-    "modified": "2025-01-07T03:15:46Z",
+    "duration": 23,
+    "modified": "2025-01-09T03:51:36Z",
     "repo": "https://github.com/gematik/ASN1Kit.git",
-    "runid": 12644277556,
+    "runid": 12682932578,
     "stars": 26,
     "status": "success"
   },
