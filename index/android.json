@@ -22870,10 +22870,10 @@
   },
   "pointfreeco/swift-url-routing": {
     "created": "2025-01-06T23:37:35Z",
-    "duration": 32,
-    "modified": "2025-01-06T23:37:35Z",
+    "duration": 35,
+    "modified": "2025-01-09T08:40:45Z",
     "repo": "https://github.com/pointfreeco/swift-url-routing.git",
-    "runid": 12641986754,
+    "runid": 12686130628,
     "stars": 357,
     "status": "failure"
   },
