@@ -802,10 +802,10 @@
   },
   "ArtSabintsev/Guitar": {
     "created": "2025-01-07T14:26:49Z",
-    "duration": 10,
-    "modified": "2025-01-08T19:53:18Z",
+    "duration": 7,
+    "modified": "2025-01-09T13:07:54Z",
     "repo": "https://github.com/ArtSabintsev/Guitar.git",
-    "runid": 12677445864,
+    "runid": 12690021172,
     "stars": 659,
     "status": "failure"
   },
