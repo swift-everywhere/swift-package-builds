@@ -149,10 +149,20 @@ jobs:
             git -C $(dirname ${INDEX}) pull
 
             # create a record of the package if it doesn't already exist
-            jq --arg DIR "$DIR" --arg REPO "$REPO" '.[$DIR] |= if . == null then {"repo": $REPO, "created": (now | todate)} else . end' $INDEX > $INDEX.new && mv ${INDEX}.new ${INDEX}
+            jq --arg DIR "$DIR" --arg REPO "$REPO" '.[$DIR] |= if . == null then {"repo": $REPO, "status": "unknown", "created": (now | todate)} else . end' $INDEX > $INDEX.new && mv ${INDEX}.new ${INDEX}
 
-            # update the status of the build
-            jq --arg DIR "$DIR" --arg STATUS "$STATUS" '.[$DIR]."status" = $STATUS' $INDEX > $INDEX.new && mv $INDEX.new $INDEX
+            LAST_STATUS=$(jq --arg DIR "$DIR" '.[$DIR]."stars"' ${INDEX})
+
+            # only update the dcument if the build status has changed,
+            # since otherwise we have a massive number of commits
+            if [ "${LAST_STATUS}" != "${STATUS}" ]; then
+              echo "Build status (${STATUS}) for ${REPO} matches previous run; not updating ${INDEX}"
+              continue
+            else
+              # update the status of the build
+              jq --arg DIR "$DIR" --arg STATUS "$STATUS" '.[$DIR]."status" = $STATUS' $INDEX > $INDEX.new && mv $INDEX.new $INDEX
+            fi
+
             # set the build time
             jq --arg DIR "$DIR" --arg REPO "$REPO" '.[$DIR]."modified" = (now | todate)' $INDEX > $INDEX.new && mv $INDEX.new $INDEX
             # save the runid to refer to build logs
