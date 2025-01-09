@@ -19666,10 +19666,10 @@
   },
   "markbattistella/image-zoom-publish-plugin": {
     "created": "2025-01-07T13:15:20Z",
-    "duration": 22,
-    "modified": "2025-01-08T13:16:05Z",
+    "duration": 23,
+    "modified": "2025-01-09T11:37:56Z",
     "repo": "https://github.com/markbattistella/image-zoom-publish-plugin.git",
-    "runid": 12670708592,
+    "runid": 12688803372,
     "stars": 0,
     "status": "failure"
   },
