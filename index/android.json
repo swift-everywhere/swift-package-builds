@@ -12979,10 +12979,10 @@
   },
   "dastrobu/argtree": {
     "created": "2025-01-06T19:45:27Z",
-    "duration": 4,
-    "modified": "2025-01-07T04:57:51Z",
+    "duration": 5,
+    "modified": "2025-01-09T04:38:13Z",
     "repo": "https://github.com/dastrobu/argtree.git",
-    "runid": 12645351961,
+    "runid": 12683582618,
     "stars": 2,
     "status": "failure"
   },
