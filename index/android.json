@@ -12583,10 +12583,10 @@
   },
   "dan-hart/DHDeclarable": {
     "created": "2025-01-06T19:43:50Z",
-    "duration": 9,
-    "modified": "2025-01-09T02:00:47Z",
+    "duration": 12,
+    "modified": "2025-01-09T09:38:49Z",
     "repo": "https://github.com/dan-hart/DHDeclarable.git",
-    "runid": 12682127848,
+    "runid": 12686975202,
     "stars": 4,
     "status": "success"
   },
