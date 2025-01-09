@@ -5275,10 +5275,10 @@
   },
   "MillerTechnologyPeru/hcitool": {
     "created": "2025-01-07T05:27:03Z",
-    "duration": 19,
-    "modified": "2025-01-07T05:27:03Z",
+    "duration": 21,
+    "modified": "2025-01-09T12:44:59Z",
     "repo": "https://github.com/MillerTechnologyPeru/hcitool.git",
-    "runid": 12645653000,
+    "runid": 12690021172,
     "stars": 94,
     "status": "failure"
   },
