@@ -4771,10 +4771,10 @@
   },
   "LuizZak/swift-peg": {
     "created": "2025-01-09T07:27:24Z",
-    "duration": 24,
-    "modified": "2025-01-09T07:27:24Z",
+    "duration": 22,
+    "modified": "2025-01-09T13:19:44Z",
     "repo": "https://github.com/LuizZak/swift-peg.git",
-    "runid": 12685324254,
+    "runid": 12690021172,
     "stars": 0,
     "status": "failure"
   },
