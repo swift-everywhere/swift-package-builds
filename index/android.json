@@ -15653,10 +15653,10 @@
   "google/flatbuffers": {
     "created": "2025-01-06T21:34:54Z",
     "duration": 8,
-    "modified": "2025-01-08T08:47:04Z",
+    "modified": "2025-01-09T05:58:31Z",
     "repo": "https://github.com/google/flatbuffers.git",
-    "runid": 12666722268,
-    "stars": 23591,
+    "runid": 12684077543,
+    "stars": 23595,
     "status": "success"
   },
   "google/interop-ios-for-google-sdks": {
