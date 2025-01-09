@@ -17389,10 +17389,10 @@
   },
   "jkrukowski/SQLiteVec": {
     "created": "2025-01-07T00:24:28Z",
-    "duration": 12,
-    "modified": "2025-01-08T17:18:47Z",
+    "duration": 11,
+    "modified": "2025-01-09T03:28:47Z",
     "repo": "https://github.com/jkrukowski/SQLiteVec.git",
-    "runid": 12675617055,
+    "runid": 12682932578,
     "stars": 18,
     "status": "success"
   },
