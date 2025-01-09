@@ -27100,10 +27100,10 @@
   },
   "tgu/BinaryCoder": {
     "created": "2025-01-06T17:43:58Z",
-    "duration": 7,
-    "modified": "2025-01-08T12:40:22Z",
+    "duration": 8,
+    "modified": "2025-01-09T10:38:52Z",
     "repo": "https://github.com/tgu/BinaryCoder.git",
-    "runid": 12670708592,
+    "runid": 12687934323,
     "stars": 0,
     "status": "failure"
   },
