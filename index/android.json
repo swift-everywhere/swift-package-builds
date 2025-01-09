@@ -25066,10 +25066,10 @@
   },
   "smumriak/AppKid": {
     "created": "2025-01-06T22:17:13Z",
-    "duration": 20,
-    "modified": "2025-01-07T17:08:53Z",
+    "duration": 19,
+    "modified": "2025-01-09T09:47:51Z",
     "repo": "https://github.com/smumriak/AppKid.git",
-    "runid": 12655360195,
+    "runid": 12686975202,
     "stars": 61,
     "status": "failure"
   },
