@@ -27091,10 +27091,10 @@
   },
   "tgrapperon/swift-dependencies-additions": {
     "created": "2025-01-07T02:55:10Z",
-    "duration": 29,
-    "modified": "2025-01-08T18:41:20Z",
+    "duration": 35,
+    "modified": "2025-01-09T13:52:28Z",
     "repo": "https://github.com/tgrapperon/swift-dependencies-additions.git",
-    "runid": 12676738885,
+    "runid": 12691213311,
     "stars": 307,
     "status": "failure"
   },
