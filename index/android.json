@@ -22897,10 +22897,10 @@
   },
   "pointfreeco/swiftui-navigation": {
     "created": "2025-01-07T01:00:35Z",
-    "duration": 23,
-    "modified": "2025-01-09T03:36:30Z",
+    "duration": 24,
+    "modified": "2025-01-09T10:34:58Z",
     "repo": "https://github.com/pointfreeco/swiftui-navigation.git",
-    "runid": 12682932578,
+    "runid": 12687934323,
     "stars": 24,
     "status": "failure"
   },
