@@ -3268,10 +3268,10 @@
   },
   "GoodHatsLLC/StateTree": {
     "created": "2025-01-07T01:47:38Z",
-    "duration": 26,
-    "modified": "2025-01-08T17:19:41Z",
+    "duration": 25,
+    "modified": "2025-01-09T10:47:16Z",
     "repo": "https://github.com/GoodHatsLLC/StateTree.git",
-    "runid": 12675617055,
+    "runid": 12687934323,
     "stars": 6,
     "status": "failure"
   },
