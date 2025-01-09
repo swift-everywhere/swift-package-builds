@@ -11755,10 +11755,10 @@
   },
   "brokenhandsio/vapor-oauth": {
     "created": "2025-01-07T06:42:47Z",
-    "duration": 31,
-    "modified": "2025-01-09T04:34:47Z",
+    "duration": 36,
+    "modified": "2025-01-09T11:22:42Z",
     "repo": "https://github.com/brokenhandsio/vapor-oauth.git",
-    "runid": 12683582618,
+    "runid": 12688803372,
     "stars": 139,
     "status": "failure"
   },
