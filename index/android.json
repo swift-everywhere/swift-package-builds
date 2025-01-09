@@ -12565,10 +12565,10 @@
   },
   "damuellen/Gnuplot.swift": {
     "created": "2025-01-06T22:54:29Z",
-    "duration": 7,
-    "modified": "2025-01-06T22:54:29Z",
+    "duration": 8,
+    "modified": "2025-01-09T14:16:52Z",
     "repo": "https://github.com/damuellen/Gnuplot.swift.git",
-    "runid": 12641431024,
+    "runid": 12691213311,
     "stars": 2,
     "status": "success"
   },
