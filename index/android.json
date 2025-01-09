@@ -20755,10 +20755,10 @@
   },
   "mxcl/StreamReader": {
     "created": "2025-01-06T17:39:33Z",
-    "duration": 9,
-    "modified": "2025-01-08T20:25:57Z",
+    "duration": 8,
+    "modified": "2025-01-09T04:24:52Z",
     "repo": "https://github.com/mxcl/StreamReader.git",
-    "runid": 12678362520,
+    "runid": 12683582618,
     "stars": 16,
     "status": "failure"
   },
