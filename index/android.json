@@ -9802,10 +9802,10 @@
   },
   "amzn/smoke-framework": {
     "created": "2025-01-07T10:22:48Z",
-    "duration": 18,
-    "modified": "2025-01-08T10:35:05Z",
+    "duration": 19,
+    "modified": "2025-01-09T12:49:30Z",
     "repo": "https://github.com/amzn/smoke-framework.git",
-    "runid": 12668573804,
+    "runid": 12690021172,
     "stars": 1450,
     "status": "failure"
   },
