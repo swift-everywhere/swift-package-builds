@@ -5761,10 +5761,10 @@
   },
   "NozeIO/redi-s": {
     "created": "2025-01-06T21:26:33Z",
-    "duration": 27,
-    "modified": "2025-01-08T03:27:07Z",
+    "duration": 40,
+    "modified": "2025-01-09T07:20:28Z",
     "repo": "https://github.com/NozeIO/redi-s.git",
-    "runid": 12663475967,
+    "runid": 12685324254,
     "stars": 80,
     "status": "failure"
   },
