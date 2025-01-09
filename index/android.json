@@ -20737,10 +20737,10 @@
   },
   "mxcl/LegibleError": {
     "created": "2025-01-06T17:42:07Z",
-    "duration": 9,
-    "modified": "2025-01-08T12:38:06Z",
+    "duration": 6,
+    "modified": "2025-01-09T08:53:10Z",
     "repo": "https://github.com/mxcl/LegibleError.git",
-    "runid": 12670708592,
+    "runid": 12686130628,
     "stars": 186,
     "status": "failure"
   },
