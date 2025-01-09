@@ -7165,11 +7165,11 @@
   },
   "RxSwiftCommunity/RxFlow": {
     "created": "2025-01-07T01:23:26Z",
-    "duration": 13,
-    "modified": "2025-01-08T02:02:02Z",
+    "duration": 16,
+    "modified": "2025-01-09T03:25:01Z",
     "repo": "https://github.com/RxSwiftCommunity/RxFlow.git",
-    "runid": 12662295835,
-    "stars": 1881,
+    "runid": 12682932578,
+    "stars": 1882,
     "status": "failure"
   },
   "RxSwiftCommunity/RxGRDB": {
