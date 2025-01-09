@@ -19441,10 +19441,10 @@
   },
   "makoni/parsable": {
     "created": "2025-01-06T20:48:51Z",
-    "duration": 14,
-    "modified": "2025-01-07T00:21:56Z",
+    "duration": 16,
+    "modified": "2025-01-09T05:44:16Z",
     "repo": "https://github.com/makoni/parsable.git",
-    "runid": 12641986754,
+    "runid": 12684077543,
     "stars": 1,
     "status": "success"
   },
