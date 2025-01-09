@@ -25130,9 +25130,9 @@
   "soto-project/soto-codegenerator": {
     "created": "2025-01-06T21:41:24Z",
     "duration": 20,
-    "modified": "2025-01-08T20:46:14Z",
+    "modified": "2025-01-09T01:25:15Z",
     "repo": "https://github.com/soto-project/soto-codegenerator.git",
-    "runid": 12678362520,
+    "runid": 12682127848,
     "stars": 18,
     "status": "failure"
   },
