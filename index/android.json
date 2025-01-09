@@ -14608,10 +14608,10 @@
   },
   "faberNovel/xcresource-cli": {
     "created": "2025-01-06T22:03:59Z",
-    "duration": 10,
-    "modified": "2025-01-08T14:52:19Z",
+    "duration": 11,
+    "modified": "2025-01-09T08:29:56Z",
     "repo": "https://github.com/faberNovel/xcresource-cli.git",
-    "runid": 12672398001,
+    "runid": 12686130628,
     "stars": 56,
     "status": "failure"
   },
