@@ -9928,10 +9928,10 @@
   },
   "appdecentral/replicatingtypes": {
     "created": "2025-01-06T19:53:56Z",
-    "duration": 6,
-    "modified": "2025-01-07T00:37:17Z",
+    "duration": 8,
+    "modified": "2025-01-09T05:34:14Z",
     "repo": "https://github.com/appdecentral/replicatingtypes.git",
-    "runid": 12641986754,
+    "runid": 12684077543,
     "stars": 97,
     "status": "success"
   },
