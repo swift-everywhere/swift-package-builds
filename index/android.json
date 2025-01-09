@@ -2008,10 +2008,10 @@
   },
   "DataDog/swift-jsonapi": {
     "created": "2025-01-07T04:49:58Z",
-    "duration": 106,
-    "modified": "2025-01-09T07:49:45Z",
+    "duration": 118,
+    "modified": "2025-01-09T10:22:48Z",
     "repo": "https://github.com/DataDog/swift-jsonapi.git",
-    "runid": 12685324254,
+    "runid": 12687934323,
     "stars": 21,
     "status": "success"
   },
