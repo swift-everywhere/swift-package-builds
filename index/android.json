@@ -28153,10 +28153,10 @@
   },
   "vapor-community/HTMLKit": {
     "created": "2025-01-07T14:55:24Z",
-    "duration": 43,
-    "modified": "2025-01-08T10:49:50Z",
+    "duration": 42,
+    "modified": "2025-01-09T03:46:17Z",
     "repo": "https://github.com/vapor-community/HTMLKit.git",
-    "runid": 12668573804,
+    "runid": 12682932578,
     "stars": 415,
     "status": "failure"
   },
