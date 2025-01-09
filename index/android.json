@@ -11728,10 +11728,10 @@
   },
   "brokenhandsio/leaf-error-middleware": {
     "created": "2025-01-06T20:01:16Z",
-    "duration": 33,
-    "modified": "2025-01-08T23:26:36Z",
+    "duration": 38,
+    "modified": "2025-01-09T07:28:04Z",
     "repo": "https://github.com/brokenhandsio/leaf-error-middleware.git",
-    "runid": 12680732767,
+    "runid": 12685324254,
     "stars": 64,
     "status": "failure"
   },
