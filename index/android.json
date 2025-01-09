@@ -3835,10 +3835,10 @@
   },
   "JosephDuffy/HashableByKeyPath": {
     "created": "2025-01-07T14:44:28Z",
-    "duration": 4,
-    "modified": "2025-01-08T09:47:51Z",
+    "duration": 5,
+    "modified": "2025-01-09T10:52:19Z",
     "repo": "https://github.com/JosephDuffy/HashableByKeyPath.git",
-    "runid": 12667584016,
+    "runid": 12687934323,
     "stars": 10,
     "status": "success"
   },
