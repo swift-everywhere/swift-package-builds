@@ -11492,6 +11492,15 @@
     "stars": 6,
     "status": "failure"
   },
+  "brightdigit/DataThespian": {
+    "created": "2025-01-10T14:50:58Z",
+    "duration": 13,
+    "modified": "2025-01-10T14:50:58Z",
+    "repo": "https://github.com/brightdigit/DataThespian.git",
+    "runid": 12711195780,
+    "stars": 26,
+    "status": "failure"
+  },
   "brightdigit/FeatherQuill": {
     "created": "2025-01-06T20:30:26Z",
     "duration": 7,
