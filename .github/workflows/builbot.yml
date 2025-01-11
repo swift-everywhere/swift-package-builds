@@ -103,7 +103,7 @@ jobs:
           mkdir logs
 
           BUILD_START=`date +%s`
-          FAILURES = 0
+          FAILURES=0
 
           for DIR in $(cat ${PACKAGES} | jq -r '.[]' | sort -R) ; do
             BUILD_NOW=`date +%s`
