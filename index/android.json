@@ -15848,6 +15848,15 @@
     "stars": 1,
     "status": "success"
   },
+  "grdsdev/swift-fetch": {
+    "created": "2025-01-11T10:36:17Z",
+    "duration": 6,
+    "modified": "2025-01-11T10:36:17Z",
+    "repo": "https://github.com/grdsdev/swift-fetch.git",
+    "runid": 12723380464,
+    "stars": 1,
+    "status": "failure"
+  },
   "greymass/secp256k1": {
     "created": "2025-01-07T02:06:29Z",
     "duration": 4,
