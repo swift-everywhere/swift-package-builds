@@ -103,6 +103,7 @@ jobs:
           mkdir logs
 
           BUILD_START=`date +%s`
+          FAILURES = 0
 
           for DIR in $(cat ${PACKAGES} | jq -r '.[]' | sort -R) ; do
             BUILD_NOW=`date +%s`
@@ -112,6 +113,10 @@ jobs:
             BUILD_DURATION=$[BUILD_NOW - BUILD_START]
             if [ ${BUILD_DURATION} -gt $[60 * 45] ]; then
               echo "Stopping after BUILD_DURATION: ${BUILD_DURATION}"
+              if [ ${FAILURES} -gt 0 ]; then
+                echo "::error::Failing build due to regressions"
+                exit 1
+              fi
               break
             fi
 
@@ -161,12 +166,18 @@ jobs:
 
             # only update the document if the build status has changed,
             # since otherwise we have a massive number of commits
-            if [ "${LAST_STATUS}" == "${STATUS}" ]; then
+            if [ "${LAST_STATUS}" = "${STATUS}" ]; then
               echo "Build status (${STATUS}) for ${REPO} matches previous run; not updating ${INDEX}"
               continue
             else
               # update the status of the build
               jq --arg DIR "$DIR" --arg STATUS "$STATUS" '.[$DIR]."status" = $STATUS' $INDEX > $INDEX.new && mv $INDEX.new $INDEX
+
+              # check for regressions
+              if [ "${LAST_STATUS}" = "success" ] && [ "${STATUS}" = "failure" ]; then
+                echo "::error::Status for ${REPO} changed from success to failure"
+                FAILURES=$[FAILURES + 1]
+              fi
             fi
 
             # set the build time
