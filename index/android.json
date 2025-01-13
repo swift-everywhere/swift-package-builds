@@ -10387,12 +10387,12 @@
   },
   "apple/swift-nio-ssh": {
     "created": "2025-01-06T20:59:33Z",
-    "duration": 48,
-    "modified": "2025-01-09T14:08:38Z",
+    "duration": 58,
+    "modified": "2025-01-13T17:08:59Z",
     "repo": "https://github.com/apple/swift-nio-ssh.git",
-    "runid": 12691213311,
-    "stars": 411,
-    "status": "failure"
+    "runid": 12751582793,
+    "stars": 412,
+    "status": "success"
   },
   "apple/swift-nio-ssl": {
     "created": "2025-01-06T20:47:34Z",
