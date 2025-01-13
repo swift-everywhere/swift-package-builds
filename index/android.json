@@ -4627,12 +4627,12 @@
   },
   "Local-Connectivity-Lab/lcl-ping": {
     "created": "2025-01-07T10:41:03Z",
-    "duration": 69,
-    "modified": "2025-01-09T10:38:22Z",
+    "duration": 79,
+    "modified": "2025-01-13T13:11:22Z",
     "repo": "https://github.com/Local-Connectivity-Lab/lcl-ping.git",
-    "runid": 12687934323,
-    "stars": 15,
-    "status": "failure"
+    "runid": 12747389170,
+    "stars": 18,
+    "status": "success"
   },
   "Local-Connectivity-Lab/lcl-speedtest": {
     "created": "2025-01-07T09:47:15Z",
