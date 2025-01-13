@@ -17387,6 +17387,15 @@
     "stars": 490,
     "status": "success"
   },
+  "jellybeansoup/swift-any-codable": {
+    "created": "2025-01-13T22:36:00Z",
+    "duration": 7,
+    "modified": "2025-01-13T22:36:00Z",
+    "repo": "https://github.com/jellybeansoup/swift-any-codable.git",
+    "runid": 12757101132,
+    "stars": 7,
+    "status": "success"
+  },
   "jemmons/MyNameIsURL": {
     "created": "2025-01-07T01:24:52Z",
     "duration": 7,
