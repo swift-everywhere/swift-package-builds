@@ -103,10 +103,12 @@ jobs:
           mkdir logs
 
           BUILD_START=`date +%s`
+          BUILD_SUCCESS=0
+          BUILD_FAILURE=0
           FAILURES=0
 
-          echo "Status | Repository | Duration" >> $GITHUB_STEP_SUMMARY
-          echo "--- | --- | ---" >> $GITHUB_STEP_SUMMARY
+          echo "Status | Repository | Duration | Stars" >> $GITHUB_STEP_SUMMARY
+          echo "--- | --- | --- | ---" >> $GITHUB_STEP_SUMMARY
 
           for DIR in $(cat ${PACKAGES} | jq -r '.[]' | sort -R) ; do
             BUILD_NOW=`date +%s`
@@ -151,12 +153,18 @@ jobs:
             if [ $EXITCODE == 0 ]; then
               echo "SUCCESS: ${REPO} in ${DURATION}"
               STATUS="success"
+              STATUS_ICON="✅"
+              BUILD_SUCCESS=$[BUILD_SUCCESS + 1]
             else
               echo "FAILED: ${REPO} ($EXITCODE) in ${DURATION}"
               STATUS="failure"
+              STATUS_ICON="❌"
+              BUILD_FAILURE=$[BUILD_FAILURE + 1]
             fi
 
-            echo "$STATUS | [$DIR]($REPO) | $DURATION" >> $GITHUB_STEP_SUMMARY
+            STARS=$(gh repo view --json stargazerCount "${REPO}" | jq '.stargazerCount')
+
+            echo "$STATUS_ICON $STATUS | [$DIR]($REPO) | $DURATION | $STARS" >> $GITHUB_STEP_SUMMARY
 
             # clean out the repository after building
             rm -rf repositories/"${DIR}"
@@ -192,7 +200,6 @@ jobs:
             # save the build duration
             jq --arg DIR "$DIR" --arg DURATION "$DURATION" '.[$DIR]."duration" = ($DURATION | tonumber)' $INDEX > $INDEX.new && mv $INDEX.new $INDEX
             # save the number of stars
-            STARS=$(gh repo view --json stargazerCount "${REPO}" | jq '.stargazerCount')
             jq --arg DIR "$DIR" --arg STARS "$STARS" '.[$DIR]."stars" = ($STARS | tonumber)' $INDEX > $INDEX.new && mv $INDEX.new $INDEX
 
             # we could compact the JSON, but it is nice to be able to
@@ -214,4 +221,10 @@ jobs:
             git push || true
             cd -
           done
+
+          # output the ending summary
+          echo "" >> $GITHUB_STEP_SUMMARY
+          echo "$[BUILD_SUCCESS + BUILD_FAILURE] builds: $BUILD_SUCCESS success, $BUILD_FAILURE failed" >> $GITHUB_STEP_SUMMARY
+
+
 
