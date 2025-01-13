@@ -22231,12 +22231,12 @@
   },
   "orlandos-nl/IkigaJSON": {
     "created": "2025-01-07T11:27:22Z",
-    "duration": 26,
-    "modified": "2025-01-07T18:21:33Z",
+    "duration": 30,
+    "modified": "2025-01-13T19:46:02Z",
     "repo": "https://github.com/orlandos-nl/IkigaJSON.git",
-    "runid": 12656035496,
-    "stars": 383,
-    "status": "failure"
+    "runid": 12754395890,
+    "stars": 384,
+    "status": "success"
   },
   "orlandos-nl/MongoKitten": {
     "created": "2025-01-07T03:46:24Z",
