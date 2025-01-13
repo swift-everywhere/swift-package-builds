@@ -26083,12 +26083,12 @@
   },
   "swift-server-community/mqtt-nio": {
     "created": "2025-01-07T10:16:00Z",
-    "duration": 43,
-    "modified": "2025-01-09T09:21:29Z",
+    "duration": 47,
+    "modified": "2025-01-13T13:01:49Z",
     "repo": "https://github.com/swift-server-community/mqtt-nio.git",
-    "runid": 12686975202,
-    "stars": 195,
-    "status": "failure"
+    "runid": 12747389170,
+    "stars": 196,
+    "status": "success"
   },
   "swift-server/RediStack": {
     "created": "2025-01-06T23:15:32Z",
