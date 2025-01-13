@@ -7903,12 +7903,12 @@
   },
   "StanfordSpezi/SpeziFileFormats": {
     "created": "2025-01-07T04:53:44Z",
-    "duration": 28,
-    "modified": "2025-01-08T06:30:35Z",
+    "duration": 36,
+    "modified": "2025-01-13T15:31:49Z",
     "repo": "https://github.com/StanfordSpezi/SpeziFileFormats.git",
-    "runid": 12665265526,
+    "runid": 12750361417,
     "stars": 1,
-    "status": "failure"
+    "status": "success"
   },
   "StanfordSpezi/SpeziNetworking": {
     "created": "2025-01-07T03:32:19Z",
