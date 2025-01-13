@@ -10378,12 +10378,12 @@
   },
   "apple/swift-nio-oblivious-http": {
     "created": "2025-01-07T03:19:25Z",
-    "duration": 47,
-    "modified": "2025-01-08T21:28:20Z",
+    "duration": 51,
+    "modified": "2025-01-13T22:43:58Z",
     "repo": "https://github.com/apple/swift-nio-oblivious-http.git",
-    "runid": 12679180049,
+    "runid": 12757101132,
     "stars": 53,
-    "status": "failure"
+    "status": "success"
   },
   "apple/swift-nio-ssh": {
     "created": "2025-01-06T20:59:33Z",
