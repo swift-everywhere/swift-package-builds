@@ -7912,12 +7912,12 @@
   },
   "StanfordSpezi/SpeziNetworking": {
     "created": "2025-01-07T03:32:19Z",
-    "duration": 25,
-    "modified": "2025-01-08T05:39:02Z",
+    "duration": 34,
+    "modified": "2025-01-13T23:20:19Z",
     "repo": "https://github.com/StanfordSpezi/SpeziNetworking.git",
-    "runid": 12664549179,
+    "runid": 12757888669,
     "stars": 1,
-    "status": "failure"
+    "status": "success"
   },
   "StatusQuo/InjectKit": {
     "created": "2025-01-07T05:32:32Z",
