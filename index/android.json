@@ -28684,12 +28684,12 @@
   },
   "vapor/jwt-kit": {
     "created": "2025-01-07T03:41:12Z",
-    "duration": 49,
-    "modified": "2025-01-08T11:20:17Z",
+    "duration": 55,
+    "modified": "2025-01-14T21:59:47Z",
     "repo": "https://github.com/vapor/jwt-kit.git",
-    "runid": 12669458619,
-    "stars": 215,
-    "status": "failure"
+    "runid": 12776540765,
+    "stars": 217,
+    "status": "success"
   },
   "vapor/leaf": {
     "created": "2025-01-07T00:32:33Z",
