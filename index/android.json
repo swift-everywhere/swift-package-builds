@@ -28720,12 +28720,12 @@
   },
   "vapor/mysql-kit": {
     "created": "2025-01-06T20:18:51Z",
-    "duration": 94,
-    "modified": "2025-01-08T08:43:26Z",
+    "duration": 116,
+    "modified": "2025-01-14T16:55:31Z",
     "repo": "https://github.com/vapor/mysql-kit.git",
-    "runid": 12666722268,
+    "runid": 12771947187,
     "stars": 226,
-    "status": "failure"
+    "status": "success"
   },
   "vapor/mysql-nio": {
     "created": "2025-01-07T10:01:53Z",
