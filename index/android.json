@@ -28729,12 +28729,12 @@
   },
   "vapor/mysql-nio": {
     "created": "2025-01-07T10:01:53Z",
-    "duration": 76,
-    "modified": "2025-01-07T20:55:39Z",
+    "duration": 84,
+    "modified": "2025-01-14T06:51:26Z",
     "repo": "https://github.com/vapor/mysql-nio.git",
-    "runid": 12658681935,
+    "runid": 12762268485,
     "stars": 92,
-    "status": "failure"
+    "status": "success"
   },
   "vapor/postgres-kit": {
     "created": "2025-01-07T01:48:12Z",
