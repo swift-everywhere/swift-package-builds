@@ -10324,12 +10324,12 @@
   },
   "apple/swift-metrics-extras": {
     "created": "2025-01-07T01:37:51Z",
-    "duration": 5,
-    "modified": "2025-01-07T01:37:51Z",
+    "duration": 7,
+    "modified": "2025-01-14T17:56:22Z",
     "repo": "https://github.com/apple/swift-metrics-extras.git",
-    "runid": 12643524602,
+    "runid": 12772881979,
     "stars": 49,
-    "status": "failure"
+    "status": "success"
   },
   "apple/swift-mmio": {
     "created": "2025-01-07T04:17:27Z",
