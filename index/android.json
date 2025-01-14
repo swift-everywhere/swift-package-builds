@@ -28801,12 +28801,12 @@
   },
   "vapor/service": {
     "created": "2025-01-07T11:00:15Z",
-    "duration": 25,
-    "modified": "2025-01-09T01:53:20Z",
+    "duration": 29,
+    "modified": "2025-01-14T03:17:25Z",
     "repo": "https://github.com/vapor/service.git",
-    "runid": 12682127848,
+    "runid": 12760066353,
     "stars": 85,
-    "status": "failure"
+    "status": "success"
   },
   "vapor/sql-kit": {
     "created": "2025-01-07T00:41:57Z",
