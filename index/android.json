@@ -10270,12 +10270,12 @@
   },
   "apple/swift-http-structured-headers": {
     "created": "2025-01-07T01:11:29Z",
-    "duration": 4,
-    "modified": "2025-01-08T09:25:26Z",
+    "duration": 10,
+    "modified": "2025-01-14T17:33:55Z",
     "repo": "https://github.com/apple/swift-http-structured-headers.git",
-    "runid": 12667584016,
+    "runid": 12772881979,
     "stars": 168,
-    "status": "failure"
+    "status": "success"
   },
   "apple/swift-http-types": {
     "created": "2025-01-07T07:43:01Z",
