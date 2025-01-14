@@ -21358,12 +21358,12 @@
   },
   "ngr-tc/swift-rtc-examples": {
     "created": "2025-01-06T22:10:48Z",
-    "duration": 73,
-    "modified": "2025-01-09T09:43:19Z",
+    "duration": 76,
+    "modified": "2025-01-14T03:42:39Z",
     "repo": "https://github.com/ngr-tc/swift-rtc-examples.git",
-    "runid": 12686975202,
+    "runid": 12760466669,
     "stars": 1,
-    "status": "failure"
+    "status": "success"
   },
   "ngtk/LoggerKit": {
     "created": "2025-01-07T00:53:47Z",
