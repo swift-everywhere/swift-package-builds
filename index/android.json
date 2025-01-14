@@ -5842,12 +5842,12 @@
   },
   "NozeIO/swift-nio-redis-client": {
     "created": "2025-01-06T20:19:32Z",
-    "duration": 26,
-    "modified": "2025-01-07T05:50:20Z",
+    "duration": 30,
+    "modified": "2025-01-14T04:53:48Z",
     "repo": "https://github.com/NozeIO/swift-nio-redis-client.git",
-    "runid": 12645653000,
+    "runid": 12761056581,
     "stars": 7,
-    "status": "failure"
+    "status": "success"
   },
   "NozeIO/xsys": {
     "created": "2025-01-07T12:40:18Z",
