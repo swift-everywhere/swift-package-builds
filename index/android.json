@@ -26920,12 +26920,12 @@
   },
   "tareksabry1337/TensorFlowLiteC": {
     "created": "2025-01-07T09:02:39Z",
-    "duration": 2,
-    "modified": "2025-01-13T23:26:04Z",
+    "duration": 6,
+    "modified": "2025-01-14T10:26:17Z",
     "repo": "https://github.com/tareksabry1337/TensorFlowLiteC.git",
-    "runid": 12757888669,
+    "runid": 12765567330,
     "stars": 11,
-    "status": "failure"
+    "status": "success"
   },
   "tareksabry1337/TensorFlowLiteSwift": {
     "created": "2025-01-07T09:22:13Z",
