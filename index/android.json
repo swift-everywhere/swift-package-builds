@@ -10234,12 +10234,12 @@
   },
   "apple/swift-distributed-tracing": {
     "created": "2025-01-07T12:25:43Z",
-    "duration": 6,
-    "modified": "2025-01-09T08:55:29Z",
+    "duration": 10,
+    "modified": "2025-01-14T10:03:38Z",
     "repo": "https://github.com/apple/swift-distributed-tracing.git",
-    "runid": 12686130628,
+    "runid": 12764575455,
     "stars": 225,
-    "status": "failure"
+    "status": "success"
   },
   "apple/swift-distributed-tracing-baggage-core": {
     "created": "2025-01-07T01:12:49Z",
