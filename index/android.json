@@ -10486,12 +10486,12 @@
   },
   "apple/swift-statsd-client": {
     "created": "2025-01-07T07:26:44Z",
-    "duration": 11,
-    "modified": "2025-01-09T04:54:56Z",
+    "duration": 29,
+    "modified": "2025-01-15T03:52:32Z",
     "repo": "https://github.com/apple/swift-statsd-client.git",
-    "runid": 12683582618,
+    "runid": 12780866324,
     "stars": 60,
-    "status": "failure"
+    "status": "success"
   },
   "apple/swift-system": {
     "created": "2025-01-07T14:27:21Z",
