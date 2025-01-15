@@ -10405,12 +10405,12 @@
   },
   "apple/swift-nio-transport-services": {
     "created": "2025-01-07T01:15:59Z",
-    "duration": 26,
-    "modified": "2025-01-09T07:37:45Z",
+    "duration": 32,
+    "modified": "2025-01-15T12:38:55Z",
     "repo": "https://github.com/apple/swift-nio-transport-services.git",
-    "runid": 12685324254,
+    "runid": 12788438523,
     "stars": 293,
-    "status": "failure"
+    "status": "success"
   },
   "apple/swift-numerics": {
     "created": "2025-01-07T07:26:21Z",
