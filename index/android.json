@@ -16777,12 +16777,12 @@
   },
   "iainsmith/async-http-client": {
     "created": "2025-01-06T23:40:16Z",
-    "duration": 60,
-    "modified": "2025-01-07T17:32:34Z",
+    "duration": 69,
+    "modified": "2025-01-15T17:49:36Z",
     "repo": "https://github.com/iainsmith/async-http-client.git",
-    "runid": 12656035496,
+    "runid": 12793522657,
     "stars": 0,
-    "status": "failure"
+    "status": "success"
   },
   "iainsmith/swift-travis": {
     "created": "2025-01-07T09:10:03Z",
