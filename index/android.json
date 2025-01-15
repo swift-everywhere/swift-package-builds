@@ -28819,12 +28819,12 @@
   },
   "vapor/sql-kit": {
     "created": "2025-01-07T00:41:57Z",
-    "duration": 38,
-    "modified": "2025-01-09T13:14:33Z",
+    "duration": 44,
+    "modified": "2025-01-15T17:32:18Z",
     "repo": "https://github.com/vapor/sql-kit.git",
-    "runid": 12690021172,
+    "runid": 12793522657,
     "stars": 248,
-    "status": "failure"
+    "status": "success"
   },
   "vapor/sqlite-kit": {
     "created": "2025-01-06T23:41:54Z",
