@@ -28792,12 +28792,12 @@
   },
   "vapor/redis-kit": {
     "created": "2025-01-07T01:06:22Z",
-    "duration": 29,
-    "modified": "2025-01-07T22:25:03Z",
+    "duration": 56,
+    "modified": "2025-01-15T12:47:22Z",
     "repo": "https://github.com/vapor/redis-kit.git",
-    "runid": 12660245106,
+    "runid": 12788438523,
     "stars": 8,
-    "status": "failure"
+    "status": "success"
   },
   "vapor/routing-kit": {
     "created": "2025-01-06T20:37:31Z",
