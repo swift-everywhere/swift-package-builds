@@ -24490,12 +24490,12 @@
   },
   "segabor/OSCCore": {
     "created": "2025-01-06T23:29:47Z",
-    "duration": 26,
-    "modified": "2025-01-07T20:16:04Z",
+    "duration": 29,
+    "modified": "2025-01-16T20:26:23Z",
     "repo": "https://github.com/segabor/OSCCore.git",
-    "runid": 12658091539,
+    "runid": 12816915719,
     "stars": 46,
-    "status": "failure"
+    "status": "success"
   },
   "segmentio/JSONSafeEncoding-Swift": {
     "created": "2025-01-07T05:15:22Z",
