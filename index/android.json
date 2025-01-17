@@ -18145,12 +18145,12 @@
   },
   "kaishin/Gifu": {
     "created": "2025-01-07T00:58:04Z",
-    "duration": 4,
-    "modified": "2025-01-08T19:30:02Z",
+    "duration": 8,
+    "modified": "2025-01-17T16:33:01Z",
     "repo": "https://github.com/kaishin/Gifu.git",
-    "runid": 12677445864,
-    "stars": 3107,
-    "status": "success"
+    "runid": 12832884119,
+    "stars": 3108,
+    "status": "failure"
   },
   "kandelvijaya/FastDiff": {
     "created": "2025-01-06T23:37:02Z",
