@@ -766,12 +766,12 @@
   },
   "Appsaurus/RuntimeExtensions": {
     "created": "2025-01-07T06:16:05Z",
-    "duration": 8,
-    "modified": "2025-01-07T21:55:57Z",
+    "duration": 10,
+    "modified": "2025-01-19T19:36:12Z",
     "repo": "https://github.com/Appsaurus/RuntimeExtensions.git",
-    "runid": 12659472889,
+    "runid": 12856422866,
     "stars": 0,
-    "status": "failure"
+    "status": "success"
   },
   "Appsaurus/SwiftTestUtils": {
     "created": "2025-01-07T05:47:42Z",
