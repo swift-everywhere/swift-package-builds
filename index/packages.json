@@ -2189,6 +2189,8 @@
   "marcelvoss/Base62",
   "marcelvoss/RetryKit",
   "marcprux/universal",
+  "marcprux/MemoZ",
+  "marcprux/SwiftGodot",
   "marionauta/HelperKit",
   "markbattistella/PhraseKit",
   "markbattistella/PlatformChecker",
