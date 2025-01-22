@@ -2769,6 +2769,8 @@
   "skelpo/SwiftyDates",
   "skelpo/SwiftyNames",
   "skiptools/swift-sqlcipher",
+  "skiptools/skip-keychain",
+  "skiptools/skip-yaml",
   "skunkrocker/SwiftAsk",
   "skunkrocker/SwiftExt",
   "skylab-inc/StreamKit",
