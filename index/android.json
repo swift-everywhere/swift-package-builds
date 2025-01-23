@@ -719,6 +719,15 @@
     "stars": 0,
     "status": "failure"
   },
+  "Appsaurus/CursorPagination": {
+    "created": "2025-01-23T20:27:46Z",
+    "duration": 40,
+    "modified": "2025-01-23T20:27:46Z",
+    "repo": "https://github.com/Appsaurus/CursorPagination.git",
+    "runid": 12937359606,
+    "stars": 5,
+    "status": "failure"
+  },
   "Appsaurus/Fakery": {
     "created": "2025-01-06T23:19:09Z",
     "duration": 8,
