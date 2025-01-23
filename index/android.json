@@ -27629,6 +27629,15 @@
     "stars": 7,
     "status": "failure"
   },
+  "tomasf/Zip": {
+    "created": "2025-01-23T11:37:31Z",
+    "duration": 8,
+    "modified": "2025-01-23T11:37:31Z",
+    "repo": "https://github.com/tomasf/Zip.git",
+    "runid": 12928006815,
+    "stars": 0,
+    "status": "success"
+  },
   "tomlokhorst/Promissum": {
     "created": "2025-01-07T07:38:48Z",
     "duration": 6,
