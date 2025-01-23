@@ -19565,6 +19565,15 @@
     "stars": 2,
     "status": "failure"
   },
+  "maclong9/list": {
+    "created": "2025-01-23T18:52:45Z",
+    "duration": 11,
+    "modified": "2025-01-23T18:52:45Z",
+    "repo": "https://github.com/maclong9/list.git",
+    "runid": 12935615173,
+    "stars": 0,
+    "status": "failure"
+  },
   "maclong9/swift-list": {
     "created": "2025-01-07T00:16:20Z",
     "duration": 10,
