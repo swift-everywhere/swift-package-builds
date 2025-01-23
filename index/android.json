@@ -25631,6 +25631,15 @@
     "stars": 13,
     "status": "failure"
   },
+  "stackotter/swift-image-formats": {
+    "created": "2025-01-23T07:10:58Z",
+    "duration": 29,
+    "modified": "2025-01-23T07:10:59Z",
+    "repo": "https://github.com/stackotter/swift-image-formats.git",
+    "runid": 12923533628,
+    "stars": 5,
+    "status": "success"
+  },
   "stackotter/swift-macro-toolkit": {
     "created": "2025-01-06T21:09:58Z",
     "duration": 120,
