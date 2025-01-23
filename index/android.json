@@ -25019,6 +25019,15 @@
     "stars": 1,
     "status": "success"
   },
+  "skiptools/skip-yaml": {
+    "created": "2025-01-23T03:48:19Z",
+    "duration": 9,
+    "modified": "2025-01-23T03:48:19Z",
+    "repo": "https://github.com/skiptools/skip-yaml.git",
+    "runid": 12921603508,
+    "stars": 0,
+    "status": "failure"
+  },
   "skiptools/swift-sqlcipher": {
     "created": "2025-01-12T08:25:48Z",
     "duration": 22,
