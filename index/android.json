@@ -737,6 +737,15 @@
     "stars": 0,
     "status": "failure"
   },
+  "Appsaurus/FluentSeeder": {
+    "created": "2025-01-23T08:30:07Z",
+    "duration": 53,
+    "modified": "2025-01-23T08:30:07Z",
+    "repo": "https://github.com/Appsaurus/FluentSeeder.git",
+    "runid": 12925083749,
+    "stars": 6,
+    "status": "failure"
+  },
   "Appsaurus/FluentTestUtils": {
     "created": "2025-01-23T03:15:29Z",
     "duration": 39,
