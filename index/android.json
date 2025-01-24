@@ -18395,6 +18395,15 @@
     "stars": 135,
     "status": "success"
   },
+  "kazakago/StoreFlowable.swift": {
+    "created": "2025-01-24T14:29:56Z",
+    "duration": 10,
+    "modified": "2025-01-24T14:29:57Z",
+    "repo": "https://github.com/kazakago/StoreFlowable.swift.git",
+    "runid": 12951359619,
+    "stars": 16,
+    "status": "failure"
+  },
   "kean/Future": {
     "created": "2025-01-07T03:07:57Z",
     "duration": 7,
