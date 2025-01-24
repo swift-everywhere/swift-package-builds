@@ -11645,6 +11645,15 @@
     "stars": 1,
     "status": "failure"
   },
+  "brightdigit/OSVer": {
+    "created": "2025-01-24T01:36:46Z",
+    "duration": 7,
+    "modified": "2025-01-24T01:36:46Z",
+    "repo": "https://github.com/brightdigit/OSVer.git",
+    "runid": 12941351061,
+    "stars": 1,
+    "status": "success"
+  },
   "brightdigit/OperatingSystemVersion": {
     "created": "2025-01-07T14:19:37Z",
     "duration": 8,
