@@ -13634,6 +13634,15 @@
     "stars": 3274,
     "status": "success"
   },
+  "dfed/CacheAdvance": {
+    "created": "2025-01-24T11:35:22Z",
+    "duration": 8,
+    "modified": "2025-01-24T11:35:22Z",
+    "repo": "https://github.com/dfed/CacheAdvance.git",
+    "runid": 12948551128,
+    "stars": 39,
+    "status": "failure"
+  },
   "dfed/SafeDI": {
     "created": "2025-01-07T07:42:43Z",
     "duration": 146,
