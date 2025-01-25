@@ -25091,6 +25091,15 @@
     "stars": 1,
     "status": "success"
   },
+  "skiptools/skip-keychain": {
+    "created": "2025-01-25T10:32:32Z",
+    "duration": 9,
+    "modified": "2025-01-25T10:32:32Z",
+    "repo": "https://github.com/skiptools/skip-keychain.git",
+    "runid": 12964069575,
+    "stars": 7,
+    "status": "failure"
+  },
   "skiptools/skip-yaml": {
     "created": "2025-01-23T03:48:19Z",
     "duration": 9,
