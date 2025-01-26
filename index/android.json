@@ -8639,6 +8639,15 @@
     "stars": 2,
     "status": "failure"
   },
+  "TelemTobi/swift-localization": {
+    "created": "2025-01-26T17:41:42Z",
+    "duration": 89,
+    "modified": "2025-01-26T17:41:42Z",
+    "repo": "https://github.com/TelemTobi/swift-localization.git",
+    "runid": 12976731352,
+    "stars": 0,
+    "status": "success"
+  },
   "ThatsJustCheesy/InAnyCase": {
     "created": "2025-01-07T00:02:49Z",
     "duration": 8,
