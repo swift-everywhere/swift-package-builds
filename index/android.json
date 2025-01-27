@@ -18514,12 +18514,12 @@
   },
   "kewlbear/TensorFlowLiteC": {
     "created": "2025-01-06T20:23:26Z",
-    "duration": 6,
-    "modified": "2025-01-08T03:15:47Z",
+    "duration": 4,
+    "modified": "2025-01-27T03:04:10Z",
     "repo": "https://github.com/kewlbear/TensorFlowLiteC.git",
-    "runid": 12663141832,
+    "runid": 12981104100,
     "stars": 6,
-    "status": "success"
+    "status": "failure"
   },
   "khanlou/Meridian": {
     "created": "2025-01-06T22:05:05Z",
