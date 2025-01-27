@@ -27827,6 +27827,15 @@
     "stars": 0,
     "status": "success"
   },
+  "tree-sitter/swift-tree-sitter": {
+    "created": "2025-01-27T17:50:34Z",
+    "duration": 12,
+    "modified": "2025-01-27T17:50:34Z",
+    "repo": "https://github.com/tree-sitter/swift-tree-sitter.git",
+    "runid": 12994488539,
+    "stars": 284,
+    "status": "success"
+  },
   "tree-sitter/tree-sitter": {
     "created": "2025-01-07T01:14:56Z",
     "duration": 2,
