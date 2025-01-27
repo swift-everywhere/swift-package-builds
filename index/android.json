@@ -23851,12 +23851,12 @@
   },
   "richardpiazza/CoreDataPlus": {
     "created": "2025-01-07T14:47:48Z",
-    "duration": 14,
-    "modified": "2025-01-08T13:17:35Z",
+    "duration": 9,
+    "modified": "2025-01-27T15:37:11Z",
     "repo": "https://github.com/richardpiazza/CoreDataPlus.git",
-    "runid": 12670708592,
+    "runid": 12992175545,
     "stars": 0,
-    "status": "failure"
+    "status": "success"
   },
   "richardpiazza/DynuREST": {
     "created": "2025-01-07T15:02:33Z",
