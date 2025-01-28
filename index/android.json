@@ -24218,6 +24218,15 @@
     "stars": 1,
     "status": "failure"
   },
+  "rosecoder/google-cloud-error-reporting-swift": {
+    "created": "2025-01-28T17:01:36Z",
+    "duration": 22,
+    "modified": "2025-01-28T17:01:37Z",
+    "repo": "https://github.com/rosecoder/google-cloud-error-reporting-swift.git",
+    "runid": 13014892490,
+    "stars": 0,
+    "status": "failure"
+  },
   "rosecoder/google-cloud-service-context": {
     "created": "2025-01-28T01:33:46Z",
     "duration": 21,
