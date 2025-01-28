@@ -11267,6 +11267,15 @@
     "stars": 1,
     "status": "failure"
   },
+  "bfernandesbfs/Responder": {
+    "created": "2025-01-28T06:02:10Z",
+    "duration": 6,
+    "modified": "2025-01-28T06:02:10Z",
+    "repo": "https://github.com/bfernandesbfs/Responder.git",
+    "runid": 13004102875,
+    "stars": 6,
+    "status": "success"
+  },
   "bgerstle/Scout": {
     "created": "2025-01-07T11:48:31Z",
     "duration": 7,
