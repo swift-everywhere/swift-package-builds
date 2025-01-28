@@ -24227,6 +24227,15 @@
     "stars": 0,
     "status": "failure"
   },
+  "rosecoder/google-cloud-logging-swift": {
+    "created": "2025-01-28T19:08:05Z",
+    "duration": 15,
+    "modified": "2025-01-28T19:08:05Z",
+    "repo": "https://github.com/rosecoder/google-cloud-logging-swift.git",
+    "runid": 13017034236,
+    "stars": 0,
+    "status": "failure"
+  },
   "rosecoder/google-cloud-service-context": {
     "created": "2025-01-28T01:33:46Z",
     "duration": 21,
