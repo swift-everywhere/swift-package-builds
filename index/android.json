@@ -4913,6 +4913,15 @@
     "stars": 0,
     "status": "failure"
   },
+  "MFB-Technologies-Inc/azure-devops-swift": {
+    "created": "2025-01-29T10:36:42Z",
+    "duration": 11,
+    "modified": "2025-01-29T10:36:43Z",
+    "repo": "https://github.com/MFB-Technologies-Inc/azure-devops-swift.git",
+    "runid": 13029155593,
+    "stars": 0,
+    "status": "failure"
+  },
   "MFB-Technologies-Inc/secret-swift": {
     "created": "2025-01-29T03:00:16Z",
     "duration": 7,
