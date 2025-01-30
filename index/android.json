@@ -2450,11 +2450,11 @@
   "EmergeTools/SimpleDebugger": {
     "created": "2025-01-06T21:34:18Z",
     "duration": 2,
-    "modified": "2025-01-08T21:56:54Z",
+    "modified": "2025-01-30T23:47:22Z",
     "repo": "https://github.com/EmergeTools/SimpleDebugger.git",
-    "runid": 12679180049,
+    "runid": 13063064785,
     "stars": 7,
-    "status": "failure"
+    "status": "success"
   },
   "EngOmarElsayed/Injection": {
     "created": "2025-01-07T00:09:53Z",
