@@ -29827,12 +29827,12 @@
   },
   "xcode-actions/gha-logger": {
     "created": "2025-01-07T13:26:53Z",
-    "duration": 6,
-    "modified": "2025-01-08T21:47:17Z",
+    "duration": 11,
+    "modified": "2025-02-01T07:18:10Z",
     "repo": "https://github.com/xcode-actions/gha-logger.git",
-    "runid": 12679180049,
+    "runid": 13086391204,
     "stars": 0,
-    "status": "failure"
+    "status": "success"
   },
   "xcode-actions/json-logger": {
     "created": "2025-01-06T17:27:11Z",
