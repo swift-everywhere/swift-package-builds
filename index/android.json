@@ -28322,6 +28322,15 @@
     "stars": 40,
     "status": "success"
   },
+  "uber/needle": {
+    "created": "2025-02-02T05:20:05Z",
+    "duration": 13,
+    "modified": "2025-02-02T05:20:05Z",
+    "repo": "https://github.com/uber/needle.git",
+    "runid": 13095872580,
+    "stars": 1861,
+    "status": "success"
+  },
   "uhooi/swift-http-client": {
     "created": "2025-01-07T02:07:12Z",
     "duration": 6,
