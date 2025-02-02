@@ -27287,6 +27287,15 @@
     "stars": 9,
     "status": "success"
   },
+  "tayloraswift/archer": {
+    "created": "2025-02-02T13:54:05Z",
+    "duration": 69,
+    "modified": "2025-02-02T13:54:05Z",
+    "repo": "https://github.com/tayloraswift/archer.git",
+    "runid": 13099173974,
+    "stars": 4,
+    "status": "failure"
+  },
   "tayloraswift/swift-bson": {
     "created": "2025-01-07T04:52:56Z",
     "duration": 14,
