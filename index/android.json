@@ -7775,6 +7775,15 @@
     "stars": 70,
     "status": "failure"
   },
+  "Scandit/datacapture-spm": {
+    "created": "2025-02-02T09:37:23Z",
+    "duration": 51,
+    "modified": "2025-02-02T09:37:23Z",
+    "repo": "https://github.com/Scandit/datacapture-spm.git",
+    "runid": 13097446212,
+    "stars": 6,
+    "status": "failure"
+  },
   "Semantical/Dated": {
     "created": "2025-01-07T07:27:54Z",
     "duration": 8,
