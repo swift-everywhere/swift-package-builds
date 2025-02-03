@@ -24317,6 +24317,15 @@
     "stars": 1,
     "status": "failure"
   },
+  "rosecoder/google-cloud-bigquery-swift": {
+    "created": "2025-02-03T08:31:49Z",
+    "duration": 34,
+    "modified": "2025-02-03T08:31:49Z",
+    "repo": "https://github.com/rosecoder/google-cloud-bigquery-swift.git",
+    "runid": 13109244700,
+    "stars": 0,
+    "status": "failure"
+  },
   "rosecoder/google-cloud-error-reporting-swift": {
     "created": "2025-01-28T17:01:36Z",
     "duration": 22,
