@@ -27404,6 +27404,15 @@
     "stars": 6,
     "status": "success"
   },
+  "tayloraswift/swift-io": {
+    "created": "2025-02-03T14:03:55Z",
+    "duration": 65,
+    "modified": "2025-02-03T14:03:55Z",
+    "repo": "https://github.com/tayloraswift/swift-io.git",
+    "runid": 13114477566,
+    "stars": 1,
+    "status": "failure"
+  },
   "tayloraswift/swift-ip": {
     "created": "2025-01-07T00:21:10Z",
     "duration": 28,
