@@ -17405,6 +17405,15 @@
     "stars": 1,
     "status": "failure"
   },
+  "ivanmoskalev/xn-levenshtein": {
+    "created": "2025-02-03T16:57:53Z",
+    "duration": 4,
+    "modified": "2025-02-03T16:57:53Z",
+    "repo": "https://github.com/ivanmoskalev/xn-levenshtein.git",
+    "runid": 13118013730,
+    "stars": 0,
+    "status": "success"
+  },
   "ivanvorobei/SPPerspective": {
     "created": "2025-01-06T17:30:51Z",
     "duration": 5,
