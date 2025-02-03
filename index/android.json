@@ -9458,6 +9458,15 @@
     "stars": 13,
     "status": "failure"
   },
+  "adam-fowler/swift-zip-archive": {
+    "created": "2025-02-03T11:56:22Z",
+    "duration": 11,
+    "modified": "2025-02-03T11:56:22Z",
+    "repo": "https://github.com/adam-fowler/swift-zip-archive.git",
+    "runid": 13112236021,
+    "stars": 10,
+    "status": "success"
+  },
   "adam-fowler/xml-coding": {
     "created": "2025-01-07T10:54:23Z",
     "duration": 8,
