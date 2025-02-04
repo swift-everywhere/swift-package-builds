@@ -9341,6 +9341,15 @@
     "stars": 394,
     "status": "failure"
   },
+  "a7ex/FindSimulator": {
+    "created": "2025-02-04T09:26:38Z",
+    "duration": 14,
+    "modified": "2025-02-04T09:26:38Z",
+    "repo": "https://github.com/a7ex/FindSimulator.git",
+    "runid": 13132142999,
+    "stars": 3,
+    "status": "success"
+  },
   "aaronsky/asc-swift": {
     "created": "2025-01-07T07:52:07Z",
     "duration": 184,
