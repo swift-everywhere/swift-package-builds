@@ -14147,6 +14147,15 @@
     "stars": 1419,
     "status": "failure"
   },
+  "drseg/swift-fsm": {
+    "created": "2025-02-04T07:34:07Z",
+    "duration": 14,
+    "modified": "2025-02-04T07:34:07Z",
+    "repo": "https://github.com/drseg/swift-fsm.git",
+    "runid": 13130268460,
+    "stars": 24,
+    "status": "success"
+  },
   "dscyrescotti/CodableX": {
     "created": "2025-01-07T06:09:50Z",
     "duration": 8,
