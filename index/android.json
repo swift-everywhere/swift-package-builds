@@ -24371,6 +24371,15 @@
     "stars": 0,
     "status": "failure"
   },
+  "rosecoder/google-cloud-pubsub-swift": {
+    "created": "2025-02-04T01:58:05Z",
+    "duration": 40,
+    "modified": "2025-02-04T01:58:05Z",
+    "repo": "https://github.com/rosecoder/google-cloud-pubsub-swift.git",
+    "runid": 13126341600,
+    "stars": 0,
+    "status": "failure"
+  },
   "rosecoder/google-cloud-service-context": {
     "created": "2025-01-28T01:33:46Z",
     "duration": 21,
