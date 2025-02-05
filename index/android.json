@@ -26756,6 +26756,15 @@
     "stars": 23,
     "status": "success"
   },
+  "swiftlang/swift-build": {
+    "created": "2025-02-05T05:33:39Z",
+    "duration": 88,
+    "modified": "2025-02-05T05:33:39Z",
+    "repo": "https://github.com/swiftlang/swift-build.git",
+    "runid": 13150764431,
+    "stars": 1401,
+    "status": "failure"
+  },
   "swiftlang/swift-cmark": {
     "created": "2025-01-07T14:26:40Z",
     "duration": 3,
