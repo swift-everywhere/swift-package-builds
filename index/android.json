@@ -28297,12 +28297,12 @@
   },
   "tuist/XcodeGraph": {
     "created": "2025-01-07T12:19:08Z",
-    "duration": 14,
-    "modified": "2025-01-07T12:19:08Z",
+    "duration": 41,
+    "modified": "2025-02-07T15:35:49Z",
     "repo": "https://github.com/tuist/XcodeGraph.git",
-    "runid": 12650476881,
-    "stars": 43,
-    "status": "success"
+    "runid": 13202722722,
+    "stars": 45,
+    "status": "failure"
   },
   "tuist/XcodeProj": {
     "created": "2025-01-06T22:13:14Z",
