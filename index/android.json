@@ -17468,6 +17468,15 @@
     "stars": 1,
     "status": "failure"
   },
+  "ivanmoskalev/dear-levenshtein": {
+    "created": "2025-02-11T09:48:16Z",
+    "duration": 4,
+    "modified": "2025-02-11T09:48:16Z",
+    "repo": "https://github.com/ivanmoskalev/dear-levenshtein.git",
+    "runid": 13259557284,
+    "stars": 0,
+    "status": "success"
+  },
   "ivanmoskalev/xn-levenshtein": {
     "created": "2025-02-03T16:57:53Z",
     "duration": 4,
