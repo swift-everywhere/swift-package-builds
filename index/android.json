@@ -10979,6 +10979,15 @@
     "stars": 44,
     "status": "failure"
   },
+  "azooKey/AzooKeyKanaKanjiConverter": {
+    "created": "2025-02-11T03:58:00Z",
+    "duration": 118,
+    "modified": "2025-02-11T03:58:00Z",
+    "repo": "https://github.com/azooKey/AzooKeyKanaKanjiConverter.git",
+    "runid": 13255214405,
+    "stars": 73,
+    "status": "failure"
+  },
   "b9swift/MulticastDelegate": {
     "created": "2025-01-06T20:51:45Z",
     "duration": 6,
