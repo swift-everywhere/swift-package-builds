@@ -28313,6 +28313,15 @@
     "stars": 2047,
     "status": "failure"
   },
+  "tuist/ZIPFoundation": {
+    "created": "2025-02-11T02:07:15Z",
+    "duration": 8,
+    "modified": "2025-02-11T02:07:16Z",
+    "repo": "https://github.com/tuist/ZIPFoundation.git",
+    "runid": 13253931067,
+    "stars": 0,
+    "status": "failure"
+  },
   "tuist/swift-glob": {
     "created": "2025-01-07T08:31:19Z",
     "duration": 7,
