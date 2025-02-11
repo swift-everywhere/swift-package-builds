@@ -8945,6 +8945,15 @@
     "stars": 0,
     "status": "success"
   },
+  "VergeGroup/swift-macro-state-struct": {
+    "created": "2025-02-11T19:34:26Z",
+    "duration": 77,
+    "modified": "2025-02-11T19:34:26Z",
+    "repo": "https://github.com/VergeGroup/swift-macro-state-struct.git",
+    "runid": 13270695780,
+    "stars": 2,
+    "status": "failure"
+  },
   "VergeGroup/swift-operator-wrap": {
     "created": "2025-01-06T19:46:31Z",
     "duration": 4,
