@@ -11411,6 +11411,15 @@
     "stars": 1,
     "status": "failure"
   },
+  "besya/ascii": {
+    "created": "2025-02-12T09:53:03Z",
+    "duration": 5,
+    "modified": "2025-02-12T09:53:03Z",
+    "repo": "https://github.com/besya/ascii.git",
+    "runid": 13281983247,
+    "stars": 0,
+    "status": "success"
+  },
   "bfernandesbfs/Responder": {
     "created": "2025-01-28T06:02:10Z",
     "duration": 6,
