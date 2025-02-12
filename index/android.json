@@ -26432,6 +26432,15 @@
     "stars": 438,
     "status": "failure"
   },
+  "swhitty/swift-timeout": {
+    "created": "2025-02-12T14:28:49Z",
+    "duration": 7,
+    "modified": "2025-02-12T14:28:49Z",
+    "repo": "https://github.com/swhitty/swift-timeout.git",
+    "runid": 13287426797,
+    "stars": 17,
+    "status": "success"
+  },
   "swift-bloc/bloc": {
     "created": "2025-01-07T01:40:30Z",
     "duration": 17,
