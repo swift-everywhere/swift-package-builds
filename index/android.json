@@ -16235,6 +16235,15 @@
     "stars": 1,
     "status": "failure"
   },
+  "gregcotten/CSProgress": {
+    "created": "2025-02-12T22:29:07Z",
+    "duration": 7,
+    "modified": "2025-02-12T22:29:07Z",
+    "repo": "https://github.com/gregcotten/CSProgress.git",
+    "runid": 13295967218,
+    "stars": 1,
+    "status": "success"
+  },
   "greymass/secp256k1": {
     "created": "2025-01-07T02:06:29Z",
     "duration": 4,
