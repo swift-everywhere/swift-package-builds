@@ -8633,11 +8633,11 @@
   "SwifterSwift/SwifterSwift": {
     "created": "2025-01-06T23:32:54Z",
     "duration": 8,
-    "modified": "2025-01-07T20:39:55Z",
+    "modified": "2025-02-13T19:06:01Z",
     "repo": "https://github.com/SwifterSwift/SwifterSwift.git",
-    "runid": 12658681935,
-    "stars": 14213,
-    "status": "failure"
+    "runid": 13314513122,
+    "stars": 14282,
+    "status": "success"
   },
   "Swiftgram/TDLibFramework": {
     "created": "2025-01-07T10:02:28Z",
