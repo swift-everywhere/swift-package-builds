@@ -26432,6 +26432,15 @@
     "stars": 0,
     "status": "success"
   },
+  "swhitty/Awaiting": {
+    "created": "2025-02-13T09:23:59Z",
+    "duration": 6,
+    "modified": "2025-02-13T09:23:59Z",
+    "repo": "https://github.com/swhitty/Awaiting.git",
+    "runid": 13304354992,
+    "stars": 22,
+    "status": "failure"
+  },
   "swhitty/DictionaryDecoder": {
     "created": "2025-01-07T12:32:20Z",
     "duration": 8,
