@@ -16253,6 +16253,15 @@
     "stars": 1,
     "status": "success"
   },
+  "gregcotten/ZIPFoundationModern": {
+    "created": "2025-02-13T14:02:14Z",
+    "duration": 7,
+    "modified": "2025-02-13T14:02:14Z",
+    "repo": "https://github.com/gregcotten/ZIPFoundationModern.git",
+    "runid": 13308708102,
+    "stars": 9,
+    "status": "failure"
+  },
   "greymass/secp256k1": {
     "created": "2025-01-07T02:06:29Z",
     "duration": 4,
