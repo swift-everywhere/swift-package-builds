@@ -21968,6 +21968,15 @@
     "stars": 10652,
     "status": "success"
   },
+  "niscy-eudiw/SwiftCBOR": {
+    "created": "2025-02-14T06:02:43Z",
+    "duration": 24,
+    "modified": "2025-02-14T06:02:43Z",
+    "repo": "https://github.com/niscy-eudiw/SwiftCBOR.git",
+    "runid": 13323025798,
+    "stars": 1,
+    "status": "failure"
+  },
   "nixzhu/Ananda": {
     "created": "2025-01-06T20:05:32Z",
     "duration": 9,
