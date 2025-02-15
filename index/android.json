@@ -206,6 +206,15 @@
     "stars": 2,
     "status": "success"
   },
+  "0xWDG/OSLogViewer": {
+    "created": "2025-02-15T00:02:05Z",
+    "duration": 7,
+    "modified": "2025-02-15T00:02:05Z",
+    "repo": "https://github.com/0xWDG/OSLogViewer.git",
+    "runid": 13339120656,
+    "stars": 10,
+    "status": "success"
+  },
   "0xWDG/PHPFramework": {
     "created": "2025-01-06T22:54:39Z",
     "duration": 10,
