@@ -29368,12 +29368,12 @@
   },
   "vapor-community/vapor-elementary": {
     "created": "2025-01-07T09:02:11Z",
-    "duration": 33,
-    "modified": "2025-01-09T09:51:52Z",
+    "duration": 246,
+    "modified": "2025-02-17T16:31:52Z",
     "repo": "https://github.com/vapor-community/vapor-elementary.git",
-    "runid": 12686975202,
-    "stars": 4,
-    "status": "failure"
+    "runid": 13374648235,
+    "stars": 5,
+    "status": "success"
   },
   "vapor-community/vapor-sitemap": {
     "created": "2025-01-06T17:38:14Z",
