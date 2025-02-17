@@ -12106,12 +12106,12 @@
   },
   "brokenhandsio/elasticsearch-nio-client": {
     "created": "2025-01-07T00:55:27Z",
-    "duration": 48,
-    "modified": "2025-01-09T03:57:43Z",
+    "duration": 128,
+    "modified": "2025-02-17T23:35:04Z",
     "repo": "https://github.com/brokenhandsio/elasticsearch-nio-client.git",
-    "runid": 12682932578,
+    "runid": 13380033349,
     "stars": 29,
-    "status": "failure"
+    "status": "success"
   },
   "brokenhandsio/fluent-postgis": {
     "created": "2025-01-07T00:19:39Z",
