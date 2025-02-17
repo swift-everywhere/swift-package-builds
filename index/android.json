@@ -21025,12 +21025,12 @@
   },
   "ml-archive/n-meta": {
     "created": "2025-01-07T09:28:29Z",
-    "duration": 31,
-    "modified": "2025-01-08T08:36:01Z",
+    "duration": 232,
+    "modified": "2025-02-17T14:31:08Z",
     "repo": "https://github.com/ml-archive/n-meta.git",
-    "runid": 12666722268,
+    "runid": 13372312374,
     "stars": 11,
-    "status": "failure"
+    "status": "success"
   },
   "ml-archive/slugify": {
     "created": "2025-01-06T17:39:09Z",
