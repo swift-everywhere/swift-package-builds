@@ -26911,12 +26911,12 @@
   },
   "swift-server/swift-openapi-vapor": {
     "created": "2025-01-07T01:11:59Z",
-    "duration": 30,
-    "modified": "2025-01-08T06:57:43Z",
+    "duration": 234,
+    "modified": "2025-02-17T11:33:28Z",
     "repo": "https://github.com/swift-server/swift-openapi-vapor.git",
-    "runid": 12665265526,
-    "stars": 84,
-    "status": "failure"
+    "runid": 13368989445,
+    "stars": 85,
+    "status": "success"
   },
   "swift-server/swift-prometheus": {
     "created": "2025-01-07T07:22:19Z",
