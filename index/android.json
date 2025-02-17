@@ -25714,12 +25714,12 @@
   },
   "slashmo/swift-app-store-receipt-validation": {
     "created": "2025-01-06T23:06:23Z",
-    "duration": 47,
-    "modified": "2025-01-07T21:47:08Z",
+    "duration": 126,
+    "modified": "2025-02-17T13:44:05Z",
     "repo": "https://github.com/slashmo/swift-app-store-receipt-validation.git",
-    "runid": 12659472889,
+    "runid": 13371331582,
     "stars": 11,
-    "status": "failure"
+    "status": "success"
   },
   "slashmo/swift-otel-xray": {
     "created": "2025-01-07T08:47:27Z",
