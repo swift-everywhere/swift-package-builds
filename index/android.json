@@ -26884,12 +26884,12 @@
   },
   "swift-server/swift-openapi-async-http-client": {
     "created": "2025-01-07T03:42:20Z",
-    "duration": 55,
-    "modified": "2025-01-07T03:42:20Z",
+    "duration": 133,
+    "modified": "2025-02-17T19:32:40Z",
     "repo": "https://github.com/swift-server/swift-openapi-async-http-client.git",
-    "runid": 12644606839,
+    "runid": 13377191670,
     "stars": 54,
-    "status": "failure"
+    "status": "success"
   },
   "swift-server/swift-openapi-hummingbird": {
     "created": "2025-01-07T05:15:09Z",
