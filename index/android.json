@@ -12133,12 +12133,12 @@
   },
   "brokenhandsio/vapor-csrf": {
     "created": "2025-01-06T17:10:49Z",
-    "duration": 32,
-    "modified": "2025-01-09T03:30:53Z",
+    "duration": 228,
+    "modified": "2025-02-17T22:30:14Z",
     "repo": "https://github.com/brokenhandsio/vapor-csrf.git",
-    "runid": 12682932578,
+    "runid": 13379383758,
     "stars": 20,
-    "status": "failure"
+    "status": "success"
   },
   "brokenhandsio/vapor-dynamodb-sessions": {
     "created": "2025-01-06T22:36:33Z",
