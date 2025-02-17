@@ -29233,12 +29233,12 @@
   },
   "vapor-community/google-cloud-kit": {
     "created": "2025-01-06T20:35:01Z",
-    "duration": 82,
-    "modified": "2025-01-09T05:29:10Z",
+    "duration": 206,
+    "modified": "2025-02-17T16:56:06Z",
     "repo": "https://github.com/vapor-community/google-cloud-kit.git",
-    "runid": 12684077543,
+    "runid": 13374648235,
     "stars": 49,
-    "status": "failure"
+    "status": "success"
   },
   "vapor-community/json": {
     "created": "2025-01-07T14:38:48Z",
