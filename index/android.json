@@ -15724,12 +15724,12 @@
   },
   "fundaev/spacetrack": {
     "created": "2025-01-07T09:09:24Z",
-    "duration": 50,
-    "modified": "2025-01-09T10:52:03Z",
+    "duration": 128,
+    "modified": "2025-02-17T14:41:02Z",
     "repo": "https://github.com/fundaev/spacetrack.git",
-    "runid": 12687934323,
+    "runid": 13372312374,
     "stars": 0,
-    "status": "failure"
+    "status": "success"
   },
   "funky-monkey/IsoCountryCodes": {
     "created": "2025-01-07T00:19:05Z",
