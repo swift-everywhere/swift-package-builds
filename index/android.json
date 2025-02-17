@@ -26929,12 +26929,12 @@
   },
   "swift-server/swift-service-lifecycle": {
     "created": "2025-01-06T23:59:28Z",
-    "duration": 9,
-    "modified": "2025-01-09T04:26:09Z",
+    "duration": 17,
+    "modified": "2025-02-17T15:53:25Z",
     "repo": "https://github.com/swift-server/swift-service-lifecycle.git",
-    "runid": 12683582618,
-    "stars": 409,
-    "status": "failure"
+    "runid": 13373496832,
+    "stars": 418,
+    "status": "success"
   },
   "swift-server/swift-webauthn": {
     "created": "2025-01-06T22:52:42Z",
