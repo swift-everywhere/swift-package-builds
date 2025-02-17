@@ -29107,12 +29107,12 @@
   },
   "vamsii777/juspay-kit": {
     "created": "2025-01-06T23:04:23Z",
-    "duration": 79,
-    "modified": "2025-01-09T06:45:24Z",
+    "duration": 195,
+    "modified": "2025-02-17T11:59:51Z",
     "repo": "https://github.com/vamsii777/juspay-kit.git",
-    "runid": 12684763216,
+    "runid": 13368989445,
     "stars": 0,
-    "status": "failure"
+    "status": "success"
   },
   "vamsii777/phonepe-kit": {
     "created": "2025-01-07T08:59:23Z",
