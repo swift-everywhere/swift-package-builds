@@ -29602,12 +29602,12 @@
   },
   "vapor/redis": {
     "created": "2025-01-07T02:07:48Z",
-    "duration": 35,
-    "modified": "2025-01-07T18:12:53Z",
+    "duration": 233,
+    "modified": "2025-02-17T13:38:50Z",
     "repo": "https://github.com/vapor/redis.git",
-    "runid": 12656035496,
-    "stars": 460,
-    "status": "failure"
+    "runid": 13371331582,
+    "stars": 462,
+    "status": "success"
   },
   "vapor/redis-kit": {
     "created": "2025-01-07T01:06:22Z",
