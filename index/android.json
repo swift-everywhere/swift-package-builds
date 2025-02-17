@@ -29314,12 +29314,12 @@
   },
   "vapor-community/sendgrid": {
     "created": "2025-01-06T23:16:48Z",
-    "duration": 36,
-    "modified": "2025-01-07T22:53:45Z",
+    "duration": 230,
+    "modified": "2025-02-17T17:31:36Z",
     "repo": "https://github.com/vapor-community/sendgrid.git",
-    "runid": 12660245106,
-    "stars": 76,
-    "status": "failure"
+    "runid": 13375545071,
+    "stars": 77,
+    "status": "success"
   },
   "vapor-community/sendgrid-kit": {
     "created": "2025-01-06T22:44:14Z",
