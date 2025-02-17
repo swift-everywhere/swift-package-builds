@@ -12124,12 +12124,12 @@
   },
   "brokenhandsio/leaf-error-middleware": {
     "created": "2025-01-06T20:01:16Z",
-    "duration": 38,
-    "modified": "2025-01-09T07:28:04Z",
+    "duration": 229,
+    "modified": "2025-02-17T21:32:33Z",
     "repo": "https://github.com/brokenhandsio/leaf-error-middleware.git",
-    "runid": 12685324254,
+    "runid": 13378685468,
     "stars": 64,
-    "status": "failure"
+    "status": "success"
   },
   "brokenhandsio/vapor-csrf": {
     "created": "2025-01-06T17:10:49Z",
