@@ -8272,12 +8272,12 @@
   },
   "SwifQL/VaporBridges": {
     "created": "2025-01-07T06:57:14Z",
-    "duration": 37,
-    "modified": "2025-01-09T03:34:57Z",
+    "duration": 233,
+    "modified": "2025-02-18T07:35:54Z",
     "repo": "https://github.com/SwifQL/VaporBridges.git",
-    "runid": 12682932578,
+    "runid": 13385232188,
     "stars": 7,
-    "status": "failure"
+    "status": "success"
   },
   "SwifQL/VaporFluentDriver": {
     "created": "2025-01-07T08:40:39Z",
