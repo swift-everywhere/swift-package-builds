@@ -11233,12 +11233,12 @@
   },
   "bdrelling/PlotVapor": {
     "created": "2025-01-07T10:53:31Z",
-    "duration": 38,
-    "modified": "2025-01-07T10:53:31Z",
+    "duration": 236,
+    "modified": "2025-02-18T03:34:54Z",
     "repo": "https://github.com/bdrelling/PlotVapor.git",
-    "runid": 12649615878,
+    "runid": 13382589770,
     "stars": 3,
-    "status": "failure"
+    "status": "success"
   },
   "bdrelling/Structure": {
     "created": "2025-01-06T22:31:05Z",
