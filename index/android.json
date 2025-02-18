@@ -10952,6 +10952,15 @@
     "stars": 1,
     "status": "success"
   },
+  "atacan/swift-openai-api": {
+    "created": "2025-02-18T23:31:57Z",
+    "duration": 30,
+    "modified": "2025-02-18T23:31:57Z",
+    "repo": "https://github.com/atacan/swift-openai-api.git",
+    "runid": 13401906008,
+    "stars": 2,
+    "status": "failure"
+  },
   "attaswift/BigInt": {
     "created": "2025-01-06T20:57:11Z",
     "duration": 9,
