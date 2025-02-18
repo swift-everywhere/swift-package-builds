@@ -17101,12 +17101,12 @@
   },
   "hummingbird-project/hummingbird-core": {
     "created": "2025-01-06T23:03:08Z",
-    "duration": 59,
-    "modified": "2025-01-09T01:57:27Z",
+    "duration": 124,
+    "modified": "2025-02-18T01:28:52Z",
     "repo": "https://github.com/hummingbird-project/hummingbird-core.git",
-    "runid": 12682127848,
+    "runid": 13381339584,
     "stars": 43,
-    "status": "failure"
+    "status": "success"
   },
   "hummingbird-project/hummingbird-fluent": {
     "created": "2025-01-07T00:36:51Z",
