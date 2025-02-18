@@ -29287,12 +29287,12 @@
   },
   "vapor-community/queues-database-hooks": {
     "created": "2025-01-07T12:48:22Z",
-    "duration": 42,
-    "modified": "2025-01-08T20:45:52Z",
+    "duration": 242,
+    "modified": "2025-02-18T05:09:30Z",
     "repo": "https://github.com/vapor-community/queues-database-hooks.git",
-    "runid": 12678362520,
+    "runid": 13383192621,
     "stars": 13,
-    "status": "failure"
+    "status": "success"
   },
   "vapor-community/queues-mongo-driver": {
     "created": "2025-01-07T02:00:04Z",
