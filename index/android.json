@@ -30853,12 +30853,12 @@
   },
   "zunda-pixel/firebase-swift": {
     "created": "2025-01-07T14:41:18Z",
-    "duration": 6,
-    "modified": "2025-01-08T13:54:10Z",
+    "duration": 16,
+    "modified": "2025-02-18T03:13:40Z",
     "repo": "https://github.com/zunda-pixel/firebase-swift.git",
-    "runid": 12671490284,
+    "runid": 13382225437,
     "stars": 1,
-    "status": "failure"
+    "status": "success"
   },
   "zunda-pixel/googleads-swift": {
     "created": "2025-01-07T13:16:25Z",
