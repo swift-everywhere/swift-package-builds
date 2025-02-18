@@ -23158,12 +23158,12 @@
   },
   "pelagornis/plcommand": {
     "created": "2025-01-06T21:06:56Z",
-    "duration": 13,
-    "modified": "2025-01-06T21:06:56Z",
+    "duration": 19,
+    "modified": "2025-02-18T14:06:38Z",
     "repo": "https://github.com/pelagornis/plcommand.git",
-    "runid": 12640312681,
+    "runid": 13391597507,
     "stars": 2,
-    "status": "failure"
+    "status": "success"
   },
   "pelagornis/plfile": {
     "created": "2025-01-07T13:01:07Z",
