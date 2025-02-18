@@ -23239,12 +23239,12 @@
   },
   "petrpavlik/swift-sentry": {
     "created": "2025-01-07T06:39:04Z",
-    "duration": 48,
-    "modified": "2025-01-07T21:51:21Z",
+    "duration": 127,
+    "modified": "2025-02-18T03:11:47Z",
     "repo": "https://github.com/petrpavlik/swift-sentry.git",
-    "runid": 12659472889,
-    "stars": 1,
-    "status": "failure"
+    "runid": 13382225437,
+    "stars": 2,
+    "status": "success"
   },
   "ph1ps/swift-concurrency-deadline": {
     "created": "2025-01-07T03:49:11Z",
