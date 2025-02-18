@@ -4465,12 +4465,12 @@
   },
   "Kitura/SwiftyRequest": {
     "created": "2025-01-07T03:56:18Z",
-    "duration": 54,
-    "modified": "2025-01-08T13:49:10Z",
+    "duration": 129,
+    "modified": "2025-02-18T21:05:00Z",
     "repo": "https://github.com/Kitura/SwiftyRequest.git",
-    "runid": 12671490284,
+    "runid": 13399354762,
     "stars": 110,
-    "status": "failure"
+    "status": "success"
   },
   "Kitura/TypeDecoder": {
     "created": "2025-01-07T06:01:11Z",
