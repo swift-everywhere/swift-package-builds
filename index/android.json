@@ -23230,12 +23230,12 @@
   },
   "petrpavlik/MixpanelVapor": {
     "created": "2025-01-07T08:03:52Z",
-    "duration": 36,
-    "modified": "2025-01-08T19:31:06Z",
+    "duration": 235,
+    "modified": "2025-02-18T17:25:59Z",
     "repo": "https://github.com/petrpavlik/MixpanelVapor.git",
-    "runid": 12677445864,
+    "runid": 13396333384,
     "stars": 5,
-    "status": "failure"
+    "status": "success"
   },
   "petrpavlik/swift-sentry": {
     "created": "2025-01-07T06:39:04Z",
