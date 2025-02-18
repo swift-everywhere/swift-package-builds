@@ -29404,12 +29404,12 @@
   },
   "vapor/apns": {
     "created": "2025-01-07T13:12:16Z",
-    "duration": 32,
-    "modified": "2025-01-07T13:12:16Z",
+    "duration": 240,
+    "modified": "2025-02-18T00:01:59Z",
     "repo": "https://github.com/vapor/apns.git",
-    "runid": 12651715076,
+    "runid": 13380033349,
     "stars": 117,
-    "status": "failure"
+    "status": "success"
   },
   "vapor/async-kit": {
     "created": "2025-01-07T10:49:38Z",
