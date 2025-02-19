@@ -29467,12 +29467,12 @@
   },
   "vapor/fluent": {
     "created": "2025-01-07T01:53:01Z",
-    "duration": 34,
-    "modified": "2025-01-09T03:33:02Z",
+    "duration": 242,
+    "modified": "2025-02-19T12:53:55Z",
     "repo": "https://github.com/vapor/fluent.git",
-    "runid": 12682932578,
-    "stars": 1333,
-    "status": "failure"
+    "runid": 13412679723,
+    "stars": 1347,
+    "status": "success"
   },
   "vapor/fluent-kit": {
     "created": "2025-01-07T06:11:46Z",
