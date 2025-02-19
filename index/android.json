@@ -29395,12 +29395,12 @@
   },
   "vapor-community/vapor-sitemap": {
     "created": "2025-01-06T17:38:14Z",
-    "duration": 32,
-    "modified": "2025-01-08T23:34:38Z",
+    "duration": 228,
+    "modified": "2025-02-19T05:22:25Z",
     "repo": "https://github.com/vapor-community/vapor-sitemap.git",
-    "runid": 12680732767,
+    "runid": 13405937296,
     "stars": 7,
-    "status": "failure"
+    "status": "success"
   },
   "vapor-community/wallet": {
     "created": "2025-01-15T03:30:40Z",
