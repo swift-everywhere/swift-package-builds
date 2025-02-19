@@ -12160,12 +12160,12 @@
   },
   "brokenhandsio/vapor-oauth": {
     "created": "2025-01-07T06:42:47Z",
-    "duration": 36,
-    "modified": "2025-01-09T11:22:42Z",
+    "duration": 240,
+    "modified": "2025-02-19T08:57:17Z",
     "repo": "https://github.com/brokenhandsio/vapor-oauth.git",
-    "runid": 12688803372,
-    "stars": 139,
-    "status": "failure"
+    "runid": 13408265551,
+    "stars": 143,
+    "status": "success"
   },
   "broomburgo/Narratore": {
     "created": "2025-01-07T12:03:51Z",
