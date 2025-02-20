@@ -29206,12 +29206,12 @@
   },
   "vapor-community/HTMLKit": {
     "created": "2025-01-07T14:55:24Z",
-    "duration": 42,
-    "modified": "2025-01-09T03:46:17Z",
+    "duration": 258,
+    "modified": "2025-02-20T19:47:07Z",
     "repo": "https://github.com/vapor-community/HTMLKit.git",
-    "runid": 12682932578,
-    "stars": 415,
-    "status": "failure"
+    "runid": 13442924944,
+    "stars": 419,
+    "status": "success"
   },
   "vapor-community/Imperial": {
     "created": "2025-01-06T20:50:33Z",
