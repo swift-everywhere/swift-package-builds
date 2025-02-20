@@ -20609,6 +20609,15 @@
     "stars": 1156,
     "status": "failure"
   },
+  "mattt/ollama-swift": {
+    "created": "2025-02-20T14:51:36Z",
+    "duration": 10,
+    "modified": "2025-02-20T14:51:36Z",
+    "repo": "https://github.com/mattt/ollama-swift.git",
+    "runid": 13437340042,
+    "stars": 238,
+    "status": "success"
+  },
   "maxhumber/Carlo": {
     "created": "2025-01-07T02:18:36Z",
     "duration": 7,
