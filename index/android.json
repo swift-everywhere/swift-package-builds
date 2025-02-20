@@ -26857,12 +26857,12 @@
   },
   "swift-server-community/APNSwift": {
     "created": "2025-01-07T00:23:32Z",
-    "duration": 81,
-    "modified": "2025-01-08T22:28:30Z",
+    "duration": 201,
+    "modified": "2025-02-20T15:47:16Z",
     "repo": "https://github.com/swift-server-community/APNSwift.git",
-    "runid": 12680001524,
-    "stars": 712,
-    "status": "failure"
+    "runid": 13438635004,
+    "stars": 725,
+    "status": "success"
   },
   "swift-server-community/mqtt-nio": {
     "created": "2025-01-07T10:16:00Z",
