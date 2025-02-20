@@ -2105,6 +2105,15 @@
     "stars": 65,
     "status": "success"
   },
+  "DataDog/opentelemetry-swift-packages": {
+    "created": "2025-02-20T16:55:00Z",
+    "duration": 9,
+    "modified": "2025-02-20T16:55:00Z",
+    "repo": "https://github.com/DataDog/opentelemetry-swift-packages.git",
+    "runid": 13439929748,
+    "stars": 3,
+    "status": "failure"
+  },
   "DataDog/swift-jsonapi": {
     "created": "2025-01-07T04:49:58Z",
     "duration": 118,
