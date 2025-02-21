@@ -5464,12 +5464,12 @@
   },
   "Mikroservices/Smtp": {
     "created": "2025-01-07T09:14:09Z",
-    "duration": 39,
-    "modified": "2025-01-09T01:28:13Z",
+    "duration": 227,
+    "modified": "2025-02-21T02:13:56Z",
     "repo": "https://github.com/Mikroservices/Smtp.git",
-    "runid": 12682127848,
-    "stars": 45,
-    "status": "failure"
+    "runid": 13448064800,
+    "stars": 46,
+    "status": "success"
   },
   "MillerTechnologyPeru/hcitool": {
     "created": "2025-01-07T05:27:03Z",
