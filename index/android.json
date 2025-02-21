@@ -29404,12 +29404,12 @@
   },
   "vapor-community/sendgrid-kit": {
     "created": "2025-01-06T22:44:14Z",
-    "duration": 51,
-    "modified": "2025-01-08T16:03:40Z",
+    "duration": 127,
+    "modified": "2025-02-21T11:21:19Z",
     "repo": "https://github.com/vapor-community/sendgrid-kit.git",
-    "runid": 12673545525,
+    "runid": 13455668517,
     "stars": 12,
-    "status": "failure"
+    "status": "success"
   },
   "vapor-community/soto-cognito-authentication": {
     "created": "2025-01-07T01:46:45Z",
