@@ -3941,6 +3941,15 @@
     "stars": 0,
     "status": "failure"
   },
+  "Jomy10/SimpleGraph": {
+    "created": "2025-02-21T15:37:30Z",
+    "duration": 3,
+    "modified": "2025-02-21T15:37:30Z",
+    "repo": "https://github.com/Jomy10/SimpleGraph.git",
+    "runid": 13459774121,
+    "stars": 1,
+    "status": "failure"
+  },
   "Jomy10/SwiftCurses": {
     "created": "2025-01-07T03:07:40Z",
     "duration": 2,
