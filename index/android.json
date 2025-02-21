@@ -26540,6 +26540,15 @@
     "stars": 10,
     "status": "success"
   },
+  "supersonicbyte/deduplicated-sequence-async-stream": {
+    "created": "2025-02-21T11:25:07Z",
+    "duration": 43,
+    "modified": "2025-02-21T11:25:08Z",
+    "repo": "https://github.com/supersonicbyte/deduplicated-sequence-async-stream.git",
+    "runid": 13455668517,
+    "stars": 0,
+    "status": "failure"
+  },
   "suransea/dbus-swift": {
     "created": "2025-01-07T00:05:08Z",
     "duration": 18,
