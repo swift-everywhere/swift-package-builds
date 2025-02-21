@@ -16813,12 +16813,12 @@
   },
   "heckj/formic": {
     "created": "2025-01-07T12:11:41Z",
-    "duration": 106,
-    "modified": "2025-01-08T14:03:09Z",
+    "duration": 102,
+    "modified": "2025-02-21T05:08:24Z",
     "repo": "https://github.com/heckj/formic.git",
-    "runid": 12671490284,
-    "stars": 10,
-    "status": "failure"
+    "runid": 13450001657,
+    "stars": 12,
+    "status": "success"
   },
   "hectr/swift-elementary-cycles": {
     "created": "2025-01-06T20:08:29Z",
