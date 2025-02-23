@@ -27109,12 +27109,12 @@
   },
   "swiftkube/client": {
     "created": "2025-01-07T08:44:15Z",
-    "duration": 29,
-    "modified": "2025-01-08T23:35:45Z",
+    "duration": 167,
+    "modified": "2025-02-23T05:34:35Z",
     "repo": "https://github.com/swiftkube/client.git",
-    "runid": 12680732767,
+    "runid": 13479995711,
     "stars": 130,
-    "status": "failure"
+    "status": "success"
   },
   "swiftkube/model": {
     "created": "2025-01-07T06:52:59Z",
