@@ -26560,12 +26560,12 @@
   },
   "supabase/supabase-swift": {
     "created": "2025-01-07T03:59:49Z",
-    "duration": 17,
-    "modified": "2025-01-08T05:25:37Z",
+    "duration": 133,
+    "modified": "2025-02-25T10:28:59Z",
     "repo": "https://github.com/supabase/supabase-swift.git",
-    "runid": 12664549179,
-    "stars": 759,
-    "status": "failure"
+    "runid": 13518904328,
+    "stars": 812,
+    "status": "success"
   },
   "superk589/RijndaelSwift": {
     "created": "2025-01-07T13:20:29Z",
