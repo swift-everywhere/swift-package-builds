@@ -10468,12 +10468,12 @@
   },
   "apple/swift-certificates": {
     "created": "2025-01-07T02:15:27Z",
-    "duration": 48,
-    "modified": "2025-01-08T17:08:55Z",
+    "duration": 88,
+    "modified": "2025-02-25T12:41:05Z",
     "repo": "https://github.com/apple/swift-certificates.git",
-    "runid": 12674728093,
-    "stars": 237,
-    "status": "success"
+    "runid": 13521396858,
+    "stars": 239,
+    "status": "failure"
   },
   "apple/swift-cluster-membership": {
     "created": "2025-01-06T22:57:06Z",
