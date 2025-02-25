@@ -7901,6 +7901,15 @@
     "stars": 0,
     "status": "failure"
   },
+  "ShaftUI/SwiftReload": {
+    "created": "2025-02-25T21:52:52Z",
+    "duration": 66,
+    "modified": "2025-02-25T21:52:52Z",
+    "repo": "https://github.com/ShaftUI/SwiftReload.git",
+    "runid": 13531122199,
+    "stars": 6,
+    "status": "failure"
+  },
   "ShaftUI/swift-collections": {
     "created": "2025-02-12T05:22:16Z",
     "duration": 24,
