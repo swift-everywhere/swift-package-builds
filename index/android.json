@@ -23527,12 +23527,12 @@
   },
   "pointfreeco/swift-dependencies": {
     "created": "2025-01-06T17:34:40Z",
-    "duration": 29,
-    "modified": "2025-01-08T20:56:30Z",
+    "duration": 87,
+    "modified": "2025-02-26T05:33:54Z",
     "repo": "https://github.com/pointfreeco/swift-dependencies.git",
-    "runid": 12678362520,
-    "stars": 1666,
-    "status": "failure"
+    "runid": 13537071869,
+    "stars": 1720,
+    "status": "success"
   },
   "pointfreeco/swift-gen": {
     "created": "2025-01-07T13:05:57Z",
