@@ -23066,6 +23066,15 @@
     "stars": 33,
     "status": "failure"
   },
+  "p-x9/swift-edf": {
+    "created": "2025-02-28T08:29:12Z",
+    "duration": 8,
+    "modified": "2025-02-28T08:29:13Z",
+    "repo": "https://github.com/p-x9/swift-edf.git",
+    "runid": 13584173192,
+    "stars": 4,
+    "status": "failure"
+  },
   "p-x9/swift-fileio": {
     "created": "2025-02-20T04:52:56Z",
     "duration": 7,
