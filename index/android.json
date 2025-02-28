@@ -25219,12 +25219,12 @@
   },
   "scinfu/SwiftSoup": {
     "created": "2025-01-07T03:28:20Z",
-    "duration": 9,
-    "modified": "2025-02-28T16:26:14Z",
+    "duration": 11,
+    "modified": "2025-02-28T21:40:38Z",
     "repo": "https://github.com/scinfu/SwiftSoup.git",
-    "runid": 13592239503,
-    "stars": 4693,
-    "status": "failure"
+    "runid": 13596653644,
+    "stars": 4694,
+    "status": "success"
   },
   "sciv-img/OSet": {
     "created": "2025-01-06T23:38:26Z",
