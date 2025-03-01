@@ -27442,12 +27442,12 @@
   },
   "swiftlang/swift-tools-support-core": {
     "created": "2025-01-06T23:30:53Z",
-    "duration": 11,
-    "modified": "2025-01-08T17:39:14Z",
+    "duration": 14,
+    "modified": "2025-03-01T22:33:48Z",
     "repo": "https://github.com/swiftlang/swift-tools-support-core.git",
-    "runid": 12675617055,
-    "stars": 403,
-    "status": "failure"
+    "runid": 13609323602,
+    "stars": 406,
+    "status": "success"
   },
   "swiftuiux/retry-policy-service": {
     "created": "2025-01-07T14:07:20Z",
