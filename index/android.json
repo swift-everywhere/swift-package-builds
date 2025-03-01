@@ -15371,6 +15371,15 @@
     "stars": 2,
     "status": "failure"
   },
+  "finnvoor/xcc": {
+    "created": "2025-03-01T04:37:21Z",
+    "duration": 26,
+    "modified": "2025-03-01T04:37:21Z",
+    "repo": "https://github.com/finnvoor/xcc.git",
+    "runid": 13601038681,
+    "stars": 53,
+    "status": "failure"
+  },
   "finsig/json": {
     "created": "2025-01-07T05:16:20Z",
     "duration": 7,
