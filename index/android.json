@@ -28882,12 +28882,12 @@
   },
   "twostraws/Ignite": {
     "created": "2025-01-06T20:49:58Z",
-    "duration": 30,
-    "modified": "2025-02-28T19:41:01Z",
+    "duration": 47,
+    "modified": "2025-03-01T13:19:51Z",
     "repo": "https://github.com/twostraws/Ignite.git",
-    "runid": 13594956781,
+    "runid": 13604818156,
     "stars": 1874,
-    "status": "failure"
+    "status": "success"
   },
   "twostraws/Sitrep": {
     "created": "2025-01-06T23:46:53Z",
