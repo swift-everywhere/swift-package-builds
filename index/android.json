@@ -8144,6 +8144,15 @@
     "stars": 2,
     "status": "failure"
   },
+  "StanfordSpezi/SpeziCLAID": {
+    "created": "2025-03-01T10:45:38Z",
+    "duration": 3,
+    "modified": "2025-03-01T10:45:38Z",
+    "repo": "https://github.com/StanfordSpezi/SpeziCLAID.git",
+    "runid": 13603777835,
+    "stars": 1,
+    "status": "success"
+  },
   "StanfordSpezi/SpeziFileFormats": {
     "created": "2025-01-07T04:53:44Z",
     "duration": 36,
