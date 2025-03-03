@@ -7894,12 +7894,12 @@
   },
   "Scandit/datacapture-spm": {
     "created": "2025-02-02T09:37:23Z",
-    "duration": 10,
-    "modified": "2025-03-01T18:54:22Z",
+    "duration": 37,
+    "modified": "2025-03-03T11:58:21Z",
     "repo": "https://github.com/Scandit/datacapture-spm.git",
-    "runid": 13607581234,
+    "runid": 13629609319,
     "stars": 7,
-    "status": "success"
+    "status": "failure"
   },
   "Semantical/Dated": {
     "created": "2025-01-07T07:27:54Z",
