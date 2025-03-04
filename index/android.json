@@ -23615,6 +23615,15 @@
     "stars": 723,
     "status": "failure"
   },
+  "pointfreeco/sharing-grdb": {
+    "created": "2025-03-04T11:03:32Z",
+    "duration": 45,
+    "modified": "2025-03-04T11:03:32Z",
+    "repo": "https://github.com/pointfreeco/sharing-grdb.git",
+    "runid": 13651468988,
+    "stars": 269,
+    "status": "failure"
+  },
   "pointfreeco/swift-case-paths": {
     "created": "2025-01-06T20:55:27Z",
     "duration": 82,
