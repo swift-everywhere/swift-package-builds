@@ -951,6 +951,7 @@
   "SwiftPackageIndex/SemanticVersion",
   "SwiftPackageIndex/ShellOut",
   "SwiftPackageIndex/ShellQuote",
+  "SwiftPackageIndex/SwiftPackageIndex-Server",
   "SwiftPackageRepository/ISO639.swift",
   "SwiftScream/URITemplate",
   "SwiftScream/swift-environment-decoder",
