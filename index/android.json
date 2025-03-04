@@ -22265,6 +22265,15 @@
     "stars": 1201,
     "status": "success"
   },
+  "nnabeyang/swift-atproto": {
+    "created": "2025-03-04T15:05:11Z",
+    "duration": 59,
+    "modified": "2025-03-04T15:05:11Z",
+    "repo": "https://github.com/nnabeyang/swift-atproto.git",
+    "runid": 13655718391,
+    "stars": 28,
+    "status": "failure"
+  },
   "nnabeyang/swift-cbor": {
     "created": "2025-01-07T00:26:46Z",
     "duration": 30,
