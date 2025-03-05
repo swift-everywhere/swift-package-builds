@@ -3005,6 +3005,15 @@
     "stars": 0,
     "status": "success"
   },
+  "Formkunft/swift-collection-parser": {
+    "created": "2025-03-05T10:49:02Z",
+    "duration": 4,
+    "modified": "2025-03-05T10:49:02Z",
+    "repo": "https://github.com/Formkunft/swift-collection-parser.git",
+    "runid": 13673706751,
+    "stars": 1,
+    "status": "success"
+  },
   "Formkunft/swift-delta": {
     "created": "2025-03-01T18:26:01Z",
     "duration": 7,
