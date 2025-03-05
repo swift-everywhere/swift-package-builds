@@ -14291,6 +14291,15 @@
     "stars": 45,
     "status": "failure"
   },
+  "dongjoon-hyun/spark-connect-swift": {
+    "created": "2025-03-05T15:32:59Z",
+    "duration": 45,
+    "modified": "2025-03-05T15:32:59Z",
+    "repo": "https://github.com/dongjoon-hyun/spark-connect-swift.git",
+    "runid": 13679353611,
+    "stars": 1,
+    "status": "failure"
+  },
   "dougpenny/SwiftyJamfPro": {
     "created": "2025-01-07T10:57:55Z",
     "duration": 7,
