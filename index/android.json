@@ -21464,6 +21464,15 @@
     "stars": 296,
     "status": "success"
   },
+  "mpdifran/openai-kit": {
+    "created": "2025-03-07T22:51:50Z",
+    "duration": 15,
+    "modified": "2025-03-07T22:51:50Z",
+    "repo": "https://github.com/mpdifran/openai-kit.git",
+    "runid": 13730276439,
+    "stars": 1,
+    "status": "failure"
+  },
   "mpdifran/vapor-sign-in-with-apple": {
     "created": "2025-01-07T04:14:47Z",
     "duration": 23,
