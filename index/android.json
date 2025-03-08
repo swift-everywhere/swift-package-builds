@@ -25928,6 +25928,15 @@
     "stars": 1,
     "status": "failure"
   },
+  "skedgo/tripkit-ios": {
+    "created": "2025-03-08T02:43:27Z",
+    "duration": 8,
+    "modified": "2025-03-08T02:43:27Z",
+    "repo": "https://github.com/skedgo/tripkit-ios.git",
+    "runid": 13733058509,
+    "stars": 6,
+    "status": "failure"
+  },
   "skelpo/CSV": {
     "created": "2025-01-07T14:22:11Z",
     "duration": 7,
