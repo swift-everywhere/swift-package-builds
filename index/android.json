@@ -253,12 +253,12 @@
   },
   "0xWDG/SwiftExtras": {
     "created": "2025-01-10T21:46:18Z",
-    "duration": 6,
-    "modified": "2025-01-10T21:46:18Z",
+    "duration": 9,
+    "modified": "2025-03-08T06:24:44Z",
     "repo": "https://github.com/0xWDG/SwiftExtras.git",
-    "runid": 12717348851,
-    "stars": 1,
-    "status": "success"
+    "runid": 13734854009,
+    "stars": 2,
+    "status": "failure"
   },
   "0xWDG/iCloudStorage": {
     "created": "2025-01-27T10:23:47Z",
