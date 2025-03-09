@@ -28304,6 +28304,15 @@
     "stars": 12,
     "status": "failure"
   },
+  "tesseract-one/Bip39.swift": {
+    "created": "2025-03-09T03:12:49Z",
+    "duration": 8,
+    "modified": "2025-03-09T03:12:49Z",
+    "repo": "https://github.com/tesseract-one/Bip39.swift.git",
+    "runid": 13743994689,
+    "stars": 4,
+    "status": "failure"
+  },
   "tesseract-one/CSecp256k1.swift": {
     "created": "2025-01-07T04:15:09Z",
     "duration": 1,
