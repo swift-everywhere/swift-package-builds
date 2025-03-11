@@ -10450,12 +10450,12 @@
   },
   "apple/example-package-playingcard": {
     "created": "2025-01-07T05:34:31Z",
-    "duration": 601,
-    "modified": "2025-03-10T03:56:37Z",
+    "duration": 4,
+    "modified": "2025-03-11T04:10:02Z",
     "repo": "https://github.com/apple/example-package-playingcard.git",
-    "runid": 13756111835,
+    "runid": 13779718180,
     "stars": 326,
-    "status": "failure"
+    "status": "success"
   },
   "apple/live-caller-id-lookup-example": {
     "created": "2025-01-07T03:48:48Z",
