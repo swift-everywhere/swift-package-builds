@@ -28952,6 +28952,15 @@
     "stars": 61,
     "status": "failure"
   },
+  "tuist/XCLogParser": {
+    "created": "2025-03-11T08:39:56Z",
+    "duration": 16,
+    "modified": "2025-03-11T08:39:56Z",
+    "repo": "https://github.com/tuist/XCLogParser.git",
+    "runid": 13783468758,
+    "stars": 0,
+    "status": "failure"
+  },
   "tuist/XcodeGraph": {
     "created": "2025-01-07T12:19:08Z",
     "duration": 41,
