@@ -1691,6 +1691,15 @@
     "stars": 0,
     "status": "failure"
   },
+  "Cocoanetics/SwiftMail": {
+    "created": "2025-03-11T17:08:04Z",
+    "duration": 25,
+    "modified": "2025-03-11T17:08:04Z",
+    "repo": "https://github.com/Cocoanetics/SwiftMail.git",
+    "runid": 13793148658,
+    "stars": 14,
+    "status": "failure"
+  },
   "CodeBaseCamp/swift-sf-symbols": {
     "created": "2025-01-07T09:29:27Z",
     "duration": 57,
