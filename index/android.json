@@ -20179,12 +20179,12 @@
   },
   "m-barthelemy/AcmeSwift": {
     "created": "2025-01-07T06:55:29Z",
-    "duration": 204,
-    "modified": "2025-02-17T21:00:49Z",
+    "duration": 192,
+    "modified": "2025-03-12T17:33:57Z",
     "repo": "https://github.com/m-barthelemy/AcmeSwift.git",
-    "runid": 13377980743,
-    "stars": 40,
-    "status": "success"
+    "runid": 13817513725,
+    "stars": 41,
+    "status": "failure"
   },
   "m-barthelemy/DockerSwift": {
     "created": "2025-01-07T03:59:31Z",
