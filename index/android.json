@@ -15715,12 +15715,12 @@
   },
   "fpseverino/fluent-wallet": {
     "created": "2025-01-12T23:21:51Z",
-    "duration": 144,
-    "modified": "2025-02-07T16:53:43Z",
+    "duration": 139,
+    "modified": "2025-03-12T20:56:54Z",
     "repo": "https://github.com/fpseverino/fluent-wallet.git",
-    "runid": 13203824341,
+    "runid": 13820792400,
     "stars": 1,
-    "status": "success"
+    "status": "failure"
   },
   "fpseverino/swift-wallet": {
     "created": "2025-01-07T10:35:57Z",
