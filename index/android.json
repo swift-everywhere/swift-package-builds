@@ -19801,12 +19801,12 @@
   },
   "liamnichols/swift-fixture": {
     "created": "2025-01-07T03:51:34Z",
-    "duration": 112,
-    "modified": "2025-01-08T16:32:57Z",
+    "duration": 72,
+    "modified": "2025-03-12T14:48:25Z",
     "repo": "https://github.com/liamnichols/swift-fixture.git",
-    "runid": 12674728093,
-    "stars": 11,
-    "status": "failure"
+    "runid": 13813637527,
+    "stars": 12,
+    "status": "success"
   },
   "liamnichols/swift-playground-tools": {
     "created": "2025-01-07T00:31:40Z",
