@@ -21482,6 +21482,15 @@
     "stars": 0,
     "status": "success"
   },
+  "monzo/boringSSL-SwiftPM": {
+    "created": "2025-03-12T04:27:01Z",
+    "duration": 25,
+    "modified": "2025-03-12T04:27:02Z",
+    "repo": "https://github.com/monzo/boringSSL-SwiftPM.git",
+    "runid": 13803655286,
+    "stars": 0,
+    "status": "success"
+  },
   "morishin/RFC3339DateFormatter": {
     "created": "2025-01-07T05:29:00Z",
     "duration": 7,
