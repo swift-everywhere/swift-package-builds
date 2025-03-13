@@ -9,7 +9,7 @@ on:
       - '.github/workflows/buildmajor.yml'
 
 jobs:
-  buildbot:
+  build-major-packages:
     runs-on: macos-latest
     steps:
       - name: Setup Android Toolchain
@@ -21,14 +21,25 @@ jobs:
           # build with the latest 6.1
           swift-version: 6.1
 
-      - name: Checkout swift-argument-parser
+      - name: Checkout swift-algorithms
         uses: actions/checkout@v4
         with:
-          repository: apple/swift-argument-parser
-          path: swift-argument-parser
-      - name: Build swift-argument-parser
+          repository: apple/swift-algorithms
+          path: swift-algorithms
+      - name: Build swift-algorithms
         shell: bash
-        working-directory: swift-argument-parser
+        working-directory: swift-algorithms
+        run: |
+          ${{ steps.setup-toolchain-android.outputs.swift-build }} --build-tests
+
+      - name: Checkout swift-crypto
+        uses: actions/checkout@v4
+        with:
+          repository: apple/swift-crypto
+          path: swift-crypto
+      - name: Build swift-crypto
+        shell: bash
+        working-directory: swift-crypto
         run: |
           ${{ steps.setup-toolchain-android.outputs.swift-build }} --build-tests
 
