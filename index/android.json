@@ -15706,12 +15706,12 @@
   },
   "fpseverino/apple-maps-kit": {
     "created": "2025-01-06T21:16:23Z",
-    "duration": 207,
-    "modified": "2025-02-17T23:56:19Z",
+    "duration": 194,
+    "modified": "2025-03-13T07:46:35Z",
     "repo": "https://github.com/fpseverino/apple-maps-kit.git",
-    "runid": 13380033349,
+    "runid": 13829131184,
     "stars": 13,
-    "status": "success"
+    "status": "failure"
   },
   "fpseverino/fluent-wallet": {
     "created": "2025-01-12T23:21:51Z",
