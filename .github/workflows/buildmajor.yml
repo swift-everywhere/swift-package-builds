@@ -43,3 +43,91 @@ jobs:
         run: |
           ${{ steps.setup-toolchain-android.outputs.swift-build }} --build-tests
 
+      - name: Checkout swift-numerics
+        uses: actions/checkout@v4
+        with:
+          repository: apple/swift-numerics
+          path: swift-numerics
+      - name: Build swift-numerics
+        shell: bash
+        working-directory: swift-numerics
+        run: |
+          ${{ steps.setup-toolchain-android.outputs.swift-build }} --build-tests
+
+      - name: Checkout swift-system
+        uses: actions/checkout@v4
+        with:
+          repository: apple/swift-system
+          path: swift-system
+      - name: Build swift-system
+        shell: bash
+        working-directory: swift-system
+        run: |
+          ${{ steps.setup-toolchain-android.outputs.swift-build }} --build-tests
+
+      - name: Checkout swift-collections
+        uses: actions/checkout@v4
+        with:
+          repository: apple/swift-collections
+          path: swift-collections
+      - name: Build swift-collections
+        shell: bash
+        working-directory: swift-collections
+        run: |
+          ${{ steps.setup-toolchain-android.outputs.swift-build }} --build-tests
+
+      - name: Checkout swift-atomics
+        uses: actions/checkout@v4
+        with:
+          repository: apple/swift-atomics
+          path: swift-atomics
+      - name: Build swift-atomics
+        shell: bash
+        working-directory: swift-atomics
+        run: |
+          ${{ steps.setup-toolchain-android.outputs.swift-build }} --build-tests
+
+      - name: Checkout swift-nio
+        uses: actions/checkout@v4
+        with:
+          repository: apple/swift-nio
+          path: swift-nio
+      - name: Build swift-nio
+        shell: bash
+        working-directory: swift-nio
+        run: |
+          ${{ steps.setup-toolchain-android.outputs.swift-build }} --build-tests
+
+      - name: Checkout swift-nio-http2
+        uses: actions/checkout@v4
+        with:
+          repository: apple/swift-nio-http2
+          path: swift-nio-http2
+      - name: Build swift-nio-http2
+        shell: bash
+        working-directory: swift-nio-http2
+        run: |
+          ${{ steps.setup-toolchain-android.outputs.swift-build }} --build-tests
+
+      - name: Checkout swift-nio-ssl
+        uses: actions/checkout@v4
+        with:
+          repository: apple/swift-nio-ssl
+          path: swift-nio-ssl
+      - name: Build swift-nio-ssl
+        shell: bash
+        working-directory: swift-nio-ssl
+        run: |
+          ${{ steps.setup-toolchain-android.outputs.swift-build }} --build-tests
+
+      - name: Checkout jpsim/Yams
+        uses: actions/checkout@v4
+        with:
+          repository: jpsim/Yams
+          path: Yams
+      - name: Build jpsim/Yams
+        shell: bash
+        working-directory: Yams
+        run: |
+          ${{ steps.setup-toolchain-android.outputs.swift-build }} --build-tests
+
