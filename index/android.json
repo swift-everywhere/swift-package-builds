@@ -29917,12 +29917,12 @@
   },
   "vapor/fluent-kit": {
     "created": "2025-01-07T06:11:46Z",
-    "duration": 44,
-    "modified": "2025-01-07T21:25:59Z",
+    "duration": 67,
+    "modified": "2025-03-13T05:41:50Z",
     "repo": "https://github.com/vapor/fluent-kit.git",
-    "runid": 12659472889,
-    "stars": 219,
-    "status": "failure"
+    "runid": 13827624400,
+    "stars": 227,
+    "status": "success"
   },
   "vapor/fluent-mongo-driver": {
     "created": "2025-01-06T22:01:35Z",
