@@ -20978,6 +20978,15 @@
     "stars": 96,
     "status": "failure"
   },
+  "mertozseven/QRCodeReader": {
+    "created": "2025-03-13T16:00:27Z",
+    "duration": 4,
+    "modified": "2025-03-13T16:00:27Z",
+    "repo": "https://github.com/mertozseven/QRCodeReader.git",
+    "runid": 13838277299,
+    "stars": 2,
+    "status": "success"
+  },
   "mesqueeb/Asyncify": {
     "created": "2025-01-07T05:13:44Z",
     "duration": 6,
