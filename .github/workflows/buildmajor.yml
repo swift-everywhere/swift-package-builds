@@ -116,6 +116,7 @@ jobs:
           repository: apple/swift-nio-ssl
           path: swift-nio-ssl
       - name: Build swift-nio-ssl
+        if: false # error: cannot find 'open' in scope
         shell: bash
         working-directory: swift-nio-ssl
         run: |
@@ -129,6 +130,17 @@ jobs:
       - name: Build jpsim/Yams
         shell: bash
         working-directory: Yams
+        run: |
+          ${{ steps.setup-toolchain-android.outputs.swift-build }} --build-tests
+
+      - name: Checkout tayloraswift/swift-png
+        uses: actions/checkout@v4
+        with:
+          repository: tayloraswift/swift-png
+          path: swift-png
+      - name: Build tayloraswift/swift-png
+        shell: bash
+        working-directory: swift-png
         run: |
           ${{ steps.setup-toolchain-android.outputs.swift-build }} --build-tests
 
