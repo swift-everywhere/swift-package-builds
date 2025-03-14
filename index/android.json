@@ -17353,12 +17353,12 @@
   },
   "hummingbird-project/hummingbird": {
     "created": "2025-01-07T03:00:52Z",
-    "duration": 24,
-    "modified": "2025-01-07T21:49:19Z",
+    "duration": 161,
+    "modified": "2025-03-14T09:09:28Z",
     "repo": "https://github.com/hummingbird-project/hummingbird.git",
-    "runid": 12659472889,
-    "stars": 1279,
-    "status": "failure"
+    "runid": 13852631736,
+    "stars": 1354,
+    "status": "success"
   },
   "hummingbird-project/hummingbird-auth": {
     "created": "2025-01-07T07:36:11Z",
