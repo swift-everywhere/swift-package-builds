@@ -3412,12 +3412,12 @@
   },
   "GiacomoLeopizzi/neo4j-driver-swift": {
     "created": "2025-01-06T21:39:51Z",
-    "duration": 22,
-    "modified": "2025-01-09T08:42:01Z",
+    "duration": 137,
+    "modified": "2025-03-15T22:21:55Z",
     "repo": "https://github.com/GiacomoLeopizzi/neo4j-driver-swift.git",
-    "runid": 12686130628,
+    "runid": 13877138398,
     "stars": 9,
-    "status": "failure"
+    "status": "success"
   },
   "GiacomoLeopizzi/random-swift": {
     "created": "2025-01-06T23:54:06Z",
