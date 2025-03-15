@@ -17416,12 +17416,12 @@
   },
   "hummingbird-project/hummingbird-redis": {
     "created": "2025-01-06T19:42:41Z",
-    "duration": 25,
-    "modified": "2025-01-08T09:48:42Z",
+    "duration": 142,
+    "modified": "2025-03-15T09:33:32Z",
     "repo": "https://github.com/hummingbird-project/hummingbird-redis.git",
-    "runid": 12667584016,
+    "runid": 13871508353,
     "stars": 12,
-    "status": "failure"
+    "status": "success"
   },
   "hummingbird-project/hummingbird-websocket": {
     "created": "2025-01-06T20:48:15Z",
