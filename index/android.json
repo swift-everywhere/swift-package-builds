@@ -17425,12 +17425,12 @@
   },
   "hummingbird-project/hummingbird-websocket": {
     "created": "2025-01-06T20:48:15Z",
-    "duration": 28,
-    "modified": "2025-01-08T19:16:14Z",
+    "duration": 169,
+    "modified": "2025-03-15T12:45:49Z",
     "repo": "https://github.com/hummingbird-project/hummingbird-websocket.git",
-    "runid": 12677445864,
+    "runid": 13872883665,
     "stars": 42,
-    "status": "failure"
+    "status": "success"
   },
   "hummingbird-project/swift-mustache": {
     "created": "2025-01-07T08:08:44Z",
