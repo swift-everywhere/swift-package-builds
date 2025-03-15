@@ -17398,12 +17398,12 @@
   },
   "hummingbird-project/hummingbird-fluent": {
     "created": "2025-01-07T00:36:51Z",
-    "duration": 30,
-    "modified": "2025-01-09T05:01:44Z",
+    "duration": 104,
+    "modified": "2025-03-15T15:23:26Z",
     "repo": "https://github.com/hummingbird-project/hummingbird-fluent.git",
-    "runid": 12683582618,
+    "runid": 13874123325,
     "stars": 12,
-    "status": "failure"
+    "status": "success"
   },
   "hummingbird-project/hummingbird-lambda": {
     "created": "2025-01-07T01:38:30Z",
