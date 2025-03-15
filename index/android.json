@@ -21439,12 +21439,12 @@
   },
   "mochidev/swift-webpush": {
     "created": "2025-01-06T19:48:25Z",
-    "duration": 37,
-    "modified": "2025-01-09T13:50:52Z",
+    "duration": 197,
+    "modified": "2025-03-15T04:07:11Z",
     "repo": "https://github.com/mochidev/swift-webpush.git",
-    "runid": 12691213311,
-    "stars": 37,
-    "status": "failure"
+    "runid": 13869039134,
+    "stars": 40,
+    "status": "success"
   },
   "modswift/ExExpress": {
     "created": "2025-01-06T23:25:57Z",
