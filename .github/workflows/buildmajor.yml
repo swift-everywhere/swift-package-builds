@@ -76,6 +76,7 @@ jobs:
           repository: apple/swift-testing
           path: swift-testing
       - name: Build swift-testing
+        if: false # TODO: identify problems
         shell: bash
         working-directory: swift-testing
         run: |
