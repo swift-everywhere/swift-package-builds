@@ -10,7 +10,12 @@ on:
 
 jobs:
   build-major-packages:
-    runs-on: macos-latest
+    strategy: 
+      fail-fast: false
+      matrix:
+        swift: ['6.0', '6.1']
+        os: ['macos-latest', 'ubuntu-latest']
+    runs-on: ${{ matrix.os }}
     steps:
       - name: Setup Android Toolchain
         id: setup-toolchain-android
@@ -18,8 +23,7 @@ jobs:
         with:
           # just set up the toolchain and don't build anything
           build-package: false
-          # build with the latest 6.1
-          swift-version: 6.1
+          swift-version: ${{ matrix.swift }}
 
       - name: Checkout swift-algorithms
         uses: actions/checkout@v4
@@ -88,6 +92,17 @@ jobs:
         run: |
           ${{ steps.setup-toolchain-android.outputs.swift-build }} --build-tests
 
+      - name: Checkout swift-foundation
+        uses: actions/checkout@v4
+        with:
+          repository: apple/swift-foundation
+          path: swift-foundation
+      - name: Build swift-foundation
+        shell: bash
+        working-directory: swift-foundation
+        run: |
+          ${{ steps.setup-toolchain-android.outputs.swift-build }} --build-tests
+
       - name: Checkout swift-nio
         uses: actions/checkout@v4
         with:
@@ -141,6 +156,17 @@ jobs:
       - name: Build tayloraswift/swift-png
         shell: bash
         working-directory: swift-png
+        run: |
+          ${{ steps.setup-toolchain-android.outputs.swift-build }} --build-tests
+
+      - name: Checkout vapor/vapor
+        uses: actions/checkout@v4
+        with:
+          repository: vapor/vapor
+          path: vapor
+      - name: Build vapor/vapor
+        shell: bash
+        working-directory: vapor
         run: |
           ${{ steps.setup-toolchain-android.outputs.swift-build }} --build-tests
 
