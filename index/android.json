@@ -10430,6 +10430,15 @@
     "stars": 4,
     "status": "failure"
   },
+  "aperkov/DecimalMacro": {
+    "created": "2025-03-16T11:58:08Z",
+    "duration": 71,
+    "modified": "2025-03-16T11:58:08Z",
+    "repo": "https://github.com/aperkov/DecimalMacro.git",
+    "runid": 13882795043,
+    "stars": 0,
+    "status": "success"
+  },
   "apparata/RuleKit": {
     "created": "2025-01-07T09:43:35Z",
     "duration": 8,
