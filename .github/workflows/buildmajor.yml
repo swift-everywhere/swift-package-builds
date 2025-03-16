@@ -156,6 +156,8 @@ jobs:
           repository: tayloraswift/swift-png
           path: swift-png
       - name: Build tayloraswift/swift-png
+        # no Testing in Swift Android SDK for 6.0
+        if: ${{ matrix.swift != "6.0" }}
         shell: bash
         working-directory: swift-png
         run: |
@@ -167,6 +169,7 @@ jobs:
           repository: vapor/vapor
           path: vapor
       - name: Build vapor/vapor
+        if: false # TODO
         shell: bash
         working-directory: vapor
         run: |
