@@ -157,7 +157,7 @@ jobs:
           path: swift-png
       - name: Build tayloraswift/swift-png
         # no Testing in Swift Android SDK for 6.0
-        if: ${{ matrix.swift != "6.0" }}
+        if: ${{ matrix.swift != '6.0' }}
         shell: bash
         working-directory: swift-png
         run: |
