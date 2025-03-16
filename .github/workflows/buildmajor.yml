@@ -36,6 +36,83 @@ jobs:
         run: |
           ${{ steps.setup-toolchain-android.outputs.swift-build }} --build-tests
 
+      - name: Checkout swift-format
+        uses: actions/checkout@v4
+        with:
+          repository: apple/swift-format
+          path: swift-format
+      - name: Build swift-format
+        shell: bash
+        working-directory: swift-format
+        run: |
+          ${{ steps.setup-toolchain-android.outputs.swift-build }} --build-tests
+
+      - name: Checkout swift-markdown
+        uses: actions/checkout@v4
+        with:
+          repository: apple/swift-markdown
+          path: swift-markdown
+      - name: Build swift-markdown
+        shell: bash
+        working-directory: swift-markdown
+        run: |
+          ${{ steps.setup-toolchain-android.outputs.swift-build }} --build-tests
+
+      - name: Checkout swift-syntax
+        uses: actions/checkout@v4
+        with:
+          repository: apple/swift-syntax
+          path: swift-syntax
+      - name: Build swift-syntax
+        shell: bash
+        working-directory: swift-syntax
+        run: |
+          ${{ steps.setup-toolchain-android.outputs.swift-build }} --build-tests
+
+      - name: Checkout swift-testing
+        uses: actions/checkout@v4
+        with:
+          repository: apple/swift-testing
+          path: swift-testing
+      - name: Build swift-testing
+        shell: bash
+        working-directory: swift-testing
+        run: |
+          ${{ steps.setup-toolchain-android.outputs.swift-build }} --build-tests
+
+      - name: Checkout swift-package-manager
+        uses: actions/checkout@v4
+        with:
+          repository: apple/swift-package-manager
+          path: swift-package-manager
+      - name: Build swift-package-manager
+        shell: bash
+        working-directory: swift-package-manager
+        run: |
+          ${{ steps.setup-toolchain-android.outputs.swift-build }} --build-tests
+
+      - name: Checkout swift-toolchain-sqlite
+        uses: actions/checkout@v4
+        with:
+          repository: apple/swift-toolchain-sqlite
+          path: swift-toolchain-sqlite
+      - name: Build swift-toolchain-sqlite
+        shell: bash
+        working-directory: swift-toolchain-sqlite
+        run: |
+          ${{ steps.setup-toolchain-android.outputs.swift-build }} --build-tests
+
+      - name: Checkout swift-java
+        uses: actions/checkout@v4
+        with:
+          repository: apple/swift-java
+          path: swift-java
+      - name: Build swift-java
+        shell: bash
+        working-directory: swift-java
+        run: |
+          ${{ steps.setup-toolchain-android.outputs.swift-build }} --build-tests
+
       - name: Checkout swift-crypto
         uses: actions/checkout@v4
         with:
