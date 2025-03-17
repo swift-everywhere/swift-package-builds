@@ -20294,6 +20294,15 @@
     "stars": 0,
     "status": "success"
   },
+  "m1guelpf/swift-openai-responses": {
+    "created": "2025-03-17T07:24:26Z",
+    "duration": 98,
+    "modified": "2025-03-17T07:24:26Z",
+    "repo": "https://github.com/m1guelpf/swift-openai-responses.git",
+    "runid": 13893720612,
+    "stars": 4,
+    "status": "failure"
+  },
   "m1guelpf/swift-pipeline": {
     "created": "2025-02-04T15:41:28Z",
     "duration": 5,
