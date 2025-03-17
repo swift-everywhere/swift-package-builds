@@ -109,10 +109,9 @@ jobs:
       - name: Checkout swift-toolchain-sqlite
         uses: actions/checkout@v4
         with:
-          repository: apple/swift-toolchain-sqlite
+          repository: swiftlang/swift-toolchain-sqlite
           path: swift-toolchain-sqlite
       - name: Build swift-toolchain-sqlite
-        if: false # TODO: diagnose
         shell: bash
         working-directory: swift-toolchain-sqlite
         run: |
