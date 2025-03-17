@@ -120,7 +120,7 @@ jobs:
       - name: Checkout swift-java
         uses: actions/checkout@v4
         with:
-          repository: apple/swift-java
+          repository: swiftlang/swift-java
           path: swift-java
       - name: Build swift-java
         shell: bash
