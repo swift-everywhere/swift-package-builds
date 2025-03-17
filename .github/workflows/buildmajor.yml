@@ -275,6 +275,8 @@ jobs:
           repository: grpc/grpc-swift
           path: grpc-swift
       - name: Build grpc/grpc-swift
+        # no Testing in Swift Android SDK for 6.0
+        if: ${{ matrix.swift != '6.0' }}
         shell: bash
         working-directory: grpc-swift
         run: |
