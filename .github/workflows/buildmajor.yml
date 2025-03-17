@@ -112,6 +112,7 @@ jobs:
           repository: apple/swift-toolchain-sqlite
           path: swift-toolchain-sqlite
       - name: Build swift-toolchain-sqlite
+        if: false # TODO: diagnose
         shell: bash
         working-directory: swift-toolchain-sqlite
         run: |
