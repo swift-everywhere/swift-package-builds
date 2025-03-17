@@ -270,3 +270,13 @@ jobs:
         run: |
           ${{ steps.setup-toolchain-android.outputs.swift-build }} --build-tests
 
+      - name: Checkout grpc/grpc-swift
+        uses: actions/checkout@v4
+        with:
+          repository: grpc/grpc-swift
+          path: grpc-swift
+      - name: Build grpc/grpc-swift
+        shell: bash
+        working-directory: grpc-swift
+        run: |
+          ${{ steps.setup-toolchain-android.outputs.swift-build }} --build-tests
