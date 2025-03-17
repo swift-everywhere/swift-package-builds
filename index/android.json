@@ -27622,12 +27622,12 @@
   },
   "swiftlang/swift-format": {
     "created": "2025-01-07T02:59:48Z",
-    "duration": 80,
-    "modified": "2025-01-08T04:29:26Z",
+    "duration": 86,
+    "modified": "2025-03-17T21:29:39Z",
     "repo": "https://github.com/swiftlang/swift-format.git",
-    "runid": 12664022347,
-    "stars": 2583,
-    "status": "failure"
+    "runid": 13910047671,
+    "stars": 2631,
+    "status": "success"
   },
   "swiftlang/swift-foundation": {
     "created": "2025-01-07T12:08:50Z",
