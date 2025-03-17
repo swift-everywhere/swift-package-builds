@@ -42,7 +42,6 @@ jobs:
           repository: apple/swift-format
           path: swift-format
       - name: Build swift-format
-        if: false # needs https://github.com/swiftlang/swift-format/pull/963
         shell: bash
         working-directory: swift-format
         run: |
