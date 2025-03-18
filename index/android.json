@@ -16705,12 +16705,12 @@
   },
   "grpc/grpc-swift-protobuf": {
     "created": "2025-01-06T23:08:15Z",
-    "duration": 21,
-    "modified": "2025-01-07T16:54:06Z",
+    "duration": 46,
+    "modified": "2025-03-18T20:31:46Z",
     "repo": "https://github.com/grpc/grpc-swift-protobuf.git",
-    "runid": 12655360195,
-    "stars": 10,
-    "status": "failure"
+    "runid": 13932721133,
+    "stars": 18,
+    "status": "success"
   },
   "grype/RWLock-Swift": {
     "created": "2025-01-07T01:05:13Z",
