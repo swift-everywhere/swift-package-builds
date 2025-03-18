@@ -1693,12 +1693,12 @@
   },
   "Cocoanetics/SwiftMCP": {
     "created": "2025-03-16T11:36:14Z",
-    "duration": 82,
-    "modified": "2025-03-16T11:36:14Z",
+    "duration": 105,
+    "modified": "2025-03-18T17:04:07Z",
     "repo": "https://github.com/Cocoanetics/SwiftMCP.git",
-    "runid": 13882795043,
-    "stars": 7,
-    "status": "success"
+    "runid": 13928388609,
+    "stars": 8,
+    "status": "failure"
   },
   "Cocoanetics/SwiftMail": {
     "created": "2025-03-11T17:08:04Z",
