@@ -99,6 +99,7 @@ jobs:
           repository: apple/swift-package-manager
           path: swift-package-manager
       - name: Build swift-package-manager
+        if: false # needs fix for: Sources/PackagePlugin/Plugin.swift:598:61: error: value of optional type 'UnsafeMutablePointer<CChar>?' (aka 'Optional<UnsafeMutablePointer<Int8>>') must be unwrapped to a value of type 'UnsafeMutablePointer<CChar>' (aka 'UnsafeMutablePointer<Int8>')
         shell: bash
         working-directory: swift-package-manager
         run: |
