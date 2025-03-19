@@ -16678,12 +16678,12 @@
   },
   "grpc/grpc-swift": {
     "created": "2025-01-07T07:58:14Z",
-    "duration": 22,
-    "modified": "2025-01-09T10:24:52Z",
+    "duration": 20,
+    "modified": "2025-03-19T14:07:29Z",
     "repo": "https://github.com/grpc/grpc-swift.git",
-    "runid": 12687934323,
-    "stars": 2070,
-    "status": "failure"
+    "runid": 13947727094,
+    "stars": 2122,
+    "status": "success"
   },
   "grpc/grpc-swift-extras": {
     "created": "2025-01-07T07:53:25Z",
