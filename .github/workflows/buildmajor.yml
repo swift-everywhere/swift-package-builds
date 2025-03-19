@@ -87,6 +87,7 @@ jobs:
           repository: swiftlang/swift-tools-support-core
           path: swift-tools-support-core
       - name: Build swift-tools-support-core
+        if: false # needs https://github.com/swiftlang/swift-tools-support-core/pull/499
         shell: bash
         working-directory: swift-tools-support-core
         run: |
