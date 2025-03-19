@@ -30259,12 +30259,12 @@
   },
   "vapor/vapor": {
     "created": "2025-01-07T07:28:33Z",
-    "duration": 229,
-    "modified": "2025-02-17T18:45:05Z",
+    "duration": 182,
+    "modified": "2025-03-19T16:43:52Z",
     "repo": "https://github.com/vapor/vapor.git",
-    "runid": 13376541059,
-    "stars": 24844,
-    "status": "success"
+    "runid": 13951650816,
+    "stars": 24939,
+    "status": "failure"
   },
   "vapor/websocket-kit": {
     "created": "2025-01-07T13:21:28Z",
