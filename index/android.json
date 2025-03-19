@@ -17371,12 +17371,12 @@
   },
   "hummingbird-community/hummingbird-elementary": {
     "created": "2025-01-07T15:05:07Z",
-    "duration": 32,
-    "modified": "2025-01-09T06:30:09Z",
+    "duration": 75,
+    "modified": "2025-03-19T07:34:31Z",
     "repo": "https://github.com/hummingbird-community/hummingbird-elementary.git",
-    "runid": 12684763216,
-    "stars": 12,
-    "status": "failure"
+    "runid": 13940987509,
+    "stars": 13,
+    "status": "success"
   },
   "hummingbird-community/hummingbird-wallet": {
     "created": "2025-01-31T06:41:59Z",
