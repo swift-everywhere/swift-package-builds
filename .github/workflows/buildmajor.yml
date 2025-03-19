@@ -81,12 +81,24 @@ jobs:
         run: |
           ${{ steps.setup-toolchain-android.outputs.swift-build }} --build-tests
 
+      - name: Checkout swift-tools-support-core
+        uses: actions/checkout@v4
+        with:
+          repository: swiftlang/swift-tools-support-core
+          path: swift-tools-support-core
+      - name: Build swift-tools-support-core
+        shell: bash
+        working-directory: swift-tools-support-core
+        run: |
+          ${{ steps.setup-toolchain-android.outputs.swift-build }} --build-tests
+
       - name: Checkout swift-package-manager
         uses: actions/checkout@v4
         with:
           repository: apple/swift-package-manager
           path: swift-package-manager
       - name: Build swift-package-manager
+        if: false # needs swift-tools-support-core
         shell: bash
         working-directory: swift-package-manager
         run: |
