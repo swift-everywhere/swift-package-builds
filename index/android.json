@@ -23689,12 +23689,12 @@
   },
   "petrpavlik/swift-sentry": {
     "created": "2025-01-07T06:39:04Z",
-    "duration": 127,
-    "modified": "2025-02-18T03:11:47Z",
+    "duration": 136,
+    "modified": "2025-03-19T07:56:04Z",
     "repo": "https://github.com/petrpavlik/swift-sentry.git",
-    "runid": 13382225437,
+    "runid": 13940987509,
     "stars": 2,
-    "status": "success"
+    "status": "failure"
   },
   "petrpavlik/vapor-saas-backend-template": {
     "created": "2025-03-01T18:04:25Z",
