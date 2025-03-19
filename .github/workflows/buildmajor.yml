@@ -90,7 +90,8 @@ jobs:
         shell: bash
         working-directory: swift-tools-support-core
         run: |
-          ${{ steps.setup-toolchain-android.outputs.swift-build }} --build-tests
+          ${{ steps.setup-toolchain-android.outputs.swift-build }}
+          #--build-tests # fails without --android-spawn
 
       - name: Checkout swift-package-manager
         uses: actions/checkout@v4
@@ -98,7 +99,6 @@ jobs:
           repository: apple/swift-package-manager
           path: swift-package-manager
       - name: Build swift-package-manager
-        if: false # needs swift-tools-support-core
         shell: bash
         working-directory: swift-package-manager
         run: |
