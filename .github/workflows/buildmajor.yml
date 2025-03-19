@@ -87,7 +87,6 @@ jobs:
           repository: apple/swift-package-manager
           path: swift-package-manager
       - name: Build swift-package-manager
-        if: false # needs https://github.com/swiftlang/swift-package-manager/pull/8372
         shell: bash
         working-directory: swift-package-manager
         run: |
@@ -99,7 +98,6 @@ jobs:
           repository: apple/swift-certificates
           path: swift-certificates
       - name: Build swift-certificates
-        if: false
         shell: bash
         working-directory: swift-certificates
         run: |
