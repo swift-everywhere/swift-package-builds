@@ -6076,12 +6076,12 @@
   },
   "NozeIO/swift-nio-irc-client": {
     "created": "2025-01-07T01:17:04Z",
-    "duration": 33,
-    "modified": "2025-01-13T11:03:04Z",
+    "duration": 26,
+    "modified": "2025-03-19T16:27:03Z",
     "repo": "https://github.com/NozeIO/swift-nio-irc-client.git",
-    "runid": 12745126922,
+    "runid": 13951650816,
     "stars": 4,
-    "status": "success"
+    "status": "failure"
   },
   "NozeIO/swift-nio-irc-eliza": {
     "created": "2025-01-07T12:23:46Z",
