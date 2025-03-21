@@ -22112,6 +22112,15 @@
     "stars": 10,
     "status": "failure"
   },
+  "neholos/numio-cli": {
+    "created": "2025-03-21T17:34:41Z",
+    "duration": 12,
+    "modified": "2025-03-21T17:34:41Z",
+    "repo": "https://github.com/neholos/numio-cli.git",
+    "runid": 13997251447,
+    "stars": 6,
+    "status": "success"
+  },
   "neoneye/SwiftyRelativePath": {
     "created": "2025-01-07T08:23:05Z",
     "duration": 6,
