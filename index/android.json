@@ -28871,6 +28871,15 @@
     "stars": 7,
     "status": "failure"
   },
+  "tomasf/ThreeMF": {
+    "created": "2025-03-21T09:26:13Z",
+    "duration": 67,
+    "modified": "2025-03-21T09:26:14Z",
+    "repo": "https://github.com/tomasf/ThreeMF.git",
+    "runid": 13988499190,
+    "stars": 1,
+    "status": "failure"
+  },
   "tomasf/Zip": {
     "created": "2025-01-23T11:37:31Z",
     "duration": 8,
