@@ -413,6 +413,15 @@
     "stars": 130,
     "status": "failure"
   },
+  "ATProtoKit/ATCryptography": {
+    "created": "2025-03-21T21:54:14Z",
+    "duration": 67,
+    "modified": "2025-03-21T21:54:14Z",
+    "repo": "https://github.com/ATProtoKit/ATCryptography.git",
+    "runid": 14001056187,
+    "stars": 8,
+    "status": "failure"
+  },
   "ActuallyTaylor/SwiftHTMLToMarkdown": {
     "created": "2025-01-07T13:03:30Z",
     "duration": 11,
