@@ -17342,6 +17342,15 @@
     "stars": 824,
     "status": "failure"
   },
+  "hootsuite/copyable-macro": {
+    "created": "2025-03-21T23:05:39Z",
+    "duration": 94,
+    "modified": "2025-03-21T23:05:39Z",
+    "repo": "https://github.com/hootsuite/copyable-macro.git",
+    "runid": 14001833093,
+    "stars": 2,
+    "status": "success"
+  },
   "hootsuite/emit": {
     "created": "2025-01-06T17:24:12Z",
     "duration": 7,
