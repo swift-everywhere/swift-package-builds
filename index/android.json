@@ -20330,6 +20330,15 @@
     "stars": 0,
     "status": "failure"
   },
+  "mac-cain13/R.swift": {
+    "created": "2025-03-21T04:55:53Z",
+    "duration": 17,
+    "modified": "2025-03-21T04:55:53Z",
+    "repo": "https://github.com/mac-cain13/R.swift.git",
+    "runid": 13984584496,
+    "stars": 9564,
+    "status": "failure"
+  },
   "maciejtrybilo/Swim-htmx": {
     "created": "2025-01-07T09:47:53Z",
     "duration": 14,
