@@ -9406,12 +9406,12 @@
   },
   "Yamasee/skypath-ios-sdk": {
     "created": "2025-03-11T14:42:44Z",
-    "duration": 191,
-    "modified": "2025-03-11T14:42:44Z",
+    "duration": 4,
+    "modified": "2025-03-21T11:47:39Z",
     "repo": "https://github.com/Yamasee/skypath-ios-sdk.git",
-    "runid": 13790345294,
+    "runid": 13990536973,
     "stars": 4,
-    "status": "success"
+    "status": "failure"
   },
   "YusukeHosonuma/Flatten": {
     "created": "2025-01-07T00:34:50Z",
