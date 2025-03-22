@@ -31517,6 +31517,15 @@
     "stars": 11,
     "status": "success"
   },
+  "zunda-pixel/PotentCodables": {
+    "created": "2025-03-22T14:02:08Z",
+    "duration": 21,
+    "modified": "2025-03-22T14:02:08Z",
+    "repo": "https://github.com/zunda-pixel/PotentCodables.git",
+    "runid": 14008976752,
+    "stars": 0,
+    "status": "failure"
+  },
   "zunda-pixel/appattest-swift": {
     "created": "2025-01-07T10:07:12Z",
     "duration": 19,
