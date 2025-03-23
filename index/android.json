@@ -8918,6 +8918,15 @@
     "stars": 5,
     "status": "failure"
   },
+  "SwiftyLua/CLua": {
+    "created": "2025-03-23T16:37:32Z",
+    "duration": 2,
+    "modified": "2025-03-23T16:37:32Z",
+    "repo": "https://github.com/SwiftyLua/CLua.git",
+    "runid": 14020817916,
+    "stars": 2,
+    "status": "success"
+  },
   "Swinject/Swinject": {
     "created": "2025-01-07T05:34:11Z",
     "duration": 8,
