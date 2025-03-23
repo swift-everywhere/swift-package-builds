@@ -9,7 +9,7 @@ on:
       - '.github/workflows/buildmajor.yml'
 
 jobs:
-  build-major-packages:
+  builds:
     strategy: 
       fail-fast: false
       matrix:
