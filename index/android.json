@@ -26270,6 +26270,15 @@
     "stars": 1,
     "status": "success"
   },
+  "skiptools/skip": {
+    "created": "2025-03-24T11:47:56Z",
+    "duration": 7,
+    "modified": "2025-03-24T11:47:56Z",
+    "repo": "https://github.com/skiptools/skip.git",
+    "runid": 14033888420,
+    "stars": 1792,
+    "status": "success"
+  },
   "skiptools/skip-keychain": {
     "created": "2025-01-25T10:32:32Z",
     "duration": 9,
