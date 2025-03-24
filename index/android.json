@@ -26288,6 +26288,15 @@
     "stars": 0,
     "status": "failure"
   },
+  "skiptools/swift-jni": {
+    "created": "2025-03-24T04:45:50Z",
+    "duration": 8,
+    "modified": "2025-03-24T04:45:50Z",
+    "repo": "https://github.com/skiptools/swift-jni.git",
+    "runid": 14027225803,
+    "stars": 2,
+    "status": "success"
+  },
   "skiptools/swift-sqlcipher": {
     "created": "2025-01-12T08:25:48Z",
     "duration": 22,
