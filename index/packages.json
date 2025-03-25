@@ -2698,6 +2698,7 @@
   "rbruinier/SwiftMicroPNG",
   "readdle/swift-anycodable",
   "realm/SwiftLint",
+  "realtime-sanitizer/RTSanStandaloneSwift",
   "recp/cglm",
   "reddavis/Asynchrone",
   "reef-buddy/reef-calculator",
