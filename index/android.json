@@ -24713,6 +24713,15 @@
     "stars": 18754,
     "status": "failure"
   },
+  "realtime-sanitizer/RTSanStandaloneSwift": {
+    "created": "2025-03-25T20:38:36Z",
+    "duration": 6,
+    "modified": "2025-03-25T20:38:36Z",
+    "repo": "https://github.com/realtime-sanitizer/RTSanStandaloneSwift.git",
+    "runid": 14069351695,
+    "stars": 0,
+    "status": "failure"
+  },
   "recp/cglm": {
     "created": "2025-01-07T06:42:10Z",
     "duration": 5,
