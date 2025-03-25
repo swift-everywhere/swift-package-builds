@@ -26342,6 +26342,15 @@
     "stars": 0,
     "status": "failure"
   },
+  "skiptools/swift-android-native": {
+    "created": "2025-03-25T19:55:21Z",
+    "duration": 10,
+    "modified": "2025-03-25T19:55:21Z",
+    "repo": "https://github.com/skiptools/swift-android-native.git",
+    "runid": 14068222459,
+    "stars": 3,
+    "status": "success"
+  },
   "skiptools/swift-jni": {
     "created": "2025-03-24T04:45:50Z",
     "duration": 8,
