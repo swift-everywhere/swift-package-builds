@@ -23860,12 +23860,12 @@
   },
   "petrpavlik/vapor-saas-backend-template": {
     "created": "2025-03-01T18:04:25Z",
-    "duration": 280,
-    "modified": "2025-03-01T18:04:25Z",
+    "duration": 224,
+    "modified": "2025-03-25T18:06:16Z",
     "repo": "https://github.com/petrpavlik/vapor-saas-backend-template.git",
-    "runid": 13607039761,
-    "stars": 55,
-    "status": "success"
+    "runid": 14066030454,
+    "stars": 56,
+    "status": "failure"
   },
   "ph1ps/swift-concurrency-deadline": {
     "created": "2025-01-07T03:49:11Z",
