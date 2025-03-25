@@ -16622,6 +16622,15 @@
     "stars": 2,
     "status": "failure"
   },
+  "gradyzhuo/KurrentDB-Swift": {
+    "created": "2025-03-25T11:34:34Z",
+    "duration": 159,
+    "modified": "2025-03-25T11:34:34Z",
+    "repo": "https://github.com/gradyzhuo/KurrentDB-Swift.git",
+    "runid": 14058287058,
+    "stars": 7,
+    "status": "failure"
+  },
   "grd888/SwiftFPExtensions": {
     "created": "2025-01-07T08:25:05Z",
     "duration": 6,
