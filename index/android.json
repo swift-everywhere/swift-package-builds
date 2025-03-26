@@ -10468,12 +10468,12 @@
   },
   "aperkov/DecimalMacro": {
     "created": "2025-03-16T11:58:08Z",
-    "duration": 71,
-    "modified": "2025-03-16T11:58:08Z",
+    "duration": 65,
+    "modified": "2025-03-26T09:40:30Z",
     "repo": "https://github.com/aperkov/DecimalMacro.git",
-    "runid": 13882795043,
-    "stars": 0,
-    "status": "success"
+    "runid": 14079705869,
+    "stars": 3,
+    "status": "failure"
   },
   "apparata/RuleKit": {
     "created": "2025-01-07T09:43:35Z",
