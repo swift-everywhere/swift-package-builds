@@ -7093,12 +7093,12 @@
   },
   "RandomHashTags/swift-htmlkit": {
     "created": "2025-01-07T06:04:44Z",
-    "duration": 129,
-    "modified": "2025-03-27T02:19:34Z",
+    "duration": 136,
+    "modified": "2025-03-27T04:59:07Z",
     "repo": "https://github.com/RandomHashTags/swift-htmlkit.git",
-    "runid": 14096968619,
+    "runid": 14098819910,
     "stars": 43,
-    "status": "failure"
+    "status": "success"
   },
   "Raureif/WikipediaKit": {
     "created": "2025-01-06T21:10:42Z",
