@@ -27298,12 +27298,12 @@
   },
   "swhitty/SwiftDraw": {
     "created": "2025-01-06T18:07:54Z",
-    "duration": 78,
-    "modified": "2025-01-08T07:48:47Z",
+    "duration": 10,
+    "modified": "2025-03-29T07:04:52Z",
     "repo": "https://github.com/swhitty/SwiftDraw.git",
-    "runid": 12665854112,
-    "stars": 438,
-    "status": "failure"
+    "runid": 14143048046,
+    "stars": 478,
+    "status": "success"
   },
   "swhitty/swift-mutex": {
     "created": "2025-02-15T23:48:28Z",
