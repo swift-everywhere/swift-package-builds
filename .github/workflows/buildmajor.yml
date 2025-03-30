@@ -36,6 +36,28 @@ jobs:
         run: |
           ${{ steps.setup-toolchain-android.outputs.swift-build }} --build-tests
 
+      - name: Checkout swift-protobuf
+        uses: actions/checkout@v4
+        with:
+          repository: apple/swift-protobuf
+          path: swift-protobuf
+      - name: Build swift-protobuf
+        shell: bash
+        working-directory: swift-protobuf
+        run: |
+          ${{ steps.setup-toolchain-android.outputs.swift-build }} --build-tests
+
+      - name: Checkout swift-log
+        uses: actions/checkout@v4
+        with:
+          repository: apple/swift-log
+          path: swift-log
+      - name: Build swift-log
+        shell: bash
+        working-directory: swift-log
+        run: |
+          ${{ steps.setup-toolchain-android.outputs.swift-build }} --build-tests
+
       - name: Checkout swift-format
         uses: actions/checkout@v4
         with:
@@ -269,13 +291,23 @@ jobs:
         run: |
           ${{ steps.setup-toolchain-android.outputs.swift-build }} --build-tests
 
+      - name: Checkout Alamofire/Alamofire
+        uses: actions/checkout@v4
+        with:
+          repository: Alamofire/Alamofire
+          path: Alamofire
+      - name: Build Alamofire/Alamofire
+        shell: bash
+        working-directory: Alamofire
+        run: |
+          ${{ steps.setup-toolchain-android.outputs.swift-build }} --build-tests
+
       - name: Checkout vapor/vapor
         uses: actions/checkout@v4
         with:
           repository: vapor/vapor
           path: vapor
       - name: Build vapor/vapor
-        if: false # TODO
         shell: bash
         working-directory: vapor
         run: |
