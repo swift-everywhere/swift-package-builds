@@ -1124,6 +1124,15 @@
     "stars": 9,
     "status": "failure"
   },
+  "BertanT/WatchDuck": {
+    "created": "2025-03-30T03:33:32Z",
+    "duration": 24,
+    "modified": "2025-03-30T03:33:32Z",
+    "repo": "https://github.com/BertanT/WatchDuck.git",
+    "runid": 14152020345,
+    "stars": 3,
+    "status": "failure"
+  },
   "BikeCalc/swift-measures": {
     "created": "2025-01-06T23:10:56Z",
     "duration": 18,
