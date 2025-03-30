@@ -56,7 +56,8 @@ jobs:
         shell: bash
         working-directory: swift-log
         run: |
-          ${{ steps.setup-toolchain-android.outputs.swift-build }} --build-tests
+          # Tests needs https://github.com/apple/swift-log/pull/356
+          ${{ steps.setup-toolchain-android.outputs.swift-build }} # --build-tests
 
       - name: Checkout swift-format
         uses: actions/checkout@v4
