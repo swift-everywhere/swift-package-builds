@@ -29926,12 +29926,12 @@
   },
   "valpackett/SwiftCBOR": {
     "created": "2025-01-07T05:59:50Z",
-    "duration": 8,
-    "modified": "2025-01-09T09:24:44Z",
+    "duration": 7,
+    "modified": "2025-04-01T17:26:22Z",
     "repo": "https://github.com/valpackett/SwiftCBOR.git",
-    "runid": 12686975202,
-    "stars": 137,
-    "status": "failure"
+    "runid": 14201934443,
+    "stars": 145,
+    "status": "success"
   },
   "vamsii777/DIGIPIN": {
     "created": "2025-02-18T19:43:17Z",
