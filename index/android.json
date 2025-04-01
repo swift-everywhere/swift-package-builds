@@ -29206,12 +29206,12 @@
   },
   "tornikegomareli/MemoizeMacro": {
     "created": "2025-01-07T08:42:20Z",
-    "duration": 96,
-    "modified": "2025-01-08T07:10:47Z",
+    "duration": 65,
+    "modified": "2025-04-01T19:54:36Z",
     "repo": "https://github.com/tornikegomareli/MemoizeMacro.git",
-    "runid": 12665265526,
-    "stars": 5,
-    "status": "success"
+    "runid": 14204130231,
+    "stars": 7,
+    "status": "failure"
   },
   "tosbaha/SMLib": {
     "created": "2025-01-07T00:23:06Z",
