@@ -10414,12 +10414,12 @@
   },
   "andooown/swift-atproto": {
     "created": "2025-01-07T01:14:54Z",
-    "duration": 129,
-    "modified": "2025-01-08T06:40:06Z",
+    "duration": 146,
+    "modified": "2025-04-01T18:49:54Z",
     "repo": "https://github.com/andooown/swift-atproto.git",
-    "runid": 12665265526,
-    "stars": 33,
-    "status": "failure"
+    "runid": 14203230930,
+    "stars": 35,
+    "status": "success"
   },
   "andre-alves/PHDiff": {
     "created": "2025-01-07T10:30:01Z",
