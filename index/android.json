@@ -24949,12 +24949,12 @@
   },
   "rhysforyou/swift-case-accessors": {
     "created": "2025-01-07T08:54:09Z",
-    "duration": 112,
-    "modified": "2025-01-09T09:54:39Z",
+    "duration": 79,
+    "modified": "2025-04-01T17:51:23Z",
     "repo": "https://github.com/rhysforyou/swift-case-accessors.git",
-    "runid": 12686975202,
+    "runid": 14201934443,
     "stars": 3,
-    "status": "failure"
+    "status": "success"
   },
   "richardpiazza/AsyncPlus": {
     "created": "2025-01-07T03:49:04Z",
