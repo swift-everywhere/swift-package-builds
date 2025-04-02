@@ -8281,12 +8281,12 @@
   },
   "StanfordSpezi/SpeziNetworking": {
     "created": "2025-01-07T03:32:19Z",
-    "duration": 34,
-    "modified": "2025-03-10T16:02:02Z",
+    "duration": 32,
+    "modified": "2025-04-02T14:55:55Z",
     "repo": "https://github.com/StanfordSpezi/SpeziNetworking.git",
-    "runid": 13768325480,
+    "runid": 14221967709,
     "stars": 1,
-    "status": "failure"
+    "status": "success"
   },
   "StanfordSpezi/SpeziStudy": {
     "created": "2025-03-02T19:28:41Z",
