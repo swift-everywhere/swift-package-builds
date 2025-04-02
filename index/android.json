@@ -11476,12 +11476,12 @@
   },
   "bdrelling/KipplePlugins": {
     "created": "2025-01-07T01:57:25Z",
-    "duration": 52,
-    "modified": "2025-01-08T15:39:38Z",
+    "duration": 70,
+    "modified": "2025-04-02T22:25:36Z",
     "repo": "https://github.com/bdrelling/KipplePlugins.git",
-    "runid": 12673545525,
+    "runid": 14230674092,
     "stars": 10,
-    "status": "success"
+    "status": "failure"
   },
   "bdrelling/KippleTools": {
     "created": "2025-01-07T02:03:25Z",
