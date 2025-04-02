@@ -21565,12 +21565,12 @@
   },
   "ml-archive/flash": {
     "created": "2025-01-07T10:52:24Z",
-    "duration": 44,
-    "modified": "2025-01-08T12:38:52Z",
+    "duration": 241,
+    "modified": "2025-04-02T16:09:07Z",
     "repo": "https://github.com/ml-archive/flash.git",
-    "runid": 12670708592,
+    "runid": 14223367536,
     "stars": 37,
-    "status": "failure"
+    "status": "success"
   },
   "ml-archive/gatekeeper": {
     "created": "2025-01-06T23:00:40Z",
