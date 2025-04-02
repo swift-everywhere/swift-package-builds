@@ -11719,12 +11719,12 @@
   },
   "bernoulliconvergenator/BCTest": {
     "created": "2025-01-06T22:58:45Z",
-    "duration": 76,
-    "modified": "2025-01-08T22:34:35Z",
+    "duration": 68,
+    "modified": "2025-04-02T10:34:43Z",
     "repo": "https://github.com/bernoulliconvergenator/BCTest.git",
-    "runid": 12680001524,
+    "runid": 14217278121,
     "stars": 1,
-    "status": "failure"
+    "status": "success"
   },
   "besya/ascii": {
     "created": "2025-02-12T09:53:03Z",
