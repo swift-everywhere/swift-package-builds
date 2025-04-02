@@ -14311,12 +14311,12 @@
   },
   "dfed/swift-testing-expectation": {
     "created": "2025-01-07T11:38:03Z",
-    "duration": 4,
-    "modified": "2025-01-08T23:56:40Z",
+    "duration": 3,
+    "modified": "2025-04-02T21:05:58Z",
     "repo": "https://github.com/dfed/swift-testing-expectation.git",
-    "runid": 12680732767,
-    "stars": 23,
-    "status": "failure"
+    "runid": 14228829969,
+    "stars": 49,
+    "status": "success"
   },
   "dfunckt/swift-futures": {
     "created": "2025-01-07T12:29:55Z",
