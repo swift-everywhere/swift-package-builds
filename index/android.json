@@ -15022,12 +15022,12 @@
   },
   "elegantchaos/SwiftFormatterPlugin": {
     "created": "2025-01-07T10:35:32Z",
-    "duration": 44,
-    "modified": "2025-01-09T10:31:12Z",
+    "duration": 34,
+    "modified": "2025-04-02T18:47:19Z",
     "repo": "https://github.com/elegantchaos/SwiftFormatterPlugin.git",
-    "runid": 12687934323,
+    "runid": 14226871907,
     "stars": 2,
-    "status": "success"
+    "status": "failure"
   },
   "elegantchaos/ThreadExtensions": {
     "created": "2025-01-07T01:52:01Z",
