@@ -1432,12 +1432,12 @@
   },
   "Catterwaul/Thrappture": {
     "created": "2025-01-06T20:19:06Z",
-    "duration": 1,
-    "modified": "2025-03-15T13:58:35Z",
+    "duration": 13,
+    "modified": "2025-04-02T10:37:30Z",
     "repo": "https://github.com/Catterwaul/Thrappture.git",
-    "runid": 13873272444,
+    "runid": 14217278121,
     "stars": 0,
-    "status": "failure"
+    "status": "success"
   },
   "Catterwaul/Tuplay": {
     "created": "2025-01-06T23:26:19Z",
