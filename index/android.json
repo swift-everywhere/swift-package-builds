@@ -12889,12 +12889,12 @@
   },
   "colinc86/SwiftDraw": {
     "created": "2025-02-28T19:31:50Z",
-    "duration": 78,
-    "modified": "2025-02-28T19:31:50Z",
+    "duration": 10,
+    "modified": "2025-04-03T20:59:50Z",
     "repo": "https://github.com/colinc86/SwiftDraw.git",
-    "runid": 13594956781,
-    "stars": 0,
-    "status": "failure"
+    "runid": 14252054702,
+    "stars": 1,
+    "status": "success"
   },
   "combateafraude/CafSolutions": {
     "created": "2025-01-06T17:41:42Z",
