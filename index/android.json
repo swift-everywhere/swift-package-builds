@@ -30367,12 +30367,12 @@
   },
   "vapor/leaf": {
     "created": "2025-01-07T00:32:33Z",
-    "duration": 35,
-    "modified": "2025-01-09T07:54:28Z",
+    "duration": 236,
+    "modified": "2025-04-03T04:59:08Z",
     "repo": "https://github.com/vapor/leaf.git",
-    "runid": 12685324254,
-    "stars": 445,
-    "status": "failure"
+    "runid": 14234908221,
+    "stars": 447,
+    "status": "success"
   },
   "vapor/leaf-kit": {
     "created": "2025-01-07T06:34:57Z",
