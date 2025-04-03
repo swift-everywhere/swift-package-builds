@@ -20017,12 +20017,12 @@
   },
   "li3zhen1/WithSpecializedGenericMacro": {
     "created": "2025-01-07T07:03:56Z",
-    "duration": 103,
-    "modified": "2025-01-07T18:58:12Z",
+    "duration": 96,
+    "modified": "2025-04-03T10:02:29Z",
     "repo": "https://github.com/li3zhen1/WithSpecializedGenericMacro.git",
-    "runid": 12657091582,
+    "runid": 14239504959,
     "stars": 2,
-    "status": "failure"
+    "status": "success"
   },
   "liamnichols/swift-configuration-parser": {
     "created": "2025-01-06T19:54:04Z",
