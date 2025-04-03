@@ -30007,12 +30007,12 @@
   },
   "vapor-community/Lingo-Vapor": {
     "created": "2025-01-07T04:50:34Z",
-    "duration": 37,
-    "modified": "2025-01-08T19:17:34Z",
+    "duration": 239,
+    "modified": "2025-04-03T19:43:14Z",
     "repo": "https://github.com/vapor-community/Lingo-Vapor.git",
-    "runid": 12677445864,
+    "runid": 14250972175,
     "stars": 56,
-    "status": "failure"
+    "status": "success"
   },
   "vapor-community/PassKit": {
     "created": "2025-01-07T09:15:26Z",
