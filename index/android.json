@@ -16012,12 +16012,12 @@
   },
   "frugoman/SwiftMocks": {
     "created": "2025-01-06T22:43:00Z",
-    "duration": 92,
-    "modified": "2025-01-08T23:25:34Z",
+    "duration": 95,
+    "modified": "2025-04-03T04:38:15Z",
     "repo": "https://github.com/frugoman/SwiftMocks.git",
-    "runid": 12680732767,
-    "stars": 88,
-    "status": "failure"
+    "runid": 14234908221,
+    "stars": 91,
+    "status": "success"
   },
   "fruitcoder/extract-case-value": {
     "created": "2025-01-07T07:32:31Z",
