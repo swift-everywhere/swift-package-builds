@@ -194,10 +194,9 @@ jobs:
           path: swift-system
       - name: Build swift-system
         shell: bash
-        if: false # needs https://github.com/apple/swift-system/pull/225
         working-directory: swift-system
         run: |
-          ${{ steps.setup-toolchain-android.outputs.swift-build }} --build-tests
+          ${{ steps.setup-toolchain-android.outputs.swift-build }} # --build-tests # tests need https://github.com/apple/swift-system/pull/225
 
       - name: Checkout swift-collections
         uses: actions/checkout@v4
