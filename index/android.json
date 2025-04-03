@@ -25921,12 +25921,12 @@
   },
   "sendbird/sendbird-uikit-ios": {
     "created": "2025-01-06T21:10:56Z",
-    "duration": 5,
-    "modified": "2025-04-03T12:51:29Z",
+    "duration": 11,
+    "modified": "2025-04-03T14:38:28Z",
     "repo": "https://github.com/sendbird/sendbird-uikit-ios.git",
-    "runid": 14243203565,
+    "runid": 14245342242,
     "stars": 109,
-    "status": "failure"
+    "status": "success"
   },
   "sendbird/sendbird-uikit-ios-spm": {
     "created": "2025-01-07T00:05:26Z",
