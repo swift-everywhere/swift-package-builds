@@ -30376,12 +30376,12 @@
   },
   "vapor/leaf-kit": {
     "created": "2025-01-07T06:34:57Z",
-    "duration": 25,
-    "modified": "2025-01-09T05:30:48Z",
+    "duration": 35,
+    "modified": "2025-04-03T08:40:15Z",
     "repo": "https://github.com/vapor/leaf-kit.git",
-    "runid": 12684077543,
+    "runid": 14238419296,
     "stars": 49,
-    "status": "failure"
+    "status": "success"
   },
   "vapor/multipart-kit": {
     "created": "2025-01-07T00:25:21Z",
