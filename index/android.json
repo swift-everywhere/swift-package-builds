@@ -24193,12 +24193,12 @@
   },
   "pointfreeco/swift-macro-testing": {
     "created": "2025-01-07T08:18:57Z",
-    "duration": 14,
-    "modified": "2025-01-09T09:39:23Z",
+    "duration": 74,
+    "modified": "2025-04-03T21:46:32Z",
     "repo": "https://github.com/pointfreeco/swift-macro-testing.git",
-    "runid": 12686975202,
-    "stars": 276,
-    "status": "failure"
+    "runid": 14252970960,
+    "stars": 285,
+    "status": "success"
   },
   "pointfreeco/swift-navigation": {
     "created": "2025-01-07T06:41:40Z",
