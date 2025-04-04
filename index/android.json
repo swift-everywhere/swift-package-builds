@@ -22688,6 +22688,15 @@
     "stars": 79,
     "status": "failure"
   },
+  "nixzhu/AnandaMacros": {
+    "created": "2025-04-04T15:33:53Z",
+    "duration": 24,
+    "modified": "2025-04-04T15:33:53Z",
+    "repo": "https://github.com/nixzhu/AnandaMacros.git",
+    "runid": 14268647354,
+    "stars": 2,
+    "status": "failure"
+  },
   "nixzhu/Baby": {
     "created": "2025-01-06T17:35:10Z",
     "duration": 9,
