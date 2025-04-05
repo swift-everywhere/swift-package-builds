@@ -3547,12 +3547,12 @@
   },
   "GottaGetSwifty/CodableWrappers": {
     "created": "2025-01-06T23:10:40Z",
-    "duration": 79,
-    "modified": "2025-01-06T23:10:40Z",
+    "duration": 10,
+    "modified": "2025-04-05T13:53:31Z",
     "repo": "https://github.com/GottaGetSwifty/CodableWrappers.git",
-    "runid": 12641431024,
-    "stars": 662,
-    "status": "success"
+    "runid": 14282331737,
+    "stars": 683,
+    "status": "failure"
   },
   "GraphQLSwift/DataLoader": {
     "created": "2025-01-07T05:59:42Z",
