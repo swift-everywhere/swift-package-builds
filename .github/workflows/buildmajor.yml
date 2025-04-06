@@ -244,6 +244,17 @@ jobs:
         run: |
           ${{ steps.setup-toolchain-android.outputs.swift-build }} --build-tests
 
+      - name: Checkout swift-nio-extras
+        uses: actions/checkout@v4
+        with:
+          repository: apple/swift-nio-extras
+          path: swift-nio-extras
+      - name: Build swift-nio-extras
+        shell: bash
+        working-directory: swift-nio-extras
+        run: |
+          ${{ steps.setup-toolchain-android.outputs.swift-build }} --build-tests
+
       - name: Checkout swift-nio-http2
         uses: actions/checkout@v4
         with:
