@@ -10882,12 +10882,12 @@
   },
   "apple/swift-nio-extras": {
     "created": "2025-01-06T23:35:08Z",
-    "duration": 59,
-    "modified": "2025-03-31T13:59:17Z",
+    "duration": 53,
+    "modified": "2025-04-06T07:04:07Z",
     "repo": "https://github.com/apple/swift-nio-extras.git",
-    "runid": 14172751486,
+    "runid": 14289826484,
     "stars": 213,
-    "status": "success"
+    "status": "failure"
   },
   "apple/swift-nio-http2": {
     "created": "2025-01-07T10:37:43Z",
