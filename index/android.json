@@ -4312,12 +4312,12 @@
   },
   "KazaiMazai/SwiftletModel": {
     "created": "2025-01-07T14:34:19Z",
-    "duration": 109,
-    "modified": "2025-01-08T13:10:21Z",
+    "duration": 22,
+    "modified": "2025-04-07T20:56:19Z",
     "repo": "https://github.com/KazaiMazai/SwiftletModel.git",
-    "runid": 12670708592,
-    "stars": 50,
-    "status": "success"
+    "runid": 14318721638,
+    "stars": 52,
+    "status": "failure"
   },
   "KeanuPang/fugle-realtime-swift": {
     "created": "2025-01-06T20:19:47Z",
