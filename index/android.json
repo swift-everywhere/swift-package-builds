@@ -16424,6 +16424,15 @@
     "stars": 420,
     "status": "success"
   },
+  "giginet/PackageManifestKit": {
+    "created": "2025-04-08T18:53:23Z",
+    "duration": 7,
+    "modified": "2025-04-08T18:53:23Z",
+    "repo": "https://github.com/giginet/PackageManifestKit.git",
+    "runid": 14340912435,
+    "stars": 7,
+    "status": "success"
+  },
   "giginet/swift-testing-revolutionary": {
     "created": "2025-01-07T07:09:23Z",
     "duration": 63,
