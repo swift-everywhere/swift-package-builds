@@ -238,8 +238,6 @@ jobs:
           repository: apple/swift-nio
           path: swift-nio
       - name: Build swift-nio
-        # needed until https://github.com/apple/swift-nio/pull/3181 gets merged
-        if: false
         shell: bash
         working-directory: swift-nio
         run: |
