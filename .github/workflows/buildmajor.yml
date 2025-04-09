@@ -109,7 +109,6 @@ jobs:
           repository: swiftlang/swift-tools-support-core
           path: swift-tools-support-core
       - name: Build swift-tools-support-core
-        if: false # needs https://github.com/swiftlang/swift-tools-support-core/pull/500
         shell: bash
         working-directory: swift-tools-support-core
         run: |
@@ -249,8 +248,6 @@ jobs:
           repository: apple/swift-nio-extras
           path: swift-nio-extras
       - name: Build swift-nio-extras
-        # build errors
-        if: false
         shell: bash
         working-directory: swift-nio-extras
         run: |
