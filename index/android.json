@@ -29771,6 +29771,15 @@
     "stars": 119,
     "status": "failure"
   },
+  "unum-cloud/usearch": {
+    "created": "2025-04-09T10:00:48Z",
+    "duration": 2,
+    "modified": "2025-04-09T10:00:48Z",
+    "repo": "https://github.com/unum-cloud/usearch.git",
+    "runid": 14353644294,
+    "stars": 2634,
+    "status": "failure"
+  },
   "uploadcare/uploadcare-swift": {
     "created": "2025-01-06T22:56:48Z",
     "duration": 22,
