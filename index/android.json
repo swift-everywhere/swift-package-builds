@@ -17470,12 +17470,12 @@
   },
   "hmlongco/Factory": {
     "created": "2025-01-07T09:55:54Z",
-    "duration": 16,
-    "modified": "2025-03-21T20:51:47Z",
+    "duration": 17,
+    "modified": "2025-04-09T08:31:00Z",
     "repo": "https://github.com/hmlongco/Factory.git",
-    "runid": 14000231702,
-    "stars": 2171,
-    "status": "failure"
+    "runid": 14352582005,
+    "stars": 2221,
+    "status": "success"
   },
   "holiday-jp/holiday_jp-swift": {
     "created": "2025-01-07T10:39:18Z",
