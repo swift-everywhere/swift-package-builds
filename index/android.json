@@ -8317,12 +8317,12 @@
   },
   "StanfordSpezi/SpeziStudy": {
     "created": "2025-03-02T19:28:41Z",
-    "duration": 4,
-    "modified": "2025-03-02T19:28:41Z",
+    "duration": 21,
+    "modified": "2025-04-09T17:51:17Z",
     "repo": "https://github.com/StanfordSpezi/SpeziStudy.git",
-    "runid": 13618503428,
+    "runid": 14363156653,
     "stars": 1,
-    "status": "success"
+    "status": "failure"
   },
   "Star-Lord-PHB/foundation-plus": {
     "created": "2025-01-26T08:56:43Z",
