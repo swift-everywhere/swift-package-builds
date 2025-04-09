@@ -248,6 +248,9 @@ jobs:
           repository: apple/swift-nio-extras
           path: swift-nio-extras
       - name: Build swift-nio-extras
+        # re-disable nio-extras due to missing Android import
+        # https://github.com/swift-everywhere/swift-package-builds/actions/runs/14359370483/job/40256564910
+        if: ${{ matrix.swift == '6.0' }}
         shell: bash
         working-directory: swift-nio-extras
         run: |
