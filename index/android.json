@@ -17909,6 +17909,15 @@
     "stars": 44,
     "status": "success"
   },
+  "ikelax/swift-ansi-escapes": {
+    "created": "2025-04-11T09:44:09Z",
+    "duration": 7,
+    "modified": "2025-04-11T09:44:09Z",
+    "repo": "https://github.com/ikelax/swift-ansi-escapes.git",
+    "runid": 14399930337,
+    "stars": 0,
+    "status": "success"
+  },
   "ikesyo/Himotoki": {
     "created": "2025-01-06T21:26:00Z",
     "duration": 7,
