@@ -11312,6 +11312,15 @@
     "stars": 99,
     "status": "success"
   },
+  "avito-tech/CommandLineToolkit": {
+    "created": "2025-04-11T14:41:54Z",
+    "duration": 21,
+    "modified": "2025-04-11T14:41:54Z",
+    "repo": "https://github.com/avito-tech/CommandLineToolkit.git",
+    "runid": 14405261662,
+    "stars": 13,
+    "status": "failure"
+  },
   "aws-amplify/aws-sdk-ios-spm": {
     "created": "2025-01-06T23:26:52Z",
     "duration": 9,
