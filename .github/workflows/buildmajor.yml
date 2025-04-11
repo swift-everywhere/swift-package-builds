@@ -25,20 +25,6 @@ jobs:
           build-package: false
           swift-version: ${{ matrix.swift }}
 
-      - name: Checkout pointfreeco/swift-sharing
-        uses: actions/checkout@v4
-        with:
-          repository: pointfreeco/swift-sharing
-          path: pointfreeco/swift-sharing
-      - name: Build pointfreeco/swift-sharing
-        # crash on macOS OSS Toolchain: https://github.com/swiftlang/swift/issues/80759
-        # no Testing in Swift Android SDK for 6.0
-        if: ${{ matrix.os != 'macos-latest' && matrix.swift != '6.0' }}
-        shell: bash
-        working-directory: pointfreeco/swift-sharing
-        run: |
-          ${{ steps.setup-toolchain-android.outputs.swift-build }} --build-tests
-
       - name: Checkout swift-algorithms
         uses: actions/checkout@v4
         with:
@@ -353,4 +339,19 @@ jobs:
         working-directory: grpc-swift
         run: |
           ${{ steps.setup-toolchain-android.outputs.swift-build }} --build-tests
+
+      - name: Checkout pointfreeco/swift-sharing
+        uses: actions/checkout@v4
+        with:
+          repository: pointfreeco/swift-sharing
+          path: pointfreeco/swift-sharing
+      - name: Build pointfreeco/swift-sharing
+        # crash on macOS OSS Toolchain: https://github.com/swiftlang/swift/issues/80759
+        # no Testing in Swift Android SDK for 6.0
+        # Plus tests assume presence of SwiftUI/AppStorageKey
+        if: ${{ matrix.os != 'macos-latest' }}
+        shell: bash
+        working-directory: pointfreeco/swift-sharing
+        run: |
+          ${{ steps.setup-toolchain-android.outputs.swift-build }} # --build-tests
 
