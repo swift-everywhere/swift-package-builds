@@ -20287,12 +20287,12 @@
   },
   "loopwork-ai/ollama-swift": {
     "created": "2025-03-23T22:44:29Z",
-    "duration": 9,
-    "modified": "2025-03-23T22:44:29Z",
+    "duration": 8,
+    "modified": "2025-04-12T14:01:07Z",
     "repo": "https://github.com/loopwork-ai/ollama-swift.git",
-    "runid": 14023533603,
-    "stars": 335,
-    "status": "success"
+    "runid": 14420029089,
+    "stars": 348,
+    "status": "failure"
   },
   "lorenalexm/StrapiSwiftCross": {
     "created": "2025-01-06T17:34:14Z",
