@@ -21806,6 +21806,15 @@
     "stars": 40,
     "status": "success"
   },
+  "modelcontextprotocol/swift-sdk": {
+    "created": "2025-04-14T12:43:18Z",
+    "duration": 14,
+    "modified": "2025-04-14T12:43:18Z",
+    "repo": "https://github.com/modelcontextprotocol/swift-sdk.git",
+    "runid": 14445877621,
+    "stars": 347,
+    "status": "success"
+  },
   "modswift/ExExpress": {
     "created": "2025-01-06T23:25:57Z",
     "duration": 3,
