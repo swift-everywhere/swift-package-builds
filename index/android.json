@@ -15434,6 +15434,15 @@
     "stars": 1,
     "status": "success"
   },
+  "eu-digital-identity-wallet/SwiftCopyableMacro": {
+    "created": "2025-04-15T13:37:46Z",
+    "duration": 92,
+    "modified": "2025-04-15T13:37:46Z",
+    "repo": "https://github.com/eu-digital-identity-wallet/SwiftCopyableMacro.git",
+    "runid": 14470709738,
+    "stars": 1,
+    "status": "success"
+  },
   "eugenebmx/eugener_test_cocoa": {
     "created": "2025-01-07T13:43:09Z",
     "duration": 6,
