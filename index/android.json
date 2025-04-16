@@ -19225,12 +19225,12 @@
   },
   "kaascevich/Rapid": {
     "created": "2025-01-07T05:28:36Z",
-    "duration": 10,
-    "modified": "2025-01-08T23:38:41Z",
+    "duration": 18,
+    "modified": "2025-04-16T16:39:15Z",
     "repo": "https://github.com/kaascevich/Rapid.git",
-    "runid": 12680732767,
+    "runid": 14497697374,
     "stars": 1,
-    "status": "success"
+    "status": "failure"
   },
   "kabiroberai/WasmKit": {
     "created": "2025-01-07T11:26:19Z",
