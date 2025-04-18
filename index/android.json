@@ -25694,6 +25694,15 @@
     "stars": 54,
     "status": "failure"
   },
+  "ryohey/Zoomable": {
+    "created": "2025-04-18T21:56:29Z",
+    "duration": 3,
+    "modified": "2025-04-18T21:56:29Z",
+    "repo": "https://github.com/ryohey/Zoomable.git",
+    "runid": 14541939001,
+    "stars": 108,
+    "status": "success"
+  },
   "s1ddok/Cpng": {
     "created": "2025-01-07T05:04:41Z",
     "duration": 2,
