@@ -467,6 +467,15 @@
     "stars": 0,
     "status": "success"
   },
+  "AdaEngine/libpng": {
+    "created": "2025-04-19T09:49:36Z",
+    "duration": 2,
+    "modified": "2025-04-19T09:49:36Z",
+    "repo": "https://github.com/AdaEngine/libpng.git",
+    "runid": 14547777219,
+    "stars": 0,
+    "status": "success"
+  },
   "AdaEngine/miniaudio": {
     "created": "2025-01-06T21:50:14Z",
     "duration": 1,
