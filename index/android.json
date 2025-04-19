@@ -26495,6 +26495,15 @@
     "stars": 56,
     "status": "failure"
   },
+  "simple-color-palette/SimpleColorPaletteSwift": {
+    "created": "2025-04-19T08:45:21Z",
+    "duration": 6,
+    "modified": "2025-04-19T08:45:21Z",
+    "repo": "https://github.com/simple-color-palette/SimpleColorPaletteSwift.git",
+    "runid": 14547365914,
+    "stars": 4,
+    "status": "failure"
+  },
   "sindresorhus/LaunchAtLogin-Modern": {
     "created": "2025-01-06T23:40:57Z",
     "duration": 3,
