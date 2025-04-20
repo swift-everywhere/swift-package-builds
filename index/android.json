@@ -28268,6 +28268,15 @@
     "stars": 7,
     "status": "success"
   },
+  "swiftlang/swift-subprocess": {
+    "created": "2025-04-20T11:30:49Z",
+    "duration": 12,
+    "modified": "2025-04-20T11:30:49Z",
+    "repo": "https://github.com/swiftlang/swift-subprocess.git",
+    "runid": 14558931998,
+    "stars": 163,
+    "status": "failure"
+  },
   "swiftlang/swift-syntax": {
     "created": "2025-01-07T11:42:37Z",
     "duration": 72,
