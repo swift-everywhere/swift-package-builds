@@ -21176,6 +21176,15 @@
     "stars": 70,
     "status": "failure"
   },
+  "mattmassicotte/Jot": {
+    "created": "2025-04-20T17:55:31Z",
+    "duration": 7,
+    "modified": "2025-04-20T17:55:31Z",
+    "repo": "https://github.com/mattmassicotte/Jot.git",
+    "runid": 14561686501,
+    "stars": 27,
+    "status": "success"
+  },
   "mattmassicotte/Lock": {
     "created": "2025-01-07T11:36:33Z",
     "duration": 4,
