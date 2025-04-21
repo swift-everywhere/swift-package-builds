@@ -11665,12 +11665,12 @@
   },
   "beatt83/CryptoSwift": {
     "created": "2025-01-07T13:03:55Z",
-    "duration": 24,
-    "modified": "2025-01-07T13:03:55Z",
+    "duration": 16,
+    "modified": "2025-04-21T22:58:54Z",
     "repo": "https://github.com/beatt83/CryptoSwift.git",
-    "runid": 12651715076,
+    "runid": 14582438478,
     "stars": 1,
-    "status": "failure"
+    "status": "success"
   },
   "beatt83/jose-swift": {
     "created": "2025-03-22T11:52:35Z",
