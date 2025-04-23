@@ -19943,6 +19943,15 @@
     "stars": 8,
     "status": "failure"
   },
+  "kustomer/kustomer-ios": {
+    "created": "2025-04-23T17:54:07Z",
+    "duration": 10,
+    "modified": "2025-04-23T17:54:07Z",
+    "repo": "https://github.com/kustomer/kustomer-ios.git",
+    "runid": 14624143845,
+    "stars": 5,
+    "status": "failure"
+  },
   "kylef-archive/fd": {
     "created": "2025-01-07T01:18:19Z",
     "duration": 19,
