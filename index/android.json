@@ -30619,12 +30619,12 @@
   },
   "vapor-community/wallet": {
     "created": "2025-01-15T03:30:40Z",
-    "duration": 85,
-    "modified": "2025-01-15T03:30:40Z",
+    "duration": 288,
+    "modified": "2025-04-24T07:12:08Z",
     "repo": "https://github.com/vapor-community/wallet.git",
-    "runid": 12780866324,
-    "stars": 73,
-    "status": "failure"
+    "runid": 14634957633,
+    "stars": 84,
+    "status": "success"
   },
   "vapor-community/wkhtmltopdf": {
     "created": "2025-01-06T20:00:34Z",
