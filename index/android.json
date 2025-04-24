@@ -11674,12 +11674,12 @@
   },
   "beatt83/jose-swift": {
     "created": "2025-03-22T11:52:35Z",
-    "duration": 37,
-    "modified": "2025-03-22T11:52:35Z",
+    "duration": 114,
+    "modified": "2025-04-24T03:34:33Z",
     "repo": "https://github.com/beatt83/jose-swift.git",
-    "runid": 14008027973,
-    "stars": 20,
-    "status": "failure"
+    "runid": 14632524377,
+    "stars": 24,
+    "status": "success"
   },
   "beeauvin/Obsidian": {
     "created": "2025-04-22T23:41:25Z",
