@@ -163,17 +163,6 @@ jobs:
         run: |
           ${{ steps.setup-toolchain-android.outputs.swift-build }} --build-tests
 
-      - name: Checkout swift-crypto
-        uses: actions/checkout@v4
-        with:
-          repository: apple/swift-crypto
-          path: swift-crypto
-      - name: Build swift-crypto
-        shell: bash
-        working-directory: swift-crypto
-        run: |
-          ${{ steps.setup-toolchain-android.outputs.swift-build }} --build-tests
-
       - name: Checkout swift-numerics
         uses: actions/checkout@v4
         with:
@@ -354,4 +343,22 @@ jobs:
         working-directory: pointfreeco/swift-sharing
         run: |
           ${{ steps.setup-toolchain-android.outputs.swift-build }} # --build-tests
+
+      - name: Checkout swift-crypto
+        uses: actions/checkout@v4
+        with:
+          repository: apple/swift-crypto
+          path: swift-crypto
+      - name: Build swift-crypto
+        shell: bash
+        working-directory: swift-crypto
+        run: |
+          ${{ steps.setup-toolchain-android.outputs.swift-build }} --build-tests
+      # test for https://github.com/skiptools/swift-android-action/issues/3
+      - name: Test swift-crypto
+        uses: skiptools/swift-android-action@main
+        with:
+          package-path: swift-crypto
+          run-tests: ${{ matrix.os != 'macos-latest' }}
+          swift-version: ${{ matrix.swift }}
 
