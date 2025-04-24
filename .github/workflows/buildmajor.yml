@@ -360,5 +360,6 @@ jobs:
         with:
           package-path: swift-crypto
           run-tests: ${{ matrix.os != 'macos-latest' }}
+          copy-files: Tests
           swift-version: ${{ matrix.swift }}
 
