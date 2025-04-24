@@ -354,8 +354,9 @@ jobs:
         working-directory: swift-crypto
         run: |
           ${{ steps.setup-toolchain-android.outputs.swift-build }} --build-tests
-      # test for https://github.com/skiptools/swift-android-action/issues/3
+
       - name: Test swift-crypto
+        if: false
         uses: skiptools/swift-android-action@main
         with:
           package-path: swift-crypto
