@@ -30385,12 +30385,12 @@
   },
   "vapor-community/Imperial": {
     "created": "2025-01-06T20:50:33Z",
-    "duration": 231,
-    "modified": "2025-03-14T19:14:00Z",
+    "duration": 265,
+    "modified": "2025-04-26T10:34:47Z",
     "repo": "https://github.com/vapor-community/Imperial.git",
-    "runid": 13862998919,
-    "stars": 162,
-    "status": "failure"
+    "runid": 14680289396,
+    "stars": 167,
+    "status": "success"
   },
   "vapor-community/Lingo-Vapor": {
     "created": "2025-01-07T04:50:34Z",
