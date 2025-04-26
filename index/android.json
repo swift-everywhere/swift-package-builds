@@ -28207,12 +28207,12 @@
   },
   "swiftlang/swift-build": {
     "created": "2025-02-05T05:33:39Z",
-    "duration": 88,
-    "modified": "2025-02-05T05:33:39Z",
+    "duration": 178,
+    "modified": "2025-04-26T14:02:22Z",
     "repo": "https://github.com/swiftlang/swift-build.git",
-    "runid": 13150764431,
-    "stars": 1401,
-    "status": "failure"
+    "runid": 14681672624,
+    "stars": 2001,
+    "status": "success"
   },
   "swiftlang/swift-cmark": {
     "created": "2025-01-07T14:26:40Z",
