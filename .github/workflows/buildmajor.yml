@@ -358,6 +358,9 @@ jobs:
           repository: swiftlang/swift-tools-support-core
           path: swift-tools-support-core
       - name: Build swift-tools-support-core
+        # different nullability on type for API 28+
+        # https://github.com/finagolfin/swift-android-sdk/issues/219
+        if: ${{ matrix.swift != 'nightly-6.2' }}
         shell: bash
         working-directory: swift-tools-support-core
         run: |
