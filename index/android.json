@@ -29627,6 +29627,15 @@
     "stars": 0,
     "status": "success"
   },
+  "toshi0383/hackscode": {
+    "created": "2025-05-01T23:55:11Z",
+    "duration": 14,
+    "modified": "2025-05-01T23:55:11Z",
+    "repo": "https://github.com/toshi0383/hackscode.git",
+    "runid": 14785302127,
+    "stars": 13,
+    "status": "failure"
+  },
   "tree-sitter/swift-tree-sitter": {
     "created": "2025-01-27T17:50:34Z",
     "duration": 12,
