@@ -11051,6 +11051,15 @@
     "stars": 163,
     "status": "failure"
   },
+  "apple/swift-play-experimental": {
+    "created": "2025-05-02T12:00:25Z",
+    "duration": 80,
+    "modified": "2025-05-02T12:00:25Z",
+    "repo": "https://github.com/apple/swift-play-experimental.git",
+    "runid": 14794173115,
+    "stars": 72,
+    "status": "failure"
+  },
   "apple/swift-protobuf": {
     "created": "2025-01-07T01:49:08Z",
     "duration": 31,
