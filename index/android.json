@@ -14489,6 +14489,15 @@
     "stars": 1,
     "status": "success"
   },
+  "dimakura/SSpec": {
+    "created": "2025-05-02T06:47:28Z",
+    "duration": 1,
+    "modified": "2025-05-02T06:47:28Z",
+    "repo": "https://github.com/dimakura/SSpec.git",
+    "runid": 14790029362,
+    "stars": 0,
+    "status": "failure"
+  },
   "diniska/modal-view": {
     "created": "2025-01-06T21:31:32Z",
     "duration": 3,
