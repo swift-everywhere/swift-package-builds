@@ -29726,6 +29726,15 @@
     "stars": 13,
     "status": "failure"
   },
+  "toshi0383/xcconfig-extractor": {
+    "created": "2025-05-02T09:49:44Z",
+    "duration": 9,
+    "modified": "2025-05-02T09:49:44Z",
+    "repo": "https://github.com/toshi0383/xcconfig-extractor.git",
+    "runid": 14792492357,
+    "stars": 127,
+    "status": "failure"
+  },
   "tree-sitter/swift-tree-sitter": {
     "created": "2025-01-27T17:50:34Z",
     "duration": 12,
