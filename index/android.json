@@ -28313,6 +28313,15 @@
     "stars": 992,
     "status": "success"
   },
+  "swiftengine/SwiftEngine": {
+    "created": "2025-05-02T20:42:17Z",
+    "duration": 3,
+    "modified": "2025-05-02T20:42:18Z",
+    "repo": "https://github.com/swiftengine/SwiftEngine.git",
+    "runid": 14802755264,
+    "stars": 662,
+    "status": "failure"
+  },
   "swiftkube/client": {
     "created": "2025-01-07T08:44:15Z",
     "duration": 167,
