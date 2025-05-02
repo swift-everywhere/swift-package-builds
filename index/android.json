@@ -8747,6 +8747,15 @@
     "stars": 1,
     "status": "success"
   },
+  "SwiftPackageIndex/PackageCollections": {
+    "created": "2025-05-02T03:44:21Z",
+    "duration": 7,
+    "modified": "2025-05-02T03:44:21Z",
+    "repo": "https://github.com/SwiftPackageIndex/PackageCollections.git",
+    "runid": 14787864572,
+    "stars": 0,
+    "status": "success"
+  },
   "SwiftPackageIndex/Plot": {
     "created": "2025-01-07T01:06:30Z",
     "duration": 9,
