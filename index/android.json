@@ -12032,6 +12032,15 @@
     "stars": 60,
     "status": "failure"
   },
+  "bonkey/swift-macro-testing": {
+    "created": "2025-05-02T07:47:25Z",
+    "duration": 75,
+    "modified": "2025-05-02T07:47:26Z",
+    "repo": "https://github.com/bonkey/swift-macro-testing.git",
+    "runid": 14790696368,
+    "stars": 0,
+    "status": "success"
+  },
   "bow-swift/SwiftCheck": {
     "created": "2025-01-07T14:38:37Z",
     "duration": 12,
