@@ -189,8 +189,6 @@ jobs:
           repository: apple/swift-foundation
           path: swift-foundation
       - name: Build swift-foundation
-        # https://github.com/swiftlang/swift-foundation/pull/1280
-        if: ${{ matrix.swift == '6.0' }}
         shell: bash
         working-directory: swift-foundation
         run: |
