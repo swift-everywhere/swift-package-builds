@@ -12059,6 +12059,15 @@
     "stars": 60,
     "status": "failure"
   },
+  "bonkey/AwaitlessKit": {
+    "created": "2025-05-03T23:03:26Z",
+    "duration": 65,
+    "modified": "2025-05-03T23:03:26Z",
+    "repo": "https://github.com/bonkey/AwaitlessKit.git",
+    "runid": 14815077816,
+    "stars": 3,
+    "status": "success"
+  },
   "bonkey/swift-macro-testing": {
     "created": "2025-05-02T07:47:25Z",
     "duration": 75,
