@@ -24776,6 +24776,15 @@
     "stars": 3840,
     "status": "success"
   },
+  "pointfreeco/swift-structured-queries": {
+    "created": "2025-05-04T07:41:21Z",
+    "duration": 127,
+    "modified": "2025-05-04T07:41:21Z",
+    "repo": "https://github.com/pointfreeco/swift-structured-queries.git",
+    "runid": 14818890750,
+    "stars": 155,
+    "status": "failure"
+  },
   "pointfreeco/swift-tagged": {
     "created": "2025-01-07T10:13:16Z",
     "duration": 8,
