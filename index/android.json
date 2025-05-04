@@ -24839,6 +24839,15 @@
     "stars": 24,
     "status": "failure"
   },
+  "pointfreeco/vapor-routing": {
+    "created": "2025-05-04T14:56:43Z",
+    "duration": 37,
+    "modified": "2025-05-04T14:56:43Z",
+    "repo": "https://github.com/pointfreeco/vapor-routing.git",
+    "runid": 14822085797,
+    "stars": 95,
+    "status": "failure"
+  },
   "pokryfka/aws-xray-sdk-swift": {
     "created": "2025-01-06T22:56:02Z",
     "duration": 27,
