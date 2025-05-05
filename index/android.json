@@ -10889,6 +10889,15 @@
     "stars": 36,
     "status": "success"
   },
+  "apple/swift-embedded-examples": {
+    "created": "2025-05-05T22:37:50Z",
+    "duration": 14,
+    "modified": "2025-05-05T22:37:50Z",
+    "repo": "https://github.com/apple/swift-embedded-examples.git",
+    "runid": 14847411948,
+    "stars": 863,
+    "status": "success"
+  },
   "apple/swift-homomorphic-encryption": {
     "created": "2025-01-07T12:02:31Z",
     "duration": 47,
