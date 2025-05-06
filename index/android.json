@@ -24202,12 +24202,12 @@
   },
   "paiv/swift-pcg-random": {
     "created": "2025-01-07T08:28:26Z",
-    "duration": 4,
-    "modified": "2025-01-08T15:55:00Z",
+    "duration": 7,
+    "modified": "2025-05-06T21:32:03Z",
     "repo": "https://github.com/paiv/swift-pcg-random.git",
-    "runid": 12673545525,
+    "runid": 14869937935,
     "stars": 15,
-    "status": "failure"
+    "status": "success"
   },
   "paiv/uklatn": {
     "created": "2025-01-07T10:36:11Z",
