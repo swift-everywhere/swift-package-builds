@@ -196,6 +196,17 @@ jobs:
           # tests not working yet
           # --build-tests
 
+      - name: Checkout swift-llbuild
+        uses: actions/checkout@v4
+        with:
+          repository: swiftlang/swift-llbuild
+          path: swift-llbuild
+      - name: Build swift-llbuild
+        shell: bash
+        working-directory: swift-llbuild
+        run: |
+          ${{ steps.setup-toolchain-android.outputs.swift-build }} --build-tests
+
       - name: Checkout swift-nio
         uses: actions/checkout@v4
         with:
