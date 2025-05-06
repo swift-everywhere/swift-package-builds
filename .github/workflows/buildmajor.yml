@@ -202,6 +202,8 @@ jobs:
           repository: swiftlang/swift-llbuild
           path: swift-llbuild
       - name: Build swift-llbuild
+        # broken in https://github.com/swiftlang/swift-llbuild/commit/9087bdf8c7d4c95402d6d811745ca5ff3e149741
+        if: false
         shell: bash
         working-directory: swift-llbuild
         run: |
