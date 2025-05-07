@@ -1594,12 +1594,12 @@
   },
   "ChimeHQ/LanguageClient": {
     "created": "2025-01-07T02:35:46Z",
-    "duration": 25,
-    "modified": "2025-01-09T03:48:42Z",
+    "duration": 15,
+    "modified": "2025-05-07T16:03:32Z",
     "repo": "https://github.com/ChimeHQ/LanguageClient.git",
-    "runid": 12682932578,
-    "stars": 97,
-    "status": "success"
+    "runid": 14887149276,
+    "stars": 115,
+    "status": "failure"
   },
   "ChimeHQ/LanguageServer": {
     "created": "2025-01-07T14:39:13Z",
