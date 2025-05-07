@@ -6470,6 +6470,15 @@
     "stars": 78,
     "status": "success"
   },
+  "OpenSwiftUIProject/SymbolLocator": {
+    "created": "2025-05-07T12:55:51Z",
+    "duration": 1,
+    "modified": "2025-05-07T12:55:51Z",
+    "repo": "https://github.com/OpenSwiftUIProject/SymbolLocator.git",
+    "runid": 14883661127,
+    "stars": 8,
+    "status": "success"
+  },
   "OpenSwiftUIProject/UnsafeHeterogeneousBuffer": {
     "created": "2025-01-07T07:11:55Z",
     "duration": 4,
