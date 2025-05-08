@@ -230,6 +230,9 @@ jobs:
           path: swift-nio
       - name: Build swift-nio
         shell: bash
+        # strangely this only fails on macos with nightly-6.2
+        # https://github.com/swift-everywhere/swift-package-builds/actions/runs/14912085983/job/41888722177#step:38:1176
+        if: ${{ matrix.swift != 'nightly-6.2' || matrix.os != 'macos-latest' }}
         working-directory: swift-nio
         run: |
           ${{ steps.setup-toolchain-android.outputs.swift-build }} --build-tests
