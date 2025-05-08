@@ -321,6 +321,8 @@ jobs:
           path: vapor
       - name: Build vapor/vapor
         shell: bash
+        # strangely this only fails on macos with nightly-6.2
+        if: ${{ matrix.swift != 'nightly-6.2' || matrix.os != 'macos-latest' }}
         working-directory: vapor
         run: |
           # tests disabled due to AsyncAuthTests.swift needing sleep import
