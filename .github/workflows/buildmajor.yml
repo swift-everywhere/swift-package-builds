@@ -246,8 +246,8 @@ jobs:
         # re-disable nio-extras due to missing Android import
         # https://github.com/swift-everywhere/swift-package-builds/actions/runs/14359370483/job/40256564910
         # https://github.com/swift-everywhere/swift-package-builds/actions/runs/14912085983/job/41888722177#step:38:1176
-        if: ${{ matrix.swift != 'nightly-6.2' || matrix.os != 'macos-latest' }}
-        #if: ${{ matrix.swift == '6.0' }}
+        #if: ${{ matrix.swift != 'nightly-6.2' || matrix.os != 'macos-latest' }}
+        if: ${{ matrix.swift == '6.0' }}
         shell: bash
         working-directory: swift-nio-extras
         run: |
