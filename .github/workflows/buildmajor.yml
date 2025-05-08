@@ -196,6 +196,19 @@ jobs:
           # tests not working yet
           # --build-tests
 
+      - name: Checkout swift-build
+        uses: actions/checkout@v4
+        with:
+          repository: swiftlang/swift-build
+          path: swift-build
+      - name: Build swift-build
+        # needs https://github.com/swiftlang/swift-llbuild/pull/985
+        if: false
+        shell: bash
+        working-directory: swift-build
+        run: |
+          ${{ steps.setup-toolchain-android.outputs.swift-build }} --build-tests
+
       - name: Checkout swift-llbuild
         uses: actions/checkout@v4
         with:
@@ -203,6 +216,7 @@ jobs:
           path: swift-llbuild
       - name: Build swift-llbuild
         # broken in https://github.com/swiftlang/swift-llbuild/commit/9087bdf8c7d4c95402d6d811745ca5ff3e149741
+        # needs https://github.com/swiftlang/swift-llbuild/pull/985
         if: false
         shell: bash
         working-directory: swift-llbuild
