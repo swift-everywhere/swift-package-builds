@@ -14,7 +14,9 @@ jobs:
       fail-fast: false
       matrix:
         swift: ['6.0', '6.1', 'nightly-6.2']
-        os: ['macos-latest', 'ubuntu-latest']
+        # need macos-15 w/ NDK 27 rather than macos-latest (=macos-14) w/ NDK 26
+        os: ['macos-15', 'ubuntu-24.04']
+        #os: ['macos-latest', 'ubuntu-latest']
     runs-on: ${{ matrix.os }}
     steps:
       - name: Setup Android Toolchain
@@ -230,9 +232,6 @@ jobs:
           path: swift-nio
       - name: Build swift-nio
         shell: bash
-        # strangely this only fails on macos with nightly-6.2
-        # https://github.com/swift-everywhere/swift-package-builds/actions/runs/14912085983/job/41888722177#step:38:1176
-        if: ${{ matrix.swift != 'nightly-6.2' || matrix.os != 'macos-latest' }}
         working-directory: swift-nio
         run: |
           ${{ steps.setup-toolchain-android.outputs.swift-build }} --build-tests
@@ -260,8 +259,6 @@ jobs:
           path: swift-nio-http2
       - name: Build swift-nio-http2
         shell: bash
-        # https://github.com/swift-everywhere/swift-package-builds/actions/runs/14912085983/job/41888722177#step:38:1176
-        if: ${{ matrix.swift != 'nightly-6.2' || matrix.os != 'macos-latest' }}
         working-directory: swift-nio-http2
         run: |
           ${{ steps.setup-toolchain-android.outputs.swift-build }} --build-tests
@@ -321,8 +318,6 @@ jobs:
           path: vapor
       - name: Build vapor/vapor
         shell: bash
-        # strangely this only fails on macos with nightly-6.2
-        if: ${{ matrix.swift != 'nightly-6.2' || matrix.os != 'macos-latest' }}
         working-directory: vapor
         run: |
           # tests disabled due to AsyncAuthTests.swift needing sleep import
@@ -350,7 +345,7 @@ jobs:
         # crash on macOS OSS Toolchain: https://github.com/swiftlang/swift/issues/80759
         # no Testing in Swift Android SDK for 6.0
         # Plus tests assume presence of SwiftUI/AppStorageKey
-        if: ${{ matrix.os != 'macos-latest' }}
+        if: ${{ matrix.os != 'macos-15' }}
         shell: bash
         working-directory: pointfreeco/swift-sharing
         run: |
@@ -372,7 +367,7 @@ jobs:
         uses: skiptools/swift-android-action@main
         with:
           package-path: swift-crypto
-          run-tests: ${{ matrix.os != 'macos-latest' }}
+          run-tests: ${{ matrix.os != 'macos-15' }}
           copy-files: Tests
           swift-version: ${{ matrix.swift }}
 
@@ -394,9 +389,6 @@ jobs:
           repository: swiftlang/swift-tools-support-core
           path: swift-tools-support-core
       - name: Build swift-tools-support-core
-        # different nullability on type for API 28+
-        # https://github.com/finagolfin/swift-android-sdk/issues/219
-        if: ${{ matrix.swift != 'nightly-6.2' }}
         shell: bash
         working-directory: swift-tools-support-core
         run: |
