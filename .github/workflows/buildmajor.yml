@@ -28,9 +28,11 @@ jobs:
           swift-version: ${{ matrix.swift }}
 
       - name: Update Android NDK
-        if: ${{ matrix.swift == 'nightly-6.2' && matrix.os == 'macos-15' }}
+        if: false
+        #if: ${{ matrix.swift == 'nightly-6.2' && matrix.os == 'macos-15' }}
         run: |
           # update the Android SDK's NDK version to 28
+          # Updating NDK from /Users/runner/Library/Android/sdk/ndk/27.2.12479018 to /Users/runner/Library/Android/sdk/ndk/28.1.13356709
           echo "Updating NDK from ${ANDROID_NDK_HOME} to ${ANDROID_NDK_LATEST_HOME}"
           ANDROID_NDK_HOME=${ANDROID_NDK_LATEST_HOME} ~/Library/org.swift.swiftpm/swift-sdks/swift-6.2*/swift-android/scripts/setup-android-sdk.sh
 
@@ -45,17 +47,6 @@ jobs:
         run: |
           ${{ steps.setup-toolchain-android.outputs.swift-build }} --build-tests
 
-      - name: Checkout swift-protobuf
-        uses: actions/checkout@v4
-        with:
-          repository: apple/swift-protobuf
-          path: swift-protobuf
-      - name: Build swift-protobuf
-        shell: bash
-        working-directory: swift-protobuf
-        run: |
-          ${{ steps.setup-toolchain-android.outputs.swift-build }} --build-tests
-
       - name: Checkout swift-log
         uses: actions/checkout@v4
         with:
@@ -67,17 +58,6 @@ jobs:
         run: |
           ${{ steps.setup-toolchain-android.outputs.swift-build }} --build-tests
 
-      - name: Checkout swift-format
-        uses: actions/checkout@v4
-        with:
-          repository: apple/swift-format
-          path: swift-format
-      - name: Build swift-format
-        shell: bash
-        working-directory: swift-format
-        run: |
-          ${{ steps.setup-toolchain-android.outputs.swift-build }} --build-tests
-
       - name: Checkout swift-markdown
         uses: actions/checkout@v4
         with:
@@ -86,17 +66,6 @@ jobs:
       - name: Build swift-markdown
         shell: bash
         working-directory: swift-markdown
-        run: |
-          ${{ steps.setup-toolchain-android.outputs.swift-build }} --build-tests
-
-      - name: Checkout swift-syntax
-        uses: actions/checkout@v4
-        with:
-          repository: apple/swift-syntax
-          path: swift-syntax
-      - name: Build swift-syntax
-        shell: bash
-        working-directory: swift-syntax
         run: |
           ${{ steps.setup-toolchain-android.outputs.swift-build }} --build-tests
 
@@ -189,6 +158,39 @@ jobs:
       - name: Build swift-atomics
         shell: bash
         working-directory: swift-atomics
+        run: |
+          ${{ steps.setup-toolchain-android.outputs.swift-build }} --build-tests
+
+      - name: Checkout swift-syntax
+        uses: actions/checkout@v4
+        with:
+          repository: apple/swift-syntax
+          path: swift-syntax
+      - name: Build swift-syntax
+        shell: bash
+        working-directory: swift-syntax
+        run: |
+          ${{ steps.setup-toolchain-android.outputs.swift-build }} --build-tests
+
+      - name: Checkout swift-format
+        uses: actions/checkout@v4
+        with:
+          repository: apple/swift-format
+          path: swift-format
+      - name: Build swift-format
+        shell: bash
+        working-directory: swift-format
+        run: |
+          ${{ steps.setup-toolchain-android.outputs.swift-build }} --build-tests
+
+      - name: Checkout swift-protobuf
+        uses: actions/checkout@v4
+        with:
+          repository: apple/swift-protobuf
+          path: swift-protobuf
+      - name: Build swift-protobuf
+        shell: bash
+        working-directory: swift-protobuf
         run: |
           ${{ steps.setup-toolchain-android.outputs.swift-build }} --build-tests
 
