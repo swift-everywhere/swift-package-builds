@@ -6473,11 +6473,11 @@
   "OpenSwiftUIProject/SymbolLocator": {
     "created": "2025-05-07T12:55:51Z",
     "duration": 1,
-    "modified": "2025-05-07T12:55:51Z",
+    "modified": "2025-05-09T17:23:29Z",
     "repo": "https://github.com/OpenSwiftUIProject/SymbolLocator.git",
-    "runid": 14883661127,
-    "stars": 8,
-    "status": "success"
+    "runid": 14934191577,
+    "stars": 13,
+    "status": "failure"
   },
   "OpenSwiftUIProject/UnsafeHeterogeneousBuffer": {
     "created": "2025-01-07T07:11:55Z",
