@@ -30071,11 +30071,11 @@
   "tuist/ProjectAutomation": {
     "created": "2025-01-07T01:23:02Z",
     "duration": 6,
-    "modified": "2025-01-09T04:52:13Z",
+    "modified": "2025-05-10T03:53:55Z",
     "repo": "https://github.com/tuist/ProjectAutomation.git",
-    "runid": 12683582618,
-    "stars": 8,
-    "status": "failure"
+    "runid": 14941524050,
+    "stars": 9,
+    "status": "success"
   },
   "tuist/SwiftyESBuild": {
     "created": "2025-01-07T12:13:35Z",
