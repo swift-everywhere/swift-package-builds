@@ -27397,12 +27397,12 @@
   },
   "soto-project/soto-core": {
     "created": "2025-01-07T06:07:27Z",
-    "duration": 31,
-    "modified": "2025-01-09T09:06:39Z",
+    "duration": 218,
+    "modified": "2025-05-11T21:48:41Z",
     "repo": "https://github.com/soto-project/soto-core.git",
-    "runid": 12686130628,
-    "stars": 112,
-    "status": "failure"
+    "runid": 14959788525,
+    "stars": 115,
+    "status": "success"
   },
   "soto-project/soto-s3-file-transfer": {
     "created": "2025-01-06T23:22:42Z",
