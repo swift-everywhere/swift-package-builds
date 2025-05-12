@@ -11294,6 +11294,15 @@
     "stars": 0,
     "status": "success"
   },
+  "artemnovichkov/shortcuts-mcp-server": {
+    "created": "2025-05-12T22:44:32Z",
+    "duration": 18,
+    "modified": "2025-05-12T22:44:32Z",
+    "repo": "https://github.com/artemnovichkov/shortcuts-mcp-server.git",
+    "runid": 14983761536,
+    "stars": 0,
+    "status": "failure"
+  },
   "asensei/AnyCodable": {
     "created": "2025-01-07T07:21:26Z",
     "duration": 7,
