@@ -23516,6 +23516,15 @@
     "stars": 6,
     "status": "success"
   },
+  "offsky-studio/KurrentDB-Swift": {
+    "created": "2025-05-12T14:26:32Z",
+    "duration": 164,
+    "modified": "2025-05-12T14:26:32Z",
+    "repo": "https://github.com/offsky-studio/KurrentDB-Swift.git",
+    "runid": 14974754859,
+    "stars": 7,
+    "status": "failure"
+  },
   "ole/Echo": {
     "created": "2025-01-06T23:07:38Z",
     "duration": 12,
