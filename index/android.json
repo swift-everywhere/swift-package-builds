@@ -14786,6 +14786,15 @@
     "stars": 1,
     "status": "failure"
   },
+  "dotnet/signalr-client-swift": {
+    "created": "2025-05-13T19:11:29Z",
+    "duration": 10,
+    "modified": "2025-05-13T19:11:29Z",
+    "repo": "https://github.com/dotnet/signalr-client-swift.git",
+    "runid": 15004039154,
+    "stars": 17,
+    "status": "success"
+  },
   "dougpenny/SwiftyJamfPro": {
     "created": "2025-01-07T10:57:55Z",
     "duration": 7,
