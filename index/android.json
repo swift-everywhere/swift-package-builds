@@ -14086,12 +14086,12 @@
   },
   "davdroman/swift-builders": {
     "created": "2025-01-07T06:41:51Z",
-    "duration": 10,
-    "modified": "2025-01-08T17:35:55Z",
+    "duration": 13,
+    "modified": "2025-05-13T04:52:12Z",
     "repo": "https://github.com/davdroman/swift-builders.git",
-    "runid": 12675617055,
-    "stars": 13,
-    "status": "failure"
+    "runid": 14988170553,
+    "stars": 14,
+    "status": "success"
   },
   "davdroman/swift-json-testing": {
     "created": "2025-01-06T20:57:24Z",
