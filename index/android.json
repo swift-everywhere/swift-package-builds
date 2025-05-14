@@ -11096,6 +11096,15 @@
     "stars": 293,
     "status": "success"
   },
+  "apple/swift-ntp": {
+    "created": "2025-05-14T14:38:12Z",
+    "duration": 39,
+    "modified": "2025-05-14T14:38:12Z",
+    "repo": "https://github.com/apple/swift-ntp.git",
+    "runid": 15023215208,
+    "stars": 30,
+    "status": "success"
+  },
   "apple/swift-numerics": {
     "created": "2025-01-07T07:26:21Z",
     "duration": 11,
