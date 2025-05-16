@@ -32156,6 +32156,15 @@
     "stars": 6,
     "status": "failure"
   },
+  "xtool-org/xtool-core": {
+    "created": "2025-05-16T04:43:16Z",
+    "duration": 10,
+    "modified": "2025-05-16T04:43:16Z",
+    "repo": "https://github.com/xtool-org/xtool-core.git",
+    "runid": 15060626643,
+    "stars": 5,
+    "status": "failure"
+  },
   "xtool-org/zsign": {
     "created": "2025-05-13T11:23:47Z",
     "duration": 8,
