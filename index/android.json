@@ -17587,12 +17587,12 @@
   },
   "hayesgm/Eth.swift": {
     "created": "2025-02-17T04:28:19Z",
-    "duration": 98,
-    "modified": "2025-02-17T04:28:19Z",
+    "duration": 22,
+    "modified": "2025-05-19T00:02:10Z",
     "repo": "https://github.com/hayesgm/Eth.swift.git",
-    "runid": 13362808963,
+    "runid": 15101047937,
     "stars": 2,
-    "status": "success"
+    "status": "failure"
   },
   "hebertialmeida/ModelGen": {
     "created": "2025-01-07T01:11:10Z",
