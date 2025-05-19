@@ -23222,11 +23222,11 @@
   "nicklockwood/Euclid": {
     "created": "2025-01-07T11:19:05Z",
     "duration": 9,
-    "modified": "2025-05-10T20:38:56Z",
+    "modified": "2025-05-19T04:56:27Z",
     "repo": "https://github.com/nicklockwood/Euclid.git",
-    "runid": 14948808023,
-    "stars": 657,
-    "status": "failure"
+    "runid": 15104312653,
+    "stars": 658,
+    "status": "success"
   },
   "nicklockwood/Expression": {
     "created": "2025-01-07T06:10:18Z",
