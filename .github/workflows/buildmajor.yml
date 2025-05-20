@@ -53,6 +53,7 @@ jobs:
           repository: swift-everywhere/grdb-sqlcipher
           path: grdb-sqlcipher
       - name: Build grdb-sqlcipher
+        if: ${{ matrix.swift != '6.0' }}
         shell: bash
         working-directory: grdb-sqlcipher
         run: |
