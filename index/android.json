@@ -26776,12 +26776,12 @@
   },
   "sersoft-gmbh/swift-filestreamer": {
     "created": "2025-01-07T03:37:52Z",
-    "duration": 15,
-    "modified": "2025-01-08T14:36:47Z",
+    "duration": 17,
+    "modified": "2025-05-20T04:47:35Z",
     "repo": "https://github.com/sersoft-gmbh/swift-filestreamer.git",
-    "runid": 12672398001,
-    "stars": 2,
-    "status": "failure"
+    "runid": 15128849017,
+    "stars": 3,
+    "status": "success"
   },
   "sersoft-gmbh/swift-inotify": {
     "created": "2025-01-07T11:55:09Z",
