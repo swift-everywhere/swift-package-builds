@@ -47,6 +47,17 @@ jobs:
         run: |
           ${{ steps.setup-toolchain-android.outputs.swift-build }} --build-tests
 
+      - name: Checkout grdb-sqlcipher
+        uses: actions/checkout@v4
+        with:
+          repository: swift-everywhere/grdb-sqlcipher
+          path: grdb-sqlcipher
+      - name: Build grdb-sqlcipher
+        shell: bash
+        working-directory: grdb-sqlcipher
+        run: |
+          GRDBCIPHER=1 ${{ steps.setup-toolchain-android.outputs.swift-build }} --build-tests
+
       - name: Checkout swift-log
         uses: actions/checkout@v4
         with:
