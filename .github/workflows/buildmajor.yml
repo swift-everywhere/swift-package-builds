@@ -57,7 +57,7 @@ jobs:
         shell: bash
         working-directory: grdb-sqlcipher
         run: |
-          GRDBCIPHER=1 ${{ steps.setup-toolchain-android.outputs.swift-build }} --build-tests
+          ${{ steps.setup-toolchain-android.outputs.swift-build }} --build-tests
 
       - name: Checkout swift-log
         uses: actions/checkout@v4
