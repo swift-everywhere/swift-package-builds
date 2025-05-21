@@ -16768,12 +16768,12 @@
   },
   "getsentry/sentry-cocoa": {
     "created": "2025-01-06T20:02:56Z",
-    "duration": 11,
-    "modified": "2025-01-07T20:02:45Z",
+    "duration": 13,
+    "modified": "2025-05-21T10:26:14Z",
     "repo": "https://github.com/getsentry/sentry-cocoa.git",
-    "runid": 12658091539,
-    "stars": 829,
-    "status": "success"
+    "runid": 15159713243,
+    "stars": 901,
+    "status": "failure"
   },
   "getsidetrack/vapor-telemetrydeck": {
     "created": "2025-01-07T15:00:19Z",
