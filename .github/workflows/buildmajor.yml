@@ -225,8 +225,6 @@ jobs:
           repository: swiftlang/swift-build
           path: swift-build
       - name: Build swift-build
-        # needs https://github.com/swiftlang/swift-llbuild/pull/985
-        if: false
         shell: bash
         working-directory: swift-build
         run: |
