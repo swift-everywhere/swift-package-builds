@@ -26414,6 +26414,15 @@
     "stars": 1,
     "status": "success"
   },
+  "sanzaru/formify": {
+    "created": "2025-05-22T05:31:15Z",
+    "duration": 6,
+    "modified": "2025-05-22T05:31:16Z",
+    "repo": "https://github.com/sanzaru/formify.git",
+    "runid": 15178778172,
+    "stars": 1,
+    "status": "success"
+  },
   "sboh1214/hwp-swift": {
     "created": "2025-01-07T03:57:46Z",
     "duration": 20,
