@@ -28117,12 +28117,12 @@
   },
   "sushichop/Puppy": {
     "created": "2025-01-06T22:49:55Z",
-    "duration": 5,
-    "modified": "2025-01-09T14:08:57Z",
+    "duration": 9,
+    "modified": "2025-05-22T13:59:50Z",
     "repo": "https://github.com/sushichop/Puppy.git",
-    "runid": 12691213311,
-    "stars": 161,
-    "status": "failure"
+    "runid": 15187966662,
+    "stars": 169,
+    "status": "success"
   },
   "svdo/ReRxSwift": {
     "created": "2025-01-07T07:34:24Z",
