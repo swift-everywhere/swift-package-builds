@@ -10790,6 +10790,15 @@
     "stars": 123,
     "status": "failure"
   },
+  "apple/pir-service-example": {
+    "created": "2025-05-22T07:17:17Z",
+    "duration": 268,
+    "modified": "2025-05-22T07:17:18Z",
+    "repo": "https://github.com/apple/pir-service-example.git",
+    "runid": 15179739739,
+    "stars": 163,
+    "status": "failure"
+  },
   "apple/pkl-swift": {
     "created": "2025-01-07T05:49:53Z",
     "duration": 10,
