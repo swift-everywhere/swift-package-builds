@@ -20267,6 +20267,15 @@
     "stars": 5,
     "status": "failure"
   },
+  "kvngwxxk/LazyCodableKit": {
+    "created": "2025-05-22T05:29:45Z",
+    "duration": 6,
+    "modified": "2025-05-22T05:29:45Z",
+    "repo": "https://github.com/kvngwxxk/LazyCodableKit.git",
+    "runid": 15178778172,
+    "stars": 4,
+    "status": "success"
+  },
   "kylef-archive/fd": {
     "created": "2025-01-07T01:18:19Z",
     "duration": 19,
