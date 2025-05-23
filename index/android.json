@@ -10691,6 +10691,15 @@
     "stars": 4,
     "status": "failure"
   },
+  "aperechnev/ChessKit": {
+    "created": "2025-05-23T11:49:09Z",
+    "duration": 7,
+    "modified": "2025-05-23T11:49:09Z",
+    "repo": "https://github.com/aperechnev/ChessKit.git",
+    "runid": 15209012506,
+    "stars": 14,
+    "status": "success"
+  },
   "aperkov/DecimalMacro": {
     "created": "2025-03-16T11:58:08Z",
     "duration": 65,
