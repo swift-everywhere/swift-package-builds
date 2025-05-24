@@ -10927,12 +10927,12 @@
   },
   "apple/swift-collections-benchmark": {
     "created": "2025-01-07T08:31:27Z",
-    "duration": 9,
-    "modified": "2025-01-09T11:38:08Z",
+    "duration": 19,
+    "modified": "2025-05-24T21:55:10Z",
     "repo": "https://github.com/apple/swift-collections-benchmark.git",
-    "runid": 12688803372,
-    "stars": 350,
-    "status": "failure"
+    "runid": 15231057491,
+    "stars": 356,
+    "status": "success"
   },
   "apple/swift-container-plugin": {
     "created": "2025-01-07T10:45:50Z",
