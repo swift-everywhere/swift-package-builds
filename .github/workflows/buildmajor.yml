@@ -389,7 +389,8 @@ jobs:
         shell: bash
         # different nullability on type for API 28+
         # https://github.com/finagolfin/swift-android-sdk/issues/219
-        if: ${{ matrix.swift != 'nightly-6.2' }}
+        if: false
+        #if: ${{ matrix.swift != 'nightly-6.2' }}
         working-directory: swift-tools-support-core
         run: |
           ${{ steps.setup-toolchain-android.outputs.swift-build }}
