@@ -27631,12 +27631,12 @@
   },
   "soto-project/soto-cognito-authentication-kit": {
     "created": "2025-01-06T17:37:42Z",
-    "duration": 116,
-    "modified": "2025-01-09T03:48:15Z",
+    "duration": 371,
+    "modified": "2025-05-26T22:51:02Z",
     "repo": "https://github.com/soto-project/soto-cognito-authentication-kit.git",
-    "runid": 12682932578,
-    "stars": 32,
-    "status": "failure"
+    "runid": 15262755499,
+    "stars": 33,
+    "status": "success"
   },
   "soto-project/soto-core": {
     "created": "2025-01-07T06:07:27Z",
