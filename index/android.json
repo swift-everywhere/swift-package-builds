@@ -27649,12 +27649,12 @@
   },
   "soto-project/soto-s3-file-transfer": {
     "created": "2025-01-06T23:22:42Z",
-    "duration": 126,
-    "modified": "2025-01-09T09:27:17Z",
+    "duration": 344,
+    "modified": "2025-05-27T15:00:53Z",
     "repo": "https://github.com/soto-project/soto-s3-file-transfer.git",
-    "runid": 12686975202,
-    "stars": 48,
-    "status": "failure"
+    "runid": 15277830486,
+    "stars": 51,
+    "status": "success"
   },
   "soto-project/soto-smithy": {
     "created": "2025-01-07T14:05:45Z",
