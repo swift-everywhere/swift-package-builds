@@ -17099,6 +17099,15 @@
     "stars": 927,
     "status": "failure"
   },
+  "googleads/google-ads-on-device-conversion-ios-sdk": {
+    "created": "2025-05-28T03:35:34Z",
+    "duration": 3,
+    "modified": "2025-05-28T03:35:34Z",
+    "repo": "https://github.com/googleads/google-ads-on-device-conversion-ios-sdk.git",
+    "runid": 15290623478,
+    "stars": 2,
+    "status": "success"
+  },
   "googleads/swift-package-manager-google-mobile-ads": {
     "created": "2025-01-07T09:58:46Z",
     "duration": 9,
