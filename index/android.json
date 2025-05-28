@@ -26783,6 +26783,15 @@
     "stars": 111,
     "status": "failure"
   },
+  "sena-mike/swift-longhair": {
+    "created": "2025-05-28T04:46:44Z",
+    "duration": 105,
+    "modified": "2025-05-28T04:46:44Z",
+    "repo": "https://github.com/sena-mike/swift-longhair.git",
+    "runid": 15291489792,
+    "stars": 1,
+    "status": "failure"
+  },
   "sendbird/sendbird-uikit-ios": {
     "created": "2025-01-06T21:10:56Z",
     "duration": 11,
