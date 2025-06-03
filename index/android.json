@@ -25678,12 +25678,12 @@
   },
   "regulaforensics/DocumentReader-Swift-Package": {
     "created": "2025-01-07T12:48:30Z",
-    "duration": 7,
-    "modified": "2025-01-09T03:30:06Z",
+    "duration": 2,
+    "modified": "2025-06-03T15:38:18Z",
     "repo": "https://github.com/regulaforensics/DocumentReader-Swift-Package.git",
-    "runid": 12682932578,
+    "runid": 15421404513,
     "stars": 0,
-    "status": "success"
+    "status": "failure"
   },
   "remind101/AutoGraphParser": {
     "created": "2025-01-06T22:14:03Z",
